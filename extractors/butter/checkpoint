@@ -1,0 +1,2 @@
+model_checkpoint_path: "lexical_none_False_e118_emb300.h5_weights"
+all_model_checkpoint_paths: "lexical_none_False_e118_emb300.h5_weights"
