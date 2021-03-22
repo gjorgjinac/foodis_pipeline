@@ -1,7 +1,7 @@
 
 
 The FooDis pipeline enables mining abstracts of biomedical scientific papers from Pubmed, in order to identify relations between _**food**_ and _**disease**_ entities. The entities can be associated with a _**cause**_ or a _**treat**_ relation, or there can be no association between them.
-##Pipeline overview
+## Pipeline overview
 
 The initial step is querying PubMed and retrieving abstracts of scientific papers. This is done by searching PubMed using a set of search terms which are provided as input arguments to the pipeline.
 
@@ -16,13 +16,13 @@ In order a relation to be accepted as positive, at least X out of the 4 classifi
 We refer to each sentence where a _cause_ or _treat_ relation is identified between a food-disease pair as a piece of evidence supporting that relation. All of the pieces of evidence found for a specific (food, relation, disease) triple are combined in order to determine whether the relation triple is valid. We consider the triple to be valid only if there is at least M pieces of evidence that support that relation and there is N pieces of evidence for the existence of the opposite relation. Here, M and N are parameters given to the pipeline. They can be set using the arguments _min_positive_evidence_ and _max_negative_evidence_, respectively.
 ![FooDis pipeline](images/pipeline.png "Initial foodis pipeline")
 
-##Setup
+## Setup
 Python 3.7 or 3.8 is recommended to be used.
 
 All of the required libraries are listed in the _requirements.txt_ file and can be installed using the following command `cat requirements.txt | xargs -n 1 pip install`
 
 
-##Usage
+## Usage
 ### Running the pipeline
 The pipeline can be run using the _foodis.py_ script, where the following arguments can be specified:
   - _st_ or _search_terms_ - string containing search terms separated by ";" - The search terms used to search for PubMed articles
@@ -35,7 +35,7 @@ The pipeline can be run using the _foodis.py_ script, where the following argume
 Only the _search_terms_ argument is required.
 These arguments refer to a single run of the pipeline. In the _config.py_ file, one can set the directory where the outputs files are going to be generated, and specify whether a GPU should be used.
 
-###Generated results
+### Generated results
 The results for each search term are saved in a dedicated subdirectory of the specified output directory.
 Apart from the final extracted relations, which are saved in the _cause_relations.csv_ and _treat_relations.csv_ files, the pipeline saves the results of several intermediate steps, into the following files:
 - Outputs of the **Search Pubmed** component:
