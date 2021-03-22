@@ -13,7 +13,6 @@ def apply_sentence_relevance_filter(dataset, path_to_module=''):
     df = df.rename({'sentence_x': 'sentence'}, axis=1)
     df=df[~df['sentence'].isna()]
     model_location = os.path.join('trained_models', 'sentence_relevance')
-    model_location = os.path.join(path_to_module, model_location) if len(path_to_module)>0 else model_location
     print(df['sentence'].values)
     trained_model = ClassificationModel(
         "bert", model_location, use_cuda=use_gpu

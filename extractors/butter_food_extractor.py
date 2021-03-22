@@ -30,7 +30,7 @@ class ButterFoodExtractor(EntityExtractor):
         self.initialize_dictionaries(path_to_module)
         self.max_word_length = np.max([len(str(w)) for w in self.word2idx.keys()])
         self.max_sentence_length = 50
-        self.full_model_name = f"{path_to_module}/{vectorizer_model_name}_{pre_proc}_{missing_values_handled}_e{epochs}_emb{models[vectorizer_model_name]['vector_size']}.h5"
+        self.full_model_name = f"trained_models/{vectorizer_model_name}_{pre_proc}_{missing_values_handled}_e{epochs}_emb{models[vectorizer_model_name]['vector_size']}.h5"
         self.model_instance = BILSTMDoubleInputModel() if include_char_embeddings else BILSTMCRFModel()
         self.__initialize_model( vectorizer_model_name)
 

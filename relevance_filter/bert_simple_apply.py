@@ -40,7 +40,7 @@ def apply_relation_classification_bert_simple(dataset, path_to_module):
             for bert_model_name, task_name, source in simple_models_to_apply:
                 trained_model = ClassificationModel(
                     bert_model_name if bert_model_name != 'biobert' else 'bert',
-                    f'{path_to_module}/trained_models/{bert_model_name}_{task_name}_{source}_{relation_extractor.name}/best',
+                    f'trained_models/{bert_model_name}_{task_name}_{source}_{relation_extractor.name}/best',
                     use_cuda=use_gpu
                 )
                 relevant_sentences = relation_extractor.extract_relation(relevant_sentences)
