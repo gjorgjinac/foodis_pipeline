@@ -75,5 +75,5 @@ def run_full_foodis_pipeline(search_terms,
 
 
 if __name__ == '__main__':
-    keywords_to_process = ['tuberculosis food']
-    run_full_foodis_pipeline(keywords_to_process)
+    keywords_to_process = ['lemon bronchitis']
+    run_full_foodis_pipeline(keywords_to_process, number_of_abstracts=300)

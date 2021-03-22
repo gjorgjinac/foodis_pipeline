@@ -23,16 +23,19 @@ All of the required libraries are listed in the _requirements.txt_ file and can 
 
 
 ##Usage
+### Running the pipeline
 The pipeline can be run using the _foodis.py_ script, where the following arguments can be specified:
-  - _st_ or _search_terms_ - The search terms used to search for PubMed articles
-  - _na_ or _number_of_abstracts_ - The maximum number of abstracts that are going to be retrieved from PubMed and processed by the pipeline
-  - _mnpcs_ or _min_positive_classifier_support_ - The minimum number of Relation Extraction classifiers that need to agree that a piece of evidence expresses a relation, for a piece of evidence to be considered valid
-  - _mxncs_ or _max_negative_classifier_support_ - The maximum number of Relation Extraction classifiers that can agree that a piece of evidence expresses an opposite relation, for a piece of evidence to be considered valid
-  - _mnpe_ or _min_positive_evidence_ - The minimum number of pieces of evidence that needs to support the existence of a relation, for a relation to be considered valid
-  - _mxne_ or _max_negative_evidence_ - The maximum number of pieces of evidence that can support the existence of an opposite relation, for a relation to be considered valid
+  - _st_ or _search_terms_ - string containing search terms separated by ";" - The search terms used to search for PubMed articles
+  - _na_ or _number_of_abstracts_ - integer in the range [1, infinity) - default 100 - The maximum number of abstracts that are going to be retrieved from PubMed and processed by the pipeline
+  - _mnpcs_ or _min_positive_classifier_support_ - integer in the range [1,4] - default 3 - The minimum number of Relation Extraction classifiers that need to agree that a piece of evidence expresses a relation, for a piece of evidence to be considered valid
+  - _mxncs_ or _max_negative_classifier_support_ - integer in the range [0,4] - default 1 - The maximum number of Relation Extraction classifiers that can agree that a piece of evidence expresses an opposite relation, for a piece of evidence to be considered valid
+  - _mnpe_ or _min_positive_evidence_ - integer in the range [1, infinity) - default 1 - The minimum number of pieces of evidence that needs to support the existence of a relation, for a relation to be considered valid
+  - _mxne_ or _max_negative_evidence_ - integer in the range [0, infinity) - default 0 - The maximum number of pieces of evidence that can support the existence of an opposite relation, for a relation to be considered valid
 
 Only the _search_terms_ argument is required.
 These arguments refer to a single run of the pipeline. In the _config.py_ file, one can set the directory where the outputs files are going to be generated, and specify whether a GPU should be used.
+
+###Generated results
 The results for each search term are saved in a dedicated subdirectory of the specified output directory.
 Apart from the final extracted relations, which are saved in the _cause_relations.csv_ and _treat_relations.csv_ files, the pipeline saves the results of several intermediate steps, into the following files:
 - Outputs of the **Search Pubmed** component:
@@ -48,4 +51,5 @@ Apart from the final extracted relations, which are saved in the _cause_relation
     - _irrelevant_candidates.csv_ - The subset of the sentences which contain at least one food-disease pair and express a _Hypothesis_, _Method_ or _Other_, and are discarded by the sentence relevance filter
     - _sentence_relevance_values.csv_ - Union of the _relevant_candidates.csv_, and _irrelevant_candidates.csv_, with an assigned binary indicator of whether each sentence was deemed to be relevant or not, by the sentence relevance filter component
 - Outputs of the **Relation classification** component:
-    - _extractors_applied.csv_ - The relevant sentences, with assigned predictions of each of the 
+    - _extractors_applied.csv_ - The relevant sentences, with assigned predictions of each of the 8 classifiers which detect the _cause_ or _treat_ relation
+    - _cause_relations.csv_, _treat_relations.csv_ - The final extracted relations
