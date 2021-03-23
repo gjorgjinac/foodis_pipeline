@@ -3,8 +3,8 @@
 import json
 import logging
 
-from keras import optimizers
-from keras.models import model_from_json
+from tensorflow.keras import optimizers
+from tensorflow.keras.models import model_from_json
 
 LOGGER = logging.getLogger(__name__)
 

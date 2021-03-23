@@ -8,7 +8,7 @@ from collections import Counter
 
 import en_coref_md
 import numpy as np
-from keras.preprocessing.sequence import pad_sequences
+from tensorflow.keras.preprocessing.sequence import pad_sequences
 
 from . import constants
 from .utils import generic_utils, text_utils

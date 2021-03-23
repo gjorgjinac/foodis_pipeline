@@ -19,7 +19,14 @@ We refer to each sentence where a _cause_ or _treat_ relation is identified betw
 ## Setup
 Python 3.7 or 3.8 is recommended to be used.
 
-All of the required libraries are listed in the _requirements.txt_ file and can be installed using the following command `cat requirements.txt | xargs -n 1 pip install`
+All of the required libraries are listed in the _requirements.txt_ file and can be installed using the following command:
+
+- `cat requirements.txt | xargs -n 1 pip install` (Linux)
+
+- `FOR /F %k in (requirements.txt) DO pip install %k` (Windows)
+
+After the requirements are installed, run the following line to download the needed spacy model:
+`python -m spacy download en_core_web_sm`
 
 Download the pretrained models from this link https://portal.ijs.si/nextcloud/s/mrRrk2sGNiwBLe2 and place them in the trained_models subdirectory
 
