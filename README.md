@@ -21,6 +21,7 @@ Python 3.7 or 3.8 is recommended to be used.
 
 All of the required libraries are listed in the _requirements.txt_ file and can be installed using the following command `cat requirements.txt | xargs -n 1 pip install`
 
+Download the pretrained models from this link https://portal.ijs.si/nextcloud/s/mrRrk2sGNiwBLe2 and place them in the trained_models subdirectory
 
 ## Usage
 ### Running the pipeline
@@ -52,4 +53,5 @@ Apart from the final extracted relations, which are saved in the _cause_relation
     - _sentence_relevance_values.csv_ - Union of the _relevant_candidates.csv_, and _irrelevant_candidates.csv_, with an assigned binary indicator of whether each sentence was deemed to be relevant or not, by the sentence relevance filter component
 - Outputs of the **Relation classification** component:
     - _extractors_applied.csv_ - The relevant sentences, with assigned predictions of each of the 8 classifiers which detect the _cause_ or _treat_ relation
+- Outputs of the **Final relation determination** component:   
     - _cause_relations.csv_, _treat_relations.csv_ - The final extracted relations
