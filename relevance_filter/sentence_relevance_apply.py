@@ -10,7 +10,10 @@ from utils import get_dataset_output_dir, write_to_dataset_dir
 def apply_sentence_relevance_filter(dataset, path_to_module=''):
     dataset_output_dir = get_dataset_output_dir(dataset)
     df=pd.read_csv(os.path.join(dataset_output_dir, 'relation_candidates.csv' ), index_col=[0])
-    df = df.rename({'sentence_x': 'sentence'}, axis=1)
+    if 'sentence' not in df.columns:
+        df = df.rename({'sentence_x': 'sentence'}, axis=1)
+    df = df.reset_index(drop=True)
+    print(df.index)
     df=df[~df['sentence'].isna()]
     model_location = os.path.join('trained_models', 'sentence_relevance')
     print(df['sentence'].values)

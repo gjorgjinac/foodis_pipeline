@@ -3,6 +3,9 @@ import requests
 import re
 
 from utils import write_to_dataset_dir, read_from_dataset_dir
+import numpy as np
+knowledge_base_keys = {'mesh_disease': 'MESH:', 'snomedct_disease':'SNOMEDCT', 'umls_disease':'UMLS_CUI:',
+                       'nci_disease': 'NCI:', 'omim_disease': 'OMIM:', 'efo_disease': 'EFO:'}
 
 
 def get_mappings_from_doid(doid):
@@ -10,7 +13,7 @@ def get_mappings_from_doid(doid):
     response=requests.get(doid_link).text
     #print(response)
     found = {}
-    for (disease_onto, onto_mention_in_response) in [('mesh_disease', 'MESH:'), ('snomedct_disease', 'SNOMEDCT'), ('umls_disease','UMLS_CUI:'), ('nci_disease','NCI:'), ('omim_disease', 'OMIM:'), ('efo_disease', 'EFO:')]:
+    for (disease_onto, onto_mention_in_response) in knowledge_base_keys.values():
         pattern_match = re.findall(f'<span>{onto_mention_in_response}\S*</span>', response)
         if len(pattern_match) > 0:
             id = pattern_match[0].replace('<span>','').replace('</span>','')
@@ -21,6 +24,8 @@ def link_do(dataset):
     df =  read_from_dataset_dir('extractors_applied.csv', dataset)
     doids_to_process = df['entity_id_y'].dropna().drop_duplicates().values
     print(doids_to_process.shape)
+    for kb in knowledge_base_keys.keys():
+        df[kb] = np.nan
     for i in range(0, len(doids_to_process)):
         print(f'{i}/{len(doids_to_process)}')
         doid = doids_to_process[i]

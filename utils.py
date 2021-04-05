@@ -173,3 +173,7 @@ def add_span_extensions():
     for span_extension in ['entity_type', 'entity_id', 'foodon', 'hansard', 'hansardClosest', 'hansardParent',
                            'snomedct', 'synonyms']:
         Span.set_extension(span_extension, default=None)
+
+def save_as_latex_table(df, file_name):
+    with open(file_name, "w") as f_out:
+        f_out.write(f'{df.to_latex(float_format="{:0.0f}".format)}')

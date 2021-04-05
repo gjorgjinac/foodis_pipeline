@@ -17,7 +17,7 @@ foodb_non_scientific = foodb_non_scientific.set_index('name')[['foodb_public_id'
 foodb = foodb_non_scientific.append(foodb_scientific)
 all_candidates=all_candidates.merge(foodb, left_on='term1', right_on=foodb.index, how='left')
 
-all_candidates.to_csv('results/bert_all_candidates.csv')
+all_candidates.to_csv('results/extractors_applied.csv')
 '''all_candidates['foodb']=all_candidates['term1'].apply(lambda x: foodb_scientific[x] if x in foodb_scientific.index else foodb_non_scientific[x] if x in foodb_non_scientific.index else None)
 '''
 exit()

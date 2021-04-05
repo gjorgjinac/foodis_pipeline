@@ -1,4 +1,7 @@
-from utils import read_from_dataset_dir, write_to_dataset_dir
+import os
+
+from config import global_output_directory_name
+from utils import read_from_dataset_dir, write_to_dataset_dir, save_as_latex_table
 import pandas as pd
 
 def append_evidence_for_relation(relation_df, evidence_df, relation):
@@ -12,7 +15,7 @@ def combine_evidence(dataset,
                      min_positive_classifier_support,
                      max_negative_classifier_support,
                      min_positive_evidence,
-                     max_negative_evidence):
+                     max_negative_evidence, save_linked=True):
 
     all_candidates = read_from_dataset_dir('extractors_applied.csv', dataset)
     all_candidates=all_candidates.drop_duplicates()
@@ -40,5 +43,46 @@ def combine_evidence(dataset,
     write_to_dataset_dir(cause_relations, 'cause_relations.csv',dataset)
     write_to_dataset_dir(treat_relations, 'treat_relations.csv', dataset)
 
+    if save_linked:
+        get_linked_relations(dataset, all_candidates)
 
+
+def get_linked_relations(dataset, all_candidates):
+    output_dir = os.path.join(global_output_directory_name, dataset, 'linked_relations' )
+    if not os.path.isdir(output_dir):
+        os.makedirs(output_dir)
+    cause_df, treat_df = pd.DataFrame(), pd.DataFrame()
+    mappings = {
+        'foodon': 'FoodOn', 'snomedct': 'SNOMED CT', 'hansardClosest': 'Hansard Closest',
+        'hansardParent': 'Hansard Parent',
+        'foodb_public_id': 'FooDB', 'itis_id': 'ITIS', 'wikipedia_id': 'Wikipedia', 'ncbi_taxonomy_id': 'NCBI taxonomy',
+        'entity_id_y': 'DO', 'snomedct_disease': 'SNOMED CT', 'umls_disease': 'UMLS', 'nci_disease': 'NCIt',
+        'omim_disease': 'OMIM',
+        'efo_disease': 'EFO', 'mesh_disease': 'MESH'}
+    for food_resource in ['foodon', 'snomedct', 'hansardClosest', 'hansardParent', 'foodb_public_id', 'itis_id',
+                          'wikipedia_id', 'ncbi_taxonomy_id']:
+        for disease_resource in ['entity_id_y', 'snomedct_disease', 'umls_disease', 'nci_disease', 'omim_disease',
+                                 'efo_disease', 'mesh_disease']:
+            print(all_candidates.columns)
+            relations = all_candidates[
+                ['term1', 'term2', food_resource, disease_resource, 'is_cause', 'is_treat']].dropna().groupby(
+                ['term1', 'term2', food_resource, disease_resource]).sum()
+            cause_relations = relations[(relations['is_treat'] == 0) & (relations['is_cause'] > 1)]
+            treat_relations = relations[(relations['is_cause'] == 0) & (relations['is_treat'] > 1)]
+            cause_df.loc[mappings[food_resource], mappings[disease_resource]] = int(cause_relations.shape[0])
+            treat_df.loc[mappings[food_resource], mappings[disease_resource]] = int(treat_relations.shape[0])
+            print(food_resource)
+            print(disease_resource)
+            print(cause_relations.shape)
+            print(treat_relations.shape)
+            print('-------------------------')
+            cause_relations['relation'] = 'cause'
+            treat_relations['relation'] = 'treat'
+            write_to_dataset_dir(cause_relations, f'linked_relations/{food_resource}_{disease_resource}_cause.csv', dataset)
+            write_to_dataset_dir(treat_relations, f'linked_relations/{food_resource}_{disease_resource}_treat.csv', dataset)
+    print(cause_df)
+    print(treat_df)
+
+    save_as_latex_table(cause_df, f'{output_dir}/linked_cause_food_disease_final')
+    save_as_latex_table(treat_df, f'{output_dir}/linked_treat_food_disease_final')
 

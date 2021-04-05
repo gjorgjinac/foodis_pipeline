@@ -1,8 +1,6 @@
 import pandas as pd
 
-def save_as_latex_table(df, file_name):
-    with open(file_name, "w") as f_out:
-        f_out.write(f'{df.to_latex(float_format="{:0.0f}".format)}')
+from utils import save_as_latex_table
 
 output_dir = '../results'
 mappings = {

@@ -55,7 +55,7 @@ def run_full_foodis_pipeline(search_terms,
         abstracts_df = download_and_save_abstracts_for_search_term(search_term, dataset,
                                                                    max_ids=number_of_abstracts)
         if abstracts_df is not None and abstracts_df.shape[0] > 0:
-            ids_and_abstracts = abstracts_df.loc[:, ['PMID', 'abstract']].dropna().values
+            '''ids_and_abstracts = abstracts_df.loc[:, ['PMID', 'abstract']].dropna().values
             foodis_extractor.dataset = dataset
             foodis_extractor.find_and_save_food_disease_dfs(ids_and_abstracts, dataset)
             food_file_name, _ = join_food_extractions(dataset, min_support=min_food_support)
@@ -65,15 +65,16 @@ def run_full_foodis_pipeline(search_terms,
             append_to_existing(candidates)
             apply_sentence_relevance_filter(dataset, 'relevance_filter')
             apply_relation_classification_bert_simple(dataset, 'relevance_filter')
+            link_foodb(dataset)
+            link_do(dataset)'''
             combine_evidence(dataset,
                              min_positive_classifier_support=min_positive_classifier_support,
                              max_negative_classifier_support=max_negative_classifier_support,
                              min_positive_evidence=min_positive_evidence,
                              max_negative_evidence=max_negative_evidence)
-            link_foodb(dataset)
-            link_do(dataset)
+
 
 
 if __name__ == '__main__':
-    keywords_to_process = ['lemon bronchitis']
-    run_full_foodis_pipeline(keywords_to_process, number_of_abstracts=300)
+    keywords_to_process = ['results']
+    run_full_foodis_pipeline(keywords_to_process, number_of_abstracts=100)
