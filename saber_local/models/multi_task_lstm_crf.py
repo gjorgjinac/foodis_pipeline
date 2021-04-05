@@ -3,10 +3,10 @@
 import logging
 
 import tensorflow as tf
-from keras.layers import (LSTM, Bidirectional, Concatenate, Dense, Dropout,
+from tensorflow.keras.layers import (LSTM, Bidirectional, Concatenate,Input, Dense, Dropout,
                           Embedding, SpatialDropout1D, TimeDistributed)
-from keras.models import Input, Model, model_from_json
-from keras.utils import multi_gpu_model
+from tensorflow.keras.models import  Model, model_from_json
+from tensorflow.keras.utils import multi_gpu_model
 from keras_contrib.layers.crf import CRF
 from keras_contrib.losses.crf_losses import crf_loss
 

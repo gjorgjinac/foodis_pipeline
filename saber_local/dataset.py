@@ -4,7 +4,7 @@ import logging
 import os
 from itertools import chain
 
-from keras.utils import to_categorical
+from tensorflow.keras.utils import to_categorical
 from nltk.corpus.reader.conll import ConllCorpusReader
 
 from . import constants

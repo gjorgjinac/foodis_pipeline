@@ -3,7 +3,7 @@
 import os
 from time import strftime
 
-from keras.callbacks import ModelCheckpoint, TensorBoard
+from tensorflow.keras.callbacks import ModelCheckpoint, TensorBoard
 
 from .. import constants
 from ..metrics import Metrics
