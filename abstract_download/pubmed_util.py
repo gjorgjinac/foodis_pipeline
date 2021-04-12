@@ -54,7 +54,7 @@ def get_paper_data(paper_ids):
             root = etree.fromstring(xml)
             paper_data = paper_data + root.findall('PubmedArticle')
         except Exception:
-            print('Exception thrown but who cares')
+            print('Exception thrown when getting paper data')
     info = pd.DataFrame()
 
     for single_paper_data in paper_data:
