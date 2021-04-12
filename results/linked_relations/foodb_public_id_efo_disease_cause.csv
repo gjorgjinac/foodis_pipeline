@@ -1,0 +1,51 @@
+term1,term2,foodb_public_id,efo_disease,is_cause,is_treat,relation
+agaricus bisporus,allergic rhinitis,FOOD00547,EFO:0003956,6,0,cause
+agaricus bisporus,asthma,FOOD00547,EFO:0000270,6,0,cause
+allium cepa,asthma,FOOD00006,EFO:0000270,3,0,cause
+banana,asthma,FOOD00208,EFO:0000270,6,0,cause
+banana,pancreatitis,FOOD00208,EFO:0000278,3,0,cause
+barley,Celiac Disease,FOOD00088,EFO:0001060,12,0,cause
+barley,Celiac disease,FOOD00088,EFO:0001060,83,0,cause
+barley,anaemia,FOOD00088,EFO:0004272,11,0,cause
+barley,asthma,FOOD00088,EFO:0000270,4,0,cause
+barley,celiac disease,FOOD00088,EFO:0001060,7,0,cause
+barley,coeliac disease,FOOD00088,EFO:0001060,6,0,cause
+barley,osteoporosis,FOOD00088,EFO:0003882,11,0,cause
+black tea,kidney diseases,FOOD00907,EFO:0003086,10,0,cause
+cheese,Migraine,FOOD00617,EFO:0003821,6,0,cause
+cheese,hypertension,FOOD00617,EFO:0000537,3,0,cause
+cheese,insulin-dependent diabetes mellitus,FOOD00617,EFO:0001359,2,0,cause
+cheese,migraine,FOOD00617,EFO:0003821,20,0,cause
+chicken,obesity,FOOD00329,EFO:0001073,2,0,cause
+chicory,asthma,FOOD00049,EFO:0000270,4,0,cause
+chocolate,Migraine,FOOD00687,EFO:0003821,2,0,cause
+chocolate,migraine,FOOD00687,EFO:0003821,15,0,cause
+chocolate,obesity,FOOD00687,EFO:0001073,16,0,cause
+crab,allergic rhinitis,FOOD00573,EFO:0003956,3,0,cause
+flour,Asthma,FOOD00799,EFO:0000270,5,0,cause
+flour,allergic rhinitis,FOOD00799,EFO:0003956,4,0,cause
+flour,asthma,FOOD00799,EFO:0000270,30,0,cause
+hordeum vulgare,asthma,FOOD00088,EFO:0000270,2,0,cause
+mustard,asthma,FOOD00654,EFO:0000270,2,0,cause
+mustard,pancreatitis,FOOD00654,EFO:0000278,3,0,cause
+peanut,atopic dermatitis,FOOD00016,EFO:0000274,3,0,cause
+pizza,allergic rhinitis,FOOD00637,EFO:0003956,6,0,cause
+pizza,asthma,FOOD00637,EFO:0000270,6,0,cause
+potato,asthma,FOOD00175,EFO:0000270,2,0,cause
+rabbit,atopic dermatitis,FOOD00528,EFO:0000274,3,0,cause
+red wine,migraine,FOOD00911,EFO:0003821,4,0,cause
+rice,asthma,FOOD00125,EFO:0000270,6,0,cause
+rosemary,asthma,FOOD00159,EFO:0000270,3,0,cause
+rye,Celiac Disease,FOOD00169,EFO:0001060,6,0,cause
+rye,Celiac disease,FOOD00169,EFO:0001060,22,0,cause
+rye,celiac disease,FOOD00169,EFO:0001060,13,0,cause
+rye,coeliac disease,FOOD00169,EFO:0001060,6,0,cause
+triticum aestivum,Celiac disease,FOOD00187,EFO:0001060,5,0,cause
+turkey,Hypertension,FOOD00494,EFO:0000537,7,0,cause
+wheat,Celiac Disease,FOOD00561,EFO:0001060,6,0,cause
+wheat,Celiac disease,FOOD00561,EFO:0001060,60,0,cause
+wheat,Coeliac disease,FOOD00561,EFO:0001060,6,0,cause
+wheat,asthma,FOOD00561,EFO:0000270,2,0,cause
+wheat,coeliac disease,FOOD00561,EFO:0001060,13,0,cause
+wheat,osteoporosis,FOOD00561,EFO:0003882,11,0,cause
+white wine,migraine,FOOD00917,EFO:0003821,4,0,cause

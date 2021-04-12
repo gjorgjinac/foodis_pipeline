@@ -1,0 +1,102 @@
+term1,term2,foodon,omim_disease,is_cause,is_treat,relation
+biotin,type 2 diabetes,http://purl.obolibrary.org/obo/FOODON_03301175***http://purl.obolibrary.org/obo/NCBITaxon_128608,OMIM:601283,0,9,treat
+carrots,lung cancer,http://purl.obolibrary.org/obo/NCBITaxon_4039,OMIM:612593,0,2,treat
+cheese,type 2 diabetes,http://purl.obolibrary.org/obo/UBERON_0001913,OMIM:601283,0,7,treat
+chicken,colorectal cancer,http://purl.obolibrary.org/obo/NCBITaxon_9031***http://purl.obolibrary.org/obo/FOODON_03411457,OMIM:114500,0,5,treat
+chickpea flour,type 2 diabetes mellitus,http://purl.obolibrary.org/obo/FOODON_03304537***http://purl.obolibrary.org/obo/FOODON_03301116***http://purl.obolibrary.org/obo/NCBITaxon_3827,OMIM:601283,0,4,treat
+chives,colorectal cancer,http://purl.obolibrary.org/obo/NCBITaxon_117781,OMIM:114500,0,5,treat
+chives,prostate cancer,http://purl.obolibrary.org/obo/NCBITaxon_4682,OMIM:608658,0,18,treat
+chocolate,breast cancer,http://purl.obolibrary.org/obo/FOODON_03307240,OMIM:114480,0,10,treat
+cinnamon,obesity,http://purl.obolibrary.org/obo/FOODON_03301175***http://purl.obolibrary.org/obo/NCBITaxon_128608,OMIM:601665,0,6,treat
+cinnamon,type 2 diabetes,http://purl.obolibrary.org/obo/FOODON_03301175***http://purl.obolibrary.org/obo/NCBITaxon_128608,OMIM:601283,0,40,treat
+cinnamon,type 2 diabetes mellitus,http://purl.obolibrary.org/obo/FOODON_03301175***http://purl.obolibrary.org/obo/NCBITaxon_128608,OMIM:601283,0,6,treat
+cinnamon,type-2 diabetes,http://purl.obolibrary.org/obo/FOODON_03301175***http://purl.obolibrary.org/obo/NCBITaxon_128608,OMIM:601283,0,7,treat
+cocoa,obesity,http://purl.obolibrary.org/obo/FOODON_03301072,OMIM:601665,0,4,treat
+cocoa,type 2 diabetes,http://purl.obolibrary.org/obo/FOODON_03301072,OMIM:601283,0,12,treat
+cocoa,type 2 diabetes mellitus,http://purl.obolibrary.org/obo/FOODON_03301072,OMIM:601283,0,13,treat
+cocoa consumption,type 2 diabetes,http://purl.obolibrary.org/obo/FOODON_03301072,OMIM:601283,0,12,treat
+coconut oil,atopic dermatitis,http://purl.obolibrary.org/obo/FOODON_03310387,OMIM:603165,0,3,treat
+cooked rice,atopic dermatitis,http://purl.obolibrary.org/obo/NCBITaxon_4530,OMIM:603165,0,4,treat
+corn,celiac disease,http://purl.obolibrary.org/obo/NCBITaxon_381124,OMIM:611598,0,2,treat
+corn,celiac disease,http://purl.obolibrary.org/obo/NCBITaxon_4530,OMIM:611598,0,2,treat
+corn,neural tube defects,http://purl.obolibrary.org/obo/NCBITaxon_381124,OMIM:301410,0,5,treat
+dried peas,type 2 diabetes,http://purl.obolibrary.org/obo/NCBITaxon_3888,OMIM:601283,0,4,treat
+eating yogurt,lactose intolerance,http://purl.obolibrary.org/obo/CHEBI_33290,OMIM:223100,0,4,treat
+fenugreek,type 2 diabetes,http://purl.obolibrary.org/obo/FOODON_03301175***http://purl.obolibrary.org/obo/NCBITaxon_128608,OMIM:601283,0,9,treat
+flour,anencephaly,http://purl.obolibrary.org/obo/FOODON_03301116,OMIM:206500,0,6,treat
+flour,neural tube defects,http://purl.obolibrary.org/obo/FOODON_03301116,OMIM:301410,0,13,treat
+fruit,allergic rhinitis,http://purl.obolibrary.org/obo/PO_0009001,OMIM:607154,0,2,treat
+fruit,asthma,http://purl.obolibrary.org/obo/PO_0009001,OMIM:600807,0,5,treat
+fruit,bladder cancer,http://purl.obolibrary.org/obo/PO_0009001,OMIM:109800,0,10,treat
+fruit,breast cancer,http://purl.obolibrary.org/obo/PO_0009001,OMIM:114480,0,5,treat
+fruit,cataract,http://purl.obolibrary.org/obo/PO_0009001,OMIM:601371,0,3,treat
+fruit,coronary heart disease,http://purl.obolibrary.org/obo/PO_0009001,OMIM:614293,0,12,treat
+fruit,gastric cancer,http://purl.obolibrary.org/obo/PO_0009001,OMIM:613659,0,8,treat
+fruit,obesity,http://purl.obolibrary.org/obo/PO_0009001,OMIM:601665,0,5,treat
+fruit,osteoporosis,http://purl.obolibrary.org/obo/PO_0009001,OMIM:166710,0,5,treat
+fruit,renal cell cancer,http://purl.obolibrary.org/obo/PO_0009001,OMIM:300854,0,6,treat
+fruit,renal cell carcinoma,http://purl.obolibrary.org/obo/PO_0009001,OMIM:300854,0,5,treat
+fruit,type 2 diabetes,http://purl.obolibrary.org/obo/PO_0009001,OMIM:601283,0,2,treat
+fruits,ovarian cancer,http://purl.obolibrary.org/obo/CHEBI_33290,OMIM:167000,0,2,treat
+garlic,breast cancer,http://purl.obolibrary.org/obo/NCBITaxon_4682,OMIM:114480,0,6,treat
+garlic,colorectal cancer,http://purl.obolibrary.org/obo/NCBITaxon_4682,OMIM:114500,0,3,treat
+garlic,gastric cancer,http://purl.obolibrary.org/obo/NCBITaxon_4682,OMIM:613659,0,8,treat
+garlic,hepatoma,http://purl.obolibrary.org/obo/NCBITaxon_4682,OMIM:114550,0,3,treat
+garlic,myocardial infarction,http://purl.obolibrary.org/obo/NCBITaxon_4682,OMIM:608557,0,2,treat
+garlic,prostate cancer,http://purl.obolibrary.org/obo/NCBITaxon_4682,OMIM:608658,0,16,treat
+ginger,asthma,http://purl.obolibrary.org/obo/NCBITaxon_94328,OMIM:600807,0,4,treat
+ginger,colorectal cancer,http://purl.obolibrary.org/obo/NCBITaxon_94328,OMIM:114500,0,9,treat
+ginger,inflammatory bowel diseases,http://purl.obolibrary.org/obo/NCBITaxon_94328,OMIM:PS266600,0,2,treat
+ginger,migraine,http://purl.obolibrary.org/obo/NCBITaxon_94328,OMIM:157300,0,7,treat
+ginger,motion sickness,http://purl.obolibrary.org/obo/NCBITaxon_94328,OMIM:158280,0,7,treat
+ginger,obesity,http://purl.obolibrary.org/obo/NCBITaxon_94328,OMIM:601665,0,9,treat
+ginseng,type 2 diabetes,http://purl.obolibrary.org/obo/FOODON_03301175***http://purl.obolibrary.org/obo/NCBITaxon_128608,OMIM:601283,0,9,treat
+grapefruit,Parkinson's disease,http://purl.obolibrary.org/obo/FOODON_03301702***http://purl.obolibrary.org/obo/NCBITaxon_37656,OMIM:PS168600,0,3,treat
+green tea,prostate cancer,http://purl.obolibrary.org/obo/NCBITaxon_4682,OMIM:608658,0,14,treat
+honey,colorectal cancer,http://purl.obolibrary.org/obo/UBERON_0036016,OMIM:114500,0,5,treat
+honey,psoriasis,http://purl.obolibrary.org/obo/UBERON_0036016,OMIM:PS177900,0,3,treat
+honey,type 2 diabetes,http://purl.obolibrary.org/obo/UBERON_0036016,OMIM:601283,0,4,treat
+kefir,non-alcoholic fatty liver disease,http://purl.obolibrary.org/obo/FOODON_03310290,OMIM:613387,0,11,treat
+lemon,gastroesophageal reflux,http://purl.obolibrary.org/obo/FOODON_03301441,OMIM:109350,0,2,treat
+manner,motion sickness,http://purl.obolibrary.org/obo/NCBITaxon_94328,OMIM:158280,0,2,treat
+milk,hereditary angioedema,http://purl.obolibrary.org/obo/UBERON_0001913,OMIM:610618,0,2,treat
+milk,lactose intolerance,http://purl.obolibrary.org/obo/UBERON_0001913,OMIM:223100,0,2,treat
+milk,type 2 diabetes,http://purl.obolibrary.org/obo/UBERON_0001913,OMIM:601283,0,2,treat
+nuts,type 2 diabetes,http://purl.obolibrary.org/obo/FOODON_03301175***http://purl.obolibrary.org/obo/NCBITaxon_128608,OMIM:601283,0,3,treat
+oats,celiac disease,http://purl.obolibrary.org/obo/FOODON_03315188***http://purl.obolibrary.org/obo/NCBITaxon_4498,OMIM:611598,0,5,treat
+oats,coeliac disease,http://purl.obolibrary.org/obo/FOODON_03315188***http://purl.obolibrary.org/obo/NCBITaxon_4498,OMIM:611598,0,5,treat
+oats,colorectal cancer,http://purl.obolibrary.org/obo/FOODON_03315188***http://purl.obolibrary.org/obo/NCBITaxon_4498,OMIM:114500,0,5,treat
+oats,inflammatory bowel disease,http://purl.obolibrary.org/obo/FOODON_03315188***http://purl.obolibrary.org/obo/NCBITaxon_4498,OMIM:PS266600,0,5,treat
+olive oil,Breast Cancer,http://purl.obolibrary.org/obo/FOODON_03310387***http://purl.obolibrary.org/obo/FOODON_03301826,OMIM:114480,0,5,treat
+olive oil,breast cancer,http://purl.obolibrary.org/obo/FOODON_03310387***http://purl.obolibrary.org/obo/FOODON_03301826,OMIM:114480,0,21,treat
+olive oil,breast tumor,http://purl.obolibrary.org/obo/FOODON_03310387***http://purl.obolibrary.org/obo/FOODON_03301826,OMIM:114480,0,4,treat
+olive oil,coronary heart disease,http://purl.obolibrary.org/obo/FOODON_03310387***http://purl.obolibrary.org/obo/FOODON_03301826,OMIM:614293,0,16,treat
+olive oil,gastric cancer,http://purl.obolibrary.org/obo/FOODON_03310387***http://purl.obolibrary.org/obo/FOODON_03301826,OMIM:613659,0,4,treat
+olive oil,obesity,http://purl.obolibrary.org/obo/FOODON_03310387***http://purl.obolibrary.org/obo/FOODON_03301826,OMIM:601665,0,3,treat
+olive oil,osteoporosis,http://purl.obolibrary.org/obo/FOODON_03310387***http://purl.obolibrary.org/obo/FOODON_03301826,OMIM:166710,0,4,treat
+olive oil,type 2 diabetes,http://purl.obolibrary.org/obo/FOODON_03310387***http://purl.obolibrary.org/obo/FOODON_03301826,OMIM:601283,0,19,treat
+olive oil mixture,psoriasis,http://purl.obolibrary.org/obo/UBERON_0036016,OMIM:PS177900,0,3,treat
+onion,breast cancer,http://purl.obolibrary.org/obo/FOODON_03316347***http://purl.obolibrary.org/obo/NCBITaxon_4679,OMIM:114480,0,4,treat
+other fruits,prostate cancer,http://purl.obolibrary.org/obo/NCBITaxon_4081,OMIM:608658,0,5,treat
+papaya,prostate cancer,http://purl.obolibrary.org/obo/NCBITaxon_4081,OMIM:608658,0,5,treat
+potato,renal cell carcinoma,http://purl.obolibrary.org/obo/NCBITaxon_4113,OMIM:300854,0,20,treat
+pulses,type 2 diabetes,http://purl.obolibrary.org/obo/NCBITaxon_3888,OMIM:601283,0,4,treat
+red onion,ovarian cancer,http://purl.obolibrary.org/obo/FOODON_03316347***http://purl.obolibrary.org/obo/NCBITaxon_4679,OMIM:167000,0,2,treat
+red wine,Breast Cancer,http://purl.obolibrary.org/obo/FOODON_03310272,OMIM:114480,0,15,treat
+red wine,coronary heart disease,http://purl.obolibrary.org/obo/FOODON_03310272,OMIM:614293,0,11,treat
+red wine,coronary heart diseases,http://purl.obolibrary.org/obo/FOODON_03310272,OMIM:614293,0,2,treat
+red wine,lung cancer,http://purl.obolibrary.org/obo/FOODON_03310272,OMIM:612593,0,2,treat
+red wine,mammary tumors,http://purl.obolibrary.org/obo/FOODON_03310272,OMIM:114480,0,3,treat
+red wine,type 2 diabetes,http://purl.obolibrary.org/obo/FOODON_03310272,OMIM:601283,0,4,treat
+rice,atopic dermatitis,http://purl.obolibrary.org/obo/NCBITaxon_4530,OMIM:603165,0,3,treat
+sweet potato,renal cell carcinoma,http://purl.obolibrary.org/obo/NCBITaxon_4113***http://purl.obolibrary.org/obo/NCBITaxon_4120,OMIM:300854,0,20,treat
+thistle,Type 2 diabetes mellitus,http://purl.obolibrary.org/obo/UBERON_0001913,OMIM:601283,0,6,treat
+tomato,gastroesophageal reflux,http://purl.obolibrary.org/obo/NCBITaxon_4081,OMIM:109350,0,2,treat
+tomato,prostate cancer,http://purl.obolibrary.org/obo/NCBITaxon_4081,OMIM:608658,0,23,treat
+tomato sauce,prostate cancer,http://purl.obolibrary.org/obo/FOODON_03301217***http://purl.obolibrary.org/obo/NCBITaxon_4081***http://purl.obolibrary.org/obo/FOODON_03311146,OMIM:608658,0,15,treat
+vegetables,gastric cancer,http://purl.obolibrary.org/obo/PO_0009001,OMIM:613659,0,8,treat
+walnuts,breast cancer,http://purl.obolibrary.org/obo/NCBITaxon_16718,OMIM:114480,0,2,treat
+walnuts,mammary cancer,http://purl.obolibrary.org/obo/NCBITaxon_16718,OMIM:114480,0,2,treat
+water,obesity,http://purl.obolibrary.org/obo/ENVO_00002006,OMIM:601665,0,3,treat
+whey,type 2 diabetes,http://purl.obolibrary.org/obo/UBERON_0001913,OMIM:601283,0,7,treat
+yogurt,type 2 diabetes,http://purl.obolibrary.org/obo/UBERON_0001913,OMIM:601283,0,7,treat

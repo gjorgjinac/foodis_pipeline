@@ -1,0 +1,364 @@
+term1,term2,wikipedia_id,nci_disease,is_cause,is_treat,relation
+alcoholic beverages,heart disease,Alcoholic_beverages,NCI:C3079,0,2,treat
+allium,cancers,Allium haematochiton,NCI:C9305,0,6,treat
+allium,colorectal cancer,Allium haematochiton,NCI:C4978,0,6,treat
+allium,gastric cancer,Allium haematochiton,NCI:C3387,0,10,treat
+allium,prostate cancer,Allium haematochiton,NCI:C7378,0,9,treat
+allium,stomach cancer,Allium haematochiton,NCI:C3387,0,6,treat
+allium cepa,breast cancer,Onion,NCI:C9335,0,4,treat
+allium sativum,anemia,Garlic,NCI:C2869,0,2,treat
+allium sativum,asthma,Garlic,NCI:C28397,0,6,treat
+allium sativum,atherosclerosis,Garlic,NCI:C35768,0,2,treat
+allium sativum,bladder cancer,Garlic,NCI:C2901,0,3,treat
+allium sativum,cancers,Garlic,NCI:C9305,0,17,treat
+allium sativum,diabetes,Garlic,NCI:C2985,0,8,treat
+allium sativum,gastric cancer,Garlic,NCI:C3387,0,5,treat
+allium sativum,hypertension,Garlic,NCI:C3117,0,5,treat
+allium sativum,kidney diseases,Garlic,NCI:C3149,0,4,treat
+allium sativum,liver diseases,Garlic,NCI:C3196,0,4,treat
+allium sativum,malaria,Garlic,NCI:C34797,0,4,treat
+allium sativum,measles,Garlic,NCI:C96406,0,2,treat
+allium sativum,yellow fever,Garlic,NCI:C35547,0,2,treat
+annona muricata,cancers,Soursop,NCI:C9305,0,4,treat
+annona muricata,prostate cancer,Soursop,NCI:C7378,0,4,treat
+annona muricata,urinary tract infections,Soursop,NCI:C26934,0,4,treat
+apium graveolens,hypertension,Wild celery,NCI:C3117,0,3,treat
+apple,hypertension,Apple,NCI:C3117,0,8,treat
+asparagus,liver cancer,Asparagus,NCI:C34803,0,18,treat
+banana,hypertension,Banana,NCI:C3117,0,8,treat
+beer,Alzheimer's disease,Beer,NCI:C2866,0,6,treat
+beer,amnesia,Beer,NCI:C2867,0,2,treat
+beer,diabetes,Beer,NCI:C2985,0,8,treat
+beverages,allergic diseases,Beverages,NCI:C3114,0,3,treat
+beverages,celiac disease,Beverages,NCI:C26714,0,3,treat
+beverages,coronary heart disease,Beverages,NCI:C50625,0,7,treat
+beverages,heart disease,Beverages,NCI:C3079,0,7,treat
+brassica oleracea,prostate cancer,Brassica_oleracea,NCI:C7378,0,4,treat
+breadfruit,diabetes,Breadfruit,NCI:C2985,0,2,treat
+broccoli,breast cancer,Broccoli,NCI:C9335,0,4,treat
+broccoli,cancers,Broccoli,NCI:C9305,0,5,treat
+broccoli,cervical cancer,Broccoli,NCI:C2940,0,2,treat
+broccoli,colon cancer,Broccoli,NCI:C9242,0,4,treat
+broccoli,diabetes,Broccoli,NCI:C2985,0,5,treat
+broccoli,mammary tumors,Broccoli,NCI:C9335,0,4,treat
+broccoli,neurodegenerative diseases,Broccoli,NCI:C27090,0,5,treat
+cabbage,arthritis,Cabbage,NCI:C2883,0,2,treat
+cabbage,breast cancer,Cabbage,NCI:C9335,0,3,treat
+cabbage,cervical cancer,Cabbage,NCI:C2940,0,2,treat
+camellia sinensis,colorectal cancer,Tea,NCI:C4978,0,4,treat
+camellia sinensis,diabetes,Tea,NCI:C2985,0,5,treat
+camellia sinensis,hypertension,Tea,NCI:C3117,0,2,treat
+camellia sinensis,obesity,Tea,NCI:C159658,0,3,treat
+capsicum,cancers,Capsicum,NCI:C9305,0,15,treat
+capsicum,hypertension,Capsicum,NCI:C3117,0,3,treat
+capsicum,psoriasis,Capsicum,NCI:C3346,0,2,treat
+capsicum annuum,anemia,Capsicum_annuum,NCI:C2869,0,10,treat
+capsicum annuum,anemia,Italian sweet pepper,NCI:C2869,0,2,treat
+capsicum annuum,asthma,Capsicum_annuum,NCI:C28397,0,10,treat
+capsicum annuum,asthma,Italian sweet pepper,NCI:C28397,0,2,treat
+capsicum annuum,measles,Capsicum_annuum,NCI:C96406,0,10,treat
+capsicum annuum,measles,Italian sweet pepper,NCI:C96406,0,2,treat
+cauliflower,arthritis,Cauliflower,NCI:C2883,0,2,treat
+cheese,diabetes,Cheese,NCI:C2985,0,25,treat
+cheese,hyperphosphatemia,Cheese,NCI:C113750,0,2,treat
+cheese,type 2 diabetes,Cheese,NCI:C26747,0,28,treat
+chives,colorectal cancer,Chives,NCI:C4978,0,5,treat
+chives,prostate cancer,Chives,NCI:C7378,0,18,treat
+chocolate,breast cancer,Types_of_chocolate,NCI:C9335,0,10,treat
+chocolate,diabetes,Types_of_chocolate,NCI:C2985,0,4,treat
+chocolate,metabolic syndrome,Types_of_chocolate,NCI:C3235,0,3,treat
+chocolate,stroke,Types_of_chocolate,NCI:C2938,0,3,treat
+cichorium intybus,type 2 diabetes mellitus,Chicory,NCI:C26747,0,3,treat
+cinnamomum,diabetes,Cinnamon,NCI:C2985,0,2,treat
+cinnamomum,gastritis,Cinnamon,NCI:C26780,0,2,treat
+cinnamomum,type 2 diabetes mellitus,Cinnamon,NCI:C26747,0,6,treat
+cinnamon,Alzheimer's disease,Cinnamon,NCI:C2866,0,10,treat
+cinnamon,diabetes,Cinnamon,NCI:C2985,0,34,treat
+cinnamon,diabetes mellitus,Cinnamon,NCI:C2985,0,18,treat
+cinnamon,gastric diseases,Cinnamon,NCI:C26886,0,3,treat
+cinnamon,glucose intolerance,Cinnamon,NCI:C34646,0,6,treat
+cinnamon,metabolic syndrome,Cinnamon,NCI:C3235,0,21,treat
+cinnamon,neurodegenerative diseases,Cinnamon,NCI:C27090,0,40,treat
+cinnamon,obesity,Cinnamon,NCI:C159658,0,6,treat
+cinnamon,type 2 diabetes,Cinnamon,NCI:C26747,0,63,treat
+cinnamon,type 2 diabetes mellitus,Cinnamon,NCI:C26747,0,6,treat
+cinnamon,type-2 diabetes,Cinnamon,NCI:C26747,0,7,treat
+citrus,gastric cancer,Citrus,NCI:C3387,0,4,treat
+citrus maxima,hypertension,Pomelo,NCI:C3117,0,2,treat
+cocktail,anemia,List_of_cocktails,NCI:C2869,0,2,treat
+cocktail,degenerative diseases,List_of_cocktails,NCI:C27090,0,2,treat
+coffee,adenomas,Coffee,NCI:C2855,0,2,treat
+coffee,alcoholic liver cirrhosis,Coffee,NCI:C34782,0,2,treat
+coffee,atherosclerosis,Coffee,NCI:C35768,0,12,treat
+coffee,diabetes,Coffee,NCI:C2985,0,5,treat
+coffee,gastric cancer,Coffee,NCI:C3387,0,4,treat
+coffee,gout,Coffee,NCI:C34650,0,3,treat
+coffee,hyperuricemia,Coffee,NCI:C3961,0,2,treat
+coffee,liver disease,Coffee,NCI:C3196,0,4,treat
+coffee,obesity,Coffee,NCI:C159658,0,4,treat
+coffee,type 2 diabetes,Coffee,NCI:C26747,0,4,treat
+coriander,neurodegenerative diseases,Coriander,NCI:C27090,0,8,treat
+corn,celiac disease,Corn,NCI:C26714,0,6,treat
+corn,hypertension,Corn,NCI:C3117,0,8,treat
+cream,peptic ulcer disease,Cream,NCI:C3318,0,3,treat
+crocus sativus,asthma,Saffron,NCI:C28397,0,2,treat
+crocus sativus,cancers,Saffron,NCI:C9305,0,15,treat
+cucurbita,alopecia,Cucurbita,NCI:C50575,0,2,treat
+curcuma longa,asthma,Turmeric,NCI:C28397,0,4,treat
+curcuma longa,cancers,Turmeric,NCI:C9305,0,15,treat
+curcuma longa,diabetes,Turmeric,NCI:C2985,0,10,treat
+curcuma longa,heart diseases,Turmeric,NCI:C3079,0,4,treat
+curcuma longa,hepatic disorders,Turmeric,NCI:C3196,0,5,treat
+curcuma longa,hyperglycemia,Turmeric,NCI:C26797,0,5,treat
+curcuma longa,neurodegenerative diseases,Turmeric,NCI:C27090,0,2,treat
+curcuma longa,obesity,Turmeric,NCI:C159658,0,5,treat
+curcuma longa,rheumatoid arthritis,Turmeric,NCI:C2884,0,2,treat
+curcuma longa,sinusitis,Turmeric,NCI:C128411,0,5,treat
+eggs,cancers,Eggs,NCI:C9305,0,9,treat
+eggs,diabetes,Eggs,NCI:C2985,0,27,treat
+eggs,metabolic syndrome,Eggs,NCI:C3235,0,4,treat
+eggs,neurodegenerative diseases,Eggs,NCI:C27090,0,9,treat
+eggs,type 2 diabetes,Eggs,NCI:C26747,0,9,treat
+fenugreek,diabetes,Fenugreek,NCI:C2985,0,5,treat
+fenugreek,type 2 diabetes,Fenugreek,NCI:C26747,0,9,treat
+ficus carica,constipation,Ficus_carica,NCI:C37930,0,3,treat
+flour,spina bifida,Flour,NCI:C101214,0,6,treat
+fruit juice,Metabolic Syndrome,Juice,NCI:C3235,0,6,treat
+fruits,Alzheimer's disease,Fruits,NCI:C2866,0,4,treat
+fruits,Breast Cancer,Fruits,NCI:C9335,0,5,treat
+fruits,Colon cancer,Fruits,NCI:C9242,0,2,treat
+fruits,Parkinson's disease,Fruits,NCI:C26845,0,3,treat
+fruits,adenomas,Fruits,NCI:C2855,0,4,treat
+fruits,amnesia,Fruits,NCI:C2867,0,2,treat
+fruits,anemia,Fruits,NCI:C2869,0,2,treat
+fruits,asthma,Fruits,NCI:C28397,0,18,treat
+fruits,atherosclerosis,Fruits,NCI:C35768,0,3,treat
+fruits,bladder cancer,Fruits,NCI:C2901,0,5,treat
+fruits,breast cancer,Fruits,NCI:C9335,0,7,treat
+fruits,cancers,Fruits,NCI:C9305,0,41,treat
+fruits,carcinomas,Fruits,NCI:C3709,0,2,treat
+fruits,cerebrovascular diseases,Fruits,NCI:C2938,0,2,treat
+fruits,chronic obstructive pulmonary disease,Fruits,NCI:C3199,0,5,treat
+fruits,colon cancer,Fruits,NCI:C9242,0,3,treat
+fruits,colorectal cancer,Fruits,NCI:C4978,0,6,treat
+fruits,coronary heart disease,Fruits,NCI:C50625,0,25,treat
+fruits,degenerative diseases,Fruits,NCI:C27090,0,6,treat
+fruits,diabetes mellitus,Fruits,NCI:C2985,0,4,treat
+fruits,gastric cancer,Fruits,NCI:C3387,0,6,treat
+fruits,heart attacks,Fruits,NCI:C27996,0,2,treat
+fruits,heart disease,Fruits,NCI:C3079,0,9,treat
+fruits,hyperlipidaemia,Fruits,NCI:C34709,0,6,treat
+fruits,hyperphosphatemia,Fruits,NCI:C113750,0,2,treat
+fruits,hypertension,Fruits,NCI:C3117,0,40,treat
+fruits,kidney disease,Fruits,NCI:C3149,0,2,treat
+fruits,metabolic syndrome,Fruits,NCI:C3235,0,2,treat
+fruits,muscle wasting,Fruits,NCI:C94834,0,4,treat
+fruits,neurodegenerative diseases,Fruits,NCI:C27090,0,26,treat
+fruits,obesity,Fruits,NCI:C159658,0,7,treat
+fruits,osteoporosis,Fruits,NCI:C3298,0,3,treat
+fruits,ovarian cancer,Fruits,NCI:C7431,0,4,treat
+fruits,prostate cancer,Fruits,NCI:C7378,0,4,treat
+fruits,skin cancer,Fruits,NCI:C2920,0,2,treat
+fruits,stroke,Fruits,NCI:C2938,0,19,treat
+garlic,arteriosclerosis,Garlic,NCI:C34398,0,4,treat
+garlic,atherosclerosis,Garlic,NCI:C35768,0,23,treat
+garlic,breast cancer,Garlic,NCI:C9335,0,17,treat
+garlic,cancers,Garlic,NCI:C9305,0,50,treat
+garlic,colon cancer,Garlic,NCI:C9242,0,10,treat
+garlic,colorectal adenocarcinoma,Garlic,NCI:C5105,0,4,treat
+garlic,colorectal cancer,Garlic,NCI:C4978,0,8,treat
+garlic,diabetes,Garlic,NCI:C2985,0,20,treat
+garlic,eclampsia,Garlic,NCI:C87167,0,2,treat
+garlic,gastric cancer,Garlic,NCI:C3387,0,8,treat
+garlic,gingivitis,Garlic,NCI:C34636,0,3,treat
+garlic,hepatoma,Garlic,NCI:C3099,0,3,treat
+garlic,hyperglycemia,Garlic,NCI:C26797,0,2,treat
+garlic,hypertension,Garlic,NCI:C3117,0,29,treat
+garlic,kidney diseases,Garlic,NCI:C3149,0,4,treat
+garlic,liver cancer,Garlic,NCI:C34803,0,18,treat
+garlic,liver diseases,Garlic,NCI:C3196,0,4,treat
+garlic,malaria,Garlic,NCI:C34797,0,4,treat
+garlic,mammary cancer,Garlic,NCI:C9335,0,14,treat
+garlic,metabolic diseases,Garlic,NCI:C3235,0,3,treat
+garlic,myocardial infarction,Garlic,NCI:C27996,0,2,treat
+garlic,neurodegenerative diseases,Garlic,NCI:C27090,0,8,treat
+garlic,periodontal diseases,Garlic,NCI:C63743,0,3,treat
+garlic,prostate cancer,Garlic,NCI:C7378,0,19,treat
+garlic,renal hypertension,Garlic,NCI:C3121,0,2,treat
+garlic,stroke,Garlic,NCI:C2938,0,6,treat
+ginger,Alzheimer's disease,Ginger,NCI:C2866,0,9,treat
+ginger,CRF,Ginger,NCI:C9438,0,3,treat
+ginger,adenomas,Ginger,NCI:C2855,0,5,treat
+ginger,arthritis,Ginger,NCI:C2883,0,4,treat
+ginger,asthma,Ginger,NCI:C28397,0,7,treat
+ginger,bronchitis,Ginger,NCI:C26722,0,3,treat
+ginger,cancers,Ginger,NCI:C9305,0,33,treat
+ginger,chronic kidney diseases,Ginger,NCI:C9438,0,3,treat
+ginger,colon cancer,Ginger,NCI:C9242,0,2,treat
+ginger,colorectal cancer,Ginger,NCI:C4978,0,9,treat
+ginger,constipation,Ginger,NCI:C37930,0,14,treat
+ginger,diabetes,Ginger,NCI:C2985,0,26,treat
+ginger,diabetes mellitus,Ginger,NCI:C2985,0,6,treat
+ginger,heart diseases,Ginger,NCI:C3079,0,4,treat
+ginger,hepatic disorders,Ginger,NCI:C3196,0,5,treat
+ginger,hyperglycemia,Ginger,NCI:C26797,0,5,treat
+ginger,hypertension,Ginger,NCI:C3117,0,13,treat
+ginger,inflammatory bowel diseases,Ginger,NCI:C3138,0,2,treat
+ginger,irritable bowel syndrome,Ginger,NCI:C82343,0,9,treat
+ginger,liver cancer,Ginger,NCI:C34803,0,9,treat
+ginger,migraine,Ginger,NCI:C89715,0,8,treat
+ginger,motion sickness,Ginger,NCI:C34824,0,12,treat
+ginger,neurodegenerative diseases,Ginger,NCI:C27090,0,32,treat
+ginger,obesity,Ginger,NCI:C159658,0,14,treat
+ginger,sinusitis,Ginger,NCI:C128411,0,5,treat
+ginkgo biloba,asthma,Ginkgo biloba,NCI:C28397,0,4,treat
+ginseng,amnesia,Ginseng,NCI:C2867,0,2,treat
+ginseng,diabetes,Ginseng,NCI:C2985,0,15,treat
+ginseng,hyperglycemia,Ginseng,NCI:C26797,0,2,treat
+ginseng,hypertension,Ginseng,NCI:C3117,0,3,treat
+ginseng,metabolic diseases,Ginseng,NCI:C3235,0,2,treat
+ginseng,migraine,Ginseng,NCI:C89715,0,3,treat
+ginseng,obesity,Ginseng,NCI:C159658,0,4,treat
+ginseng,stroke,Ginseng,NCI:C2938,0,2,treat
+ginseng,type 2 diabetes,Ginseng,NCI:C26747,0,22,treat
+glycine max,osteoporosis,Soybean,NCI:C3298,0,2,treat
+grape,atherosclerosis,Grape,NCI:C35768,0,3,treat
+grape,colon cancer,Grape,NCI:C9242,0,11,treat
+grape,diabetes,Grape,NCI:C2985,0,2,treat
+grape,mammary tumor,Grape,NCI:C9335,0,2,treat
+grape,prostate cancer,Grape,NCI:C7378,0,2,treat
+grapefruit,Parkinson's disease,Grapefruit,NCI:C26845,0,3,treat
+grapefruit,hypertension,Grapefruit,NCI:C3117,0,5,treat
+hibiscus sabdariffa,diabetes,Roselle_(plant),NCI:C2985,0,3,treat
+hibiscus sabdariffa,hypertension,Roselle_(plant),NCI:C3117,0,7,treat
+hibiscus sabdariffa,obesity,Roselle_(plant),NCI:C159658,0,2,treat
+honey,amnesia,Honey,NCI:C2867,0,2,treat
+honey,colorectal cancer,Honey,NCI:C4978,0,5,treat
+honey,eczema,Honey,NCI:C2983,0,3,treat
+honey,metabolic syndrome,Honey,NCI:C3235,0,6,treat
+honey,psoriasis,Honey,NCI:C3346,0,3,treat
+honey,stroke,Honey,NCI:C2938,0,2,treat
+honey,type 2 diabetes,Honey,NCI:C26747,0,4,treat
+honey,urinary tract infections,Honey,NCI:C26934,0,3,treat
+ipomoea batatas,hyperglycemia,Sweet Potato Pie (album),NCI:C26797,0,4,treat
+ipomoea batatas,type 2 diabetes,Sweet Potato Pie (album),NCI:C26747,0,4,treat
+ipomoea batatas,type 2 diabetes mellitus,Sweet Potato Pie (album),NCI:C26747,0,3,treat
+kefir,metabolic syndrome,Kefir,NCI:C3235,0,2,treat
+kiwi,hypertension,Kiwifruit,NCI:C3117,0,8,treat
+lemon,Alzheimer's disease,Lemon,NCI:C2866,0,3,treat
+lemon,allergic rhinitis,Lemon,NCI:C34987,0,2,treat
+lemon,asthma,Lemon,NCI:C28397,0,2,treat
+lemon,gastritis,Lemon,NCI:C26780,0,2,treat
+lemon,gastroesophageal reflux,Lemon,NCI:C26781,0,2,treat
+lemon,pneumonia,Lemon,NCI:C3333,0,10,treat
+lemon,pulmonary fibrosis,Lemon,NCI:C26869,0,10,treat
+lentils,type 2 diabetes,Lentils,NCI:C26747,0,4,treat
+linum usitatissimum,migraine,Flax,NCI:C89715,0,3,treat
+liquor,coronary disease,Liquor,NCI:C50625,0,8,treat
+lupinus albus,celiac disease,White_lupine,NCI:C26714,0,2,treat
+mangifera indica,asthma,Mango,NCI:C28397,0,2,treat
+millet,diabetes mellitus,Millet,NCI:C2985,0,4,treat
+momordica charantia,diabetes,Bitter melon,NCI:C2985,0,2,treat
+momordica charantia,hyperglycemia,Bitter melon,NCI:C26797,0,4,treat
+mulberry,obesity,Mulberry,NCI:C159658,0,3,treat
+mushrooms,prostate cancer,Mushrooms,NCI:C7378,0,5,treat
+nuts,atherosclerosis,Nut_(fruit),NCI:C35768,0,12,treat
+nuts,epilepsy,Nut_(fruit),NCI:C3020,0,6,treat
+nuts,stroke,Nut_(fruit),NCI:C2938,0,6,treat
+nuts,type 2 diabetes,Nut_(fruit),NCI:C26747,0,3,treat
+oat,diabetes,Oat,NCI:C2985,0,16,treat
+opuntia,diabetes,Opuntia,NCI:C2985,0,2,treat
+opuntia,diabetes mellitus,Opuntia,NCI:C2985,0,5,treat
+oryza sativa,celiac disease,Rice,NCI:C26714,0,2,treat
+oryza sativa,diabetes,Rice,NCI:C2985,0,3,treat
+panax,alopecia,Ginseng,NCI:C50575,0,2,treat
+panax,amnesia,Ginseng,NCI:C2867,0,2,treat
+panax,diabetes,Ginseng,NCI:C2985,0,2,treat
+panax,hyperglycemia,Ginseng,NCI:C26797,0,3,treat
+panax,hypertension,Ginseng,NCI:C3117,0,3,treat
+panax,metabolic diseases,Ginseng,NCI:C3235,0,2,treat
+panax,migraine,Ginseng,NCI:C89715,0,3,treat
+panax,obesity,Ginseng,NCI:C159658,0,2,treat
+panax,stroke,Ginseng,NCI:C2938,0,2,treat
+papaya,prostate cancer,Papaya,NCI:C7378,0,15,treat
+pear,diabetes mellitus,Pear,NCI:C2985,0,2,treat
+pear,metabolic diseases,Pear,NCI:C3235,0,2,treat
+piper nigrum,cancers,Black pepper,NCI:C9305,0,15,treat
+pisum sativum,anemia,Pea,NCI:C2869,0,2,treat
+pisum sativum,asthma,Pea,NCI:C28397,0,2,treat
+pisum sativum,measles,Pea,NCI:C96406,0,2,treat
+pisum sativum,yellow fever,Pea,NCI:C35547,0,2,treat
+pomegranate,colon cancer,Pomegranate,NCI:C9242,0,10,treat
+pomegranate,liver cancer,Pomegranate,NCI:C34803,0,9,treat
+pomegranate,prostate cancer,Pomegranate,NCI:C7378,0,5,treat
+potato,renal cell carcinoma,Potato,NCI:C9385,0,20,treat
+prickly pear,diabetes,Opuntia,NCI:C2985,0,3,treat
+pulses,diabetes,Pulse_(legume),NCI:C2985,0,2,treat
+pulses,type 2 diabetes,Pulse_(legume),NCI:C26747,0,12,treat
+punica granatum,cystitis,Pomegranate,NCI:C26738,0,3,treat
+punica granatum,psoriasis,Pomegranate,NCI:C3346,0,3,treat
+raphanus sativus,anemia,Radish,NCI:C2869,0,2,treat
+raphanus sativus,asthma,Radish,NCI:C28397,0,2,treat
+raphanus sativus,measles,Radish,NCI:C96406,0,2,treat
+rice,celiac disease,Rice,NCI:C26714,0,2,treat
+rice,diabetes,Rice,NCI:C2985,0,3,treat
+saffron,asthma,Saffron,NCI:C28397,0,3,treat
+saffron,cancers,Saffron,NCI:C9305,0,30,treat
+salt,stroke,Salt,NCI:C2938,0,3,treat
+sisymbrium,anemia,Hedge_mustard,NCI:C2869,0,2,treat
+sisymbrium,asthma,Hedge_mustard,NCI:C28397,0,2,treat
+sisymbrium,measles,Hedge_mustard,NCI:C96406,0,2,treat
+sisymbrium,yellow fever,Hedge_mustard,NCI:C35547,0,2,treat
+soy bean,pancreatitis,Soybean,NCI:C3306,0,4,treat
+strawberry,hypertension,Strawberry,NCI:C3117,0,2,treat
+sweet potato,malignant tumor,Sweet Potato Pie (album),NCI:C9305,0,2,treat
+sweet potato,renal cell carcinoma,Sweet Potato Pie (album),NCI:C9385,0,20,treat
+tea,breast cancer,Tea,NCI:C9335,0,10,treat
+tea,colon cancer,Tea,NCI:C9242,0,9,treat
+tea,colorectal cancer,Tea,NCI:C4978,0,3,treat
+tea,coronary disease,Tea,NCI:C50625,0,8,treat
+tea,diabetes,Tea,NCI:C2985,0,8,treat
+tea,hypertension,Tea,NCI:C3117,0,5,treat
+tea,liver disease,Tea,NCI:C3196,0,2,treat
+tea,metabolic syndrome,Tea,NCI:C3235,0,2,treat
+tea,obesity,Tea,NCI:C159658,0,13,treat
+tea,osteoporosis,Tea,NCI:C3298,0,2,treat
+tea,stroke,Tea,NCI:C2938,0,4,treat
+thistle,Type 2 diabetes mellitus,Thistle,NCI:C26747,0,6,treat
+thistle,liver diseases,Thistle,NCI:C3196,0,9,treat
+tofu,prostate cancer,Tofu,NCI:C7378,0,2,treat
+trigonella foenum-graecum,diabetes,Fenugreek,NCI:C2985,0,14,treat
+turmeric,liver cancer,Turmeric,NCI:C34803,0,45,treat
+vaccinium macrocarpon,psoriasis,Vaccinium macrocarpon,NCI:C3346,0,3,treat
+vaccinium macrocarpon,urinary tract infections,Vaccinium macrocarpon,NCI:C26934,0,4,treat
+vaccinium vitis-idaea,obesity,Vaccinium vitis-idaea,NCI:C159658,0,4,treat
+vinegar,diabetes,Vinegar,NCI:C2985,0,15,treat
+water,dermatitis,Water,NCI:C2983,0,2,treat
+water,diabetes,Water,NCI:C2985,0,2,treat
+water,hyperglycemia,Water,NCI:C26797,0,10,treat
+water,hypertension,Water,NCI:C3117,0,4,treat
+water,obesity,Water,NCI:C159658,0,3,treat
+watermelon,hypertension,Watermelon,NCI:C3117,0,8,treat
+watermelon,prostate cancer,Watermelon,NCI:C7378,0,5,treat
+wheat,spina bifida,Wheat,NCI:C101214,0,2,treat
+whey,Type 2 diabetes,Whey,NCI:C26747,0,4,treat
+whey,glucose intolerance,Whey,NCI:C34646,0,5,treat
+whey,metabolic syndrome,Whey,NCI:C3235,0,8,treat
+whey,obesity,Whey,NCI:C159658,0,7,treat
+whey,type 2 diabetes,Whey,NCI:C26747,0,33,treat
+whey,type 2 diabetes mellitus,Whey,NCI:C26747,0,5,treat
+zea mays,celiac disease,Corn,NCI:C26714,0,2,treat
+zingiber officinale,arthritis,Ginger,NCI:C2883,0,4,treat
+zingiber officinale,bronchitis,Ginger,NCI:C26722,0,3,treat
+zingiber officinale,cancers,Ginger,NCI:C9305,0,16,treat
+zingiber officinale,colorectal cancer,Ginger,NCI:C4978,0,5,treat
+zingiber officinale,constipation,Ginger,NCI:C37930,0,7,treat
+zingiber officinale,diabetes mellitus,Ginger,NCI:C2985,0,4,treat
+zingiber officinale,helminthiasis,Ginger,NCI:C84751,0,4,treat
+zingiber officinale,hepatoma,Ginger,NCI:C3099,0,2,treat
+zingiber officinale,hyperglycemia,Ginger,NCI:C26797,0,6,treat
+zingiber officinale,hypertension,Ginger,NCI:C3117,0,7,treat
+zingiber officinale,motion sickness,Ginger,NCI:C34824,0,2,treat
+zingiber officinale,obesity,Ginger,NCI:C159658,0,5,treat
+zingiber officinale,type 2 diabetes mellitus,Ginger,NCI:C26747,0,3,treat
+zingiber officinale,ulcerative colitis,Ginger,NCI:C2952,0,2,treat

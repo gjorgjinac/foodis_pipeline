@@ -1,0 +1,168 @@
+term1,term2,hansardParent,omim_disease,is_cause,is_treat,relation
+beverages,coronary heart disease,AG.01.i,OMIM:614293,0,2,treat
+biotin,type 2 diabetes,AG.01.l,OMIM:601283,0,9,treat
+bread,type 2 diabetes,AG.01.n,OMIM:601283,0,3,treat
+broccoli,breast cancer,AG.01,OMIM:114480,0,2,treat
+buckwheat,obesity,AG.01.i,OMIM:601665,0,2,treat
+carrots,lung cancer,AG.01.h,OMIM:612593,0,2,treat
+cheese,type 2 diabetes,AG.01,OMIM:601283,0,7,treat
+cheese,type 2 diabetes,AG.01.ae,OMIM:601283,0,7,treat
+cheese,type 2 diabetes,AG.01.e,OMIM:601283,0,7,treat
+chicken,colorectal cancer,AG.01.d,OMIM:114500,0,5,treat
+chickpea flour,type 2 diabetes mellitus,AG.01.j,OMIM:601283,0,4,treat
+chives,colorectal cancer,AG.01.h,OMIM:114500,0,5,treat
+chives,prostate cancer,AG.01.h,OMIM:608658,0,18,treat
+chocolate,breast cancer,AG.01,OMIM:114480,0,9,treat
+cinnamon,obesity,AG.01.l,OMIM:601665,0,6,treat
+cinnamon,type 2 diabetes,AG.01.l,OMIM:601283,0,40,treat
+cinnamon,type 2 diabetes mellitus,AG.01.l,OMIM:601283,0,6,treat
+cinnamon,type-2 diabetes,AG.01.l,OMIM:601283,0,7,treat
+cocoa,obesity,AG.01,OMIM:601665,0,4,treat
+cocoa,type 2 diabetes,AG.01,OMIM:601283,0,12,treat
+cocoa,type 2 diabetes mellitus,AG.01,OMIM:601283,0,13,treat
+cocoa consumption,type 2 diabetes,AG.01,OMIM:601283,0,12,treat
+coconut,atopic dermatitis,AG.01.h,OMIM:603165,0,10,treat
+coconut oil,atopic dermatitis,AG.01.f,OMIM:603165,0,3,treat
+coffee,gastric cancer,AG.01.ag,OMIM:613659,0,3,treat
+coffee,obesity,AG.01.ag,OMIM:601665,0,4,treat
+coffee,type 2 diabetes,AG.01.ag,OMIM:601283,0,2,treat
+cooked rice,atopic dermatitis,AG.01.t,OMIM:603165,0,4,treat
+corn,celiac disease,AF.20,OMIM:611598,0,2,treat
+corn,celiac disease,AG.01,OMIM:611598,0,2,treat
+corn,neural tube defects,AG.01,OMIM:301410,0,5,treat
+dried peas,type 2 diabetes,AG.01.h,OMIM:601283,0,4,treat
+eating yogurt,lactose intolerance,AG.01,OMIM:223100,0,8,treat
+eating yogurt,lactose intolerance,AG.01.ae,OMIM:223100,0,4,treat
+eggs,type 2 diabetes,AG.01.g,OMIM:601283,0,9,treat
+fat,breast cancer,AG.01.f,OMIM:114480,0,3,treat
+fenugreek,type 2 diabetes,AG.01.l,OMIM:601283,0,9,treat
+flour,anencephaly,AG.01.j,OMIM:206500,0,6,treat
+flour,neural tube defects,AG.01.j,OMIM:301410,0,13,treat
+fruit,allergic rhinitis,AF.07,OMIM:607154,0,2,treat
+fruit,asthma,AF.07,OMIM:600807,0,5,treat
+fruit,bladder cancer,AF.07,OMIM:109800,0,10,treat
+fruit,breast cancer,AF.07,OMIM:114480,0,5,treat
+fruit,cataract,AF.07,OMIM:601371,0,3,treat
+fruit,coronary heart disease,AF.03,OMIM:614293,0,3,treat
+fruit,coronary heart disease,AF.07,OMIM:614293,0,9,treat
+fruit,gastric cancer,AF.07,OMIM:613659,0,8,treat
+fruit,obesity,AF.07,OMIM:601665,0,5,treat
+fruit,osteoporosis,AF.07,OMIM:166710,0,4,treat
+fruit,renal cell cancer,AF.07,OMIM:300854,0,6,treat
+fruit,renal cell carcinoma,AF.07,OMIM:300854,0,5,treat
+fruit,type 2 diabetes,AF.07,OMIM:601283,0,2,treat
+fruits,Breast Cancer,AG.01.h,OMIM:114480,0,5,treat
+fruits,Parkinson's disease,AG.01.h,OMIM:PS168600,0,3,treat
+fruits,asthma,AG.01.h,OMIM:600807,0,15,treat
+fruits,bladder cancer,AG.01.h,OMIM:109800,0,3,treat
+fruits,breast cancer,AG.01.h,OMIM:114480,0,7,treat
+fruits,cataracts,AG.01.h,OMIM:601371,0,5,treat
+fruits,chronic obstructive pulmonary disease,AG.01.h,OMIM:606963,0,5,treat
+fruits,colorectal cancer,AG.01.h,OMIM:114500,0,4,treat
+fruits,coronary heart disease,AG.01.h,OMIM:614293,0,25,treat
+fruits,gastric cancer,AG.01.h,OMIM:613659,0,6,treat
+fruits,heart attacks,AG.01.h,OMIM:608557,0,2,treat
+fruits,lung cancer,AG.01.h,OMIM:612593,0,4,treat
+fruits,obesity,AG.01.h,OMIM:601665,0,7,treat
+fruits,osteoporosis,AG.01.h,OMIM:166710,0,2,treat
+fruits,ovarian cancer,AG.01,OMIM:167000,0,2,treat
+fruits,ovarian cancer,AG.01.h,OMIM:167000,0,2,treat
+fruits,prostate cancer,AG.01.h,OMIM:608658,0,4,treat
+garlic,breast cancer,AG.01.h,OMIM:114480,0,6,treat
+garlic,colorectal cancer,AG.01.h,OMIM:114500,0,3,treat
+garlic,gastric cancer,AG.01.h,OMIM:613659,0,8,treat
+garlic,hepatoma,AG.01.h,OMIM:114550,0,3,treat
+garlic,myocardial infarction,AG.01.h,OMIM:608557,0,2,treat
+garlic,prostate cancer,AG.01.h,OMIM:608658,0,16,treat
+ginger,asthma,AG.01.l,OMIM:600807,0,4,treat
+ginger,colorectal cancer,AG.01.l,OMIM:114500,0,9,treat
+ginger,inflammatory bowel diseases,AG.01.l,OMIM:PS266600,0,2,treat
+ginger,migraine,AG.01.l,OMIM:157300,0,7,treat
+ginger,motion sickness,AG.01.l,OMIM:158280,0,7,treat
+ginger,obesity,AG.01.l,OMIM:601665,0,9,treat
+ginseng,type 2 diabetes,AG.01.l,OMIM:601283,0,9,treat
+grapefruit,Parkinson's disease,AG.01.h,OMIM:PS168600,0,3,treat
+grapes,breast cancer,AG.01.h,OMIM:114480,0,9,treat
+green tea,prostate cancer,AG.01.h,OMIM:608658,0,19,treat
+high-fat,asthma,AG.01.f,OMIM:600807,0,4,treat
+honey,colorectal cancer,AG.01.l,OMIM:114500,0,5,treat
+honey,psoriasis,AG.01.l,OMIM:PS177900,0,3,treat
+honey,type 2 diabetes,AG.01.l,OMIM:601283,0,4,treat
+kefir,non-alcoholic fatty liver disease,AG.01,OMIM:613387,0,11,treat
+lemon,gastroesophageal reflux,AG.01.h,OMIM:109350,0,2,treat
+lentils,type 2 diabetes,AG.01.h,OMIM:601283,0,4,treat
+manner,motion sickness,AG.01.l,OMIM:158280,0,2,treat
+milk,hereditary angioedema,AG.01.e,OMIM:610618,0,2,treat
+milk,lactose intolerance,AG.01.e,OMIM:223100,0,2,treat
+milk,osteoporosis,AE.10,OMIM:166710,0,3,treat
+milk,type 2 diabetes,AG.01.e,OMIM:601283,0,2,treat
+mushrooms,prostate cancer,AG.01.h,OMIM:608658,0,5,treat
+nuts,type 2 diabetes,AG.01.l,OMIM:601283,0,3,treat
+oatmeal,atopic dermatitis,AG.01.j,OMIM:603165,0,2,treat
+oats,celiac disease,AG.01.i,OMIM:611598,0,5,treat
+oats,coeliac disease,AG.01.i,OMIM:611598,0,5,treat
+oats,colorectal cancer,AG.01.i,OMIM:114500,0,5,treat
+oats,inflammatory bowel disease,AG.01.i,OMIM:PS266600,0,5,treat
+olive oil,Breast Cancer,AG.01.f,OMIM:114480,0,5,treat
+olive oil,breast cancer,AG.01.f,OMIM:114480,0,19,treat
+olive oil,breast cancer,AG.01.h,OMIM:114480,0,2,treat
+olive oil,breast tumor,AG.01.f,OMIM:114480,0,4,treat
+olive oil,coronary heart disease,AG.01.f,OMIM:614293,0,16,treat
+olive oil,gastric cancer,AG.01.f,OMIM:613659,0,3,treat
+olive oil,obesity,AG.01.f,OMIM:601665,0,3,treat
+olive oil,osteoporosis,AG.01.f,OMIM:166710,0,2,treat
+olive oil,osteoporosis,AG.01.h,OMIM:166710,0,2,treat
+olive oil,type 2 diabetes,AG.01.f,OMIM:601283,0,18,treat
+olive oil mixture,psoriasis,AG.01.l,OMIM:PS177900,0,3,treat
+onion,breast cancer,AG.01.h,OMIM:114480,0,4,treat
+other dairy,obesity,AG.01,OMIM:601665,0,6,treat
+other dairy,type 2 diabetes,AG.01,OMIM:601283,0,6,treat
+other fruits,prostate cancer,AG.01.h,OMIM:608658,0,10,treat
+other fruits,prostate cancer,AG.01.z,OMIM:608658,0,5,treat
+papaya,prostate cancer,AG.01.h,OMIM:608658,0,10,treat
+papaya,prostate cancer,AG.01.z,OMIM:608658,0,5,treat
+potato,renal cell carcinoma,AG.01.h,OMIM:300854,0,20,treat
+pulses,type 2 diabetes,AG.01,OMIM:601283,0,4,treat
+pulses,type 2 diabetes,AG.01.h,OMIM:601283,0,8,treat
+red onion,ovarian cancer,AG.01.h,OMIM:167000,0,2,treat
+red wine,Breast Cancer,AG.01,OMIM:114480,0,15,treat
+red wine,Breast Cancer,AG.01.h,OMIM:114480,0,5,treat
+red wine,coronary heart disease,AG.01,OMIM:614293,0,11,treat
+red wine,coronary heart disease,AG.01.y,OMIM:614293,0,2,treat
+red wine,coronary heart diseases,AG.01,OMIM:614293,0,2,treat
+red wine,lung cancer,AG.01,OMIM:612593,0,2,treat
+red wine,mammary tumors,AG.01,OMIM:114480,0,3,treat
+red wine,type 2 diabetes,AG.01,OMIM:601283,0,4,treat
+rice,atopic dermatitis,AF.20,OMIM:603165,0,3,treat
+saffron,asthma,AE.08,OMIM:600807,0,3,treat
+sweet potato,renal cell carcinoma,AG.01.h,OMIM:300854,0,20,treat
+tea,breast cancer,AG.01.ac,OMIM:114480,0,10,treat
+tea,colorectal cancer,AG.01.ac,OMIM:114500,0,3,treat
+tea,obesity,AG.01.ac,OMIM:601665,0,3,treat
+tea,obesity,AG.01.ag,OMIM:601665,0,4,treat
+tea,obesity,AG.01.y,OMIM:601665,0,4,treat
+tea,osteoporosis,AG.01.ac,OMIM:166710,0,2,treat
+thistle,Type 2 diabetes mellitus,AG.01.e,OMIM:601283,0,6,treat
+tofu,prostate cancer,AG.01,OMIM:608658,0,2,treat
+tomato,gastroesophageal reflux,AG.01.h,OMIM:109350,0,2,treat
+tomato,prostate cancer,AG.01.h,OMIM:608658,0,23,treat
+tomato sauce,prostate cancer,AG.01.l,OMIM:608658,0,15,treat
+tomatoes,prostate cancer,AG.01.h,OMIM:608658,0,13,treat
+vegetables,bladder cancer,AG.01.h,OMIM:109800,0,2,treat
+vegetables,gastric cancer,AF.07,OMIM:613659,0,8,treat
+walnuts,breast cancer,AG.01,OMIM:114480,0,2,treat
+walnuts,mammary cancer,AG.01,OMIM:114480,0,2,treat
+water,obesity,AG.01.z,OMIM:601665,0,3,treat
+watermelon,prostate cancer,AG.01.z,OMIM:608658,0,5,treat
+wheat flour,anencephaly,AG.01.k,OMIM:206500,0,2,treat
+wheat flour,neural tube defects,AG.01.j,OMIM:301410,0,3,treat
+whey,type 2 diabetes,AG.01,OMIM:601283,0,7,treat
+whey,type 2 diabetes,AG.01.ae,OMIM:601283,0,7,treat
+whey,type 2 diabetes,AG.01.e,OMIM:601283,0,7,treat
+wine,coronary disease,AG.01.y,OMIM:614293,0,8,treat
+wine,obesity,AG.01.y,OMIM:601665,0,4,treat
+yogurt,breast cancer,AG.01,OMIM:114480,0,15,treat
+yogurt,obesity,AG.01,OMIM:601665,0,6,treat
+yogurt,type 2 diabetes,AG.01,OMIM:601283,0,14,treat
+yogurt,type 2 diabetes,AG.01.ae,OMIM:601283,0,7,treat
+yogurt,type 2 diabetes,AG.01.e,OMIM:601283,0,7,treat

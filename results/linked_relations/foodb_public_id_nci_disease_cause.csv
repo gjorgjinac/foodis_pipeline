@@ -1,0 +1,110 @@
+term1,term2,foodb_public_id,nci_disease,is_cause,is_treat,relation
+agaricus bisporus,allergic rhinitis,FOOD00547,NCI:C34987,6,0,cause
+agaricus bisporus,asthma,FOOD00547,NCI:C28397,6,0,cause
+allium cepa,asthma,FOOD00006,NCI:C28397,3,0,cause
+allium cepa,dermatitis,FOOD00006,NCI:C2983,3,0,cause
+allium sativum,dermatitis,FOOD00008,NCI:C2983,2,0,cause
+apple,dermatitis,FOOD00105,NCI:C2983,4,0,cause
+banana,asthma,FOOD00208,NCI:C28397,6,0,cause
+banana,hypersensitivity,FOOD00208,NCI:C3114,10,0,cause
+banana,pancreatitis,FOOD00208,NCI:C3306,3,0,cause
+banana,rhinitis,FOOD00208,NCI:C34986,11,0,cause
+barley,Celiac Disease,FOOD00088,NCI:C26714,12,0,cause
+barley,Celiac disease,FOOD00088,NCI:C26714,83,0,cause
+barley,anaemia,FOOD00088,NCI:C2869,11,0,cause
+barley,asthma,FOOD00088,NCI:C28397,4,0,cause
+barley,celiac disease,FOOD00088,NCI:C26714,7,0,cause
+barley,coeliac disease,FOOD00088,NCI:C26714,6,0,cause
+barley,dermatitis,FOOD00088,NCI:C2983,18,0,cause
+barley,osteoporosis,FOOD00088,NCI:C3298,11,0,cause
+beer,Korsakoff's psychosis,FOOD00268,NCI:C35764,4,0,cause
+beer,Wernicke-Korsakoff syndrome,FOOD00268,NCI:C35764,3,0,cause
+beer,lactic acidosis,FOOD00268,NCI:C98969,5,0,cause
+beverages,rosacea,FOOD00870,NCI:C97136,2,0,cause
+beverages,telangiectasia,FOOD00870,NCI:C28194,6,0,cause
+black tea,diabetes mellitus,FOOD00907,NCI:C2985,10,0,cause
+black tea,kidney diseases,FOOD00907,NCI:C3149,10,0,cause
+carrot,dermatitis,FOOD00245,NCI:C2983,4,0,cause
+cheese,Migraine,FOOD00617,NCI:C89715,6,0,cause
+cheese,hypertension,FOOD00617,NCI:C3117,3,0,cause
+cheese,insulin-dependent diabetes mellitus,FOOD00617,NCI:C2986,2,0,cause
+cheese,migraine,FOOD00617,NCI:C89715,20,0,cause
+chestnut,hypersensitivity,FOOD00045,NCI:C3114,6,0,cause
+chewing gum,stomatitis,FOOD00643,NCI:C26887,6,0,cause
+chicken,obesity,FOOD00329,NCI:C159658,2,0,cause
+chicory,asthma,FOOD00049,NCI:C28397,4,0,cause
+chocolate,Migraine,FOOD00687,NCI:C89715,2,0,cause
+chocolate,atrial fibrillation,FOOD00687,NCI:C50466,3,0,cause
+chocolate,hyperglycemia,FOOD00687,NCI:C26797,4,0,cause
+chocolate,migraine,FOOD00687,NCI:C89715,15,0,cause
+chocolate,obesity,FOOD00687,NCI:C159658,16,0,cause
+cinnamon,dermatitis,FOOD00572,NCI:C2983,3,0,cause
+cinnamon,hepatitis,FOOD00572,NCI:C82978,4,0,cause
+cinnamon,hypersensitivity,FOOD00572,NCI:C3114,10,0,cause
+cinnamon,stomatitis,FOOD00572,NCI:C26887,19,0,cause
+cinnamon,telangiectasia,FOOD00572,NCI:C28194,3,0,cause
+corn,dermatitis,FOOD00205,NCI:C2983,11,0,cause
+corn,rhinitis,FOOD00205,NCI:C34986,3,0,cause
+crab,allergic rhinitis,FOOD00573,NCI:C34987,3,0,cause
+eggs,eczema,FOOD00619,NCI:C2983,3,0,cause
+eggs,obstructive uropathy,FOOD00619,NCI:C79805,3,0,cause
+flour,Asthma,FOOD00799,NCI:C28397,5,0,cause
+flour,allergic rhinitis,FOOD00799,NCI:C34987,4,0,cause
+flour,asthma,FOOD00799,NCI:C28397,30,0,cause
+flour,hypersensitivity pneumonitis,FOOD00799,NCI:C34369,3,0,cause
+flour,rhinitis,FOOD00799,NCI:C34986,6,0,cause
+fruit juice,angioedema,FOOD00763,NCI:C112175,2,0,cause
+fruits,allergic conjunctivitis,FOOD00871,NCI:C34506,9,0,cause
+fruits,carotenemia,FOOD00871,NCI:C26963,3,0,cause
+fruits,dermatitis,FOOD00871,NCI:C2983,3,0,cause
+fruits,hypersensitivity,FOOD00871,NCI:C3114,5,0,cause
+garlic,dermatitis,FOOD00008,NCI:C2983,19,0,cause
+garlic,hemolytic anemia,FOOD00008,NCI:C34376,5,0,cause
+garlic,hypersensitivity,FOOD00008,NCI:C3114,10,0,cause
+garlic,rhinitis,FOOD00008,NCI:C34986,18,0,cause
+hordeum vulgare,asthma,FOOD00088,NCI:C28397,2,0,cause
+horseradish,hypersensitivity,FOOD00018,NCI:C3114,50,0,cause
+lemon,endophthalmitis,FOOD00054,NCI:C34586,3,0,cause
+lemon,hypersensitivity,FOOD00054,NCI:C3114,5,0,cause
+mustard,asthma,FOOD00654,NCI:C28397,2,0,cause
+mustard,hypersensitivity,FOOD00654,NCI:C3114,13,0,cause
+mustard,pancreatitis,FOOD00654,NCI:C3306,3,0,cause
+papaya,hypersensitivity,FOOD00041,NCI:C3114,2,0,cause
+pizza,allergic rhinitis,FOOD00637,NCI:C34987,6,0,cause
+pizza,asthma,FOOD00637,NCI:C28397,6,0,cause
+popcorn,bronchiolitis obliterans,FOOD00719,NCI:C62580,5,0,cause
+potato,asthma,FOOD00175,NCI:C28397,2,0,cause
+potato,dermatitis,FOOD00175,NCI:C2983,8,0,cause
+red wine,breast cancer,FOOD00911,NCI:C9335,3,0,cause
+red wine,irritable bowel syndrome,FOOD00911,NCI:C82343,4,0,cause
+red wine,migraine,FOOD00911,NCI:C89715,4,0,cause
+rice,asthma,FOOD00125,NCI:C28397,6,0,cause
+rosemary,asthma,FOOD00159,NCI:C28397,3,0,cause
+rye,Celiac Disease,FOOD00169,NCI:C26714,6,0,cause
+rye,Celiac disease,FOOD00169,NCI:C26714,22,0,cause
+rye,celiac disease,FOOD00169,NCI:C26714,13,0,cause
+rye,coeliac disease,FOOD00169,NCI:C26714,6,0,cause
+rye,dermatitis,FOOD00169,NCI:C2983,7,0,cause
+salt,Metabolic diseases,FOOD00647,NCI:C3235,3,0,cause
+salt,diabetes,FOOD00647,NCI:C2985,10,0,cause
+salt,gastric cancer,FOOD00647,NCI:C3387,4,0,cause
+soy milk,hyperphosphatemia,FOOD00736,NCI:C113750,2,0,cause
+sugar,diabetes,FOOD00651,NCI:C2985,11,0,cause
+triticum aestivum,Celiac disease,FOOD00187,NCI:C26714,5,0,cause
+turkey,Gastric cancer,FOOD00494,NCI:C3387,7,0,cause
+turkey,Hypertension,FOOD00494,NCI:C3117,7,0,cause
+vanilla,telangiectasia,FOOD00195,NCI:C28194,3,0,cause
+wasabi,hypersensitivity,FOOD00498,NCI:C3114,10,0,cause
+water,gastroenteritis,FOOD00664,NCI:C34632,2,0,cause
+water,lymphadenitis,FOOD00664,NCI:C26978,2,0,cause
+wheat,Celiac Disease,FOOD00561,NCI:C26714,6,0,cause
+wheat,Celiac disease,FOOD00561,NCI:C26714,60,0,cause
+wheat,Coeliac disease,FOOD00561,NCI:C26714,6,0,cause
+wheat,asthma,FOOD00561,NCI:C28397,2,0,cause
+wheat,coeliac disease,FOOD00561,NCI:C26714,13,0,cause
+wheat,dermatitis,FOOD00561,NCI:C2983,11,0,cause
+wheat,eczema,FOOD00561,NCI:C2983,9,0,cause
+wheat,irritable bowel syndrome,FOOD00561,NCI:C82343,2,0,cause
+wheat,osteoporosis,FOOD00561,NCI:C3298,11,0,cause
+white bread,diabetes,FOOD00987,NCI:C2985,4,0,cause
+white wine,migraine,FOOD00917,NCI:C89715,4,0,cause

@@ -1,0 +1,390 @@
+term1,term2,wikipedia_id,mesh_disease,is_cause,is_treat,relation
+alcoholic beverages,heart disease,Alcoholic_beverages,MESH:D006331,0,2,treat
+allium,cancers,Allium haematochiton,MESH:D009369,0,6,treat
+allium,colorectal cancer,Allium haematochiton,MESH:D015179,0,6,treat
+allium,gastric cancer,Allium haematochiton,MESH:D013274,0,10,treat
+allium,prostate cancer,Allium haematochiton,MESH:D011471,0,9,treat
+allium,stomach cancer,Allium haematochiton,MESH:D013274,0,6,treat
+allium cepa,breast cancer,Onion,MESH:D001943,0,4,treat
+allium sativum,anemia,Garlic,MESH:D000740,0,2,treat
+allium sativum,asthma,Garlic,MESH:D001249,0,6,treat
+allium sativum,atherosclerosis,Garlic,MESH:D050197,0,2,treat
+allium sativum,bladder cancer,Garlic,MESH:D001749,0,3,treat
+allium sativum,cancers,Garlic,MESH:D009369,0,17,treat
+allium sativum,diabetes,Garlic,MESH:D003920,0,8,treat
+allium sativum,dyslipidemia,Garlic,MESH:D008052,0,2,treat
+allium sativum,gastric cancer,Garlic,MESH:D013274,0,5,treat
+allium sativum,hypertension,Garlic,MESH:D006973,0,5,treat
+allium sativum,kidney diseases,Garlic,MESH:D007674,0,4,treat
+allium sativum,liver diseases,Garlic,MESH:D008107,0,4,treat
+allium sativum,malaria,Garlic,MESH:D008288,0,4,treat
+allium sativum,measles,Garlic,MESH:D008457,0,2,treat
+allium sativum,syphilis,Garlic,MESH:D002601,0,2,treat
+allium sativum,yellow fever,Garlic,MESH:D015004,0,2,treat
+annona muricata,cancers,Soursop,MESH:D009369,0,4,treat
+annona muricata,prostate cancer,Soursop,MESH:D011471,0,4,treat
+annona muricata,tuberculosis,Soursop,MESH:D014375,0,4,treat
+apium graveolens,hypertension,Wild celery,MESH:D006973,0,3,treat
+apple,hypertension,Apple,MESH:D006973,0,8,treat
+asparagus,liver cancer,Asparagus,MESH:D008113,0,18,treat
+avena sativa,atopic dermatitis,Oat,MESH:D003876,0,2,treat
+banana,hypertension,Banana,MESH:D006973,0,8,treat
+beer,Alzheimer's disease,Beer,MESH:D000544,0,6,treat
+beer,amnesia,Beer,MESH:D000647,0,2,treat
+beer,diabetes,Beer,MESH:D003920,0,8,treat
+beverages,allergic diseases,Beverages,MESH:D006967,0,3,treat
+beverages,celiac disease,Beverages,MESH:D002446,0,3,treat
+beverages,coronary heart disease,Beverages,MESH:D003324,0,7,treat
+beverages,heart disease,Beverages,MESH:D006331,0,7,treat
+brassica oleracea,prostate cancer,Brassica_oleracea,MESH:D011471,0,4,treat
+breadfruit,diabetes,Breadfruit,MESH:D003920,0,2,treat
+broccoli,breast cancer,Broccoli,MESH:D001943,0,4,treat
+broccoli,cancers,Broccoli,MESH:D009369,0,5,treat
+broccoli,cervical cancer,Broccoli,MESH:D002583,0,2,treat
+broccoli,colon cancer,Broccoli,MESH:D003110,0,4,treat
+broccoli,diabetes,Broccoli,MESH:D003920,0,5,treat
+broccoli,mammary tumors,Broccoli,MESH:D001943,0,4,treat
+broccoli,neurodegenerative diseases,Broccoli,MESH:D019636,0,5,treat
+cabbage,arthritis,Cabbage,MESH:D001168,0,2,treat
+cabbage,breast cancer,Cabbage,MESH:D001943,0,3,treat
+cabbage,cervical cancer,Cabbage,MESH:D002583,0,2,treat
+camellia sinensis,colorectal cancer,Tea,MESH:D015179,0,4,treat
+camellia sinensis,diabetes,Tea,MESH:D003920,0,5,treat
+camellia sinensis,hypertension,Tea,MESH:D006973,0,2,treat
+camellia sinensis,obesity,Tea,MESH:D009765,0,3,treat
+capsicum,cancers,Capsicum,MESH:D009369,0,15,treat
+capsicum,hypertension,Capsicum,MESH:D006973,0,3,treat
+capsicum,psoriasis,Capsicum,MESH:D011565,0,2,treat
+capsicum annuum,anemia,Capsicum_annuum,MESH:D000740,0,10,treat
+capsicum annuum,anemia,Italian sweet pepper,MESH:D000740,0,2,treat
+capsicum annuum,asthma,Capsicum_annuum,MESH:D001249,0,10,treat
+capsicum annuum,asthma,Italian sweet pepper,MESH:D001249,0,2,treat
+capsicum annuum,measles,Capsicum_annuum,MESH:D008457,0,10,treat
+capsicum annuum,measles,Italian sweet pepper,MESH:D008457,0,2,treat
+capsicum annuum,syphilis,Capsicum_annuum,MESH:D002601,0,10,treat
+capsicum annuum,syphilis,Italian sweet pepper,MESH:D002601,0,2,treat
+cauliflower,arthritis,Cauliflower,MESH:D001168,0,2,treat
+cheese,diabetes,Cheese,MESH:D003920,0,25,treat
+cheese,hyperphosphatemia,Cheese,MESH:D054559,0,2,treat
+cheese,type 2 diabetes,Cheese,MESH:D003924,0,28,treat
+chives,colorectal cancer,Chives,MESH:D015179,0,5,treat
+chives,prostate cancer,Chives,MESH:D011471,0,18,treat
+chocolate,breast cancer,Types_of_chocolate,MESH:D001943,0,10,treat
+chocolate,diabetes,Types_of_chocolate,MESH:D003920,0,4,treat
+chocolate,metabolic syndrome,Types_of_chocolate,MESH:D008659,0,3,treat
+chocolate,stroke,Types_of_chocolate,MESH:D002561,0,3,treat
+cichorium intybus,type 2 diabetes mellitus,Chicory,MESH:D003924,0,3,treat
+cinnamomum,diabetes,Cinnamon,MESH:D003920,0,2,treat
+cinnamomum,gastritis,Cinnamon,MESH:D005756,0,2,treat
+cinnamomum,type 2 diabetes mellitus,Cinnamon,MESH:D003924,0,6,treat
+cinnamon,Alzheimer's disease,Cinnamon,MESH:D000544,0,10,treat
+cinnamon,diabetes,Cinnamon,MESH:D003920,0,34,treat
+cinnamon,diabetes mellitus,Cinnamon,MESH:D003920,0,18,treat
+cinnamon,diarrhea,Cinnamon,MESH:D004403,0,3,treat
+cinnamon,gastric diseases,Cinnamon,MESH:D013272,0,3,treat
+cinnamon,glucose intolerance,Cinnamon,MESH:D018149,0,6,treat
+cinnamon,metabolic syndrome,Cinnamon,MESH:D008659,0,21,treat
+cinnamon,neurodegenerative diseases,Cinnamon,MESH:D019636,0,40,treat
+cinnamon,obesity,Cinnamon,MESH:D009765,0,6,treat
+cinnamon,type 2 diabetes,Cinnamon,MESH:D003924,0,63,treat
+cinnamon,type 2 diabetes mellitus,Cinnamon,MESH:D003924,0,6,treat
+cinnamon,type-2 diabetes,Cinnamon,MESH:D003924,0,7,treat
+citrus,gastric cancer,Citrus,MESH:D013274,0,4,treat
+citrus maxima,hypertension,Pomelo,MESH:D006973,0,2,treat
+cocktail,anemia,List_of_cocktails,MESH:D000740,0,2,treat
+cocktail,degenerative diseases,List_of_cocktails,MESH:D019636,0,2,treat
+coconut,atopic dermatitis,Coconut,MESH:D003876,0,10,treat
+coffee,adenomas,Coffee,MESH:D000236,0,2,treat
+coffee,alcoholic liver cirrhosis,Coffee,MESH:D008104,0,2,treat
+coffee,atherosclerosis,Coffee,MESH:D050197,0,12,treat
+coffee,diabetes,Coffee,MESH:D003920,0,5,treat
+coffee,gastric cancer,Coffee,MESH:D013274,0,4,treat
+coffee,gout,Coffee,MESH:D015210,0,3,treat
+coffee,hyperuricemia,Coffee,MESH:D033461,0,2,treat
+coffee,liver disease,Coffee,MESH:D008107,0,4,treat
+coffee,obesity,Coffee,MESH:D009765,0,4,treat
+coffee,type 2 diabetes,Coffee,MESH:D003924,0,4,treat
+coriander,neurodegenerative diseases,Coriander,MESH:D019636,0,8,treat
+corn,celiac disease,Corn,MESH:D002446,0,6,treat
+corn,hypertension,Corn,MESH:D006973,0,8,treat
+cream,peptic ulcer disease,Cream,MESH:D010437,0,3,treat
+crocus sativus,asthma,Saffron,MESH:D001249,0,2,treat
+crocus sativus,cancers,Saffron,MESH:D009369,0,15,treat
+cucurbita,alopecia,Cucurbita,MESH:D000505,0,2,treat
+curcuma longa,asthma,Turmeric,MESH:D001249,0,4,treat
+curcuma longa,cancers,Turmeric,MESH:D009369,0,15,treat
+curcuma longa,diabetes,Turmeric,MESH:D003920,0,10,treat
+curcuma longa,heart diseases,Turmeric,MESH:D006331,0,4,treat
+curcuma longa,hepatic disorders,Turmeric,MESH:D008107,0,5,treat
+curcuma longa,hyperglycemia,Turmeric,MESH:D006943,0,5,treat
+curcuma longa,neurodegenerative diseases,Turmeric,MESH:D019636,0,2,treat
+curcuma longa,obesity,Turmeric,MESH:D009765,0,5,treat
+curcuma longa,rheumatoid arthritis,Turmeric,MESH:D001172,0,2,treat
+eggs,cancers,Eggs,MESH:D009369,0,9,treat
+eggs,diabetes,Eggs,MESH:D003920,0,27,treat
+eggs,metabolic syndrome,Eggs,MESH:D008659,0,4,treat
+eggs,neurodegenerative diseases,Eggs,MESH:D019636,0,9,treat
+eggs,type 2 diabetes,Eggs,MESH:D003924,0,9,treat
+fenugreek,diabetes,Fenugreek,MESH:D003920,0,5,treat
+fenugreek,type 2 diabetes,Fenugreek,MESH:D003924,0,9,treat
+ficus carica,constipation,Ficus_carica,MESH:D003248,0,3,treat
+flour,spina bifida,Flour,MESH:D016135,0,6,treat
+fruit juice,Metabolic Syndrome,Juice,MESH:D008659,0,6,treat
+fruit juice,dyslipidemia,Juice,MESH:D008052,0,6,treat
+fruits,Alzheimer's disease,Fruits,MESH:D000544,0,4,treat
+fruits,Breast Cancer,Fruits,MESH:D001943,0,5,treat
+fruits,Colon cancer,Fruits,MESH:D003110,0,2,treat
+fruits,Parkinson's disease,Fruits,MESH:D010300,0,3,treat
+fruits,adenomas,Fruits,MESH:D000236,0,4,treat
+fruits,amnesia,Fruits,MESH:D000647,0,2,treat
+fruits,anemia,Fruits,MESH:D000740,0,2,treat
+fruits,asthma,Fruits,MESH:D001249,0,18,treat
+fruits,atherosclerosis,Fruits,MESH:D050197,0,3,treat
+fruits,bladder cancer,Fruits,MESH:D001749,0,5,treat
+fruits,breast cancer,Fruits,MESH:D001943,0,7,treat
+fruits,cancers,Fruits,MESH:D009369,0,41,treat
+fruits,carcinomas,Fruits,MESH:D009375,0,2,treat
+fruits,cerebrovascular diseases,Fruits,MESH:D002561,0,2,treat
+fruits,chronic obstructive pulmonary disease,Fruits,MESH:D029424,0,5,treat
+fruits,colon cancer,Fruits,MESH:D003110,0,3,treat
+fruits,colorectal cancer,Fruits,MESH:D015179,0,6,treat
+fruits,coronary heart disease,Fruits,MESH:D003324,0,25,treat
+fruits,degenerative diseases,Fruits,MESH:D019636,0,6,treat
+fruits,diabetes mellitus,Fruits,MESH:D003920,0,4,treat
+fruits,diarrhea,Fruits,MESH:D004403,0,5,treat
+fruits,diarrhoea,Fruits,MESH:D004403,0,4,treat
+fruits,dysentery,Fruits,MESH:D004403,0,2,treat
+fruits,gastric cancer,Fruits,MESH:D013274,0,6,treat
+fruits,heart attacks,Fruits,MESH:D009203,0,2,treat
+fruits,heart disease,Fruits,MESH:D006331,0,9,treat
+fruits,hyperlipidaemia,Fruits,MESH:D006949,0,6,treat
+fruits,hyperphosphatemia,Fruits,MESH:D054559,0,2,treat
+fruits,hypertension,Fruits,MESH:D006973,0,40,treat
+fruits,kidney disease,Fruits,MESH:D007674,0,2,treat
+fruits,metabolic syndrome,Fruits,MESH:D008659,0,2,treat
+fruits,muscle wasting,Fruits,MESH:D009133,0,4,treat
+fruits,neurodegenerative diseases,Fruits,MESH:D019636,0,26,treat
+fruits,obesity,Fruits,MESH:D009765,0,7,treat
+fruits,osteoporosis,Fruits,MESH:D010024,0,3,treat
+fruits,ovarian cancer,Fruits,MESH:D010051,0,4,treat
+fruits,prostate cancer,Fruits,MESH:D011471,0,4,treat
+fruits,skin cancer,Fruits,MESH:D012878,0,2,treat
+fruits,stroke,Fruits,MESH:D002561,0,19,treat
+garcinia mangostana,diarrhea,Purple_mangosteen,MESH:D004403,0,2,treat
+garlic,arteriosclerosis,Garlic,MESH:D001161,0,4,treat
+garlic,atherosclerosis,Garlic,MESH:D050197,0,23,treat
+garlic,breast cancer,Garlic,MESH:D001943,0,17,treat
+garlic,cancers,Garlic,MESH:D009369,0,50,treat
+garlic,colon cancer,Garlic,MESH:D003110,0,10,treat
+garlic,colorectal cancer,Garlic,MESH:D015179,0,8,treat
+garlic,diabetes,Garlic,MESH:D003920,0,20,treat
+garlic,dyslipidemia,Garlic,MESH:D008052,0,3,treat
+garlic,eclampsia,Garlic,MESH:D004461,0,2,treat
+garlic,gastric cancer,Garlic,MESH:D013274,0,8,treat
+garlic,gingivitis,Garlic,MESH:D005891,0,3,treat
+garlic,hyperglycemia,Garlic,MESH:D006943,0,2,treat
+garlic,hypertension,Garlic,MESH:D006973,0,29,treat
+garlic,kidney diseases,Garlic,MESH:D007674,0,4,treat
+garlic,liver cancer,Garlic,MESH:D008113,0,18,treat
+garlic,liver diseases,Garlic,MESH:D008107,0,4,treat
+garlic,malaria,Garlic,MESH:D008288,0,4,treat
+garlic,mammary cancer,Garlic,MESH:D001943,0,14,treat
+garlic,metabolic diseases,Garlic,MESH:D008659,0,3,treat
+garlic,myocardial infarction,Garlic,MESH:D009203,0,2,treat
+garlic,neurodegenerative diseases,Garlic,MESH:D019636,0,8,treat
+garlic,periodontal diseases,Garlic,MESH:D010510,0,3,treat
+garlic,prostate cancer,Garlic,MESH:D011471,0,19,treat
+garlic,renal hypertension,Garlic,MESH:D006977,0,2,treat
+garlic,stroke,Garlic,MESH:D002561,0,6,treat
+garlic,thrombosis,Garlic,MESH:D013927,0,3,treat
+ginger,Alzheimer's disease,Ginger,MESH:D000544,0,9,treat
+ginger,CRF,Ginger,MESH:D007676,0,3,treat
+ginger,adenomas,Ginger,MESH:D000236,0,5,treat
+ginger,arthritis,Ginger,MESH:D001168,0,4,treat
+ginger,asthma,Ginger,MESH:D001249,0,7,treat
+ginger,bronchitis,Ginger,MESH:D001991,0,3,treat
+ginger,cancers,Ginger,MESH:D009369,0,33,treat
+ginger,chronic kidney diseases,Ginger,MESH:D007676,0,3,treat
+ginger,colon cancer,Ginger,MESH:D003110,0,2,treat
+ginger,colorectal cancer,Ginger,MESH:D015179,0,9,treat
+ginger,constipation,Ginger,MESH:D003248,0,14,treat
+ginger,diabetes,Ginger,MESH:D003920,0,26,treat
+ginger,diabetes mellitus,Ginger,MESH:D003920,0,6,treat
+ginger,diarrhea,Ginger,MESH:D004403,0,17,treat
+ginger,diarrhoea,Ginger,MESH:D004403,0,9,treat
+ginger,dysentery,Ginger,MESH:D004403,0,3,treat
+ginger,gastrointestinal disease,Ginger,MESH:D004066,0,3,treat
+ginger,gastrointestinal diseases,Ginger,MESH:D004066,0,2,treat
+ginger,gastrointestinal disorders,Ginger,MESH:D004066,0,3,treat
+ginger,heart diseases,Ginger,MESH:D006331,0,4,treat
+ginger,hepatic disorders,Ginger,MESH:D008107,0,5,treat
+ginger,hyperglycemia,Ginger,MESH:D006943,0,5,treat
+ginger,hypertension,Ginger,MESH:D006973,0,13,treat
+ginger,inflammatory bowel diseases,Ginger,MESH:D015212,0,2,treat
+ginger,irritable bowel syndrome,Ginger,MESH:D043183,0,9,treat
+ginger,liver cancer,Ginger,MESH:D008113,0,9,treat
+ginger,migraine,Ginger,MESH:D008881,0,8,treat
+ginger,motion sickness,Ginger,MESH:D009041,0,12,treat
+ginger,mucositis,Ginger,MESH:D052016,0,3,treat
+ginger,neurodegenerative diseases,Ginger,MESH:D019636,0,32,treat
+ginger,obesity,Ginger,MESH:D009765,0,14,treat
+ginkgo biloba,asthma,Ginkgo biloba,MESH:D001249,0,4,treat
+ginseng,amnesia,Ginseng,MESH:D000647,0,2,treat
+ginseng,diabetes,Ginseng,MESH:D003920,0,15,treat
+ginseng,hyperglycemia,Ginseng,MESH:D006943,0,2,treat
+ginseng,hypertension,Ginseng,MESH:D006973,0,3,treat
+ginseng,metabolic diseases,Ginseng,MESH:D008659,0,2,treat
+ginseng,migraine,Ginseng,MESH:D008881,0,3,treat
+ginseng,obesity,Ginseng,MESH:D009765,0,4,treat
+ginseng,stroke,Ginseng,MESH:D002561,0,2,treat
+ginseng,type 2 diabetes,Ginseng,MESH:D003924,0,22,treat
+glycine max,osteoporosis,Soybean,MESH:D010024,0,2,treat
+gossypium,diarrhea,Cottonseed,MESH:D004403,0,2,treat
+grape,atherosclerosis,Grape,MESH:D050197,0,3,treat
+grape,colon cancer,Grape,MESH:D003110,0,11,treat
+grape,diabetes,Grape,MESH:D003920,0,2,treat
+grape,mammary tumor,Grape,MESH:D001943,0,2,treat
+grape,prostate cancer,Grape,MESH:D011471,0,2,treat
+grapefruit,Parkinson's disease,Grapefruit,MESH:D010300,0,3,treat
+grapefruit,hypertension,Grapefruit,MESH:D006973,0,5,treat
+hibiscus sabdariffa,diabetes,Roselle_(plant),MESH:D003920,0,3,treat
+hibiscus sabdariffa,hypertension,Roselle_(plant),MESH:D006973,0,7,treat
+hibiscus sabdariffa,obesity,Roselle_(plant),MESH:D009765,0,2,treat
+honey,amnesia,Honey,MESH:D000647,0,2,treat
+honey,colorectal cancer,Honey,MESH:D015179,0,5,treat
+honey,eczema,Honey,MESH:D003872,0,3,treat
+honey,metabolic syndrome,Honey,MESH:D008659,0,6,treat
+honey,psoriasis,Honey,MESH:D011565,0,3,treat
+honey,stroke,Honey,MESH:D002561,0,2,treat
+honey,type 2 diabetes,Honey,MESH:D003924,0,4,treat
+ipomoea batatas,hyperglycemia,Sweet Potato Pie (album),MESH:D006943,0,4,treat
+ipomoea batatas,type 2 diabetes,Sweet Potato Pie (album),MESH:D003924,0,4,treat
+ipomoea batatas,type 2 diabetes mellitus,Sweet Potato Pie (album),MESH:D003924,0,3,treat
+kefir,metabolic syndrome,Kefir,MESH:D008659,0,2,treat
+kiwi,hypertension,Kiwifruit,MESH:D006973,0,8,treat
+lemon,Alzheimer's disease,Lemon,MESH:D000544,0,3,treat
+lemon,asthma,Lemon,MESH:D001249,0,2,treat
+lemon,gastritis,Lemon,MESH:D005756,0,2,treat
+lemon,gastroesophageal reflux,Lemon,MESH:D005764,0,2,treat
+lemon,pneumonia,Lemon,MESH:D011014,0,10,treat
+lemon,pulmonary fibrosis,Lemon,MESH:D011658,0,10,treat
+lentils,type 2 diabetes,Lentils,MESH:D003924,0,4,treat
+linum usitatissimum,migraine,Flax,MESH:D008881,0,3,treat
+liquor,coronary disease,Liquor,MESH:D003324,0,8,treat
+lupinus albus,celiac disease,White_lupine,MESH:D002446,0,2,treat
+mangifera indica,asthma,Mango,MESH:D001249,0,2,treat
+millet,diabetes mellitus,Millet,MESH:D003920,0,4,treat
+momordica charantia,diabetes,Bitter melon,MESH:D003920,0,2,treat
+momordica charantia,hyperglycemia,Bitter melon,MESH:D006943,0,4,treat
+mulberry,dyslipidemia,Mulberry,MESH:D008052,0,3,treat
+mulberry,obesity,Mulberry,MESH:D009765,0,3,treat
+mushrooms,prostate cancer,Mushrooms,MESH:D011471,0,5,treat
+nuts,atherosclerosis,Nut_(fruit),MESH:D050197,0,12,treat
+nuts,epilepsy,Nut_(fruit),MESH:D004827,0,6,treat
+nuts,stroke,Nut_(fruit),MESH:D002561,0,6,treat
+nuts,type 2 diabetes,Nut_(fruit),MESH:D003924,0,3,treat
+oat,diabetes,Oat,MESH:D003920,0,16,treat
+opuntia,diabetes,Opuntia,MESH:D003920,0,2,treat
+opuntia,diabetes mellitus,Opuntia,MESH:D003920,0,5,treat
+oryza sativa,celiac disease,Rice,MESH:D002446,0,2,treat
+oryza sativa,diabetes,Rice,MESH:D003920,0,3,treat
+panax,alopecia,Ginseng,MESH:D000505,0,2,treat
+panax,amnesia,Ginseng,MESH:D000647,0,2,treat
+panax,diabetes,Ginseng,MESH:D003920,0,2,treat
+panax,hyperglycemia,Ginseng,MESH:D006943,0,3,treat
+panax,hypertension,Ginseng,MESH:D006973,0,3,treat
+panax,metabolic diseases,Ginseng,MESH:D008659,0,2,treat
+panax,migraine,Ginseng,MESH:D008881,0,3,treat
+panax,obesity,Ginseng,MESH:D009765,0,2,treat
+panax,stroke,Ginseng,MESH:D002561,0,2,treat
+papaya,prostate cancer,Papaya,MESH:D011471,0,15,treat
+pear,diabetes mellitus,Pear,MESH:D003920,0,2,treat
+pear,metabolic diseases,Pear,MESH:D008659,0,2,treat
+piper nigrum,cancers,Black pepper,MESH:D009369,0,15,treat
+pisum sativum,anemia,Pea,MESH:D000740,0,2,treat
+pisum sativum,asthma,Pea,MESH:D001249,0,2,treat
+pisum sativum,measles,Pea,MESH:D008457,0,2,treat
+pisum sativum,syphilis,Pea,MESH:D002601,0,2,treat
+pisum sativum,yellow fever,Pea,MESH:D015004,0,2,treat
+pomegranate,colon cancer,Pomegranate,MESH:D003110,0,10,treat
+pomegranate,liver cancer,Pomegranate,MESH:D008113,0,9,treat
+pomegranate,prostate cancer,Pomegranate,MESH:D011471,0,5,treat
+potato,renal cell carcinoma,Potato,MESH:D002292,0,20,treat
+prickly pear,diabetes,Opuntia,MESH:D003920,0,3,treat
+prunus,diarrhea,Prunus,MESH:D004403,0,3,treat
+pulses,diabetes,Pulse_(legume),MESH:D003920,0,2,treat
+pulses,type 2 diabetes,Pulse_(legume),MESH:D003924,0,12,treat
+punica granatum,cystitis,Pomegranate,MESH:D003556,0,3,treat
+punica granatum,diarrhea,Pomegranate,MESH:D004403,0,2,treat
+punica granatum,psoriasis,Pomegranate,MESH:D011565,0,3,treat
+raphanus sativus,anemia,Radish,MESH:D000740,0,2,treat
+raphanus sativus,asthma,Radish,MESH:D001249,0,2,treat
+raphanus sativus,measles,Radish,MESH:D008457,0,2,treat
+rice,atopic dermatitis,Rice,MESH:D003876,0,3,treat
+rice,celiac disease,Rice,MESH:D002446,0,2,treat
+rice,diabetes,Rice,MESH:D003920,0,3,treat
+saffron,asthma,Saffron,MESH:D001249,0,3,treat
+saffron,cancers,Saffron,MESH:D009369,0,30,treat
+salt,stroke,Salt,MESH:D002561,0,3,treat
+sisymbrium,anemia,Hedge_mustard,MESH:D000740,0,2,treat
+sisymbrium,asthma,Hedge_mustard,MESH:D001249,0,2,treat
+sisymbrium,measles,Hedge_mustard,MESH:D008457,0,2,treat
+sisymbrium,syphilis,Hedge_mustard,MESH:D002601,0,2,treat
+sisymbrium,yellow fever,Hedge_mustard,MESH:D015004,0,2,treat
+soy bean,pancreatitis,Soybean,MESH:D010195,0,4,treat
+strawberry,hypertension,Strawberry,MESH:D006973,0,2,treat
+sweet potato,malignant tumor,Sweet Potato Pie (album),MESH:D009369,0,2,treat
+sweet potato,renal cell carcinoma,Sweet Potato Pie (album),MESH:D002292,0,20,treat
+tea,breast cancer,Tea,MESH:D001943,0,10,treat
+tea,colon cancer,Tea,MESH:D003110,0,9,treat
+tea,colorectal cancer,Tea,MESH:D015179,0,3,treat
+tea,coronary disease,Tea,MESH:D003324,0,8,treat
+tea,diabetes,Tea,MESH:D003920,0,8,treat
+tea,hypertension,Tea,MESH:D006973,0,5,treat
+tea,liver disease,Tea,MESH:D008107,0,2,treat
+tea,metabolic syndrome,Tea,MESH:D008659,0,2,treat
+tea,obesity,Tea,MESH:D009765,0,13,treat
+tea,osteoporosis,Tea,MESH:D010024,0,2,treat
+tea,stroke,Tea,MESH:D002561,0,4,treat
+thistle,Type 2 diabetes mellitus,Thistle,MESH:D003924,0,6,treat
+thistle,liver diseases,Thistle,MESH:D008107,0,9,treat
+tofu,prostate cancer,Tofu,MESH:D011471,0,2,treat
+trigonella foenum-graecum,diabetes,Fenugreek,MESH:D003920,0,14,treat
+triticum aestivum,diarrhea,Common wheat,MESH:D004403,0,2,treat
+turmeric,liver cancer,Turmeric,MESH:D008113,0,45,treat
+vaccinium macrocarpon,psoriasis,Vaccinium macrocarpon,MESH:D011565,0,3,treat
+vaccinium vitis-idaea,obesity,Vaccinium vitis-idaea,MESH:D009765,0,4,treat
+vinegar,diabetes,Vinegar,MESH:D003920,0,15,treat
+water,dermatitis,Water,MESH:D003872,0,2,treat
+water,diabetes,Water,MESH:D003920,0,2,treat
+water,hyperglycemia,Water,MESH:D006943,0,10,treat
+water,hypertension,Water,MESH:D006973,0,4,treat
+water,obesity,Water,MESH:D009765,0,3,treat
+watermelon,hypertension,Watermelon,MESH:D006973,0,8,treat
+watermelon,prostate cancer,Watermelon,MESH:D011471,0,5,treat
+wheat,spina bifida,Wheat,MESH:D016135,0,2,treat
+whey,Type 2 diabetes,Whey,MESH:D003924,0,4,treat
+whey,glucose intolerance,Whey,MESH:D018149,0,5,treat
+whey,metabolic syndrome,Whey,MESH:D008659,0,8,treat
+whey,obesity,Whey,MESH:D009765,0,7,treat
+whey,type 2 diabetes,Whey,MESH:D003924,0,33,treat
+whey,type 2 diabetes mellitus,Whey,MESH:D003924,0,5,treat
+zea mays,celiac disease,Corn,MESH:D002446,0,2,treat
+zingiber officinale,arthritis,Ginger,MESH:D001168,0,4,treat
+zingiber officinale,bronchitis,Ginger,MESH:D001991,0,3,treat
+zingiber officinale,cancers,Ginger,MESH:D009369,0,16,treat
+zingiber officinale,colorectal cancer,Ginger,MESH:D015179,0,5,treat
+zingiber officinale,constipation,Ginger,MESH:D003248,0,7,treat
+zingiber officinale,diabetes mellitus,Ginger,MESH:D003920,0,4,treat
+zingiber officinale,diarrhea,Ginger,MESH:D004403,0,10,treat
+zingiber officinale,diarrhoea,Ginger,MESH:D004403,0,2,treat
+zingiber officinale,dysentery,Ginger,MESH:D004403,0,3,treat
+zingiber officinale,gastrointestinal diseases,Ginger,MESH:D004066,0,2,treat
+zingiber officinale,gastrointestinal disorders,Ginger,MESH:D004066,0,5,treat
+zingiber officinale,helminthiasis,Ginger,MESH:D006373,0,4,treat
+zingiber officinale,hyperglycemia,Ginger,MESH:D006943,0,6,treat
+zingiber officinale,hypertension,Ginger,MESH:D006973,0,7,treat
+zingiber officinale,motion sickness,Ginger,MESH:D009041,0,2,treat
+zingiber officinale,obesity,Ginger,MESH:D009765,0,5,treat
+zingiber officinale,type 2 diabetes mellitus,Ginger,MESH:D003924,0,3,treat
+zingiber officinale,ulcerative colitis,Ginger,MESH:D003093,0,2,treat

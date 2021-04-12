@@ -1,0 +1,75 @@
+term1,term2,snomedct,omim_disease,is_cause,is_treat,relation
+", beer",migraine,http://purl.bioontology.org/ontology/SNOMEDCT/35748005***http://purl.bioontology.org/ontology/SNOMEDCT/58732000,OMIM:157300,10,0,cause
+apple,OAS,http://purl.bioontology.org/ontology/SNOMEDCT/735215001,OMIM:206920,6,0,cause
+banana,asthma,http://purl.bioontology.org/ontology/SNOMEDCT/256307007,OMIM:600807,6,0,cause
+banana,pancreatitis,http://purl.bioontology.org/ontology/SNOMEDCT/256307007,OMIM:167800,3,0,cause
+barley,Celiac Disease,http://purl.bioontology.org/ontology/SNOMEDCT/735124003,OMIM:611598,12,0,cause
+barley,Celiac disease,http://purl.bioontology.org/ontology/SNOMEDCT/735124003,OMIM:611598,77,0,cause
+barley,Celiac disease,http://purl.bioontology.org/ontology/SNOMEDCT/9424004***http://purl.bioontology.org/ontology/SNOMEDCT/418504009,OMIM:611598,6,0,cause
+barley,asthma,http://purl.bioontology.org/ontology/SNOMEDCT/63766005,OMIM:600807,2,0,cause
+barley,asthma,http://purl.bioontology.org/ontology/SNOMEDCT/735124003,OMIM:600807,2,0,cause
+barley,autoimmune disease,http://purl.bioontology.org/ontology/SNOMEDCT/735124003,OMIM:109100,2,0,cause
+barley,autoimmune disorder,http://purl.bioontology.org/ontology/SNOMEDCT/735124003,OMIM:109100,20,0,cause
+barley,celiac disease,http://purl.bioontology.org/ontology/SNOMEDCT/735124003,OMIM:611598,7,0,cause
+barley,coeliac disease,http://purl.bioontology.org/ontology/SNOMEDCT/735124003,OMIM:611598,6,0,cause
+barley,osteoporosis,http://purl.bioontology.org/ontology/SNOMEDCT/735124003,OMIM:166710,11,0,cause
+beef,lymphoproliferative disorder,http://purl.bioontology.org/ontology/SNOMEDCT/226916002,OMIM:PS308240,2,0,cause
+beer,Korsakoff's psychosis,http://purl.bioontology.org/ontology/SNOMEDCT/53410008,OMIM:277730,4,0,cause
+beer,Wernicke-Korsakoff syndrome,http://purl.bioontology.org/ontology/SNOMEDCT/53410008,OMIM:277730,3,0,cause
+cereal,asthma,http://purl.bioontology.org/ontology/SNOMEDCT/23182003,OMIM:600807,4,0,cause
+cereal flour,Asthma,http://purl.bioontology.org/ontology/SNOMEDCT/23182003,OMIM:600807,2,0,cause
+cheese,Migraine,http://purl.bioontology.org/ontology/SNOMEDCT/102262009,OMIM:157300,2,0,cause
+cheese,Migraine,http://purl.bioontology.org/ontology/SNOMEDCT/102264005,OMIM:157300,2,0,cause
+cheese,insulin-dependent diabetes mellitus,http://purl.bioontology.org/ontology/SNOMEDCT/102264005,OMIM:222100,2,0,cause
+cheese,migraine,http://purl.bioontology.org/ontology/SNOMEDCT/102262009,OMIM:157300,12,0,cause
+cheese,migraine,http://purl.bioontology.org/ontology/SNOMEDCT/102264005,OMIM:157300,6,0,cause
+chicken,obesity,http://purl.bioontology.org/ontology/SNOMEDCT/226955001,OMIM:601665,2,0,cause
+chocolate,Migraine,http://purl.bioontology.org/ontology/SNOMEDCT/102262009,OMIM:157300,2,0,cause
+chocolate,acne,http://purl.bioontology.org/ontology/SNOMEDCT/102262009,OMIM:604324,10,0,cause
+chocolate,acne,http://purl.bioontology.org/ontology/SNOMEDCT/29263009,OMIM:604324,8,0,cause
+chocolate,migraine,http://purl.bioontology.org/ontology/SNOMEDCT/102262009,OMIM:157300,8,0,cause
+chocolate,migraine,http://purl.bioontology.org/ontology/SNOMEDCT/102264005,OMIM:157300,7,0,cause
+chocolate,obesity,http://purl.bioontology.org/ontology/SNOMEDCT/102262009,OMIM:601665,9,0,cause
+coffee,acne,http://purl.bioontology.org/ontology/SNOMEDCT/102262009,OMIM:604324,8,0,cause
+coffee,acne,http://purl.bioontology.org/ontology/SNOMEDCT/29263009,OMIM:604324,9,0,cause
+eggs,acne,http://purl.bioontology.org/ontology/SNOMEDCT/102262009,OMIM:604324,8,0,cause
+eggs,acne,http://purl.bioontology.org/ontology/SNOMEDCT/29263009,OMIM:604324,8,0,cause
+flour,allergic rhinitis,http://purl.bioontology.org/ontology/SNOMEDCT/63766005,OMIM:607154,4,0,cause
+flour,asthma,http://purl.bioontology.org/ontology/SNOMEDCT/256307007,OMIM:600807,2,0,cause
+flour,asthma,http://purl.bioontology.org/ontology/SNOMEDCT/63766005,OMIM:600807,26,0,cause
+flour,asthma,http://purl.bioontology.org/ontology/SNOMEDCT/735124003,OMIM:600807,2,0,cause
+"flour,",asthma,http://purl.bioontology.org/ontology/SNOMEDCT/229944000***http://purl.bioontology.org/ontology/SNOMEDCT/63766005***http://purl.bioontology.org/ontology/SNOMEDCT/412071004,OMIM:600807,4,0,cause
+fruit,OAS,http://purl.bioontology.org/ontology/SNOMEDCT/72511004,OMIM:206920,14,0,cause
+fruit,gastroesophageal reflux,http://purl.bioontology.org/ontology/SNOMEDCT/72511004,OMIM:109350,3,0,cause
+garlic,asthma,http://purl.bioontology.org/ontology/SNOMEDCT/735030001,OMIM:600807,19,0,cause
+garlic,hemolytic anemia,http://purl.bioontology.org/ontology/SNOMEDCT/735030001,OMIM:266120,5,0,cause
+hazelnut,OAS,http://purl.bioontology.org/ontology/SNOMEDCT/256353000,OMIM:206920,2,0,cause
+lamb,asthma,http://purl.bioontology.org/ontology/SNOMEDCT/226942002,OMIM:600807,2,0,cause
+meat,Multiple Sclerosis,http://purl.bioontology.org/ontology/SNOMEDCT/28647000,OMIM:612594,3,0,cause
+meat,colorectal cancer,http://purl.bioontology.org/ontology/SNOMEDCT/28647000,OMIM:114500,3,0,cause
+milk,Asthma,http://purl.bioontology.org/ontology/SNOMEDCT/70813002,OMIM:600807,3,0,cause
+milk,Eosinophilic esophagitis,http://purl.bioontology.org/ontology/SNOMEDCT/70813002,OMIM:613412,7,0,cause
+milk,acne,http://purl.bioontology.org/ontology/SNOMEDCT/70813002,OMIM:604324,2,0,cause
+milk,coronary heart disease,http://purl.bioontology.org/ontology/SNOMEDCT/70813002,OMIM:614293,5,0,cause
+milk,diabetic ketoacidosis,http://purl.bioontology.org/ontology/SNOMEDCT/70813002,OMIM:612227,4,0,cause
+milk,ovarian cancer,http://purl.bioontology.org/ontology/SNOMEDCT/70813002,OMIM:167000,3,0,cause
+milk,pancreatitis,http://purl.bioontology.org/ontology/SNOMEDCT/70813002,OMIM:167800,8,0,cause
+mustard,pancreatitis,http://purl.bioontology.org/ontology/SNOMEDCT/51905005,OMIM:167800,3,0,cause
+oats,Celiac disease,http://purl.bioontology.org/ontology/SNOMEDCT/9424004***http://purl.bioontology.org/ontology/SNOMEDCT/418504009,OMIM:611598,15,0,cause
+onion,asthma,http://purl.bioontology.org/ontology/SNOMEDCT/735047000,OMIM:600807,5,0,cause
+peach,OAS,http://purl.bioontology.org/ontology/SNOMEDCT/735049002,OMIM:206920,6,0,cause
+potato,asthma,http://purl.bioontology.org/ontology/SNOMEDCT/227282006,OMIM:600807,2,0,cause
+red wine,breast cancer,http://purl.bioontology.org/ontology/SNOMEDCT/35748005***http://purl.bioontology.org/ontology/SNOMEDCT/58732000,OMIM:114480,3,0,cause
+red wine,migraine,http://purl.bioontology.org/ontology/SNOMEDCT/35748005***http://purl.bioontology.org/ontology/SNOMEDCT/58732000,OMIM:157300,4,0,cause
+related cereal,Celiac disease,http://purl.bioontology.org/ontology/SNOMEDCT/23182003,OMIM:611598,8,0,cause
+rice,asthma,http://purl.bioontology.org/ontology/SNOMEDCT/67324005,OMIM:600807,6,0,cause
+rosemary,asthma,http://purl.bioontology.org/ontology/SNOMEDCT/227410007,OMIM:600807,3,0,cause
+rye,Celiac Disease,http://purl.bioontology.org/ontology/SNOMEDCT/735124003,OMIM:611598,6,0,cause
+rye,Celiac disease,http://purl.bioontology.org/ontology/SNOMEDCT/23182003,OMIM:611598,8,0,cause
+rye,Celiac disease,http://purl.bioontology.org/ontology/SNOMEDCT/9424004***http://purl.bioontology.org/ontology/SNOMEDCT/418504009,OMIM:611598,6,0,cause
+rye flour,allergic rhinitis,http://purl.bioontology.org/ontology/SNOMEDCT/63766005,OMIM:607154,8,0,cause
+sugar,obesity,http://purl.bioontology.org/ontology/SNOMEDCT/102262009,OMIM:601665,4,0,cause
+tea,acne,http://purl.bioontology.org/ontology/SNOMEDCT/29263009,OMIM:604324,8,0,cause
+thyme,asthma,http://purl.bioontology.org/ontology/SNOMEDCT/227413009,OMIM:600807,3,0,cause
+wheat,Celiac Disease,http://purl.bioontology.org/ontology/SNOMEDCT/735124003,OMIM:611598,6,0,cause
+white wine,migraine,http://purl.bioontology.org/ontology/SNOMEDCT/67990004***http://purl.bioontology.org/ontology/SNOMEDCT/35748005,OMIM:157300,4,0,cause

@@ -1,0 +1,102 @@
+term1,term2,hansardParent,omim_disease,is_cause,is_treat,relation
+", beer",migraine,AG.01,OMIM:157300,10,0,cause
+apple,OAS,AG.01.h,OMIM:206920,6,0,cause
+banana,asthma,AG.01.h,OMIM:600807,6,0,cause
+banana,pancreatitis,AG.01.h,OMIM:167800,3,0,cause
+barley,Celiac Disease,AG.01.i,OMIM:611598,12,0,cause
+barley,Celiac disease,AG.01.i,OMIM:611598,83,0,cause
+barley,asthma,AG.01.i,OMIM:600807,2,0,cause
+barley,asthma,AG.01.j,OMIM:600807,2,0,cause
+barley,autoimmune disease,AG.01.i,OMIM:109100,2,0,cause
+barley,autoimmune disorder,AG.01.i,OMIM:109100,20,0,cause
+barley,celiac disease,AG.01.i,OMIM:611598,7,0,cause
+barley,coeliac disease,AG.01.i,OMIM:611598,6,0,cause
+barley,osteoporosis,AG.01.i,OMIM:166710,11,0,cause
+beef,lymphoproliferative disorder,AG.01,OMIM:PS308240,2,0,cause
+beer,Korsakoff's psychosis,AG.01.y,OMIM:277730,4,0,cause
+beer,Wernicke-Korsakoff syndrome,AG.01.y,OMIM:277730,3,0,cause
+cakes,acne,AG.01.g,OMIM:604324,8,0,cause
+cereal,asthma,AG.01.i,OMIM:600807,4,0,cause
+cereal flour,Asthma,AG.01.i,OMIM:600807,2,0,cause
+cheese,Migraine,AG.01,OMIM:157300,4,0,cause
+cheese,Migraine,AG.01.ae,OMIM:157300,2,0,cause
+cheese,insulin-dependent diabetes mellitus,AG.01.ae,OMIM:222100,2,0,cause
+cheese,migraine,AG.01,OMIM:157300,14,0,cause
+cheese,migraine,AG.01.ae,OMIM:157300,6,0,cause
+chicken,obesity,AG.01.d,OMIM:601665,2,0,cause
+chocolate,Migraine,AG.01,OMIM:157300,2,0,cause
+chocolate,acne,AG.01,OMIM:604324,10,0,cause
+chocolate,acne,AG.01.ag,OMIM:604324,8,0,cause
+chocolate,acne,AG.01.g,OMIM:604324,8,0,cause
+chocolate,acne,AG.01.n,OMIM:604324,8,0,cause
+chocolate,migraine,AG.01,OMIM:157300,8,0,cause
+chocolate,migraine,AG.01.ae,OMIM:157300,7,0,cause
+chocolate,obesity,AG.01,OMIM:601665,9,0,cause
+coffee,acne,AG.01,OMIM:604324,8,0,cause
+coffee,acne,AG.01.ag,OMIM:604324,9,0,cause
+coffee,acne,AG.01.g,OMIM:604324,8,0,cause
+coffee,acne,AG.01.n,OMIM:604324,8,0,cause
+crab,allergic rhinitis,AG.01.d,OMIM:607154,2,0,cause
+eggs,acne,AG.01,OMIM:604324,8,0,cause
+eggs,acne,AG.01.ag,OMIM:604324,8,0,cause
+eggs,acne,AG.01.g,OMIM:604324,8,0,cause
+eggs,acne,AG.01.n,OMIM:604324,8,0,cause
+fat,Obesity,AG.01.f,OMIM:601665,6,0,cause
+fat,Obesity,AG.01.t,OMIM:601665,4,0,cause
+fat,fatty liver syndrome,AG.01.f,OMIM:228100,3,0,cause
+fat,inflammatory bowel disease,AG.01.f,OMIM:PS266600,2,0,cause
+fat,nonalcoholic fatty liver disease,AG.01.f,OMIM:613387,3,0,cause
+fat,type 2 diabetes mellitus,AG.01.f,OMIM:601283,2,0,cause
+flour,allergic rhinitis,AG.01.j,OMIM:607154,4,0,cause
+flour,asthma,AG.01.h,OMIM:600807,2,0,cause
+flour,asthma,AG.01.i,OMIM:600807,2,0,cause
+flour,asthma,AG.01.j,OMIM:600807,26,0,cause
+flour dust,asthma,AF.10,OMIM:600807,2,0,cause
+"flour,",asthma,AG.01.k,OMIM:600807,3,0,cause
+fruit,OAS,AF.07,OMIM:206920,14,0,cause
+fruit,gastroesophageal reflux,AF.07,OMIM:109350,3,0,cause
+fruits,carotenemia,AG.01.h,OMIM:115300,3,0,cause
+garlic,asthma,AG.01,OMIM:600807,6,0,cause
+garlic,asthma,AG.01.h,OMIM:600807,19,0,cause
+garlic,hemolytic anemia,AG.01.h,OMIM:266120,5,0,cause
+hazelnut,OAS,AG.01,OMIM:206920,2,0,cause
+lamb,asthma,AG.01.d,OMIM:600807,2,0,cause
+liver,Colorectal cancer,AE.08,OMIM:114500,5,0,cause
+liver,Non-alcoholic fatty liver disease,AE.08,OMIM:613387,2,0,cause
+liver,Obesity,AE.08,OMIM:601665,2,0,cause
+liver,Wilson disease,AE.08,OMIM:277900,3,0,cause
+liver,fatty liver syndrome,AE.08,OMIM:228100,2,0,cause
+meat,Multiple Sclerosis,AG.01,OMIM:612594,3,0,cause
+meat,colorectal cancer,AG.01,OMIM:114500,3,0,cause
+milk,Asthma,AG.01.e,OMIM:600807,3,0,cause
+milk,Eosinophilic esophagitis,AG.01.e,OMIM:613412,7,0,cause
+milk,acne,AG.01.e,OMIM:604324,2,0,cause
+milk,coronary heart disease,AG.01.e,OMIM:614293,4,0,cause
+milk,diabetic ketoacidosis,AG.01.e,OMIM:612227,4,0,cause
+milk,ovarian cancer,AG.01.e,OMIM:167000,3,0,cause
+milk,pancreatitis,AG.01.e,OMIM:167800,8,0,cause
+mustard,pancreatitis,AG.01.l,OMIM:167800,3,0,cause
+oats,Celiac disease,AG.01.i,OMIM:611598,15,0,cause
+onion,asthma,AG.01.h,OMIM:600807,5,0,cause
+peach,OAS,AG.01.h,OMIM:206920,6,0,cause
+potato,asthma,AG.01,OMIM:600807,2,0,cause
+rabbit,atopic dermatitis,AG.01.d,OMIM:603165,3,0,cause
+red wine,breast cancer,AG.01,OMIM:114480,3,0,cause
+red wine,migraine,AG.01,OMIM:157300,4,0,cause
+related cereal,Celiac disease,AG.01.i,OMIM:611598,8,0,cause
+rice,asthma,AF.20,OMIM:600807,6,0,cause
+rosemary,asthma,AF.28,OMIM:600807,3,0,cause
+rye,Celiac Disease,AG.01.i,OMIM:611598,6,0,cause
+rye,Celiac disease,AG.01.i,OMIM:611598,14,0,cause
+rye flour,allergic rhinitis,AG.01.j,OMIM:607154,8,0,cause
+salt,gastric cancer,AG.01,OMIM:613659,2,0,cause
+salt,obesity,AG.01,OMIM:601665,2,0,cause
+spices,acne,AG.01.n,OMIM:604324,8,0,cause
+sugar,nonalcoholic fatty liver disease,AG.01,OMIM:613387,3,0,cause
+tea,acne,AG.01.ag,OMIM:604324,8,0,cause
+thyme,asthma,AG.01.h,OMIM:600807,3,0,cause
+trigger,asthma,AG.01,OMIM:600807,2,0,cause
+turkey,Gastric cancer,AG.01.d,OMIM:613659,7,0,cause
+wheat,Celiac Disease,AG.01.i,OMIM:611598,6,0,cause
+white wine,migraine,AG.01.y,OMIM:157300,4,0,cause
+wood,asthma,AF.10,OMIM:600807,2,0,cause

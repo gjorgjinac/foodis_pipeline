@@ -1,0 +1,114 @@
+term1,term2,wikipedia_id,mesh_disease,is_cause,is_treat,relation
+agaricus bisporus,asthma,Agaricus bisporus,MESH:D001249,6,0,cause
+allium cepa,asthma,Onion,MESH:D001249,3,0,cause
+allium cepa,dermatitis,Onion,MESH:D003872,3,0,cause
+allium sativum,dermatitis,Garlic,MESH:D003872,2,0,cause
+apple,dermatitis,Apple,MESH:D003872,4,0,cause
+baby food,diarrhea,Baby food,MESH:D004403,3,0,cause
+banana,asthma,Banana,MESH:D001249,6,0,cause
+banana,hypersensitivity,Banana,MESH:D006967,10,0,cause
+banana,pancreatitis,Banana,MESH:D010195,3,0,cause
+banana,rhinitis,Banana,MESH:D012220,11,0,cause
+barley,Celiac Disease,Barley,MESH:D002446,12,0,cause
+barley,Celiac disease,Barley,MESH:D002446,83,0,cause
+barley,anaemia,Barley,MESH:D000740,11,0,cause
+barley,asthma,Barley,MESH:D001249,4,0,cause
+barley,celiac disease,Barley,MESH:D002446,7,0,cause
+barley,coeliac disease,Barley,MESH:D002446,6,0,cause
+barley,dermatitis,Barley,MESH:D003872,18,0,cause
+barley,osteoporosis,Barley,MESH:D010024,11,0,cause
+beer,Korsakoff's psychosis,Beer,MESH:D020915,4,0,cause
+beer,Wernicke's encephalopathy,Beer,MESH:D014899,4,0,cause
+beer,Wernicke-Korsakoff syndrome,Beer,MESH:D020915,3,0,cause
+beer,lactic acidosis,Beer,MESH:D000140,5,0,cause
+beverages,rosacea,Beverages,MESH:D012393,2,0,cause
+beverages,telangiectasia,Beverages,MESH:D013684,6,0,cause
+carrot,dermatitis,Carrot,MESH:D003872,4,0,cause
+cheese,Migraine,Cheese,MESH:D008881,6,0,cause
+cheese,hypertension,Cheese,MESH:D006973,3,0,cause
+cheese,insulin-dependent diabetes mellitus,Cheese,MESH:D003922,2,0,cause
+cheese,migraine,Cheese,MESH:D008881,20,0,cause
+chestnut,hypersensitivity,Chestnut,MESH:D006967,6,0,cause
+chewing gum,stomatitis,Chewing_gum,MESH:D013280,6,0,cause
+chicken,obesity,Chicken,MESH:D009765,2,0,cause
+chicory,asthma,Chicory,MESH:D001249,4,0,cause
+chocolate,Migraine,Types_of_chocolate,MESH:D008881,2,0,cause
+chocolate,Pertussis,Types_of_chocolate,MESH:D001885,2,0,cause
+chocolate,acne,Types_of_chocolate,MESH:D000152,34,0,cause
+chocolate,atrial fibrillation,Types_of_chocolate,MESH:D001281,3,0,cause
+chocolate,hyperglycemia,Types_of_chocolate,MESH:D006943,4,0,cause
+chocolate,migraine,Types_of_chocolate,MESH:D008881,15,0,cause
+chocolate,obesity,Types_of_chocolate,MESH:D009765,16,0,cause
+cinnamon,dermatitis,Cinnamon,MESH:D003872,3,0,cause
+cinnamon,hepatitis,Cinnamon,MESH:D006521,4,0,cause
+cinnamon,hypersensitivity,Cinnamon,MESH:D006967,10,0,cause
+cinnamon,stomatitis,Cinnamon,MESH:D013280,19,0,cause
+cinnamon,telangiectasia,Cinnamon,MESH:D013684,3,0,cause
+coffee,acne,Coffee,MESH:D000152,33,0,cause
+corn,dermatitis,Corn,MESH:D003872,11,0,cause
+corn,rhinitis,Corn,MESH:D012220,3,0,cause
+eggs,acne,Eggs,MESH:D000152,32,0,cause
+eggs,eczema,Eggs,MESH:D003872,3,0,cause
+flour,Asthma,Flour,MESH:D001249,5,0,cause
+flour,asthma,Flour,MESH:D001249,30,0,cause
+flour,hypersensitivity pneumonitis,Flour,MESH:D000542,3,0,cause
+flour,rhinitis,Flour,MESH:D012220,6,0,cause
+fruit juice,angioedema,Juice,MESH:D000799,2,0,cause
+fruit juice,gastrointestinal disorders,Juice,MESH:D004066,2,0,cause
+fruits,allergic conjunctivitis,Fruits,MESH:D003233,9,0,cause
+fruits,dermatitis,Fruits,MESH:D003872,3,0,cause
+fruits,hypersensitivity,Fruits,MESH:D006967,5,0,cause
+garlic,dermatitis,Garlic,MESH:D003872,19,0,cause
+garlic,hemolytic anemia,Garlic,MESH:D000743,5,0,cause
+garlic,hypersensitivity,Garlic,MESH:D006967,10,0,cause
+garlic,rhinitis,Garlic,MESH:D012220,18,0,cause
+hordeum vulgare,asthma,Barley,MESH:D001249,2,0,cause
+horseradish,hypersensitivity,Horseradish,MESH:D006967,50,0,cause
+lemon,endophthalmitis,Lemon,MESH:D009877,3,0,cause
+lemon,hypersensitivity,Lemon,MESH:D006967,5,0,cause
+mustard,asthma,Mustard_(condiment),MESH:D001249,2,0,cause
+mustard,hypersensitivity,Mustard_(condiment),MESH:D006967,13,0,cause
+mustard,pancreatitis,Mustard_(condiment),MESH:D010195,3,0,cause
+papaya,hypersensitivity,Papaya,MESH:D006967,2,0,cause
+peanut,atopic dermatitis,Mr. Peanut,MESH:D003876,3,0,cause
+phaseolus vulgaris,diarrhoea,Phaseolus vulgaris,MESH:D004403,2,0,cause
+phaseolus vulgaris,diarrhoea,Phaseolus_vulgaris,MESH:D004403,4,0,cause
+phaseolus vulgaris,gastroenteritis,Phaseolus_vulgaris,MESH:D005759,2,0,cause
+pizza,asthma,Pizza,MESH:D001249,6,0,cause
+popcorn,bronchiolitis obliterans,Popcorn,MESH:D001989,5,0,cause
+potato,asthma,Potato,MESH:D001249,2,0,cause
+potato,dermatitis,Potato,MESH:D003872,8,0,cause
+rabbit,atopic dermatitis,Rabbit,MESH:D003876,3,0,cause
+rice,asthma,Rice,MESH:D001249,6,0,cause
+rosemary,asthma,Rosemary,MESH:D001249,3,0,cause
+rye,Celiac Disease,Rye,MESH:D002446,6,0,cause
+rye,Celiac disease,Rye,MESH:D002446,22,0,cause
+rye,celiac disease,Rye,MESH:D002446,13,0,cause
+rye,coeliac disease,Rye,MESH:D002446,6,0,cause
+rye,dermatitis,Rye,MESH:D003872,7,0,cause
+salt,Metabolic diseases,Salt,MESH:D008659,3,0,cause
+salt,diabetes,Salt,MESH:D003920,10,0,cause
+salt,gastric cancer,Salt,MESH:D013274,4,0,cause
+soy milk,hyperphosphatemia,Soy_milk,MESH:D054559,2,0,cause
+sugar,diabetes,Sugar,MESH:D003920,11,0,cause
+sugar,dyslipidemia,Sugar,MESH:D008052,3,0,cause
+tea,acne,Tea,MESH:D000152,9,0,cause
+triticum aestivum,Celiac disease,Common wheat,MESH:D002446,5,0,cause
+turkey,Gastric cancer,Meleagris_gallopavo,MESH:D013274,7,0,cause
+turkey,Hypertension,Meleagris_gallopavo,MESH:D006973,7,0,cause
+vanilla,telangiectasia,Vanilla,MESH:D013684,3,0,cause
+wasabi,hypersensitivity,Wasabi,MESH:D006967,10,0,cause
+water,campylobacteriosis,Water,MESH:D002169,5,0,cause
+water,gastroenteritis,Water,MESH:D005759,2,0,cause
+water,lymphadenitis,Water,MESH:D008199,2,0,cause
+water,nephrosis,Water,MESH:D009401,2,0,cause
+water,tuberculosis,Water,MESH:D014375,3,0,cause
+wheat,Celiac Disease,Wheat,MESH:D002446,6,0,cause
+wheat,Celiac disease,Wheat,MESH:D002446,60,0,cause
+wheat,Coeliac disease,Wheat,MESH:D002446,6,0,cause
+wheat,asthma,Wheat,MESH:D001249,2,0,cause
+wheat,coeliac disease,Wheat,MESH:D002446,13,0,cause
+wheat,dermatitis,Wheat,MESH:D003872,11,0,cause
+wheat,eczema,Wheat,MESH:D003872,9,0,cause
+wheat,irritable bowel syndrome,Wheat,MESH:D043183,2,0,cause
+wheat,osteoporosis,Wheat,MESH:D010024,11,0,cause

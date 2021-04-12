@@ -1,0 +1,68 @@
+term1,term2,hansardClosest,efo_disease,is_cause,is_treat,relation
+", beer",migraine,AG.01,EFO:0003821,10,0,cause
+banana,asthma,AG.01.h.01,EFO:0000270,6,0,cause
+banana,pancreatitis,AG.01.h.01,EFO:0000278,3,0,cause
+barley,Celiac Disease,AG.01.i,EFO:0001060,12,0,cause
+barley,Celiac disease,AG.01.i,EFO:0001060,83,0,cause
+barley,anaemia,AG.01.i,EFO:0004272,11,0,cause
+barley,asthma,AG.01.i,EFO:0000270,2,0,cause
+barley,asthma,AG.01.j,EFO:0000270,2,0,cause
+barley,celiac disease,AG.01.i,EFO:0001060,7,0,cause
+barley,coeliac disease,AG.01.i,EFO:0001060,6,0,cause
+barley,osteoporosis,AG.01.i,EFO:0003882,11,0,cause
+cereal,asthma,AG.01.i,EFO:0000270,4,0,cause
+cereal flour,Asthma,AG.01.i,EFO:0000270,2,0,cause
+cheese,Migraine,AG.01,EFO:0003821,4,0,cause
+cheese,Migraine,AG.01.e.02,EFO:0003821,2,0,cause
+cheese,hypertension,AG.01.e.02,EFO:0000537,3,0,cause
+cheese,insulin-dependent diabetes mellitus,AG.01.e.02,EFO:0001359,2,0,cause
+cheese,migraine,AG.01,EFO:0003821,14,0,cause
+cheese,migraine,AG.01.e.02,EFO:0003821,6,0,cause
+chicken,obesity,AE.13.h.01,EFO:0001073,2,0,cause
+chocolate,Migraine,AG.01,EFO:0003821,2,0,cause
+chocolate,migraine,AG.01,EFO:0003821,8,0,cause
+chocolate,migraine,AG.01.e.02,EFO:0003821,7,0,cause
+chocolate,obesity,AG.01,EFO:0001073,9,0,cause
+crab,allergic rhinitis,AG.01.d.07,EFO:0003956,2,0,cause
+fat,Obesity,AG.01.f,EFO:0001073,10,0,cause
+fat,inflammatory bowel disease,AG.01.f,EFO:0003767,2,0,cause
+fat,type 2 diabetes mellitus,AG.01.f,EFO:0001360,2,0,cause
+flour,allergic rhinitis,AG.01.j,EFO:0003956,4,0,cause
+flour,asthma,AG.01.h.01,EFO:0000270,2,0,cause
+flour,asthma,AG.01.i,EFO:0000270,2,0,cause
+flour,asthma,AG.01.j,EFO:0000270,26,0,cause
+flour dust,asthma,AF.10.l,EFO:0000270,2,0,cause
+"flour,",asthma,AG.01.i,EFO:0000270,4,0,cause
+garlic,asthma,AG.01,EFO:0000270,6,0,cause
+garlic,asthma,AG.01.h.02.e,EFO:0000270,19,0,cause
+harmful effects,hypertension,AG.01,EFO:0000537,2,0,cause
+lamb,asthma,AG.01.d.04,EFO:0000270,2,0,cause
+liquid,dental caries,AG.01,EFO:0003819,3,0,cause
+liver,Obesity,AE.08,EFO:0001073,2,0,cause
+meat,Multiple Sclerosis,AG.01,EFO:0003885,3,0,cause
+meat,gout,AG.01,EFO:0004274,2,0,cause
+milk,Asthma,AE.10,EFO:0000270,3,0,cause
+milk,Breast carcinoma,AE.10,EFO:0000305,10,0,cause
+milk,Eosinophilic esophagitis,AE.10,EFO:0004232,7,0,cause
+milk,coronary heart disease,AE.10,EFO:0001645,5,0,cause
+milk,ovarian carcinoma,AE.10,EFO:0001075,5,0,cause
+milk,pancreatitis,AE.10,EFO:0000278,8,0,cause
+mustard,pancreatitis,AG.01.l.03,EFO:0000278,3,0,cause
+oats,Celiac disease,AG.01.i,EFO:0001060,15,0,cause
+onion,asthma,AG.01.h.02.e,EFO:0000270,5,0,cause
+potato,asthma,AG.01,EFO:0000270,2,0,cause
+rabbit,atopic dermatitis,AG.01.d.06,EFO:0000274,3,0,cause
+red wine,migraine,AG.01,EFO:0003821,4,0,cause
+related cereal,Celiac disease,AG.01.i,EFO:0001060,8,0,cause
+rice,asthma,AF.20.g,EFO:0000270,6,0,cause
+rosemary,asthma,AF.28,EFO:0000270,3,0,cause
+rye,Celiac Disease,AG.01.i,EFO:0001060,6,0,cause
+rye,Celiac disease,AG.01.i,EFO:0001060,14,0,cause
+rye flour,allergic rhinitis,AG.01.j,EFO:0003956,8,0,cause
+salt,obesity,AG.01,EFO:0001073,2,0,cause
+thyme,asthma,AG.01.h.02.i,EFO:0000270,3,0,cause
+trigger,asthma,AG.01,EFO:0000270,2,0,cause
+turkey,Hypertension,AG.01.d.06,EFO:0000537,7,0,cause
+wheat,Celiac Disease,AG.01.i,EFO:0001060,6,0,cause
+white wine,migraine,AG.01.y.01.a,EFO:0003821,4,0,cause
+wood,asthma,AF.10.l,EFO:0000270,2,0,cause

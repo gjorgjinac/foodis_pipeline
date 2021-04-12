@@ -1,0 +1,14 @@
+\begin{tabular}{lrrrrrrr}
+\toprule
+{} &  DO &  SNOMED CT &  UMLS &  NCIt &  OMIM &  EFO &  MESH \\
+\midrule
+FoodOn          & 167 &        152 &   157 &   120 &    70 &   53 &   142 \\
+SNOMED CT       & 159 &        149 &   153 &   116 &    74 &   57 &   138 \\
+Hansard Closest & 222 &        202 &   207 &   151 &   100 &   67 &   187 \\
+Hansard Parent  & 221 &        201 &   206 &   150 &   101 &   68 &   186 \\
+FooDB           & 148 &        134 &   140 &   109 &    66 &   50 &   122 \\
+ITIS            &  80 &         70 &    75 &    61 &    41 &   31 &    65 \\
+Wikipedia       & 139 &        125 &   131 &   103 &    63 &   47 &   113 \\
+NCBI taxonomy   &  82 &         72 &    77 &    63 &    43 &   33 &    66 \\
+\bottomrule
+\end{tabular}

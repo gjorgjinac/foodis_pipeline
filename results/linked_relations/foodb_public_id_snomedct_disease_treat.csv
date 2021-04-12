@@ -1,0 +1,473 @@
+term1,term2,foodb_public_id,snomedct_disease,is_cause,is_treat,relation
+alcoholic beverages,heart disease,FOOD00854,SNOMEDCT_US_2020_09_01:194707003,0,2,treat
+allium,cancers,FOOD00005,SNOMEDCT_US_2020_09_01:269513004,0,6,treat
+allium,colorectal cancer,FOOD00005,SNOMEDCT_US_2020_09_01:93854002,0,6,treat
+allium,gastric cancer,FOOD00005,SNOMEDCT_US_2020_09_01:126824007,0,10,treat
+allium,prostate cancer,FOOD00005,SNOMEDCT_US_2020_09_01:93974005,0,9,treat
+allium,stomach cancer,FOOD00005,SNOMEDCT_US_2020_09_01:126824007,0,6,treat
+allium cepa,breast cancer,FOOD00006,SNOMEDCT_US_2020_09_01:254837009,0,4,treat
+allium sativum,anemia,FOOD00008,SNOMEDCT_US_2020_09_01:64593003,0,2,treat
+allium sativum,asthma,FOOD00008,SNOMEDCT_US_2020_09_01:187687003,0,6,treat
+allium sativum,atherosclerosis,FOOD00008,SNOMEDCT_US_2020_09_01:155414001,0,2,treat
+allium sativum,bladder cancer,FOOD00008,SNOMEDCT_US_2020_09_01:126885006,0,3,treat
+allium sativum,cancers,FOOD00008,SNOMEDCT_US_2020_09_01:269513004,0,17,treat
+allium sativum,diabetes,FOOD00008,SNOMEDCT_US_2020_09_01:267467004,0,8,treat
+allium sativum,gastric cancer,FOOD00008,SNOMEDCT_US_2020_09_01:126824007,0,5,treat
+allium sativum,hypertension,FOOD00008,SNOMEDCT_US_2020_09_01:38341003,0,5,treat
+allium sativum,kidney diseases,FOOD00008,SNOMEDCT_US_2020_09_01:266612003,0,4,treat
+allium sativum,liver diseases,FOOD00008,SNOMEDCT_US_2020_09_01:62857009,0,4,treat
+allium sativum,malaria,FOOD00008,SNOMEDCT_US_2020_09_01:154374002,0,4,treat
+allium sativum,measles,FOOD00008,SNOMEDCT_US_2020_09_01:154338006,0,2,treat
+allium sativum,syphilis,FOOD00008,SNOMEDCT_US_2020_09_01:736686006,0,2,treat
+allium sativum,yellow fever,FOOD00008,SNOMEDCT_US_2020_09_01:154345006,0,2,treat
+annona muricata,cancers,FOOD00478,SNOMEDCT_US_2020_09_01:269513004,0,4,treat
+annona muricata,prostate cancer,FOOD00478,SNOMEDCT_US_2020_09_01:93974005,0,4,treat
+annona muricata,tuberculosis,FOOD00478,SNOMEDCT_US_2020_09_01:15202009,0,4,treat
+annona muricata,urinary tract infections,FOOD00478,SNOMEDCT_US_2020_09_01:197833009,0,4,treat
+apium graveolens,hypertension,FOOD00015,SNOMEDCT_US_2020_09_01:38341003,0,3,treat
+apple,hypertension,FOOD00105,SNOMEDCT_US_2020_09_01:38341003,0,8,treat
+asparagus,liver cancer,FOOD00021,SNOMEDCT_US_2020_09_01:187771009,0,18,treat
+avena sativa,atopic dermatitis,FOOD00022,SNOMEDCT_US_2020_09_01:156331003,0,2,treat
+banana,hypertension,FOOD00208,SNOMEDCT_US_2020_09_01:38341003,0,8,treat
+beer,Alzheimer's disease,FOOD00268,SNOMEDCT_US_2020_09_01:73768007,0,6,treat
+beer,amnesia,FOOD00268,SNOMEDCT_US_2020_09_01:247606008,0,2,treat
+beer,diabetes,FOOD00268,SNOMEDCT_US_2020_09_01:267467004,0,8,treat
+beverages,allergic diseases,FOOD00870,SNOMEDCT_US_2020_09_01:257550005,0,3,treat
+beverages,celiac disease,FOOD00870,SNOMEDCT_US_2020_09_01:197477005,0,3,treat
+beverages,coronary heart disease,FOOD00870,SNOMEDCT_US_2020_09_01:53741008,0,7,treat
+beverages,heart disease,FOOD00870,SNOMEDCT_US_2020_09_01:194707003,0,7,treat
+black tea,stroke,FOOD00907,SNOMEDCT_US_2020_09_01:266312006,0,3,treat
+brassica oleracea,prostate cancer,FOOD00030,SNOMEDCT_US_2020_09_01:93974005,0,4,treat
+breadfruit,diabetes,FOOD00309,SNOMEDCT_US_2020_09_01:267467004,0,2,treat
+broccoli,breast cancer,FOOD00034,SNOMEDCT_US_2020_09_01:254837009,0,4,treat
+broccoli,cancers,FOOD00034,SNOMEDCT_US_2020_09_01:269513004,0,5,treat
+broccoli,cervical cancer,FOOD00034,SNOMEDCT_US_2020_09_01:254885005,0,2,treat
+broccoli,colon cancer,FOOD00034,SNOMEDCT_US_2020_09_01:363406005,0,4,treat
+broccoli,diabetes,FOOD00034,SNOMEDCT_US_2020_09_01:267467004,0,5,treat
+broccoli,mammary tumors,FOOD00034,SNOMEDCT_US_2020_09_01:254837009,0,4,treat
+broccoli,neurodegenerative diseases,FOOD00034,SNOMEDCT_US_2020_09_01:362975008,0,5,treat
+cabbage,arthritis,FOOD00851,SNOMEDCT_US_2020_09_01:372091005,0,2,treat
+cabbage,breast cancer,FOOD00851,SNOMEDCT_US_2020_09_01:254837009,0,3,treat
+cabbage,cervical cancer,FOOD00851,SNOMEDCT_US_2020_09_01:254885005,0,2,treat
+camellia sinensis,colorectal cancer,FOOD00038,SNOMEDCT_US_2020_09_01:93854002,0,4,treat
+camellia sinensis,diabetes,FOOD00038,SNOMEDCT_US_2020_09_01:267467004,0,5,treat
+camellia sinensis,hypertension,FOOD00038,SNOMEDCT_US_2020_09_01:38341003,0,2,treat
+camellia sinensis,obesity,FOOD00038,SNOMEDCT_US_2020_09_01:5476005,0,3,treat
+canola oil,diabetes,FOOD00922,SNOMEDCT_US_2020_09_01:267467004,0,2,treat
+capsicum,cancers,FOOD00233,SNOMEDCT_US_2020_09_01:269513004,0,15,treat
+capsicum,hypertension,FOOD00233,SNOMEDCT_US_2020_09_01:38341003,0,3,treat
+capsicum,psoriasis,FOOD00233,SNOMEDCT_US_2020_09_01:156369008,0,2,treat
+capsicum annuum,anemia,FOOD00040,SNOMEDCT_US_2020_09_01:64593003,0,2,treat
+capsicum annuum,anemia,FOOD00877,SNOMEDCT_US_2020_09_01:64593003,0,2,treat
+capsicum annuum,anemia,FOOD00878,SNOMEDCT_US_2020_09_01:64593003,0,2,treat
+capsicum annuum,anemia,FOOD00879,SNOMEDCT_US_2020_09_01:64593003,0,2,treat
+capsicum annuum,anemia,FOOD00880,SNOMEDCT_US_2020_09_01:64593003,0,2,treat
+capsicum annuum,anemia,FOOD00881,SNOMEDCT_US_2020_09_01:64593003,0,2,treat
+capsicum annuum,asthma,FOOD00040,SNOMEDCT_US_2020_09_01:187687003,0,2,treat
+capsicum annuum,asthma,FOOD00877,SNOMEDCT_US_2020_09_01:187687003,0,2,treat
+capsicum annuum,asthma,FOOD00878,SNOMEDCT_US_2020_09_01:187687003,0,2,treat
+capsicum annuum,asthma,FOOD00879,SNOMEDCT_US_2020_09_01:187687003,0,2,treat
+capsicum annuum,asthma,FOOD00880,SNOMEDCT_US_2020_09_01:187687003,0,2,treat
+capsicum annuum,asthma,FOOD00881,SNOMEDCT_US_2020_09_01:187687003,0,2,treat
+capsicum annuum,measles,FOOD00040,SNOMEDCT_US_2020_09_01:154338006,0,2,treat
+capsicum annuum,measles,FOOD00877,SNOMEDCT_US_2020_09_01:154338006,0,2,treat
+capsicum annuum,measles,FOOD00878,SNOMEDCT_US_2020_09_01:154338006,0,2,treat
+capsicum annuum,measles,FOOD00879,SNOMEDCT_US_2020_09_01:154338006,0,2,treat
+capsicum annuum,measles,FOOD00880,SNOMEDCT_US_2020_09_01:154338006,0,2,treat
+capsicum annuum,measles,FOOD00881,SNOMEDCT_US_2020_09_01:154338006,0,2,treat
+capsicum annuum,syphilis,FOOD00040,SNOMEDCT_US_2020_09_01:736686006,0,2,treat
+capsicum annuum,syphilis,FOOD00877,SNOMEDCT_US_2020_09_01:736686006,0,2,treat
+capsicum annuum,syphilis,FOOD00878,SNOMEDCT_US_2020_09_01:736686006,0,2,treat
+capsicum annuum,syphilis,FOOD00879,SNOMEDCT_US_2020_09_01:736686006,0,2,treat
+capsicum annuum,syphilis,FOOD00880,SNOMEDCT_US_2020_09_01:736686006,0,2,treat
+capsicum annuum,syphilis,FOOD00881,SNOMEDCT_US_2020_09_01:736686006,0,2,treat
+cauliflower,arthritis,FOOD00031,SNOMEDCT_US_2020_09_01:372091005,0,2,treat
+cheese,diabetes,FOOD00617,SNOMEDCT_US_2020_09_01:267467004,0,25,treat
+cheese,hyperphosphatemia,FOOD00617,SNOMEDCT_US_2020_09_01:20165001,0,2,treat
+cheese,type 2 diabetes,FOOD00617,SNOMEDCT_US_2020_09_01:44054006,0,28,treat
+chives,colorectal cancer,FOOD00009,SNOMEDCT_US_2020_09_01:93854002,0,5,treat
+chives,prostate cancer,FOOD00009,SNOMEDCT_US_2020_09_01:93974005,0,18,treat
+chocolate,breast cancer,FOOD00687,SNOMEDCT_US_2020_09_01:254837009,0,10,treat
+chocolate,diabetes,FOOD00687,SNOMEDCT_US_2020_09_01:267467004,0,4,treat
+chocolate,metabolic syndrome,FOOD00687,SNOMEDCT_US_2020_09_01:75934005,0,3,treat
+chocolate,stroke,FOOD00687,SNOMEDCT_US_2020_09_01:266312006,0,3,treat
+cichorium intybus,type 2 diabetes mellitus,FOOD00049,SNOMEDCT_US_2020_09_01:44054006,0,3,treat
+cinnamomum,diabetes,FOOD00572,SNOMEDCT_US_2020_09_01:267467004,0,2,treat
+cinnamomum,gastritis,FOOD00572,SNOMEDCT_US_2020_09_01:155711008,0,2,treat
+cinnamomum,type 2 diabetes mellitus,FOOD00572,SNOMEDCT_US_2020_09_01:44054006,0,6,treat
+cinnamon,Alzheimer's disease,FOOD00572,SNOMEDCT_US_2020_09_01:73768007,0,10,treat
+cinnamon,diabetes,FOOD00572,SNOMEDCT_US_2020_09_01:267467004,0,34,treat
+cinnamon,diabetes mellitus,FOOD00572,SNOMEDCT_US_2020_09_01:267467004,0,18,treat
+cinnamon,diarrhea,FOOD00572,SNOMEDCT_US_2020_09_01:154268000,0,3,treat
+cinnamon,gastric diseases,FOOD00572,SNOMEDCT_US_2020_09_01:196598004,0,3,treat
+cinnamon,glucose intolerance,FOOD00572,SNOMEDCT_US_2020_09_01:267426009,0,6,treat
+cinnamon,metabolic syndrome,FOOD00572,SNOMEDCT_US_2020_09_01:75934005,0,21,treat
+cinnamon,neurodegenerative diseases,FOOD00572,SNOMEDCT_US_2020_09_01:362975008,0,40,treat
+cinnamon,obesity,FOOD00572,SNOMEDCT_US_2020_09_01:5476005,0,6,treat
+cinnamon,type 2 diabetes,FOOD00572,SNOMEDCT_US_2020_09_01:44054006,0,63,treat
+cinnamon,type 2 diabetes mellitus,FOOD00572,SNOMEDCT_US_2020_09_01:44054006,0,6,treat
+cinnamon,type-2 diabetes,FOOD00572,SNOMEDCT_US_2020_09_01:44054006,0,7,treat
+citrus,gastric cancer,FOOD00859,SNOMEDCT_US_2020_09_01:126824007,0,4,treat
+citrus maxima,hypertension,FOOD00055,SNOMEDCT_US_2020_09_01:38341003,0,2,treat
+cocktail,anemia,FOOD00739,SNOMEDCT_US_2020_09_01:64593003,0,2,treat
+cocktail,degenerative diseases,FOOD00739,SNOMEDCT_US_2020_09_01:362975008,0,2,treat
+coconut,atopic dermatitis,FOOD00336,SNOMEDCT_US_2020_09_01:156331003,0,10,treat
+coconut oil,Alzheimer's disease,FOOD00941,SNOMEDCT_US_2020_09_01:73768007,0,6,treat
+coconut oil,atopic dermatitis,FOOD00941,SNOMEDCT_US_2020_09_01:156331003,0,3,treat
+coffee,adenomas,FOOD00058,SNOMEDCT_US_2020_09_01:443416007,0,2,treat
+coffee,alcoholic liver cirrhosis,FOOD00058,SNOMEDCT_US_2020_09_01:420054005,0,2,treat
+coffee,atherosclerosis,FOOD00058,SNOMEDCT_US_2020_09_01:155414001,0,12,treat
+coffee,diabetes,FOOD00058,SNOMEDCT_US_2020_09_01:267467004,0,5,treat
+coffee,gastric cancer,FOOD00058,SNOMEDCT_US_2020_09_01:126824007,0,4,treat
+coffee,gout,FOOD00058,SNOMEDCT_US_2020_09_01:90560007,0,3,treat
+coffee,hyperuricemia,FOOD00058,SNOMEDCT_US_2020_09_01:271198001,0,2,treat
+coffee,liver disease,FOOD00058,SNOMEDCT_US_2020_09_01:62857009,0,4,treat
+coffee,obesity,FOOD00058,SNOMEDCT_US_2020_09_01:5476005,0,4,treat
+coffee,type 2 diabetes,FOOD00058,SNOMEDCT_US_2020_09_01:44054006,0,4,treat
+coriander,neurodegenerative diseases,FOOD00061,SNOMEDCT_US_2020_09_01:362975008,0,8,treat
+corn,celiac disease,FOOD00205,SNOMEDCT_US_2020_09_01:197477005,0,6,treat
+corn,hypertension,FOOD00205,SNOMEDCT_US_2020_09_01:38341003,0,8,treat
+crataegus,congestive heart failure,FOOD00985,SNOMEDCT_US_2020_09_01:155374007,0,4,treat
+crataegus,hypertension,FOOD00985,SNOMEDCT_US_2020_09_01:38341003,0,2,treat
+cream,peptic ulcer disease,FOOD00650,SNOMEDCT_US_2020_09_01:155701001,0,3,treat
+crocus sativus,asthma,FOOD00063,SNOMEDCT_US_2020_09_01:187687003,0,2,treat
+crocus sativus,cancers,FOOD00063,SNOMEDCT_US_2020_09_01:269513004,0,15,treat
+cucurbita,alopecia,FOOD00066,SNOMEDCT_US_2020_09_01:270504008,0,2,treat
+curcuma longa,asthma,FOOD00068,SNOMEDCT_US_2020_09_01:187687003,0,4,treat
+curcuma longa,cancers,FOOD00068,SNOMEDCT_US_2020_09_01:269513004,0,15,treat
+curcuma longa,diabetes,FOOD00068,SNOMEDCT_US_2020_09_01:267467004,0,10,treat
+curcuma longa,heart diseases,FOOD00068,SNOMEDCT_US_2020_09_01:194707003,0,4,treat
+curcuma longa,hepatic disorders,FOOD00068,SNOMEDCT_US_2020_09_01:62857009,0,5,treat
+curcuma longa,hyperglycemia,FOOD00068,SNOMEDCT_US_2020_09_01:144187006,0,5,treat
+curcuma longa,neurodegenerative diseases,FOOD00068,SNOMEDCT_US_2020_09_01:362975008,0,2,treat
+curcuma longa,obesity,FOOD00068,SNOMEDCT_US_2020_09_01:5476005,0,5,treat
+curcuma longa,rheumatoid arthritis,FOOD00068,SNOMEDCT_US_2020_09_01:156471009,0,2,treat
+curcuma longa,sinusitis,FOOD00068,SNOMEDCT_US_2020_09_01:195649005,0,5,treat
+egg yolk,chronic kidney disease,FOOD00919,SNOMEDCT_US_2020_09_01:155856009,0,3,treat
+eggs,cancers,FOOD00619,SNOMEDCT_US_2020_09_01:269513004,0,9,treat
+eggs,diabetes,FOOD00619,SNOMEDCT_US_2020_09_01:267467004,0,27,treat
+eggs,metabolic syndrome,FOOD00619,SNOMEDCT_US_2020_09_01:75934005,0,4,treat
+eggs,neurodegenerative diseases,FOOD00619,SNOMEDCT_US_2020_09_01:362975008,0,9,treat
+eggs,type 2 diabetes,FOOD00619,SNOMEDCT_US_2020_09_01:44054006,0,9,treat
+fenugreek,diabetes,FOOD00186,SNOMEDCT_US_2020_09_01:267467004,0,5,treat
+fenugreek,type 2 diabetes,FOOD00186,SNOMEDCT_US_2020_09_01:44054006,0,9,treat
+ficus carica,constipation,FOOD00081,SNOMEDCT_US_2020_09_01:363693003,0,3,treat
+flour,spina bifida,FOOD00799,SNOMEDCT_US_2020_09_01:156888006,0,6,treat
+fruit juice,Metabolic Syndrome,FOOD00763,SNOMEDCT_US_2020_09_01:75934005,0,6,treat
+fruits,Alzheimer's disease,FOOD00871,SNOMEDCT_US_2020_09_01:73768007,0,4,treat
+fruits,Breast Cancer,FOOD00871,SNOMEDCT_US_2020_09_01:254837009,0,5,treat
+fruits,Colon cancer,FOOD00871,SNOMEDCT_US_2020_09_01:363406005,0,2,treat
+fruits,Parkinson's disease,FOOD00871,SNOMEDCT_US_2020_09_01:49049000,0,3,treat
+fruits,adenomas,FOOD00871,SNOMEDCT_US_2020_09_01:443416007,0,4,treat
+fruits,amnesia,FOOD00871,SNOMEDCT_US_2020_09_01:247606008,0,2,treat
+fruits,anemia,FOOD00871,SNOMEDCT_US_2020_09_01:64593003,0,2,treat
+fruits,asthma,FOOD00871,SNOMEDCT_US_2020_09_01:187687003,0,18,treat
+fruits,atherosclerosis,FOOD00871,SNOMEDCT_US_2020_09_01:155414001,0,3,treat
+fruits,bladder cancer,FOOD00871,SNOMEDCT_US_2020_09_01:126885006,0,5,treat
+fruits,breast cancer,FOOD00871,SNOMEDCT_US_2020_09_01:254837009,0,7,treat
+fruits,cancers,FOOD00871,SNOMEDCT_US_2020_09_01:269513004,0,41,treat
+fruits,carcinomas,FOOD00871,SNOMEDCT_US_2020_09_01:188083002,0,2,treat
+fruits,cataracts,FOOD00871,SNOMEDCT_US_2020_09_01:193620000,0,7,treat
+fruits,cerebrovascular diseases,FOOD00871,SNOMEDCT_US_2020_09_01:266312006,0,2,treat
+fruits,chronic obstructive pulmonary disease,FOOD00871,SNOMEDCT_US_2020_09_01:13645005,0,5,treat
+fruits,colon cancer,FOOD00871,SNOMEDCT_US_2020_09_01:363406005,0,3,treat
+fruits,colorectal cancer,FOOD00871,SNOMEDCT_US_2020_09_01:93854002,0,6,treat
+fruits,coronary heart disease,FOOD00871,SNOMEDCT_US_2020_09_01:53741008,0,25,treat
+fruits,degenerative diseases,FOOD00871,SNOMEDCT_US_2020_09_01:362975008,0,6,treat
+fruits,diabetes mellitus,FOOD00871,SNOMEDCT_US_2020_09_01:267467004,0,4,treat
+fruits,diarrhea,FOOD00871,SNOMEDCT_US_2020_09_01:154268000,0,5,treat
+fruits,diarrhoea,FOOD00871,SNOMEDCT_US_2020_09_01:154268000,0,4,treat
+fruits,dysentery,FOOD00871,SNOMEDCT_US_2020_09_01:154268000,0,2,treat
+fruits,gastric cancer,FOOD00871,SNOMEDCT_US_2020_09_01:126824007,0,6,treat
+fruits,heart attacks,FOOD00871,SNOMEDCT_US_2020_09_01:66514008,0,2,treat
+fruits,heart disease,FOOD00871,SNOMEDCT_US_2020_09_01:194707003,0,9,treat
+fruits,hyperlipidaemia,FOOD00871,SNOMEDCT_US_2020_09_01:3744001,0,6,treat
+fruits,hyperphosphatemia,FOOD00871,SNOMEDCT_US_2020_09_01:20165001,0,2,treat
+fruits,hypertension,FOOD00871,SNOMEDCT_US_2020_09_01:38341003,0,40,treat
+fruits,kidney disease,FOOD00871,SNOMEDCT_US_2020_09_01:266612003,0,2,treat
+fruits,kidney stones,FOOD00871,SNOMEDCT_US_2020_09_01:155867005,0,2,treat
+fruits,lung cancer,FOOD00871,SNOMEDCT_US_2020_09_01:187864008,0,4,treat
+fruits,metabolic syndrome,FOOD00871,SNOMEDCT_US_2020_09_01:75934005,0,2,treat
+fruits,muscle wasting,FOOD00871,SNOMEDCT_US_2020_09_01:267693003,0,4,treat
+fruits,neurodegenerative diseases,FOOD00871,SNOMEDCT_US_2020_09_01:362975008,0,26,treat
+fruits,obesity,FOOD00871,SNOMEDCT_US_2020_09_01:5476005,0,7,treat
+fruits,osteoporosis,FOOD00871,SNOMEDCT_US_2020_09_01:156825006,0,3,treat
+fruits,ovarian cancer,FOOD00871,SNOMEDCT_US_2020_09_01:123843001,0,4,treat
+fruits,prostate cancer,FOOD00871,SNOMEDCT_US_2020_09_01:93974005,0,4,treat
+fruits,schistosomiasis,FOOD00871,SNOMEDCT_US_2020_09_01:187116001,0,2,treat
+fruits,skin cancer,FOOD00871,SNOMEDCT_US_2020_09_01:94047004,0,2,treat
+fruits,stroke,FOOD00871,SNOMEDCT_US_2020_09_01:266312006,0,19,treat
+garcinia mangostana,diarrhea,FOOD00406,SNOMEDCT_US_2020_09_01:154268000,0,2,treat
+garlic,arteriosclerosis,FOOD00008,SNOMEDCT_US_2020_09_01:195251000,0,4,treat
+garlic,atherosclerosis,FOOD00008,SNOMEDCT_US_2020_09_01:155414001,0,23,treat
+garlic,breast cancer,FOOD00008,SNOMEDCT_US_2020_09_01:254837009,0,17,treat
+garlic,cancers,FOOD00008,SNOMEDCT_US_2020_09_01:269513004,0,50,treat
+garlic,colon cancer,FOOD00008,SNOMEDCT_US_2020_09_01:363406005,0,10,treat
+garlic,colorectal adenocarcinoma,FOOD00008,SNOMEDCT_US_2020_09_01:408645001,0,4,treat
+garlic,colorectal cancer,FOOD00008,SNOMEDCT_US_2020_09_01:93854002,0,8,treat
+garlic,diabetes,FOOD00008,SNOMEDCT_US_2020_09_01:267467004,0,20,treat
+garlic,eclampsia,FOOD00008,SNOMEDCT_US_2020_09_01:156111007,0,2,treat
+garlic,gastric cancer,FOOD00008,SNOMEDCT_US_2020_09_01:126824007,0,8,treat
+garlic,gingivitis,FOOD00008,SNOMEDCT_US_2020_09_01:196355002,0,3,treat
+garlic,hepatoma,FOOD00008,SNOMEDCT_US_2019_09_01:109841003,0,3,treat
+garlic,hyperglycemia,FOOD00008,SNOMEDCT_US_2020_09_01:144187006,0,2,treat
+garlic,hypertension,FOOD00008,SNOMEDCT_US_2020_09_01:38341003,0,29,treat
+garlic,kidney diseases,FOOD00008,SNOMEDCT_US_2020_09_01:266612003,0,4,treat
+garlic,liver cancer,FOOD00008,SNOMEDCT_US_2020_09_01:187771009,0,18,treat
+garlic,liver diseases,FOOD00008,SNOMEDCT_US_2020_09_01:62857009,0,4,treat
+garlic,malaria,FOOD00008,SNOMEDCT_US_2020_09_01:154374002,0,4,treat
+garlic,mammary cancer,FOOD00008,SNOMEDCT_US_2020_09_01:254837009,0,14,treat
+garlic,metabolic diseases,FOOD00008,SNOMEDCT_US_2020_09_01:75934005,0,3,treat
+garlic,myocardial infarction,FOOD00008,SNOMEDCT_US_2020_09_01:66514008,0,2,treat
+garlic,neurodegenerative diseases,FOOD00008,SNOMEDCT_US_2020_09_01:362975008,0,8,treat
+garlic,periodontal diseases,FOOD00008,SNOMEDCT_US_2020_09_01:196354003,0,3,treat
+garlic,prostate cancer,FOOD00008,SNOMEDCT_US_2020_09_01:93974005,0,19,treat
+garlic,renal hypertension,FOOD00008,SNOMEDCT_US_2020_09_01:194775007,0,2,treat
+garlic,stroke,FOOD00008,SNOMEDCT_US_2020_09_01:266312006,0,6,treat
+ginger,Alzheimer's disease,FOOD00206,SNOMEDCT_US_2020_09_01:73768007,0,9,treat
+ginger,CRF,FOOD00206,SNOMEDCT_US_2020_09_01:155856009,0,3,treat
+ginger,adenomas,FOOD00206,SNOMEDCT_US_2020_09_01:443416007,0,5,treat
+ginger,arthritis,FOOD00206,SNOMEDCT_US_2020_09_01:372091005,0,4,treat
+ginger,asthma,FOOD00206,SNOMEDCT_US_2020_09_01:187687003,0,7,treat
+ginger,bronchitis,FOOD00206,SNOMEDCT_US_2020_09_01:155566007,0,3,treat
+ginger,cancers,FOOD00206,SNOMEDCT_US_2020_09_01:269513004,0,33,treat
+ginger,chronic kidney diseases,FOOD00206,SNOMEDCT_US_2020_09_01:155856009,0,3,treat
+ginger,colon cancer,FOOD00206,SNOMEDCT_US_2020_09_01:363406005,0,2,treat
+ginger,colorectal cancer,FOOD00206,SNOMEDCT_US_2020_09_01:93854002,0,9,treat
+ginger,constipation,FOOD00206,SNOMEDCT_US_2020_09_01:363693003,0,14,treat
+ginger,diabetes,FOOD00206,SNOMEDCT_US_2020_09_01:267467004,0,26,treat
+ginger,diabetes mellitus,FOOD00206,SNOMEDCT_US_2020_09_01:267467004,0,6,treat
+ginger,diarrhea,FOOD00206,SNOMEDCT_US_2020_09_01:154268000,0,17,treat
+ginger,diarrhoea,FOOD00206,SNOMEDCT_US_2020_09_01:154268000,0,9,treat
+ginger,dysentery,FOOD00206,SNOMEDCT_US_2020_09_01:154268000,0,3,treat
+ginger,gastrointestinal disease,FOOD00206,SNOMEDCT_US_2020_09_01:53619000,0,3,treat
+ginger,gastrointestinal diseases,FOOD00206,SNOMEDCT_US_2020_09_01:53619000,0,2,treat
+ginger,gastrointestinal disorders,FOOD00206,SNOMEDCT_US_2020_09_01:53619000,0,3,treat
+ginger,heart diseases,FOOD00206,SNOMEDCT_US_2020_09_01:194707003,0,4,treat
+ginger,hepatic disorders,FOOD00206,SNOMEDCT_US_2020_09_01:62857009,0,5,treat
+ginger,hyperglycemia,FOOD00206,SNOMEDCT_US_2020_09_01:144187006,0,5,treat
+ginger,hypertension,FOOD00206,SNOMEDCT_US_2020_09_01:38341003,0,13,treat
+ginger,inflammatory bowel diseases,FOOD00206,SNOMEDCT_US_2020_09_01:155759008,0,2,treat
+ginger,irritable bowel syndrome,FOOD00206,SNOMEDCT_US_2020_09_01:155783000,0,9,treat
+ginger,liver cancer,FOOD00206,SNOMEDCT_US_2020_09_01:187771009,0,9,treat
+ginger,migraine,FOOD00206,SNOMEDCT_US_2020_09_01:155046006,0,8,treat
+ginger,motion sickness,FOOD00206,SNOMEDCT_US_2020_09_01:37031009,0,12,treat
+ginger,neurodegenerative diseases,FOOD00206,SNOMEDCT_US_2020_09_01:362975008,0,32,treat
+ginger,obesity,FOOD00206,SNOMEDCT_US_2020_09_01:5476005,0,14,treat
+ginger,sinusitis,FOOD00206,SNOMEDCT_US_2020_09_01:195649005,0,5,treat
+ginkgo biloba,asthma,FOOD00367,SNOMEDCT_US_2020_09_01:187687003,0,4,treat
+ginseng,amnesia,FOOD00219,SNOMEDCT_US_2020_09_01:247606008,0,2,treat
+ginseng,diabetes,FOOD00219,SNOMEDCT_US_2020_09_01:267467004,0,15,treat
+ginseng,hyperglycemia,FOOD00219,SNOMEDCT_US_2020_09_01:144187006,0,2,treat
+ginseng,hypertension,FOOD00219,SNOMEDCT_US_2020_09_01:38341003,0,3,treat
+ginseng,metabolic diseases,FOOD00219,SNOMEDCT_US_2020_09_01:75934005,0,2,treat
+ginseng,migraine,FOOD00219,SNOMEDCT_US_2020_09_01:155046006,0,3,treat
+ginseng,obesity,FOOD00219,SNOMEDCT_US_2020_09_01:5476005,0,4,treat
+ginseng,stroke,FOOD00219,SNOMEDCT_US_2020_09_01:266312006,0,2,treat
+ginseng,type 2 diabetes,FOOD00219,SNOMEDCT_US_2020_09_01:44054006,0,22,treat
+glycine max,osteoporosis,FOOD00085,SNOMEDCT_US_2020_09_01:156825006,0,2,treat
+gossypium,diarrhea,FOOD00341,SNOMEDCT_US_2020_09_01:154268000,0,2,treat
+grape,atherosclerosis,FOOD00369,SNOMEDCT_US_2020_09_01:155414001,0,3,treat
+grape,colon cancer,FOOD00369,SNOMEDCT_US_2020_09_01:363406005,0,11,treat
+grape,diabetes,FOOD00369,SNOMEDCT_US_2020_09_01:267467004,0,2,treat
+grape,mammary tumor,FOOD00369,SNOMEDCT_US_2020_09_01:254837009,0,2,treat
+grape,prostate cancer,FOOD00369,SNOMEDCT_US_2020_09_01:93974005,0,2,treat
+grapefruit,Parkinson's disease,FOOD00256,SNOMEDCT_US_2020_09_01:49049000,0,3,treat
+grapefruit,hypertension,FOOD00256,SNOMEDCT_US_2020_09_01:38341003,0,5,treat
+green tea,cancers,FOOD00908,SNOMEDCT_US_2020_09_01:269513004,0,2,treat
+green tea,colorectal cancer,FOOD00908,SNOMEDCT_US_2020_09_01:93854002,0,7,treat
+green tea,diabetes,FOOD00908,SNOMEDCT_US_2020_09_01:267467004,0,15,treat
+green tea,diabetes mellitus,FOOD00908,SNOMEDCT_US_2020_09_01:267467004,0,4,treat
+green tea,hypertension,FOOD00908,SNOMEDCT_US_2020_09_01:38341003,0,2,treat
+green tea,obesity,FOOD00908,SNOMEDCT_US_2020_09_01:5476005,0,7,treat
+green tea,prostate cancer,FOOD00908,SNOMEDCT_US_2020_09_01:93974005,0,41,treat
+green tea,uterine fibroids,FOOD00908,SNOMEDCT_US_2020_09_01:95315005,0,2,treat
+hawthorn,Hypertension,FOOD00985,SNOMEDCT_US_2020_09_01:38341003,0,11,treat
+hawthorn,hypertension,FOOD00985,SNOMEDCT_US_2020_09_01:38341003,0,8,treat
+herbal tea,colon cancer,FOOD00989,SNOMEDCT_US_2020_09_01:363406005,0,4,treat
+herbal tea,diarrhea,FOOD00989,SNOMEDCT_US_2020_09_01:154268000,0,2,treat
+herbal tea,high blood pressure,FOOD00989,SNOMEDCT_US_2020_09_01:38341003,0,2,treat
+hibiscus sabdariffa,diabetes,FOOD00447,SNOMEDCT_US_2020_09_01:267467004,0,3,treat
+hibiscus sabdariffa,hypertension,FOOD00447,SNOMEDCT_US_2020_09_01:38341003,0,7,treat
+hibiscus sabdariffa,obesity,FOOD00447,SNOMEDCT_US_2020_09_01:5476005,0,2,treat
+honey,amnesia,FOOD00626,SNOMEDCT_US_2020_09_01:247606008,0,2,treat
+honey,colorectal cancer,FOOD00626,SNOMEDCT_US_2020_09_01:93854002,0,5,treat
+honey,eczema,FOOD00626,SNOMEDCT_US_2020_09_01:238538009,0,3,treat
+honey,metabolic syndrome,FOOD00626,SNOMEDCT_US_2020_09_01:75934005,0,6,treat
+honey,psoriasis,FOOD00626,SNOMEDCT_US_2020_09_01:156369008,0,3,treat
+honey,stroke,FOOD00626,SNOMEDCT_US_2020_09_01:266312006,0,2,treat
+honey,type 2 diabetes,FOOD00626,SNOMEDCT_US_2020_09_01:44054006,0,4,treat
+honey,urinary tract infections,FOOD00626,SNOMEDCT_US_2020_09_01:197833009,0,3,treat
+ipomoea batatas,hyperglycemia,FOOD00092,SNOMEDCT_US_2020_09_01:144187006,0,4,treat
+ipomoea batatas,type 2 diabetes,FOOD00092,SNOMEDCT_US_2020_09_01:44054006,0,4,treat
+ipomoea batatas,type 2 diabetes mellitus,FOOD00092,SNOMEDCT_US_2020_09_01:44054006,0,3,treat
+kefir,metabolic syndrome,FOOD00691,SNOMEDCT_US_2020_09_01:75934005,0,2,treat
+kiwi,hypertension,FOOD00004,SNOMEDCT_US_2020_09_01:38341003,0,8,treat
+lemon,Alzheimer's disease,FOOD00054,SNOMEDCT_US_2020_09_01:73768007,0,3,treat
+lemon,allergic rhinitis,FOOD00054,SNOMEDCT_US_2020_09_01:38103000,0,2,treat
+lemon,asthma,FOOD00054,SNOMEDCT_US_2020_09_01:187687003,0,2,treat
+lemon,gastritis,FOOD00054,SNOMEDCT_US_2020_09_01:155711008,0,2,treat
+lemon,gastroesophageal reflux,FOOD00054,SNOMEDCT_US_2020_09_01:235595009,0,2,treat
+lemon,pneumonia,FOOD00054,SNOMEDCT_US_2020_09_01:266391003,0,10,treat
+lemon,pulmonary fibrosis,FOOD00054,SNOMEDCT_US_2020_09_01:155613001,0,10,treat
+lentils,type 2 diabetes,FOOD00098,SNOMEDCT_US_2020_09_01:44054006,0,4,treat
+linum usitatissimum,migraine,FOOD00101,SNOMEDCT_US_2020_09_01:155046006,0,3,treat
+liquor,coronary disease,FOOD00616,SNOMEDCT_US_2020_09_01:53741008,0,8,treat
+lupinus albus,celiac disease,FOOD00403,SNOMEDCT_US_2020_09_01:197477005,0,2,treat
+mangifera indica,asthma,FOOD00106,SNOMEDCT_US_2020_09_01:187687003,0,2,treat
+millet,diabetes mellitus,FOOD00126,SNOMEDCT_US_2020_09_01:267467004,0,4,treat
+momordica charantia,diabetes,FOOD00115,SNOMEDCT_US_2020_09_01:267467004,0,2,treat
+momordica charantia,hyperglycemia,FOOD00115,SNOMEDCT_US_2020_09_01:144187006,0,4,treat
+mulberry,obesity,FOOD00116,SNOMEDCT_US_2020_09_01:5476005,0,3,treat
+mushrooms,prostate cancer,FOOD00853,SNOMEDCT_US_2020_09_01:93974005,0,5,treat
+nuts,atherosclerosis,FOOD00869,SNOMEDCT_US_2020_09_01:155414001,0,12,treat
+nuts,epilepsy,FOOD00869,SNOMEDCT_US_2020_09_01:267698007,0,6,treat
+nuts,stroke,FOOD00869,SNOMEDCT_US_2020_09_01:266312006,0,6,treat
+nuts,type 2 diabetes,FOOD00869,SNOMEDCT_US_2020_09_01:44054006,0,3,treat
+oat,diabetes,FOOD00022,SNOMEDCT_US_2020_09_01:267467004,0,16,treat
+olive oil,Alzheimer's disease,FOOD00909,SNOMEDCT_US_2020_09_01:73768007,0,3,treat
+olive oil,Breast Cancer,FOOD00909,SNOMEDCT_US_2020_09_01:254837009,0,5,treat
+olive oil,atherosclerosis,FOOD00909,SNOMEDCT_US_2020_09_01:155414001,0,3,treat
+olive oil,breast cancer,FOOD00909,SNOMEDCT_US_2020_09_01:254837009,0,22,treat
+olive oil,breast tumor,FOOD00909,SNOMEDCT_US_2020_09_01:254837009,0,4,treat
+olive oil,cancers,FOOD00909,SNOMEDCT_US_2020_09_01:269513004,0,16,treat
+olive oil,coronary heart disease,FOOD00909,SNOMEDCT_US_2020_09_01:53741008,0,16,treat
+olive oil,diabetes,FOOD00909,SNOMEDCT_US_2020_09_01:267467004,0,17,treat
+olive oil,epilepsy,FOOD00909,SNOMEDCT_US_2020_09_01:267698007,0,6,treat
+olive oil,gastric cancer,FOOD00909,SNOMEDCT_US_2020_09_01:126824007,0,4,treat
+olive oil,hypertension,FOOD00909,SNOMEDCT_US_2020_09_01:38341003,0,10,treat
+olive oil,metabolic diseases,FOOD00909,SNOMEDCT_US_2020_09_01:75934005,0,3,treat
+olive oil,metabolic syndrome,FOOD00909,SNOMEDCT_US_2020_09_01:75934005,0,10,treat
+olive oil,myocardial infarction,FOOD00909,SNOMEDCT_US_2020_09_01:66514008,0,5,treat
+olive oil,neurodegenerative disease,FOOD00909,SNOMEDCT_US_2020_09_01:362975008,0,7,treat
+olive oil,neurodegenerative diseases,FOOD00909,SNOMEDCT_US_2020_09_01:362975008,0,37,treat
+olive oil,obesity,FOOD00909,SNOMEDCT_US_2020_09_01:5476005,0,3,treat
+olive oil,osteoporosis,FOOD00909,SNOMEDCT_US_2020_09_01:156825006,0,4,treat
+olive oil,stroke,FOOD00909,SNOMEDCT_US_2020_09_01:266312006,0,36,treat
+olive oil,type 2 diabetes,FOOD00909,SNOMEDCT_US_2020_09_01:44054006,0,19,treat
+opuntia,diabetes,FOOD00440,SNOMEDCT_US_2020_09_01:267467004,0,2,treat
+opuntia,diabetes mellitus,FOOD00440,SNOMEDCT_US_2020_09_01:267467004,0,5,treat
+oryza sativa,celiac disease,FOOD00125,SNOMEDCT_US_2020_09_01:197477005,0,2,treat
+oryza sativa,diabetes,FOOD00125,SNOMEDCT_US_2020_09_01:267467004,0,3,treat
+panax,alopecia,FOOD00219,SNOMEDCT_US_2020_09_01:270504008,0,2,treat
+panax,amnesia,FOOD00219,SNOMEDCT_US_2020_09_01:247606008,0,2,treat
+panax,diabetes,FOOD00219,SNOMEDCT_US_2020_09_01:267467004,0,2,treat
+panax,hyperglycemia,FOOD00219,SNOMEDCT_US_2020_09_01:144187006,0,3,treat
+panax,hypertension,FOOD00219,SNOMEDCT_US_2020_09_01:38341003,0,3,treat
+panax,metabolic diseases,FOOD00219,SNOMEDCT_US_2020_09_01:75934005,0,2,treat
+panax,migraine,FOOD00219,SNOMEDCT_US_2020_09_01:155046006,0,3,treat
+panax,obesity,FOOD00219,SNOMEDCT_US_2020_09_01:5476005,0,2,treat
+panax,stroke,FOOD00219,SNOMEDCT_US_2020_09_01:266312006,0,2,treat
+papaya,prostate cancer,FOOD00041,SNOMEDCT_US_2020_09_01:93974005,0,15,treat
+pear,diabetes mellitus,FOOD00152,SNOMEDCT_US_2020_09_01:267467004,0,2,treat
+pear,metabolic diseases,FOOD00152,SNOMEDCT_US_2020_09_01:75934005,0,2,treat
+piper nigrum,cancers,FOOD00139,SNOMEDCT_US_2020_09_01:269513004,0,15,treat
+pisum sativum,anemia,FOOD00141,SNOMEDCT_US_2020_09_01:64593003,0,2,treat
+pisum sativum,asthma,FOOD00141,SNOMEDCT_US_2020_09_01:187687003,0,2,treat
+pisum sativum,measles,FOOD00141,SNOMEDCT_US_2020_09_01:154338006,0,2,treat
+pisum sativum,syphilis,FOOD00141,SNOMEDCT_US_2020_09_01:736686006,0,2,treat
+pisum sativum,yellow fever,FOOD00141,SNOMEDCT_US_2020_09_01:154345006,0,2,treat
+pomegranate,colon cancer,FOOD00151,SNOMEDCT_US_2020_09_01:363406005,0,10,treat
+pomegranate,liver cancer,FOOD00151,SNOMEDCT_US_2020_09_01:187771009,0,9,treat
+pomegranate,prostate cancer,FOOD00151,SNOMEDCT_US_2020_09_01:93974005,0,5,treat
+potato,renal cell carcinoma,FOOD00175,SNOMEDCT_US_2020_09_01:254915003,0,20,treat
+prickly pear,diabetes,FOOD00440,SNOMEDCT_US_2020_09_01:267467004,0,3,treat
+prunus,diarrhea,FOOD00143,SNOMEDCT_US_2020_09_01:154268000,0,3,treat
+pulses,diabetes,FOOD00867,SNOMEDCT_US_2020_09_01:267467004,0,2,treat
+pulses,type 2 diabetes,FOOD00867,SNOMEDCT_US_2020_09_01:44054006,0,12,treat
+punica granatum,cystitis,FOOD00151,SNOMEDCT_US_2020_09_01:38822007,0,3,treat
+punica granatum,diarrhea,FOOD00151,SNOMEDCT_US_2020_09_01:154268000,0,2,treat
+punica granatum,psoriasis,FOOD00151,SNOMEDCT_US_2020_09_01:156369008,0,3,treat
+raphanus sativus,anemia,FOOD00153,SNOMEDCT_US_2020_09_01:64593003,0,2,treat
+raphanus sativus,asthma,FOOD00153,SNOMEDCT_US_2020_09_01:187687003,0,2,treat
+raphanus sativus,measles,FOOD00153,SNOMEDCT_US_2020_09_01:154338006,0,2,treat
+red onion,ovarian cancer,FOOD00962,SNOMEDCT_US_2020_09_01:123843001,0,4,treat
+red wine,Breast Cancer,FOOD00911,SNOMEDCT_US_2020_09_01:254837009,0,20,treat
+red wine,cerebrovascular disease,FOOD00911,SNOMEDCT_US_2020_09_01:266312006,0,3,treat
+red wine,coronary heart disease,FOOD00911,SNOMEDCT_US_2020_09_01:53741008,0,18,treat
+red wine,coronary heart diseases,FOOD00911,SNOMEDCT_US_2020_09_01:53741008,0,2,treat
+red wine,diabetes,FOOD00911,SNOMEDCT_US_2020_09_01:267467004,0,9,treat
+red wine,heart disease,FOOD00911,SNOMEDCT_US_2020_09_01:194707003,0,3,treat
+red wine,lung cancer,FOOD00911,SNOMEDCT_US_2020_09_01:187864008,0,2,treat
+red wine,mammary tumors,FOOD00911,SNOMEDCT_US_2020_09_01:254837009,0,3,treat
+red wine,type 2 diabetes,FOOD00911,SNOMEDCT_US_2020_09_01:44054006,0,4,treat
+red wine,vascular diseases,FOOD00911,SNOMEDCT_US_2020_09_01:432119003,0,2,treat
+rice,atopic dermatitis,FOOD00125,SNOMEDCT_US_2020_09_01:156331003,0,3,treat
+rice,celiac disease,FOOD00125,SNOMEDCT_US_2020_09_01:197477005,0,2,treat
+rice,diabetes,FOOD00125,SNOMEDCT_US_2020_09_01:267467004,0,3,treat
+saffron,asthma,FOOD00063,SNOMEDCT_US_2020_09_01:187687003,0,3,treat
+saffron,cancers,FOOD00063,SNOMEDCT_US_2020_09_01:269513004,0,30,treat
+salt,stroke,FOOD00647,SNOMEDCT_US_2020_09_01:266312006,0,3,treat
+sisymbrium,anemia,FOOD00475,SNOMEDCT_US_2020_09_01:64593003,0,2,treat
+sisymbrium,asthma,FOOD00475,SNOMEDCT_US_2020_09_01:187687003,0,2,treat
+sisymbrium,measles,FOOD00475,SNOMEDCT_US_2020_09_01:154338006,0,2,treat
+sisymbrium,syphilis,FOOD00475,SNOMEDCT_US_2020_09_01:736686006,0,2,treat
+sisymbrium,yellow fever,FOOD00475,SNOMEDCT_US_2020_09_01:154345006,0,2,treat
+soy bean,pancreatitis,FOOD00085,SNOMEDCT_US_2020_09_01:393591004,0,4,treat
+strawberry,hypertension,FOOD00083,SNOMEDCT_US_2020_09_01:38341003,0,2,treat
+sweet potato,malignant tumor,FOOD00092,SNOMEDCT_US_2020_09_01:269513004,0,2,treat
+sweet potato,renal cell carcinoma,FOOD00092,SNOMEDCT_US_2020_09_01:254915003,0,20,treat
+tea,breast cancer,FOOD00038,SNOMEDCT_US_2020_09_01:254837009,0,10,treat
+tea,colon cancer,FOOD00038,SNOMEDCT_US_2020_09_01:363406005,0,9,treat
+tea,colorectal cancer,FOOD00038,SNOMEDCT_US_2020_09_01:93854002,0,3,treat
+tea,coronary disease,FOOD00038,SNOMEDCT_US_2020_09_01:53741008,0,8,treat
+tea,diabetes,FOOD00038,SNOMEDCT_US_2020_09_01:267467004,0,8,treat
+tea,hypertension,FOOD00038,SNOMEDCT_US_2020_09_01:38341003,0,5,treat
+tea,liver disease,FOOD00038,SNOMEDCT_US_2020_09_01:62857009,0,2,treat
+tea,metabolic syndrome,FOOD00038,SNOMEDCT_US_2020_09_01:75934005,0,2,treat
+tea,obesity,FOOD00038,SNOMEDCT_US_2020_09_01:5476005,0,13,treat
+tea,osteoporosis,FOOD00038,SNOMEDCT_US_2020_09_01:156825006,0,2,treat
+tea,stroke,FOOD00038,SNOMEDCT_US_2020_09_01:266312006,0,4,treat
+thistle,Type 2 diabetes mellitus,FOOD00606,SNOMEDCT_US_2020_09_01:44054006,0,6,treat
+thistle,liver diseases,FOOD00606,SNOMEDCT_US_2020_09_01:62857009,0,9,treat
+tofu,prostate cancer,FOOD00696,SNOMEDCT_US_2020_09_01:93974005,0,2,treat
+trifolium pratense,alopecia,FOOD00930,SNOMEDCT_US_2020_09_01:270504008,0,2,treat
+trigonella foenum-graecum,diabetes,FOOD00186,SNOMEDCT_US_2020_09_01:267467004,0,14,treat
+triticum aestivum,diarrhea,FOOD00187,SNOMEDCT_US_2020_09_01:154268000,0,2,treat
+turmeric,liver cancer,FOOD00068,SNOMEDCT_US_2020_09_01:187771009,0,45,treat
+vaccinium macrocarpon,psoriasis,FOOD00192,SNOMEDCT_US_2020_09_01:156369008,0,3,treat
+vaccinium macrocarpon,urinary tract infections,FOOD00192,SNOMEDCT_US_2020_09_01:197833009,0,4,treat
+vaccinium vitis-idaea,obesity,FOOD00194,SNOMEDCT_US_2020_09_01:5476005,0,4,treat
+vinegar,diabetes,FOOD00628,SNOMEDCT_US_2020_09_01:267467004,0,15,treat
+water,dermatitis,FOOD00664,SNOMEDCT_US_2020_09_01:238538009,0,2,treat
+water,diabetes,FOOD00664,SNOMEDCT_US_2020_09_01:267467004,0,2,treat
+water,hyperglycemia,FOOD00664,SNOMEDCT_US_2020_09_01:144187006,0,10,treat
+water,hypertension,FOOD00664,SNOMEDCT_US_2020_09_01:38341003,0,4,treat
+water,obesity,FOOD00664,SNOMEDCT_US_2020_09_01:5476005,0,3,treat
+watermelon,hypertension,FOOD00052,SNOMEDCT_US_2020_09_01:38341003,0,8,treat
+watermelon,prostate cancer,FOOD00052,SNOMEDCT_US_2020_09_01:93974005,0,5,treat
+wheat,spina bifida,FOOD00561,SNOMEDCT_US_2020_09_01:156888006,0,2,treat
+whey,Type 2 diabetes,FOOD00658,SNOMEDCT_US_2020_09_01:44054006,0,4,treat
+whey,glucose intolerance,FOOD00658,SNOMEDCT_US_2020_09_01:267426009,0,5,treat
+whey,metabolic syndrome,FOOD00658,SNOMEDCT_US_2020_09_01:75934005,0,8,treat
+whey,obesity,FOOD00658,SNOMEDCT_US_2020_09_01:5476005,0,7,treat
+whey,type 2 diabetes,FOOD00658,SNOMEDCT_US_2020_09_01:44054006,0,33,treat
+whey,type 2 diabetes mellitus,FOOD00658,SNOMEDCT_US_2020_09_01:44054006,0,5,treat
+white wine,diabetes,FOOD00917,SNOMEDCT_US_2020_09_01:267467004,0,8,treat
+yogurt,breast cancer,FOOD00620,SNOMEDCT_US_2020_09_01:254837009,0,15,treat
+yogurt,heart disease,FOOD00620,SNOMEDCT_US_2020_09_01:194707003,0,12,treat
+yogurt,hyperphosphatemia,FOOD00620,SNOMEDCT_US_2020_09_01:20165001,0,2,treat
+yogurt,hypertension,FOOD00620,SNOMEDCT_US_2020_09_01:38341003,0,12,treat
+yogurt,obesity,FOOD00620,SNOMEDCT_US_2020_09_01:5476005,0,12,treat
+yogurt,stroke,FOOD00620,SNOMEDCT_US_2020_09_01:266312006,0,10,treat
+yogurt,type 2 diabetes,FOOD00620,SNOMEDCT_US_2020_09_01:44054006,0,34,treat
+zea mays,celiac disease,FOOD00205,SNOMEDCT_US_2020_09_01:197477005,0,2,treat
+zingiber officinale,arthritis,FOOD00206,SNOMEDCT_US_2020_09_01:372091005,0,4,treat
+zingiber officinale,bronchitis,FOOD00206,SNOMEDCT_US_2020_09_01:155566007,0,3,treat
+zingiber officinale,cancers,FOOD00206,SNOMEDCT_US_2020_09_01:269513004,0,16,treat
+zingiber officinale,colorectal cancer,FOOD00206,SNOMEDCT_US_2020_09_01:93854002,0,5,treat
+zingiber officinale,constipation,FOOD00206,SNOMEDCT_US_2020_09_01:363693003,0,7,treat
+zingiber officinale,diabetes mellitus,FOOD00206,SNOMEDCT_US_2020_09_01:267467004,0,4,treat
+zingiber officinale,diarrhea,FOOD00206,SNOMEDCT_US_2020_09_01:154268000,0,10,treat
+zingiber officinale,diarrhoea,FOOD00206,SNOMEDCT_US_2020_09_01:154268000,0,2,treat
+zingiber officinale,dysentery,FOOD00206,SNOMEDCT_US_2020_09_01:154268000,0,3,treat
+zingiber officinale,gastrointestinal diseases,FOOD00206,SNOMEDCT_US_2020_09_01:53619000,0,2,treat
+zingiber officinale,gastrointestinal disorders,FOOD00206,SNOMEDCT_US_2020_09_01:53619000,0,5,treat
+zingiber officinale,helminthiasis,FOOD00206,SNOMEDCT_US_2020_09_01:187518006,0,4,treat
+zingiber officinale,hepatoma,FOOD00206,SNOMEDCT_US_2019_09_01:109841003,0,2,treat
+zingiber officinale,hyperglycemia,FOOD00206,SNOMEDCT_US_2020_09_01:144187006,0,6,treat
+zingiber officinale,hypertension,FOOD00206,SNOMEDCT_US_2020_09_01:38341003,0,7,treat
+zingiber officinale,motion sickness,FOOD00206,SNOMEDCT_US_2020_09_01:37031009,0,2,treat
+zingiber officinale,obesity,FOOD00206,SNOMEDCT_US_2020_09_01:5476005,0,5,treat
+zingiber officinale,type 2 diabetes mellitus,FOOD00206,SNOMEDCT_US_2020_09_01:44054006,0,3,treat
+zingiber officinale,ulcerative colitis,FOOD00206,SNOMEDCT_US_2020_09_01:441971007,0,2,treat

@@ -1,0 +1,185 @@
+term1,term2,foodb_public_id,efo_disease,is_cause,is_treat,relation
+allium sativum,anemia,FOOD00008,EFO:0004272,0,2,treat
+allium sativum,asthma,FOOD00008,EFO:0000270,0,6,treat
+allium sativum,atherosclerosis,FOOD00008,EFO:0003914,0,2,treat
+allium sativum,hypertension,FOOD00008,EFO:0000537,0,5,treat
+allium sativum,kidney diseases,FOOD00008,EFO:0003086,0,4,treat
+allium sativum,malaria,FOOD00008,EFO:0001068,0,4,treat
+apium graveolens,hypertension,FOOD00015,EFO:0000537,0,3,treat
+apple,hypertension,FOOD00105,EFO:0000537,0,8,treat
+avena sativa,atopic dermatitis,FOOD00022,EFO:0000274,0,2,treat
+banana,hypertension,FOOD00208,EFO:0000537,0,8,treat
+beer,Alzheimer's disease,FOOD00268,EFO:0000249,0,6,treat
+beverages,celiac disease,FOOD00870,EFO:0001060,0,3,treat
+beverages,coronary heart disease,FOOD00870,EFO:0001645,0,7,treat
+black tea,stroke,FOOD00907,EFO:0000712,0,3,treat
+camellia sinensis,hypertension,FOOD00038,EFO:0000537,0,2,treat
+camellia sinensis,obesity,FOOD00038,EFO:0001073,0,3,treat
+capsicum,hypertension,FOOD00233,EFO:0000537,0,3,treat
+capsicum,psoriasis,FOOD00233,EFO:0000676,0,2,treat
+capsicum annuum,anemia,FOOD00040,EFO:0004272,0,2,treat
+capsicum annuum,anemia,FOOD00877,EFO:0004272,0,2,treat
+capsicum annuum,anemia,FOOD00878,EFO:0004272,0,2,treat
+capsicum annuum,anemia,FOOD00879,EFO:0004272,0,2,treat
+capsicum annuum,anemia,FOOD00880,EFO:0004272,0,2,treat
+capsicum annuum,anemia,FOOD00881,EFO:0004272,0,2,treat
+capsicum annuum,asthma,FOOD00040,EFO:0000270,0,2,treat
+capsicum annuum,asthma,FOOD00877,EFO:0000270,0,2,treat
+capsicum annuum,asthma,FOOD00878,EFO:0000270,0,2,treat
+capsicum annuum,asthma,FOOD00879,EFO:0000270,0,2,treat
+capsicum annuum,asthma,FOOD00880,EFO:0000270,0,2,treat
+capsicum annuum,asthma,FOOD00881,EFO:0000270,0,2,treat
+cheese,type 2 diabetes,FOOD00617,EFO:0001360,0,28,treat
+chocolate,stroke,FOOD00687,EFO:0000712,0,3,treat
+cichorium intybus,type 2 diabetes mellitus,FOOD00049,EFO:0001360,0,3,treat
+cinnamomum,type 2 diabetes mellitus,FOOD00572,EFO:0001360,0,6,treat
+cinnamon,Alzheimer's disease,FOOD00572,EFO:0000249,0,10,treat
+cinnamon,obesity,FOOD00572,EFO:0001073,0,6,treat
+cinnamon,type 2 diabetes,FOOD00572,EFO:0001360,0,63,treat
+cinnamon,type 2 diabetes mellitus,FOOD00572,EFO:0001360,0,6,treat
+cinnamon,type-2 diabetes,FOOD00572,EFO:0001360,0,7,treat
+citrus maxima,hypertension,FOOD00055,EFO:0000537,0,2,treat
+cocktail,anemia,FOOD00739,EFO:0004272,0,2,treat
+coconut,atopic dermatitis,FOOD00336,EFO:0000274,0,10,treat
+coconut oil,Alzheimer's disease,FOOD00941,EFO:0000249,0,6,treat
+coconut oil,atopic dermatitis,FOOD00941,EFO:0000274,0,3,treat
+coffee,atherosclerosis,FOOD00058,EFO:0003914,0,12,treat
+coffee,gout,FOOD00058,EFO:0004274,0,3,treat
+coffee,obesity,FOOD00058,EFO:0001073,0,4,treat
+coffee,type 2 diabetes,FOOD00058,EFO:0001360,0,4,treat
+corn,celiac disease,FOOD00205,EFO:0001060,0,6,treat
+corn,hypertension,FOOD00205,EFO:0000537,0,8,treat
+crataegus,hypertension,FOOD00985,EFO:0000537,0,2,treat
+crocus sativus,asthma,FOOD00063,EFO:0000270,0,2,treat
+curcuma longa,asthma,FOOD00068,EFO:0000270,0,4,treat
+curcuma longa,obesity,FOOD00068,EFO:0001073,0,5,treat
+curcuma longa,rheumatoid arthritis,FOOD00068,EFO:0000685,0,2,treat
+diospyros,impotence,FOOD00594,EFO:0004234,0,2,treat
+eggs,type 2 diabetes,FOOD00619,EFO:0001360,0,9,treat
+fenugreek,type 2 diabetes,FOOD00186,EFO:0001360,0,9,treat
+fruits,Alzheimer's disease,FOOD00871,EFO:0000249,0,4,treat
+fruits,Parkinson's disease,FOOD00871,EFO:0002508,0,3,treat
+fruits,anemia,FOOD00871,EFO:0004272,0,2,treat
+fruits,asthma,FOOD00871,EFO:0000270,0,18,treat
+fruits,atherosclerosis,FOOD00871,EFO:0003914,0,3,treat
+fruits,cerebrovascular diseases,FOOD00871,EFO:0000712,0,2,treat
+fruits,chronic obstructive pulmonary disease,FOOD00871,EFO:0000341,0,5,treat
+fruits,coronary heart disease,FOOD00871,EFO:0001645,0,25,treat
+fruits,heart attacks,FOOD00871,EFO:0000612,0,2,treat
+fruits,hypertension,FOOD00871,EFO:0000537,0,40,treat
+fruits,kidney disease,FOOD00871,EFO:0003086,0,2,treat
+fruits,kidney stones,FOOD00871,EFO:0004253,0,2,treat
+fruits,obesity,FOOD00871,EFO:0001073,0,7,treat
+fruits,osteoporosis,FOOD00871,EFO:0003882,0,3,treat
+fruits,stroke,FOOD00871,EFO:0000712,0,19,treat
+garlic,atherosclerosis,FOOD00008,EFO:0003914,0,23,treat
+garlic,hepatoma,FOOD00008,EFO:0000182,0,3,treat
+garlic,hypertension,FOOD00008,EFO:0000537,0,29,treat
+garlic,kidney diseases,FOOD00008,EFO:0003086,0,4,treat
+garlic,malaria,FOOD00008,EFO:0001068,0,4,treat
+garlic,myocardial infarction,FOOD00008,EFO:0000612,0,2,treat
+garlic,stroke,FOOD00008,EFO:0000712,0,6,treat
+ginger,Alzheimer's disease,FOOD00206,EFO:0000249,0,9,treat
+ginger,asthma,FOOD00206,EFO:0000270,0,7,treat
+ginger,hypertension,FOOD00206,EFO:0000537,0,13,treat
+ginger,inflammatory bowel diseases,FOOD00206,EFO:0003767,0,2,treat
+ginger,migraine,FOOD00206,EFO:0003821,0,8,treat
+ginger,obesity,FOOD00206,EFO:0001073,0,14,treat
+ginkgo biloba,asthma,FOOD00367,EFO:0000270,0,4,treat
+ginseng,hypertension,FOOD00219,EFO:0000537,0,3,treat
+ginseng,migraine,FOOD00219,EFO:0003821,0,3,treat
+ginseng,obesity,FOOD00219,EFO:0001073,0,4,treat
+ginseng,stroke,FOOD00219,EFO:0000712,0,2,treat
+ginseng,type 2 diabetes,FOOD00219,EFO:0001360,0,22,treat
+glycine max,osteoporosis,FOOD00085,EFO:0003882,0,2,treat
+grape,atherosclerosis,FOOD00369,EFO:0003914,0,3,treat
+grapefruit,Parkinson's disease,FOOD00256,EFO:0002508,0,3,treat
+grapefruit,hypertension,FOOD00256,EFO:0000537,0,5,treat
+green tea,hypertension,FOOD00908,EFO:0000537,0,2,treat
+green tea,obesity,FOOD00908,EFO:0001073,0,7,treat
+green tea,uterine fibroids,FOOD00908,EFO:0000731,0,2,treat
+hawthorn,Hypertension,FOOD00985,EFO:0000537,0,11,treat
+hawthorn,hypertension,FOOD00985,EFO:0000537,0,8,treat
+herbal tea,high blood pressure,FOOD00989,EFO:0000537,0,2,treat
+hibiscus sabdariffa,hypertension,FOOD00447,EFO:0000537,0,7,treat
+hibiscus sabdariffa,obesity,FOOD00447,EFO:0001073,0,2,treat
+honey,psoriasis,FOOD00626,EFO:0000676,0,3,treat
+honey,stroke,FOOD00626,EFO:0000712,0,2,treat
+honey,type 2 diabetes,FOOD00626,EFO:0001360,0,4,treat
+ipomoea batatas,type 2 diabetes,FOOD00092,EFO:0001360,0,4,treat
+ipomoea batatas,type 2 diabetes mellitus,FOOD00092,EFO:0001360,0,3,treat
+kiwi,hypertension,FOOD00004,EFO:0000537,0,8,treat
+lemon,Alzheimer's disease,FOOD00054,EFO:0000249,0,3,treat
+lemon,allergic rhinitis,FOOD00054,EFO:0003956,0,2,treat
+lemon,asthma,FOOD00054,EFO:0000270,0,2,treat
+lentils,type 2 diabetes,FOOD00098,EFO:0001360,0,4,treat
+linum usitatissimum,migraine,FOOD00101,EFO:0003821,0,3,treat
+liquor,coronary disease,FOOD00616,EFO:0001645,0,8,treat
+lupinus albus,celiac disease,FOOD00403,EFO:0001060,0,2,treat
+mangifera indica,asthma,FOOD00106,EFO:0000270,0,2,treat
+mulberry,obesity,FOOD00116,EFO:0001073,0,3,treat
+nuts,atherosclerosis,FOOD00869,EFO:0003914,0,12,treat
+nuts,epilepsy,FOOD00869,EFO:0000474,0,6,treat
+nuts,stroke,FOOD00869,EFO:0000712,0,6,treat
+nuts,type 2 diabetes,FOOD00869,EFO:0001360,0,3,treat
+olive oil,Alzheimer's disease,FOOD00909,EFO:0000249,0,3,treat
+olive oil,atherosclerosis,FOOD00909,EFO:0003914,0,3,treat
+olive oil,coronary heart disease,FOOD00909,EFO:0001645,0,16,treat
+olive oil,epilepsy,FOOD00909,EFO:0000474,0,6,treat
+olive oil,hypertension,FOOD00909,EFO:0000537,0,10,treat
+olive oil,myocardial infarction,FOOD00909,EFO:0000612,0,5,treat
+olive oil,obesity,FOOD00909,EFO:0001073,0,3,treat
+olive oil,osteoporosis,FOOD00909,EFO:0003882,0,4,treat
+olive oil,stroke,FOOD00909,EFO:0000712,0,36,treat
+olive oil,type 2 diabetes,FOOD00909,EFO:0001360,0,19,treat
+oryza sativa,celiac disease,FOOD00125,EFO:0001060,0,2,treat
+panax,hypertension,FOOD00219,EFO:0000537,0,3,treat
+panax,migraine,FOOD00219,EFO:0003821,0,3,treat
+panax,obesity,FOOD00219,EFO:0001073,0,2,treat
+panax,stroke,FOOD00219,EFO:0000712,0,2,treat
+pisum sativum,anemia,FOOD00141,EFO:0004272,0,2,treat
+pisum sativum,asthma,FOOD00141,EFO:0000270,0,2,treat
+potato,renal cell carcinoma,FOOD00175,EFO:0000681,0,20,treat
+pulses,type 2 diabetes,FOOD00867,EFO:0001360,0,12,treat
+punica granatum,psoriasis,FOOD00151,EFO:0000676,0,3,treat
+raphanus sativus,anemia,FOOD00153,EFO:0004272,0,2,treat
+raphanus sativus,asthma,FOOD00153,EFO:0000270,0,2,treat
+red wine,cerebrovascular disease,FOOD00911,EFO:0000712,0,3,treat
+red wine,coronary heart disease,FOOD00911,EFO:0001645,0,18,treat
+red wine,coronary heart diseases,FOOD00911,EFO:0001645,0,2,treat
+red wine,osteoarthritis,FOOD00911,EFO:0002506,0,2,treat
+red wine,type 2 diabetes,FOOD00911,EFO:0001360,0,4,treat
+rice,atopic dermatitis,FOOD00125,EFO:0000274,0,3,treat
+rice,celiac disease,FOOD00125,EFO:0001060,0,2,treat
+saffron,asthma,FOOD00063,EFO:0000270,0,3,treat
+salt,stroke,FOOD00647,EFO:0000712,0,3,treat
+sisymbrium,anemia,FOOD00475,EFO:0004272,0,2,treat
+sisymbrium,asthma,FOOD00475,EFO:0000270,0,2,treat
+soy bean,pancreatitis,FOOD00085,EFO:0000278,0,4,treat
+strawberry,hypertension,FOOD00083,EFO:0000537,0,2,treat
+sweet potato,renal cell carcinoma,FOOD00092,EFO:0000681,0,20,treat
+tea,coronary disease,FOOD00038,EFO:0001645,0,8,treat
+tea,hypertension,FOOD00038,EFO:0000537,0,5,treat
+tea,obesity,FOOD00038,EFO:0001073,0,13,treat
+tea,osteoporosis,FOOD00038,EFO:0003882,0,2,treat
+tea,stroke,FOOD00038,EFO:0000712,0,4,treat
+thistle,Type 2 diabetes mellitus,FOOD00606,EFO:0001360,0,6,treat
+vaccinium macrocarpon,psoriasis,FOOD00192,EFO:0000676,0,3,treat
+vaccinium vitis-idaea,obesity,FOOD00194,EFO:0001073,0,4,treat
+water,hypertension,FOOD00664,EFO:0000537,0,4,treat
+water,obesity,FOOD00664,EFO:0001073,0,3,treat
+watermelon,hypertension,FOOD00052,EFO:0000537,0,8,treat
+whey,Type 2 diabetes,FOOD00658,EFO:0001360,0,4,treat
+whey,obesity,FOOD00658,EFO:0001073,0,7,treat
+whey,type 2 diabetes,FOOD00658,EFO:0001360,0,33,treat
+whey,type 2 diabetes mellitus,FOOD00658,EFO:0001360,0,5,treat
+yogurt,hypertension,FOOD00620,EFO:0000537,0,12,treat
+yogurt,obesity,FOOD00620,EFO:0001073,0,12,treat
+yogurt,stroke,FOOD00620,EFO:0000712,0,10,treat
+yogurt,type 2 diabetes,FOOD00620,EFO:0001360,0,34,treat
+zea mays,celiac disease,FOOD00205,EFO:0001060,0,2,treat
+zingiber officinale,hepatoma,FOOD00206,EFO:0000182,0,2,treat
+zingiber officinale,hypertension,FOOD00206,EFO:0000537,0,7,treat
+zingiber officinale,obesity,FOOD00206,EFO:0001073,0,5,treat
+zingiber officinale,type 2 diabetes mellitus,FOOD00206,EFO:0001360,0,3,treat
+zingiber officinale,ulcerative colitis,FOOD00206,EFO:0000729,0,2,treat

@@ -1,0 +1,166 @@
+term1,term2,hansardClosest,efo_disease,is_cause,is_treat,relation
+", laver",hypertension,AG.01.h.01.d,EFO:0000537,0,8,treat
+", laver",hypertension,AG.01.h.02.a,EFO:0000537,0,8,treat
+apple,hypertension,AG.01.h.01,EFO:0000537,0,8,treat
+banana,hypertension,AG.01.h.01,EFO:0000537,0,8,treat
+beer,Alzheimer's disease,AG.01.y.01.b,EFO:0000249,0,6,treat
+beverages,coronary heart disease,AG.01.i,EFO:0001645,0,2,treat
+biotin,type 2 diabetes,AE.13.a,EFO:0001360,0,9,treat
+bread,type 2 diabetes,AG.01.n.11,EFO:0001360,0,3,treat
+buckwheat,atherosclerosis,AG.01.i,EFO:0003914,0,2,treat
+buckwheat,hypertension,AG.01.i,EFO:0000537,0,2,treat
+buckwheat,obesity,AG.01.i,EFO:0001073,0,2,treat
+cheese,type 2 diabetes,AE.10,EFO:0001360,0,7,treat
+cheese,type 2 diabetes,AG.01,EFO:0001360,0,7,treat
+cheese,type 2 diabetes,AG.01.e.02,EFO:0001360,0,7,treat
+chickpea flour,type 2 diabetes mellitus,AG.01.j,EFO:0001360,0,4,treat
+chocolate,stroke,AG.01,EFO:0000712,0,3,treat
+chocolate consumption,stroke,AG.01,EFO:0000712,0,3,treat
+chocolate consumption,stroke,AG.01.r,EFO:0000712,0,3,treat
+cinnamon,Alzheimer's disease,AE.13.a,EFO:0000249,0,6,treat
+cinnamon,obesity,AE.13.a,EFO:0001073,0,6,treat
+cinnamon,type 2 diabetes,AE.13.a,EFO:0001360,0,40,treat
+cinnamon,type 2 diabetes mellitus,AE.13.a,EFO:0001360,0,6,treat
+cinnamon,type-2 diabetes,AE.13.a,EFO:0001360,0,7,treat
+cocoa,atherosclerosis,AG.01.r,EFO:0003914,0,4,treat
+cocoa,hypertension,AG.01,EFO:0000537,0,2,treat
+cocoa,obesity,AG.01,EFO:0001073,0,4,treat
+cocoa,type 2 diabetes,AG.01,EFO:0001360,0,12,treat
+cocoa,type 2 diabetes mellitus,AG.01,EFO:0001360,0,13,treat
+cocoa consumption,type 2 diabetes,AG.01,EFO:0001360,0,12,treat
+coconut,atopic dermatitis,AG.01.h.01.f,EFO:0000274,0,10,treat
+coconut oil,Alzheimer's disease,AG.01.f,EFO:0000249,0,4,treat
+coconut oil,atopic dermatitis,AG.01.f,EFO:0000274,0,3,treat
+coffee,atherosclerosis,AG.01,EFO:0003914,0,4,treat
+coffee,atherosclerosis,AG.01.h.01.b,EFO:0003914,0,4,treat
+coffee,atherosclerosis,AG.01.r,EFO:0003914,0,4,treat
+coffee,gout,AG.01.r,EFO:0004274,0,3,treat
+coffee,obesity,AG.01.r,EFO:0001073,0,4,treat
+coffee,type 2 diabetes,AG.01.r,EFO:0001360,0,2,treat
+cooked rice,atopic dermatitis,AG.01.i,EFO:0000274,0,4,treat
+corn,celiac disease,AF.20.g,EFO:0001060,0,2,treat
+corn,celiac disease,AG.01,EFO:0001060,0,2,treat
+corn,hypertension,AG.01,EFO:0000537,0,8,treat
+dried peas,type 2 diabetes,AG.01.h.02.g,EFO:0001360,0,4,treat
+eggs,type 2 diabetes,AG.01.g,EFO:0001360,0,9,treat
+fenugreek,type 2 diabetes,AE.13.a,EFO:0001360,0,9,treat
+flour is,anaemia,AG.01.i,EFO:0004272,0,2,treat
+fruit,Alzheimer's disease,AF.07,EFO:0000249,0,2,treat
+fruit,allergic rhinitis,AF.07,EFO:0003956,0,2,treat
+fruit,asthma,AF.07,EFO:0000270,0,5,treat
+fruit,coronary heart disease,AF.07,EFO:0001645,0,12,treat
+fruit,gestational diabetes mellitus,AF.07,EFO:0004593,0,4,treat
+fruit,hypertension,AF.07,EFO:0000537,0,15,treat
+fruit,obesity,AF.07,EFO:0001073,0,5,treat
+fruit,osteoporosis,AF.07,EFO:0003882,0,5,treat
+fruit,renal cell cancer,AF.07,EFO:0000681,0,6,treat
+fruit,renal cell carcinoma,AF.07,EFO:0000681,0,5,treat
+fruit,stroke,AF.07,EFO:0000712,0,16,treat
+fruit,type 2 diabetes,AF.07,EFO:0001360,0,2,treat
+fruits,Alzheimer's disease,AG.01.h,EFO:0000249,0,3,treat
+fruits,Parkinson's disease,AG.01.h,EFO:0002508,0,3,treat
+fruits,anemia,AG.01.h,EFO:0004272,0,2,treat
+fruits,asthma,AG.01.h,EFO:0000270,0,15,treat
+fruits,atherosclerosis,AG.01.h,EFO:0003914,0,3,treat
+fruits,chronic obstructive pulmonary disease,AG.01.h,EFO:0000341,0,5,treat
+fruits,coronary heart disease,AG.01.h,EFO:0001645,0,25,treat
+fruits,heart attacks,AG.01.h,EFO:0000612,0,2,treat
+fruits,hypertension,AG.01.h,EFO:0000537,0,39,treat
+fruits,kidney disease,AG.01.h,EFO:0003086,0,2,treat
+fruits,kidney stones,AG.01.h,EFO:0004253,0,2,treat
+fruits,obesity,AG.01.h,EFO:0001073,0,7,treat
+fruits,osteoporosis,AG.01.h,EFO:0003882,0,2,treat
+fruits,stroke,AG.01.h,EFO:0000712,0,19,treat
+"fruits,",stroke,AG.01.f,EFO:0000712,0,9,treat
+garlic,atherosclerosis,AG.01,EFO:0003914,0,2,treat
+garlic,atherosclerosis,AG.01.h.02.e,EFO:0003914,0,9,treat
+garlic,hepatoma,AG.01.h.02.e,EFO:0000182,0,3,treat
+garlic,hypertension,AG.01.h.02.e,EFO:0000537,0,16,treat
+garlic,myocardial infarction,AG.01.h.02.e,EFO:0000612,0,2,treat
+garlic,stroke,AG.01.h.02.e,EFO:0000712,0,6,treat
+ginger,Alzheimer's disease,AG.01.l.03,EFO:0000249,0,6,treat
+ginger,asthma,AG.01.l.03,EFO:0000270,0,4,treat
+ginger,hypertension,AG.01.h.01,EFO:0000537,0,3,treat
+ginger,hypertension,AG.01.l.03,EFO:0000537,0,6,treat
+ginger,inflammatory bowel diseases,AG.01.l.03,EFO:0003767,0,2,treat
+ginger,migraine,AG.01.l.03,EFO:0003821,0,7,treat
+ginger,obesity,AG.01.l.03,EFO:0001073,0,9,treat
+ginseng,type 2 diabetes,AE.13.a,EFO:0001360,0,9,treat
+grape juice,hypertension,AG.01.ab,EFO:0000537,0,3,treat
+grapefruit,Parkinson's disease,AG.01.h.01.a,EFO:0002508,0,3,treat
+grapefruit,hypertension,AG.01.h.01.a,EFO:0000537,0,5,treat
+grapes,atherosclerosis,AG.01,EFO:0003914,0,4,treat
+hawthorn,Hypertension,AG.01.l.03,EFO:0000537,0,11,treat
+high-fat,asthma,AG.01.f,EFO:0000270,0,4,treat
+honey,psoriasis,AG.01.m,EFO:0000676,0,3,treat
+honey,stroke,AG.01.m,EFO:0000712,0,2,treat
+honey,type 2 diabetes,AG.01.m,EFO:0001360,0,4,treat
+indicate,hypertension,AG.01.h,EFO:0000537,0,2,treat
+kiwi,hypertension,AG.01,EFO:0000537,0,8,treat
+lemon,Alzheimer's disease,AG.01.ab,EFO:0000249,0,3,treat
+lentils,type 2 diabetes,AG.01.h.02.g,EFO:0001360,0,4,treat
+low salt,stroke,AG.01.h,EFO:0000712,0,3,treat
+meat,Hypertension,AG.01,EFO:0000537,0,11,treat
+meat,hypertension,AG.01,EFO:0000537,0,7,treat
+milk,gout,AE.10,EFO:0004274,0,3,treat
+milk,stroke,AE.10,EFO:0000712,0,7,treat
+milk,type 2 diabetes,AE.10,EFO:0001360,0,2,treat
+milk products,hypertension,AE.10,EFO:0000537,0,4,treat
+nuts,atherosclerosis,AG.01,EFO:0003914,0,4,treat
+nuts,atherosclerosis,AG.01.h.01.b,EFO:0003914,0,4,treat
+nuts,atherosclerosis,AG.01.r,EFO:0003914,0,4,treat
+nuts,epilepsy,AG.01.f,EFO:0000474,0,6,treat
+nuts,stroke,AG.01.f,EFO:0000712,0,6,treat
+nuts,type 2 diabetes,AE.13.a,EFO:0001360,0,3,treat
+oatmeal,atopic dermatitis,AG.01.j,EFO:0000274,0,3,treat
+oats,celiac disease,AG.01.i,EFO:0001060,0,5,treat
+oats,coeliac disease,AG.01.i,EFO:0001060,0,5,treat
+oats,inflammatory bowel disease,AG.01.i,EFO:0003767,0,5,treat
+olive oil,Alzheimer's disease,AG.01.f,EFO:0000249,0,3,treat
+olive oil,atherosclerosis,AG.01.f,EFO:0003914,0,3,treat
+olive oil,coronary heart disease,AG.01.f,EFO:0001645,0,16,treat
+olive oil,epilepsy,AG.01.f,EFO:0000474,0,6,treat
+olive oil,hypertension,AG.01.f,EFO:0000537,0,10,treat
+olive oil,obesity,AG.01.f,EFO:0001073,0,3,treat
+olive oil,osteoporosis,AG.01.f,EFO:0003882,0,4,treat
+olive oil,stroke,AG.01.f,EFO:0000712,0,16,treat
+olive oil,stroke,AG.01.h,EFO:0000712,0,10,treat
+olive oil,type 2 diabetes,AG.01.f,EFO:0001360,0,19,treat
+olive oil mixture,psoriasis,AG.01.m,EFO:0000676,0,3,treat
+onion,hypertension,AG.01.h.02.e,EFO:0000537,0,8,treat
+other dairy,hypertension,AG.01,EFO:0000537,0,6,treat
+other dairy,obesity,AG.01,EFO:0001073,0,6,treat
+other dairy,type 2 diabetes,AG.01,EFO:0001360,0,6,treat
+potato,renal cell carcinoma,AG.01.h.02.a,EFO:0000681,0,20,treat
+pulses,type 2 diabetes,AG.01,EFO:0001360,0,4,treat
+pulses,type 2 diabetes,AG.01.h.02.g,EFO:0001360,0,8,treat
+red wine,cerebrovascular disease,AG.01,EFO:0000712,0,3,treat
+red wine,coronary heart disease,AG.01,EFO:0001645,0,11,treat
+red wine,coronary heart disease,AG.01.y.01.a,EFO:0001645,0,2,treat
+red wine,coronary heart diseases,AG.01,EFO:0001645,0,2,treat
+red wine,type 2 diabetes,AG.01,EFO:0001360,0,4,treat
+rice,atopic dermatitis,AF.20.g,EFO:0000274,0,3,treat
+saffron,asthma,AE.08.i,EFO:0000270,0,3,treat
+salt,stroke,AG.01,EFO:0000712,0,3,treat
+sweet potato,renal cell carcinoma,AG.01.z,EFO:0000681,0,20,treat
+tea,hypertension,AG.01.r,EFO:0000537,0,5,treat
+tea,obesity,AG.01.r,EFO:0001073,0,7,treat
+tea,obesity,AG.01.y.01.a,EFO:0001073,0,4,treat
+tea,osteoporosis,AG.01.r,EFO:0003882,0,2,treat
+tea,stroke,AG.01.r,EFO:0000712,0,4,treat
+thistle,Type 2 diabetes mellitus,AE.10,EFO:0001360,0,6,treat
+water,hypertension,AG.01.z,EFO:0000537,0,4,treat
+water,obesity,AG.01.z,EFO:0001073,0,3,treat
+watermelon,hypertension,AG.01.z,EFO:0000537,0,8,treat
+well-known spice,hypertension,AG.01.h.01,EFO:0000537,0,3,treat
+whey,type 2 diabetes,AE.10,EFO:0001360,0,7,treat
+whey,type 2 diabetes,AG.01,EFO:0001360,0,7,treat
+whey,type 2 diabetes,AG.01.e.02,EFO:0001360,0,7,treat
+wine,atherosclerosis,AG.01.y.01.a,EFO:0003914,0,3,treat
+wine,coronary disease,AG.01.y.01.a,EFO:0001645,0,8,treat
+wine,obesity,AG.01.y.01.a,EFO:0001073,0,4,treat
+yogurt,hypertension,AG.01,EFO:0000537,0,6,treat
+yogurt,obesity,AG.01,EFO:0001073,0,6,treat
+yogurt,type 2 diabetes,AE.10,EFO:0001360,0,7,treat
+yogurt,type 2 diabetes,AG.01,EFO:0001360,0,14,treat
+yogurt,type 2 diabetes,AG.01.e.02,EFO:0001360,0,7,treat

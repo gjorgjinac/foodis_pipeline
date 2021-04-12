@@ -1,0 +1,58 @@
+term1,term2,snomedct,efo_disease,is_cause,is_treat,relation
+", beer",migraine,http://purl.bioontology.org/ontology/SNOMEDCT/35748005***http://purl.bioontology.org/ontology/SNOMEDCT/58732000,EFO:0003821,10,0,cause
+banana,asthma,http://purl.bioontology.org/ontology/SNOMEDCT/256307007,EFO:0000270,6,0,cause
+banana,pancreatitis,http://purl.bioontology.org/ontology/SNOMEDCT/256307007,EFO:0000278,3,0,cause
+barley,Celiac Disease,http://purl.bioontology.org/ontology/SNOMEDCT/735124003,EFO:0001060,12,0,cause
+barley,Celiac disease,http://purl.bioontology.org/ontology/SNOMEDCT/735124003,EFO:0001060,77,0,cause
+barley,Celiac disease,http://purl.bioontology.org/ontology/SNOMEDCT/9424004***http://purl.bioontology.org/ontology/SNOMEDCT/418504009,EFO:0001060,6,0,cause
+barley,anaemia,http://purl.bioontology.org/ontology/SNOMEDCT/735124003,EFO:0004272,11,0,cause
+barley,asthma,http://purl.bioontology.org/ontology/SNOMEDCT/63766005,EFO:0000270,2,0,cause
+barley,asthma,http://purl.bioontology.org/ontology/SNOMEDCT/735124003,EFO:0000270,2,0,cause
+barley,celiac disease,http://purl.bioontology.org/ontology/SNOMEDCT/735124003,EFO:0001060,7,0,cause
+barley,coeliac disease,http://purl.bioontology.org/ontology/SNOMEDCT/735124003,EFO:0001060,6,0,cause
+barley,osteoporosis,http://purl.bioontology.org/ontology/SNOMEDCT/735124003,EFO:0003882,11,0,cause
+cereal,asthma,http://purl.bioontology.org/ontology/SNOMEDCT/23182003,EFO:0000270,4,0,cause
+cereal flour,Asthma,http://purl.bioontology.org/ontology/SNOMEDCT/23182003,EFO:0000270,2,0,cause
+cheese,Migraine,http://purl.bioontology.org/ontology/SNOMEDCT/102262009,EFO:0003821,2,0,cause
+cheese,Migraine,http://purl.bioontology.org/ontology/SNOMEDCT/102264005,EFO:0003821,2,0,cause
+cheese,hypertension,http://purl.bioontology.org/ontology/SNOMEDCT/102264005,EFO:0000537,3,0,cause
+cheese,insulin-dependent diabetes mellitus,http://purl.bioontology.org/ontology/SNOMEDCT/102264005,EFO:0001359,2,0,cause
+cheese,migraine,http://purl.bioontology.org/ontology/SNOMEDCT/102262009,EFO:0003821,12,0,cause
+cheese,migraine,http://purl.bioontology.org/ontology/SNOMEDCT/102264005,EFO:0003821,6,0,cause
+chicken,obesity,http://purl.bioontology.org/ontology/SNOMEDCT/226955001,EFO:0001073,2,0,cause
+chocolate,Migraine,http://purl.bioontology.org/ontology/SNOMEDCT/102262009,EFO:0003821,2,0,cause
+chocolate,migraine,http://purl.bioontology.org/ontology/SNOMEDCT/102262009,EFO:0003821,8,0,cause
+chocolate,migraine,http://purl.bioontology.org/ontology/SNOMEDCT/102264005,EFO:0003821,7,0,cause
+chocolate,obesity,http://purl.bioontology.org/ontology/SNOMEDCT/102262009,EFO:0001073,9,0,cause
+flour,allergic rhinitis,http://purl.bioontology.org/ontology/SNOMEDCT/63766005,EFO:0003956,4,0,cause
+flour,asthma,http://purl.bioontology.org/ontology/SNOMEDCT/256307007,EFO:0000270,2,0,cause
+flour,asthma,http://purl.bioontology.org/ontology/SNOMEDCT/63766005,EFO:0000270,26,0,cause
+flour,asthma,http://purl.bioontology.org/ontology/SNOMEDCT/735124003,EFO:0000270,2,0,cause
+"flour,",asthma,http://purl.bioontology.org/ontology/SNOMEDCT/229944000***http://purl.bioontology.org/ontology/SNOMEDCT/63766005***http://purl.bioontology.org/ontology/SNOMEDCT/412071004,EFO:0000270,4,0,cause
+garlic,asthma,http://purl.bioontology.org/ontology/SNOMEDCT/735030001,EFO:0000270,19,0,cause
+harmful effects,hypertension,http://purl.bioontology.org/ontology/SNOMEDCT/35748005***http://purl.bioontology.org/ontology/SNOMEDCT/58732000,EFO:0000537,2,0,cause
+lamb,asthma,http://purl.bioontology.org/ontology/SNOMEDCT/226942002,EFO:0000270,2,0,cause
+meat,Multiple Sclerosis,http://purl.bioontology.org/ontology/SNOMEDCT/28647000,EFO:0003885,3,0,cause
+meat,gout,http://purl.bioontology.org/ontology/SNOMEDCT/28647000,EFO:0004274,2,0,cause
+milk,Asthma,http://purl.bioontology.org/ontology/SNOMEDCT/70813002,EFO:0000270,3,0,cause
+milk,Breast carcinoma,http://purl.bioontology.org/ontology/SNOMEDCT/70813002,EFO:0000305,10,0,cause
+milk,Eosinophilic esophagitis,http://purl.bioontology.org/ontology/SNOMEDCT/70813002,EFO:0004232,7,0,cause
+milk,coronary heart disease,http://purl.bioontology.org/ontology/SNOMEDCT/70813002,EFO:0001645,5,0,cause
+milk,ovarian carcinoma,http://purl.bioontology.org/ontology/SNOMEDCT/70813002,EFO:0001075,5,0,cause
+milk,pancreatitis,http://purl.bioontology.org/ontology/SNOMEDCT/70813002,EFO:0000278,8,0,cause
+mustard,pancreatitis,http://purl.bioontology.org/ontology/SNOMEDCT/51905005,EFO:0000278,3,0,cause
+oats,Celiac disease,http://purl.bioontology.org/ontology/SNOMEDCT/9424004***http://purl.bioontology.org/ontology/SNOMEDCT/418504009,EFO:0001060,15,0,cause
+onion,asthma,http://purl.bioontology.org/ontology/SNOMEDCT/735047000,EFO:0000270,5,0,cause
+potato,asthma,http://purl.bioontology.org/ontology/SNOMEDCT/227282006,EFO:0000270,2,0,cause
+red wine,migraine,http://purl.bioontology.org/ontology/SNOMEDCT/35748005***http://purl.bioontology.org/ontology/SNOMEDCT/58732000,EFO:0003821,4,0,cause
+related cereal,Celiac disease,http://purl.bioontology.org/ontology/SNOMEDCT/23182003,EFO:0001060,8,0,cause
+rice,asthma,http://purl.bioontology.org/ontology/SNOMEDCT/67324005,EFO:0000270,6,0,cause
+rosemary,asthma,http://purl.bioontology.org/ontology/SNOMEDCT/227410007,EFO:0000270,3,0,cause
+rye,Celiac Disease,http://purl.bioontology.org/ontology/SNOMEDCT/735124003,EFO:0001060,6,0,cause
+rye,Celiac disease,http://purl.bioontology.org/ontology/SNOMEDCT/23182003,EFO:0001060,8,0,cause
+rye,Celiac disease,http://purl.bioontology.org/ontology/SNOMEDCT/9424004***http://purl.bioontology.org/ontology/SNOMEDCT/418504009,EFO:0001060,6,0,cause
+rye flour,allergic rhinitis,http://purl.bioontology.org/ontology/SNOMEDCT/63766005,EFO:0003956,8,0,cause
+sugar,obesity,http://purl.bioontology.org/ontology/SNOMEDCT/102262009,EFO:0001073,4,0,cause
+thyme,asthma,http://purl.bioontology.org/ontology/SNOMEDCT/227413009,EFO:0000270,3,0,cause
+wheat,Celiac Disease,http://purl.bioontology.org/ontology/SNOMEDCT/735124003,EFO:0001060,6,0,cause
+white wine,migraine,http://purl.bioontology.org/ontology/SNOMEDCT/67990004***http://purl.bioontology.org/ontology/SNOMEDCT/35748005,EFO:0003821,4,0,cause

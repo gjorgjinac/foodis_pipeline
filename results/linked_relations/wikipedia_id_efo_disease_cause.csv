@@ -1,0 +1,48 @@
+term1,term2,wikipedia_id,efo_disease,is_cause,is_treat,relation
+agaricus bisporus,allergic rhinitis,Agaricus bisporus,EFO:0003956,6,0,cause
+agaricus bisporus,asthma,Agaricus bisporus,EFO:0000270,6,0,cause
+allium cepa,asthma,Onion,EFO:0000270,3,0,cause
+banana,asthma,Banana,EFO:0000270,6,0,cause
+banana,pancreatitis,Banana,EFO:0000278,3,0,cause
+barley,Celiac Disease,Barley,EFO:0001060,12,0,cause
+barley,Celiac disease,Barley,EFO:0001060,83,0,cause
+barley,anaemia,Barley,EFO:0004272,11,0,cause
+barley,asthma,Barley,EFO:0000270,4,0,cause
+barley,celiac disease,Barley,EFO:0001060,7,0,cause
+barley,coeliac disease,Barley,EFO:0001060,6,0,cause
+barley,osteoporosis,Barley,EFO:0003882,11,0,cause
+cheese,Migraine,Cheese,EFO:0003821,6,0,cause
+cheese,hypertension,Cheese,EFO:0000537,3,0,cause
+cheese,insulin-dependent diabetes mellitus,Cheese,EFO:0001359,2,0,cause
+cheese,migraine,Cheese,EFO:0003821,20,0,cause
+chicken,obesity,Chicken,EFO:0001073,2,0,cause
+chicory,asthma,Chicory,EFO:0000270,4,0,cause
+chocolate,Migraine,Types_of_chocolate,EFO:0003821,2,0,cause
+chocolate,migraine,Types_of_chocolate,EFO:0003821,15,0,cause
+chocolate,obesity,Types_of_chocolate,EFO:0001073,16,0,cause
+crab,allergic rhinitis,Crab,EFO:0003956,3,0,cause
+flour,Asthma,Flour,EFO:0000270,5,0,cause
+flour,allergic rhinitis,Flour,EFO:0003956,4,0,cause
+flour,asthma,Flour,EFO:0000270,30,0,cause
+hordeum vulgare,asthma,Barley,EFO:0000270,2,0,cause
+mustard,asthma,Mustard_(condiment),EFO:0000270,2,0,cause
+mustard,pancreatitis,Mustard_(condiment),EFO:0000278,3,0,cause
+peanut,atopic dermatitis,Mr. Peanut,EFO:0000274,3,0,cause
+pizza,allergic rhinitis,Pizza,EFO:0003956,6,0,cause
+pizza,asthma,Pizza,EFO:0000270,6,0,cause
+potato,asthma,Potato,EFO:0000270,2,0,cause
+rabbit,atopic dermatitis,Rabbit,EFO:0000274,3,0,cause
+rice,asthma,Rice,EFO:0000270,6,0,cause
+rosemary,asthma,Rosemary,EFO:0000270,3,0,cause
+rye,Celiac Disease,Rye,EFO:0001060,6,0,cause
+rye,Celiac disease,Rye,EFO:0001060,22,0,cause
+rye,celiac disease,Rye,EFO:0001060,13,0,cause
+rye,coeliac disease,Rye,EFO:0001060,6,0,cause
+triticum aestivum,Celiac disease,Common wheat,EFO:0001060,5,0,cause
+turkey,Hypertension,Meleagris_gallopavo,EFO:0000537,7,0,cause
+wheat,Celiac Disease,Wheat,EFO:0001060,6,0,cause
+wheat,Celiac disease,Wheat,EFO:0001060,60,0,cause
+wheat,Coeliac disease,Wheat,EFO:0001060,6,0,cause
+wheat,asthma,Wheat,EFO:0000270,2,0,cause
+wheat,coeliac disease,Wheat,EFO:0001060,13,0,cause
+wheat,osteoporosis,Wheat,EFO:0003882,11,0,cause

@@ -1,0 +1,265 @@
+term1,term2,foodon,snomedct_disease,is_cause,is_treat,relation
+", gymnema",diabetes,http://purl.obolibrary.org/obo/NCBITaxon_3673,SNOMEDCT_US_2020_09_01:267467004,0,5,treat
+", laver",hypertension,http://purl.obolibrary.org/obo/NCBITaxon_23211***http://purl.obolibrary.org/obo/FOODON_03301724,SNOMEDCT_US_2020_09_01:38341003,0,8,treat
+", laver",hypertension,http://purl.obolibrary.org/obo/NCBITaxon_4113,SNOMEDCT_US_2020_09_01:38341003,0,8,treat
+", lemon balm",gastric ulcers,http://purl.obolibrary.org/obo/UBERON_0001913,SNOMEDCT_US_2020_09_01:155681009,0,5,treat
+apple,hypertension,http://purl.obolibrary.org/obo/FOODON_03301710***http://purl.obolibrary.org/obo/NCBITaxon_3750,SNOMEDCT_US_2020_09_01:38341003,0,8,treat
+banana,hypertension,http://purl.obolibrary.org/obo/NCBITaxon_89151***http://purl.obolibrary.org/obo/NCBITaxon_4641,SNOMEDCT_US_2020_09_01:38341003,0,8,treat
+basil,pneumonia,http://purl.obolibrary.org/obo/FOODON_03301175***http://purl.obolibrary.org/obo/NCBITaxon_128608,SNOMEDCT_US_2020_09_01:266391003,0,10,treat
+basil,pulmonary fibrosis,http://purl.obolibrary.org/obo/FOODON_03301175***http://purl.obolibrary.org/obo/NCBITaxon_128608,SNOMEDCT_US_2020_09_01:155613001,0,10,treat
+beer,Alzheimer's disease,http://purl.obolibrary.org/obo/FOODON_03301619,SNOMEDCT_US_2020_09_01:73768007,0,6,treat
+beer,amnesia,http://purl.obolibrary.org/obo/FOODON_03301619,SNOMEDCT_US_2020_09_01:247606008,0,2,treat
+beer,diabetes,http://purl.obolibrary.org/obo/FOODON_03310272,SNOMEDCT_US_2020_09_01:267467004,0,4,treat
+biotin,type 2 diabetes,http://purl.obolibrary.org/obo/FOODON_03301175***http://purl.obolibrary.org/obo/NCBITaxon_128608,SNOMEDCT_US_2020_09_01:44054006,0,9,treat
+canola oil,diabetes,http://purl.obolibrary.org/obo/FOODON_03310387***http://purl.obolibrary.org/obo/FOODON_03302578,SNOMEDCT_US_2020_09_01:267467004,0,2,treat
+carrots,lung cancer,http://purl.obolibrary.org/obo/NCBITaxon_4039,SNOMEDCT_US_2020_09_01:187864008,0,2,treat
+cheese,diabetes,http://purl.obolibrary.org/obo/FOODON_03307240***http://purl.obolibrary.org/obo/FOODON_03303588,SNOMEDCT_US_2020_09_01:267467004,0,5,treat
+cheese,type 2 diabetes,http://purl.obolibrary.org/obo/UBERON_0001913,SNOMEDCT_US_2020_09_01:44054006,0,7,treat
+chicken,colorectal cancer,http://purl.obolibrary.org/obo/NCBITaxon_9031***http://purl.obolibrary.org/obo/FOODON_03411457,SNOMEDCT_US_2020_09_01:93854002,0,5,treat
+chickpea flour,type 2 diabetes mellitus,http://purl.obolibrary.org/obo/FOODON_03304537***http://purl.obolibrary.org/obo/FOODON_03301116***http://purl.obolibrary.org/obo/NCBITaxon_3827,SNOMEDCT_US_2020_09_01:44054006,0,4,treat
+chives,colorectal cancer,http://purl.obolibrary.org/obo/NCBITaxon_117781,SNOMEDCT_US_2020_09_01:93854002,0,5,treat
+chives,prostate cancer,http://purl.obolibrary.org/obo/NCBITaxon_4682,SNOMEDCT_US_2020_09_01:93974005,0,18,treat
+chocolate,breast cancer,http://purl.obolibrary.org/obo/FOODON_03307240,SNOMEDCT_US_2020_09_01:254837009,0,10,treat
+chocolate,diabetes,http://purl.obolibrary.org/obo/FOODON_03307240,SNOMEDCT_US_2020_09_01:267467004,0,4,treat
+chocolate,metabolic syndrome,http://purl.obolibrary.org/obo/FOODON_03307240,SNOMEDCT_US_2020_09_01:75934005,0,3,treat
+chocolate,stroke,http://purl.obolibrary.org/obo/FOODON_03307240,SNOMEDCT_US_2020_09_01:266312006,0,3,treat
+chocolate consumption,stroke,http://purl.obolibrary.org/obo/FOODON_03307240,SNOMEDCT_US_2020_09_01:266312006,0,3,treat
+cinnamon,Alzheimer's disease,http://purl.obolibrary.org/obo/FOODON_03301175***http://purl.obolibrary.org/obo/NCBITaxon_128608,SNOMEDCT_US_2020_09_01:73768007,0,6,treat
+cinnamon,diabetes,http://purl.obolibrary.org/obo/FOODON_03301175***http://purl.obolibrary.org/obo/NCBITaxon_128608,SNOMEDCT_US_2020_09_01:267467004,0,16,treat
+cinnamon,diabetes,http://purl.obolibrary.org/obo/FOODON_03301705,SNOMEDCT_US_2020_09_01:267467004,0,5,treat
+cinnamon,diabetes,http://purl.obolibrary.org/obo/NCBITaxon_3673,SNOMEDCT_US_2020_09_01:267467004,0,5,treat
+cinnamon,diabetes mellitus,http://purl.obolibrary.org/obo/FOODON_03301175***http://purl.obolibrary.org/obo/NCBITaxon_128608,SNOMEDCT_US_2020_09_01:267467004,0,18,treat
+cinnamon,diarrhea,http://purl.obolibrary.org/obo/FOODON_03301175***http://purl.obolibrary.org/obo/NCBITaxon_128608,SNOMEDCT_US_2020_09_01:154268000,0,3,treat
+cinnamon,gastric diseases,http://purl.obolibrary.org/obo/FOODON_03301175***http://purl.obolibrary.org/obo/NCBITaxon_128608,SNOMEDCT_US_2020_09_01:196598004,0,3,treat
+cinnamon,glucose intolerance,http://purl.obolibrary.org/obo/FOODON_03301175***http://purl.obolibrary.org/obo/NCBITaxon_128608,SNOMEDCT_US_2020_09_01:267426009,0,6,treat
+cinnamon,metabolic syndrome,http://purl.obolibrary.org/obo/FOODON_03301175***http://purl.obolibrary.org/obo/NCBITaxon_128608,SNOMEDCT_US_2020_09_01:75934005,0,14,treat
+cinnamon,neurodegenerative diseases,http://purl.obolibrary.org/obo/NCBITaxon_4682,SNOMEDCT_US_2020_09_01:362975008,0,8,treat
+cinnamon,neurodegenerative diseases,http://purl.obolibrary.org/obo/NCBITaxon_94328,SNOMEDCT_US_2020_09_01:362975008,0,8,treat
+cinnamon,obesity,http://purl.obolibrary.org/obo/FOODON_03301175***http://purl.obolibrary.org/obo/NCBITaxon_128608,SNOMEDCT_US_2020_09_01:5476005,0,6,treat
+cinnamon,type 2 diabetes,http://purl.obolibrary.org/obo/FOODON_03301175***http://purl.obolibrary.org/obo/NCBITaxon_128608,SNOMEDCT_US_2020_09_01:44054006,0,40,treat
+cinnamon,type 2 diabetes mellitus,http://purl.obolibrary.org/obo/FOODON_03301175***http://purl.obolibrary.org/obo/NCBITaxon_128608,SNOMEDCT_US_2020_09_01:44054006,0,6,treat
+cinnamon,type-2 diabetes,http://purl.obolibrary.org/obo/FOODON_03301175***http://purl.obolibrary.org/obo/NCBITaxon_128608,SNOMEDCT_US_2020_09_01:44054006,0,7,treat
+cocoa,diabetes,http://purl.obolibrary.org/obo/FOODON_03301072,SNOMEDCT_US_2020_09_01:267467004,0,10,treat
+cocoa,hypertension,http://purl.obolibrary.org/obo/FOODON_03301072,SNOMEDCT_US_2020_09_01:38341003,0,2,treat
+cocoa,obesity,http://purl.obolibrary.org/obo/FOODON_03301072,SNOMEDCT_US_2020_09_01:5476005,0,4,treat
+cocoa,type 2 diabetes,http://purl.obolibrary.org/obo/FOODON_03301072,SNOMEDCT_US_2020_09_01:44054006,0,12,treat
+cocoa,type 2 diabetes mellitus,http://purl.obolibrary.org/obo/FOODON_03301072,SNOMEDCT_US_2020_09_01:44054006,0,13,treat
+cocoa consumption,type 2 diabetes,http://purl.obolibrary.org/obo/FOODON_03301072,SNOMEDCT_US_2020_09_01:44054006,0,12,treat
+coconut oil,Alzheimer's disease,http://purl.obolibrary.org/obo/FOODON_03310387,SNOMEDCT_US_2020_09_01:73768007,0,4,treat
+coconut oil,atopic dermatitis,http://purl.obolibrary.org/obo/FOODON_03310387,SNOMEDCT_US_2020_09_01:156331003,0,3,treat
+coffee,atherosclerosis,http://purl.obolibrary.org/obo/FOODON_03301072,SNOMEDCT_US_2020_09_01:155414001,0,4,treat
+cooked rice,atopic dermatitis,http://purl.obolibrary.org/obo/NCBITaxon_4530,SNOMEDCT_US_2020_09_01:156331003,0,4,treat
+coriander,neurodegenerative diseases,http://purl.obolibrary.org/obo/NCBITaxon_4682,SNOMEDCT_US_2020_09_01:362975008,0,8,treat
+corn,celiac disease,http://purl.obolibrary.org/obo/NCBITaxon_381124,SNOMEDCT_US_2020_09_01:197477005,0,2,treat
+corn,celiac disease,http://purl.obolibrary.org/obo/NCBITaxon_4530,SNOMEDCT_US_2020_09_01:197477005,0,2,treat
+corn,hypertension,http://purl.obolibrary.org/obo/NCBITaxon_381124,SNOMEDCT_US_2020_09_01:38341003,0,8,treat
+cranberry juice,urinary tract infections,http://purl.obolibrary.org/obo/FOODON_03301671,SNOMEDCT_US_2020_09_01:197833009,0,2,treat
+dried peas,type 2 diabetes,http://purl.obolibrary.org/obo/NCBITaxon_3888,SNOMEDCT_US_2020_09_01:44054006,0,4,treat
+eating yogurt,lactose intolerance,http://purl.obolibrary.org/obo/CHEBI_33290,SNOMEDCT_US_2020_09_01:267497007,0,4,treat
+egg yolk,chronic kidney disease,http://purl.obolibrary.org/obo/UBERON_0007378,SNOMEDCT_US_2020_09_01:155856009,0,3,treat
+eggs,diabetes,http://purl.obolibrary.org/obo/FOODON_03307240***http://purl.obolibrary.org/obo/FOODON_03303588,SNOMEDCT_US_2020_09_01:267467004,0,5,treat
+fenugreek,diabetes,http://purl.obolibrary.org/obo/FOODON_03301175***http://purl.obolibrary.org/obo/NCBITaxon_128608,SNOMEDCT_US_2020_09_01:267467004,0,5,treat
+fenugreek,type 2 diabetes,http://purl.obolibrary.org/obo/FOODON_03301175***http://purl.obolibrary.org/obo/NCBITaxon_128608,SNOMEDCT_US_2020_09_01:44054006,0,9,treat
+flour,spina bifida,http://purl.obolibrary.org/obo/FOODON_03301116,SNOMEDCT_US_2020_09_01:156888006,0,6,treat
+fruit,Alzheimer's disease,http://purl.obolibrary.org/obo/PO_0009001,SNOMEDCT_US_2020_09_01:73768007,0,2,treat
+fruit,allergic disease,http://purl.obolibrary.org/obo/PO_0009001,SNOMEDCT_US_2020_09_01:257550005,0,3,treat
+fruit,allergic rhinitis,http://purl.obolibrary.org/obo/PO_0009001,SNOMEDCT_US_2020_09_01:38103000,0,2,treat
+fruit,arthritis,http://purl.obolibrary.org/obo/PO_0009001,SNOMEDCT_US_2020_09_01:372091005,0,2,treat
+fruit,asthma,http://purl.obolibrary.org/obo/PO_0009001,SNOMEDCT_US_2020_09_01:187687003,0,5,treat
+fruit,bladder cancer,http://purl.obolibrary.org/obo/PO_0009001,SNOMEDCT_US_2020_09_01:126885006,0,10,treat
+fruit,bone diseases,http://purl.obolibrary.org/obo/PO_0009001,SNOMEDCT_US_2020_09_01:76069003,0,2,treat
+fruit,breast cancer,http://purl.obolibrary.org/obo/PO_0009001,SNOMEDCT_US_2020_09_01:254837009,0,5,treat
+fruit,cancers,http://purl.obolibrary.org/obo/PO_0009001,SNOMEDCT_US_2020_09_01:269513004,0,11,treat
+fruit,cataract,http://purl.obolibrary.org/obo/PO_0009001,SNOMEDCT_US_2020_09_01:193620000,0,3,treat
+fruit,colon cancer,http://purl.obolibrary.org/obo/PO_0009001,SNOMEDCT_US_2020_09_01:363406005,0,2,treat
+fruit,coronary heart disease,http://purl.obolibrary.org/obo/PO_0009001,SNOMEDCT_US_2020_09_01:53741008,0,12,treat
+fruit,degenerative diseases,http://purl.obolibrary.org/obo/PO_0009001,SNOMEDCT_US_2020_09_01:362975008,0,4,treat
+fruit,diabetes,http://purl.obolibrary.org/obo/PO_0009001,SNOMEDCT_US_2020_09_01:267467004,0,3,treat
+fruit,gastric cancer,http://purl.obolibrary.org/obo/PO_0009001,SNOMEDCT_US_2020_09_01:126824007,0,8,treat
+fruit,gastrointestinal disorders,http://purl.obolibrary.org/obo/PO_0009001,SNOMEDCT_US_2020_09_01:53619000,0,2,treat
+fruit,gestational diabetes mellitus,http://purl.obolibrary.org/obo/PO_0009001,SNOMEDCT_US_2020_09_01:11687002,0,4,treat
+fruit,hypertension,http://purl.obolibrary.org/obo/PO_0009001,SNOMEDCT_US_2020_09_01:38341003,0,15,treat
+fruit,liver diseases,http://purl.obolibrary.org/obo/PO_0009001,SNOMEDCT_US_2020_09_01:62857009,0,2,treat
+fruit,nephritis,http://purl.obolibrary.org/obo/PO_0009001,SNOMEDCT_US_2020_09_01:52845002,0,2,treat
+fruit,neurodegenerative diseases,http://purl.obolibrary.org/obo/PO_0009001,SNOMEDCT_US_2020_09_01:362975008,0,3,treat
+fruit,obesity,http://purl.obolibrary.org/obo/PO_0009001,SNOMEDCT_US_2020_09_01:5476005,0,5,treat
+fruit,osteoporosis,http://purl.obolibrary.org/obo/PO_0009001,SNOMEDCT_US_2020_09_01:156825006,0,5,treat
+fruit,renal cell cancer,http://purl.obolibrary.org/obo/PO_0009001,SNOMEDCT_US_2020_09_01:254915003,0,6,treat
+fruit,renal cell carcinoma,http://purl.obolibrary.org/obo/PO_0009001,SNOMEDCT_US_2020_09_01:254915003,0,5,treat
+fruit,stroke,http://purl.obolibrary.org/obo/PO_0009001,SNOMEDCT_US_2020_09_01:266312006,0,16,treat
+fruit,type 2 diabetes,http://purl.obolibrary.org/obo/PO_0009001,SNOMEDCT_US_2020_09_01:44054006,0,2,treat
+fruits,cancers,http://purl.obolibrary.org/obo/UBERON_0001913,SNOMEDCT_US_2020_09_01:269513004,0,2,treat
+fruits,ovarian cancer,http://purl.obolibrary.org/obo/CHEBI_33290,SNOMEDCT_US_2020_09_01:123843001,0,2,treat
+"fruits,",stroke,http://purl.obolibrary.org/obo/FOODON_03310387***http://purl.obolibrary.org/obo/FOODON_03301826,SNOMEDCT_US_2020_09_01:266312006,0,9,treat
+garlic,atherosclerosis,http://purl.obolibrary.org/obo/CHEBI_33290,SNOMEDCT_US_2020_09_01:155414001,0,2,treat
+garlic,atherosclerosis,http://purl.obolibrary.org/obo/NCBITaxon_4682,SNOMEDCT_US_2020_09_01:155414001,0,9,treat
+garlic,breast cancer,http://purl.obolibrary.org/obo/NCBITaxon_4682,SNOMEDCT_US_2020_09_01:254837009,0,6,treat
+garlic,cancers,http://purl.obolibrary.org/obo/NCBITaxon_4682,SNOMEDCT_US_2020_09_01:269513004,0,35,treat
+garlic,colon cancer,http://purl.obolibrary.org/obo/NCBITaxon_4682,SNOMEDCT_US_2020_09_01:363406005,0,10,treat
+garlic,colorectal adenocarcinoma,http://purl.obolibrary.org/obo/NCBITaxon_4682,SNOMEDCT_US_2020_09_01:408645001,0,3,treat
+garlic,colorectal cancer,http://purl.obolibrary.org/obo/NCBITaxon_4682,SNOMEDCT_US_2020_09_01:93854002,0,3,treat
+garlic,diabetes,http://purl.obolibrary.org/obo/CHEBI_33290,SNOMEDCT_US_2020_09_01:267467004,0,2,treat
+garlic,diabetes,http://purl.obolibrary.org/obo/NCBITaxon_4682,SNOMEDCT_US_2020_09_01:267467004,0,5,treat
+garlic,eclampsia,http://purl.obolibrary.org/obo/NCBITaxon_4682,SNOMEDCT_US_2020_09_01:156111007,0,2,treat
+garlic,gastric cancer,http://purl.obolibrary.org/obo/NCBITaxon_4682,SNOMEDCT_US_2020_09_01:126824007,0,8,treat
+garlic,gingivitis,http://purl.obolibrary.org/obo/NCBITaxon_4682,SNOMEDCT_US_2020_09_01:196355002,0,3,treat
+garlic,hepatoma,http://purl.obolibrary.org/obo/NCBITaxon_4682,SNOMEDCT_US_2019_09_01:109841003,0,3,treat
+garlic,hyperglycemia,http://purl.obolibrary.org/obo/NCBITaxon_4682,SNOMEDCT_US_2020_09_01:144187006,0,2,treat
+garlic,hypertension,http://purl.obolibrary.org/obo/NCBITaxon_4682,SNOMEDCT_US_2020_09_01:38341003,0,16,treat
+garlic,liver cancer,http://purl.obolibrary.org/obo/NCBITaxon_4682,SNOMEDCT_US_2020_09_01:187771009,0,18,treat
+garlic,myocardial infarction,http://purl.obolibrary.org/obo/NCBITaxon_4682,SNOMEDCT_US_2020_09_01:66514008,0,2,treat
+garlic,neurodegenerative diseases,http://purl.obolibrary.org/obo/NCBITaxon_94328,SNOMEDCT_US_2020_09_01:362975008,0,8,treat
+garlic,periodontal diseases,http://purl.obolibrary.org/obo/NCBITaxon_4682,SNOMEDCT_US_2020_09_01:196354003,0,3,treat
+garlic,prostate cancer,http://purl.obolibrary.org/obo/NCBITaxon_4682,SNOMEDCT_US_2020_09_01:93974005,0,16,treat
+garlic,renal hypertension,http://purl.obolibrary.org/obo/NCBITaxon_4682,SNOMEDCT_US_2020_09_01:194775007,0,2,treat
+garlic,stroke,http://purl.obolibrary.org/obo/NCBITaxon_4682,SNOMEDCT_US_2020_09_01:266312006,0,6,treat
+ginger,Alzheimer's disease,http://purl.obolibrary.org/obo/NCBITaxon_94328,SNOMEDCT_US_2020_09_01:73768007,0,6,treat
+ginger,CRF,http://purl.obolibrary.org/obo/NCBITaxon_94328,SNOMEDCT_US_2020_09_01:155856009,0,3,treat
+ginger,asthma,http://purl.obolibrary.org/obo/NCBITaxon_94328,SNOMEDCT_US_2020_09_01:187687003,0,4,treat
+ginger,cancers,http://purl.obolibrary.org/obo/NCBITaxon_94328,SNOMEDCT_US_2020_09_01:269513004,0,18,treat
+ginger,chronic kidney diseases,http://purl.obolibrary.org/obo/NCBITaxon_94328,SNOMEDCT_US_2020_09_01:155856009,0,3,treat
+ginger,colon cancer,http://purl.obolibrary.org/obo/NCBITaxon_94328,SNOMEDCT_US_2020_09_01:363406005,0,2,treat
+ginger,colorectal cancer,http://purl.obolibrary.org/obo/NCBITaxon_94328,SNOMEDCT_US_2020_09_01:93854002,0,9,treat
+ginger,constipation,http://purl.obolibrary.org/obo/NCBITaxon_94328,SNOMEDCT_US_2020_09_01:363693003,0,7,treat
+ginger,diabetes,http://purl.obolibrary.org/obo/NCBITaxon_94328,SNOMEDCT_US_2020_09_01:267467004,0,23,treat
+ginger,diabetes mellitus,http://purl.obolibrary.org/obo/NCBITaxon_94328,SNOMEDCT_US_2020_09_01:267467004,0,6,treat
+ginger,diarrhea,http://purl.obolibrary.org/obo/NCBITaxon_94328,SNOMEDCT_US_2020_09_01:154268000,0,5,treat
+ginger,diarrhoea,http://purl.obolibrary.org/obo/NCBITaxon_94328,SNOMEDCT_US_2020_09_01:154268000,0,7,treat
+ginger,gastrointestinal disease,http://purl.obolibrary.org/obo/NCBITaxon_94328,SNOMEDCT_US_2020_09_01:53619000,0,3,treat
+ginger,heart diseases,http://purl.obolibrary.org/obo/NCBITaxon_94328,SNOMEDCT_US_2020_09_01:194707003,0,4,treat
+ginger,hepatic disorders,http://purl.obolibrary.org/obo/NCBITaxon_94328,SNOMEDCT_US_2020_09_01:62857009,0,5,treat
+ginger,hyperglycemia,http://purl.obolibrary.org/obo/NCBITaxon_94328,SNOMEDCT_US_2020_09_01:144187006,0,5,treat
+ginger,hypertension,http://purl.obolibrary.org/obo/FOODON_03303380,SNOMEDCT_US_2020_09_01:38341003,0,3,treat
+ginger,hypertension,http://purl.obolibrary.org/obo/NCBITaxon_94328,SNOMEDCT_US_2020_09_01:38341003,0,6,treat
+ginger,inflammatory bowel diseases,http://purl.obolibrary.org/obo/NCBITaxon_94328,SNOMEDCT_US_2020_09_01:155759008,0,2,treat
+ginger,irritable bowel syndrome,http://purl.obolibrary.org/obo/NCBITaxon_94328,SNOMEDCT_US_2020_09_01:155783000,0,9,treat
+ginger,liver cancer,http://purl.obolibrary.org/obo/NCBITaxon_94328,SNOMEDCT_US_2020_09_01:187771009,0,9,treat
+ginger,migraine,http://purl.obolibrary.org/obo/NCBITaxon_94328,SNOMEDCT_US_2020_09_01:155046006,0,7,treat
+ginger,motion sickness,http://purl.obolibrary.org/obo/NCBITaxon_94328,SNOMEDCT_US_2020_09_01:37031009,0,7,treat
+ginger,neurodegenerative diseases,http://purl.obolibrary.org/obo/NCBITaxon_4682,SNOMEDCT_US_2020_09_01:362975008,0,8,treat
+ginger,neurodegenerative diseases,http://purl.obolibrary.org/obo/NCBITaxon_94328,SNOMEDCT_US_2020_09_01:362975008,0,8,treat
+ginger,obesity,http://purl.obolibrary.org/obo/NCBITaxon_94328,SNOMEDCT_US_2020_09_01:5476005,0,9,treat
+ginger,sinusitis,http://purl.obolibrary.org/obo/NCBITaxon_94328,SNOMEDCT_US_2020_09_01:195649005,0,5,treat
+ginseng,diabetes,http://purl.obolibrary.org/obo/FOODON_03301705,SNOMEDCT_US_2020_09_01:267467004,0,5,treat
+ginseng,type 2 diabetes,http://purl.obolibrary.org/obo/FOODON_03301175***http://purl.obolibrary.org/obo/NCBITaxon_128608,SNOMEDCT_US_2020_09_01:44054006,0,9,treat
+grape juice,hypertension,http://purl.obolibrary.org/obo/FOODON_00001926***http://purl.obolibrary.org/obo/FOODON_03301127,SNOMEDCT_US_2020_09_01:38341003,0,3,treat
+grapefruit,Parkinson's disease,http://purl.obolibrary.org/obo/FOODON_03301702***http://purl.obolibrary.org/obo/NCBITaxon_37656,SNOMEDCT_US_2020_09_01:49049000,0,3,treat
+grapefruit,hypertension,http://purl.obolibrary.org/obo/FOODON_03301702***http://purl.obolibrary.org/obo/NCBITaxon_37656,SNOMEDCT_US_2020_09_01:38341003,0,5,treat
+grapes,atherosclerosis,http://purl.obolibrary.org/obo/FOODON_03301072,SNOMEDCT_US_2020_09_01:155414001,0,4,treat
+green tea,diabetes,http://purl.obolibrary.org/obo/FOODON_03301072,SNOMEDCT_US_2020_09_01:267467004,0,3,treat
+green tea,prostate cancer,http://purl.obolibrary.org/obo/NCBITaxon_4682,SNOMEDCT_US_2020_09_01:93974005,0,14,treat
+hawthorn,Hypertension,http://purl.obolibrary.org/obo/NCBITaxon_94328,SNOMEDCT_US_2020_09_01:38341003,0,11,treat
+honey,amnesia,http://purl.obolibrary.org/obo/UBERON_0036016,SNOMEDCT_US_2020_09_01:247606008,0,2,treat
+honey,colorectal cancer,http://purl.obolibrary.org/obo/UBERON_0036016,SNOMEDCT_US_2020_09_01:93854002,0,5,treat
+honey,eczema,http://purl.obolibrary.org/obo/UBERON_0036016,SNOMEDCT_US_2020_09_01:238538009,0,3,treat
+honey,metabolic syndrome,http://purl.obolibrary.org/obo/UBERON_0036016,SNOMEDCT_US_2020_09_01:75934005,0,6,treat
+honey,psoriasis,http://purl.obolibrary.org/obo/UBERON_0036016,SNOMEDCT_US_2020_09_01:156369008,0,3,treat
+honey,stroke,http://purl.obolibrary.org/obo/UBERON_0036016,SNOMEDCT_US_2020_09_01:266312006,0,2,treat
+honey,type 2 diabetes,http://purl.obolibrary.org/obo/UBERON_0036016,SNOMEDCT_US_2020_09_01:44054006,0,4,treat
+honey,urinary tract infections,http://purl.obolibrary.org/obo/UBERON_0036016,SNOMEDCT_US_2020_09_01:197833009,0,3,treat
+kefir,metabolic syndrome,http://purl.obolibrary.org/obo/FOODON_03310290,SNOMEDCT_US_2020_09_01:75934005,0,2,treat
+kiwi,hypertension,http://purl.obolibrary.org/obo/FOODON_03414363,SNOMEDCT_US_2020_09_01:38341003,0,8,treat
+lemon,Alzheimer's disease,http://purl.obolibrary.org/obo/FOODON_03301441,SNOMEDCT_US_2020_09_01:73768007,0,3,treat
+lemon,gastritis,http://purl.obolibrary.org/obo/FOODON_03301441,SNOMEDCT_US_2020_09_01:155711008,0,2,treat
+lemon,gastroesophageal reflux,http://purl.obolibrary.org/obo/FOODON_03301441,SNOMEDCT_US_2020_09_01:235595009,0,2,treat
+lemon,pneumonia,http://purl.obolibrary.org/obo/NCBITaxon_4682,SNOMEDCT_US_2020_09_01:266391003,0,10,treat
+lemon,pulmonary fibrosis,http://purl.obolibrary.org/obo/NCBITaxon_4682,SNOMEDCT_US_2020_09_01:155613001,0,10,treat
+liver,cancers,http://purl.obolibrary.org/obo/UBERON_0002107,SNOMEDCT_US_2020_09_01:269513004,0,3,treat
+manner,motion sickness,http://purl.obolibrary.org/obo/NCBITaxon_94328,SNOMEDCT_US_2020_09_01:37031009,0,2,treat
+milk,cancers,http://purl.obolibrary.org/obo/UBERON_0001913,SNOMEDCT_US_2020_09_01:269513004,0,8,treat
+milk,diabetes,http://purl.obolibrary.org/obo/UBERON_0001913,SNOMEDCT_US_2020_09_01:267467004,0,15,treat
+milk,food allergies,http://purl.obolibrary.org/obo/UBERON_0001913,SNOMEDCT_US_2020_09_01:213018006,0,12,treat
+milk,gout,http://purl.obolibrary.org/obo/UBERON_0001913,SNOMEDCT_US_2020_09_01:90560007,0,3,treat
+milk,hereditary angioedema,http://purl.obolibrary.org/obo/UBERON_0001913,SNOMEDCT_US_2020_09_01:82966003,0,2,treat
+milk,lactose intolerance,http://purl.obolibrary.org/obo/UBERON_0001913,SNOMEDCT_US_2020_09_01:267497007,0,2,treat
+milk,liver disease,http://purl.obolibrary.org/obo/UBERON_0001913,SNOMEDCT_US_2020_09_01:62857009,0,9,treat
+milk,liver diseases,http://purl.obolibrary.org/obo/UBERON_0001913,SNOMEDCT_US_2020_09_01:62857009,0,21,treat
+milk,metabolic syndrome,http://purl.obolibrary.org/obo/UBERON_0001913,SNOMEDCT_US_2020_09_01:75934005,0,4,treat
+milk,stroke,http://purl.obolibrary.org/obo/UBERON_0001913,SNOMEDCT_US_2020_09_01:266312006,0,7,treat
+milk,type 2 diabetes,http://purl.obolibrary.org/obo/UBERON_0001913,SNOMEDCT_US_2020_09_01:44054006,0,2,treat
+milk products,hypertension,http://purl.obolibrary.org/obo/UBERON_0001913,SNOMEDCT_US_2020_09_01:38341003,0,4,treat
+nuts,atherosclerosis,http://purl.obolibrary.org/obo/FOODON_03301072,SNOMEDCT_US_2020_09_01:155414001,0,4,treat
+nuts,epilepsy,http://purl.obolibrary.org/obo/FOODON_03310387***http://purl.obolibrary.org/obo/FOODON_03301826,SNOMEDCT_US_2020_09_01:267698007,0,6,treat
+nuts,stroke,http://purl.obolibrary.org/obo/FOODON_03310387***http://purl.obolibrary.org/obo/FOODON_03301826,SNOMEDCT_US_2020_09_01:266312006,0,6,treat
+nuts,type 2 diabetes,http://purl.obolibrary.org/obo/FOODON_03301175***http://purl.obolibrary.org/obo/NCBITaxon_128608,SNOMEDCT_US_2020_09_01:44054006,0,3,treat
+oats,celiac disease,http://purl.obolibrary.org/obo/FOODON_03315188***http://purl.obolibrary.org/obo/NCBITaxon_4498,SNOMEDCT_US_2020_09_01:197477005,0,5,treat
+oats,coeliac disease,http://purl.obolibrary.org/obo/FOODON_03315188***http://purl.obolibrary.org/obo/NCBITaxon_4498,SNOMEDCT_US_2020_09_01:197477005,0,5,treat
+oats,colorectal cancer,http://purl.obolibrary.org/obo/FOODON_03315188***http://purl.obolibrary.org/obo/NCBITaxon_4498,SNOMEDCT_US_2020_09_01:93854002,0,5,treat
+oats,inflammatory bowel disease,http://purl.obolibrary.org/obo/FOODON_03315188***http://purl.obolibrary.org/obo/NCBITaxon_4498,SNOMEDCT_US_2020_09_01:155759008,0,5,treat
+oil or,diabetes,http://purl.obolibrary.org/obo/FOODON_03310387***http://purl.obolibrary.org/obo/FOODON_03301826,SNOMEDCT_US_2020_09_01:267467004,0,7,treat
+oil or,metabolic syndrome,http://purl.obolibrary.org/obo/FOODON_03310387***http://purl.obolibrary.org/obo/FOODON_03301826,SNOMEDCT_US_2020_09_01:75934005,0,7,treat
+olive oil,Alzheimer's disease,http://purl.obolibrary.org/obo/FOODON_03310387***http://purl.obolibrary.org/obo/FOODON_03301826,SNOMEDCT_US_2020_09_01:73768007,0,3,treat
+olive oil,Breast Cancer,http://purl.obolibrary.org/obo/FOODON_03310387***http://purl.obolibrary.org/obo/FOODON_03301826,SNOMEDCT_US_2020_09_01:254837009,0,5,treat
+olive oil,atherosclerosis,http://purl.obolibrary.org/obo/FOODON_03310387***http://purl.obolibrary.org/obo/FOODON_03301826,SNOMEDCT_US_2020_09_01:155414001,0,3,treat
+olive oil,breast cancer,http://purl.obolibrary.org/obo/FOODON_03310387***http://purl.obolibrary.org/obo/FOODON_03301826,SNOMEDCT_US_2020_09_01:254837009,0,21,treat
+olive oil,breast tumor,http://purl.obolibrary.org/obo/FOODON_03310387***http://purl.obolibrary.org/obo/FOODON_03301826,SNOMEDCT_US_2020_09_01:254837009,0,4,treat
+olive oil,cancers,http://purl.obolibrary.org/obo/FOODON_03310387***http://purl.obolibrary.org/obo/FOODON_03301826,SNOMEDCT_US_2020_09_01:269513004,0,16,treat
+olive oil,coronary heart disease,http://purl.obolibrary.org/obo/FOODON_03310387***http://purl.obolibrary.org/obo/FOODON_03301826,SNOMEDCT_US_2020_09_01:53741008,0,16,treat
+olive oil,diabetes,http://purl.obolibrary.org/obo/FOODON_03310387***http://purl.obolibrary.org/obo/FOODON_03301826,SNOMEDCT_US_2020_09_01:267467004,0,10,treat
+olive oil,epilepsy,http://purl.obolibrary.org/obo/FOODON_03310387***http://purl.obolibrary.org/obo/FOODON_03301826,SNOMEDCT_US_2020_09_01:267698007,0,6,treat
+olive oil,gastric cancer,http://purl.obolibrary.org/obo/FOODON_03310387***http://purl.obolibrary.org/obo/FOODON_03301826,SNOMEDCT_US_2020_09_01:126824007,0,4,treat
+olive oil,hypertension,http://purl.obolibrary.org/obo/FOODON_03310387***http://purl.obolibrary.org/obo/FOODON_03301826,SNOMEDCT_US_2020_09_01:38341003,0,10,treat
+olive oil,metabolic diseases,http://purl.obolibrary.org/obo/FOODON_03310387***http://purl.obolibrary.org/obo/FOODON_03301826,SNOMEDCT_US_2020_09_01:75934005,0,3,treat
+olive oil,metabolic syndrome,http://purl.obolibrary.org/obo/FOODON_03310387***http://purl.obolibrary.org/obo/FOODON_03301826,SNOMEDCT_US_2020_09_01:75934005,0,3,treat
+olive oil,neurodegenerative disease,http://purl.obolibrary.org/obo/FOODON_03310387***http://purl.obolibrary.org/obo/FOODON_03301826,SNOMEDCT_US_2020_09_01:362975008,0,7,treat
+olive oil,neurodegenerative diseases,http://purl.obolibrary.org/obo/FOODON_03310387***http://purl.obolibrary.org/obo/FOODON_03301826,SNOMEDCT_US_2020_09_01:362975008,0,37,treat
+olive oil,obesity,http://purl.obolibrary.org/obo/FOODON_03310387***http://purl.obolibrary.org/obo/FOODON_03301826,SNOMEDCT_US_2020_09_01:5476005,0,3,treat
+olive oil,osteoporosis,http://purl.obolibrary.org/obo/FOODON_03310387***http://purl.obolibrary.org/obo/FOODON_03301826,SNOMEDCT_US_2020_09_01:156825006,0,4,treat
+olive oil,stroke,http://purl.obolibrary.org/obo/FOODON_03310387***http://purl.obolibrary.org/obo/FOODON_03301826,SNOMEDCT_US_2020_09_01:266312006,0,16,treat
+olive oil,type 2 diabetes,http://purl.obolibrary.org/obo/FOODON_03310387***http://purl.obolibrary.org/obo/FOODON_03301826,SNOMEDCT_US_2020_09_01:44054006,0,19,treat
+olive oil mixture,eczema,http://purl.obolibrary.org/obo/UBERON_0036016,SNOMEDCT_US_2020_09_01:238538009,0,3,treat
+olive oil mixture,psoriasis,http://purl.obolibrary.org/obo/UBERON_0036016,SNOMEDCT_US_2020_09_01:156369008,0,3,treat
+onion,breast cancer,http://purl.obolibrary.org/obo/FOODON_03316347***http://purl.obolibrary.org/obo/NCBITaxon_4679,SNOMEDCT_US_2020_09_01:254837009,0,4,treat
+onion,hypertension,http://purl.obolibrary.org/obo/FOODON_03316347***http://purl.obolibrary.org/obo/NCBITaxon_4679,SNOMEDCT_US_2020_09_01:38341003,0,8,treat
+other fruits,prostate cancer,http://purl.obolibrary.org/obo/NCBITaxon_4081,SNOMEDCT_US_2020_09_01:93974005,0,5,treat
+papaya,prostate cancer,http://purl.obolibrary.org/obo/NCBITaxon_4081,SNOMEDCT_US_2020_09_01:93974005,0,5,treat
+pear,diabetes mellitus,http://purl.obolibrary.org/obo/NCBITaxon_23211***http://purl.obolibrary.org/obo/FOODON_03301724,SNOMEDCT_US_2020_09_01:267467004,0,2,treat
+pear,metabolic diseases,http://purl.obolibrary.org/obo/NCBITaxon_23211***http://purl.obolibrary.org/obo/FOODON_03301724,SNOMEDCT_US_2020_09_01:75934005,0,2,treat
+peas,diabetes,http://purl.obolibrary.org/obo/NCBITaxon_3888,SNOMEDCT_US_2020_09_01:267467004,0,3,treat
+potato,renal cell carcinoma,http://purl.obolibrary.org/obo/NCBITaxon_4113,SNOMEDCT_US_2020_09_01:254915003,0,20,treat
+prickly pear,diabetes,http://purl.obolibrary.org/obo/UBERON_0001913,SNOMEDCT_US_2020_09_01:267467004,0,3,treat
+pulses,diabetes,http://purl.obolibrary.org/obo/CHEBI_33290,SNOMEDCT_US_2020_09_01:267467004,0,2,treat
+pulses,type 2 diabetes,http://purl.obolibrary.org/obo/NCBITaxon_3888,SNOMEDCT_US_2020_09_01:44054006,0,4,treat
+red onion,ovarian cancer,http://purl.obolibrary.org/obo/FOODON_03316347***http://purl.obolibrary.org/obo/NCBITaxon_4679,SNOMEDCT_US_2020_09_01:123843001,0,2,treat
+red wine,Breast Cancer,http://purl.obolibrary.org/obo/FOODON_03310272,SNOMEDCT_US_2020_09_01:254837009,0,15,treat
+red wine,cerebrovascular disease,http://purl.obolibrary.org/obo/FOODON_03310272,SNOMEDCT_US_2020_09_01:266312006,0,3,treat
+red wine,coronary heart disease,http://purl.obolibrary.org/obo/FOODON_03310272,SNOMEDCT_US_2020_09_01:53741008,0,11,treat
+red wine,coronary heart diseases,http://purl.obolibrary.org/obo/FOODON_03310272,SNOMEDCT_US_2020_09_01:53741008,0,2,treat
+red wine,diabetes,http://purl.obolibrary.org/obo/FOODON_03310272,SNOMEDCT_US_2020_09_01:267467004,0,6,treat
+red wine,lung cancer,http://purl.obolibrary.org/obo/FOODON_03310272,SNOMEDCT_US_2020_09_01:187864008,0,2,treat
+red wine,mammary tumors,http://purl.obolibrary.org/obo/FOODON_03310272,SNOMEDCT_US_2020_09_01:254837009,0,3,treat
+red wine,type 2 diabetes,http://purl.obolibrary.org/obo/FOODON_03310272,SNOMEDCT_US_2020_09_01:44054006,0,4,treat
+red wine,vascular diseases,http://purl.obolibrary.org/obo/FOODON_03310272,SNOMEDCT_US_2020_09_01:432119003,0,2,treat
+rice,atopic dermatitis,http://purl.obolibrary.org/obo/NCBITaxon_4530,SNOMEDCT_US_2020_09_01:156331003,0,3,treat
+rice,diabetes,http://purl.obolibrary.org/obo/NCBITaxon_4530,SNOMEDCT_US_2020_09_01:267467004,0,3,treat
+salt,stroke,http://purl.obolibrary.org/obo/CHEBI_24866,SNOMEDCT_US_2020_09_01:266312006,0,3,treat
+sweet potato,malignant tumor,http://purl.obolibrary.org/obo/NCBITaxon_4113***http://purl.obolibrary.org/obo/NCBITaxon_4120,SNOMEDCT_US_2020_09_01:269513004,0,2,treat
+sweet potato,renal cell carcinoma,http://purl.obolibrary.org/obo/NCBITaxon_4113***http://purl.obolibrary.org/obo/NCBITaxon_4120,SNOMEDCT_US_2020_09_01:254915003,0,20,treat
+tea,colon cancer,http://purl.obolibrary.org/obo/NCBITaxon_4682,SNOMEDCT_US_2020_09_01:363406005,0,9,treat
+thistle,Type 2 diabetes mellitus,http://purl.obolibrary.org/obo/UBERON_0001913,SNOMEDCT_US_2020_09_01:44054006,0,6,treat
+thistle,liver diseases,http://purl.obolibrary.org/obo/UBERON_0001913,SNOMEDCT_US_2020_09_01:62857009,0,7,treat
+thistle,liver diseases,http://purl.obolibrary.org/obo/UBERON_0002107,SNOMEDCT_US_2020_09_01:62857009,0,2,treat
+tomato,cancers,http://purl.obolibrary.org/obo/NCBITaxon_4081,SNOMEDCT_US_2020_09_01:269513004,0,3,treat
+tomato,gastritis,http://purl.obolibrary.org/obo/NCBITaxon_4081,SNOMEDCT_US_2020_09_01:155711008,0,2,treat
+tomato,gastroesophageal reflux,http://purl.obolibrary.org/obo/NCBITaxon_4081,SNOMEDCT_US_2020_09_01:235595009,0,2,treat
+tomato,prostate cancer,http://purl.obolibrary.org/obo/NCBITaxon_4081,SNOMEDCT_US_2020_09_01:93974005,0,23,treat
+tomato sauce,prostate cancer,http://purl.obolibrary.org/obo/FOODON_03301217***http://purl.obolibrary.org/obo/NCBITaxon_4081***http://purl.obolibrary.org/obo/FOODON_03311146,SNOMEDCT_US_2020_09_01:93974005,0,15,treat
+turmeric,liver cancer,http://purl.obolibrary.org/obo/NCBITaxon_4682,SNOMEDCT_US_2020_09_01:187771009,0,9,treat
+turmeric,liver cancer,http://purl.obolibrary.org/obo/NCBITaxon_94328,SNOMEDCT_US_2020_09_01:187771009,0,9,treat
+vegetables,gastric cancer,http://purl.obolibrary.org/obo/PO_0009001,SNOMEDCT_US_2020_09_01:126824007,0,8,treat
+vinegar,diabetes,http://purl.obolibrary.org/obo/FOODON_03301175***http://purl.obolibrary.org/obo/NCBITaxon_128608,SNOMEDCT_US_2020_09_01:267467004,0,5,treat
+vinegar,diabetes,http://purl.obolibrary.org/obo/FOODON_03301705,SNOMEDCT_US_2020_09_01:267467004,0,5,treat
+vinegar,diabetes,http://purl.obolibrary.org/obo/NCBITaxon_3673,SNOMEDCT_US_2020_09_01:267467004,0,5,treat
+walnuts,breast cancer,http://purl.obolibrary.org/obo/NCBITaxon_16718,SNOMEDCT_US_2020_09_01:254837009,0,2,treat
+walnuts,mammary cancer,http://purl.obolibrary.org/obo/NCBITaxon_16718,SNOMEDCT_US_2020_09_01:254837009,0,2,treat
+water,dermatitis,http://purl.obolibrary.org/obo/ENVO_00002006,SNOMEDCT_US_2020_09_01:238538009,0,2,treat
+water,diabetes,http://purl.obolibrary.org/obo/ENVO_00002006,SNOMEDCT_US_2020_09_01:267467004,0,2,treat
+water,hyperglycemia,http://purl.obolibrary.org/obo/CHEBI_33290,SNOMEDCT_US_2020_09_01:144187006,0,5,treat
+water,hyperglycemia,http://purl.obolibrary.org/obo/ENVO_00002006,SNOMEDCT_US_2020_09_01:144187006,0,5,treat
+water,hypertension,http://purl.obolibrary.org/obo/ENVO_00002006,SNOMEDCT_US_2020_09_01:38341003,0,4,treat
+water,obesity,http://purl.obolibrary.org/obo/ENVO_00002006,SNOMEDCT_US_2020_09_01:5476005,0,3,treat
+well-known spice,hypertension,http://purl.obolibrary.org/obo/FOODON_03303380,SNOMEDCT_US_2020_09_01:38341003,0,3,treat
+whey,type 2 diabetes,http://purl.obolibrary.org/obo/UBERON_0001913,SNOMEDCT_US_2020_09_01:44054006,0,7,treat
+white wine,diabetes,http://purl.obolibrary.org/obo/FOODON_03310272,SNOMEDCT_US_2020_09_01:267467004,0,4,treat
+worldwide food,diabetes,http://purl.obolibrary.org/obo/CHEBI_33290,SNOMEDCT_US_2020_09_01:267467004,0,2,treat
+yogurt,type 2 diabetes,http://purl.obolibrary.org/obo/UBERON_0001913,SNOMEDCT_US_2020_09_01:44054006,0,7,treat

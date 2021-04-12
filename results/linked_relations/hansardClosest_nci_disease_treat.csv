@@ -1,0 +1,398 @@
+term1,term2,hansardClosest,nci_disease,is_cause,is_treat,relation
+", gymnema",diabetes,AG.01.h.01,NCI:C2985,0,5,treat
+", laver",hypertension,AG.01.h.01.d,NCI:C3117,0,8,treat
+", laver",hypertension,AG.01.h.02.a,NCI:C3117,0,8,treat
+", lemon balm",gastric ulcers,AE.10,NCI:C3388,0,5,treat
+", licorice",neurodegenerative diseases,AG.01,NCI:C27090,0,24,treat
+apple,hypertension,AG.01.h.01,NCI:C3117,0,8,treat
+asparagus,liver cancer,AG.01.h.02.b,NCI:C34803,0,18,treat
+banana,hypertension,AG.01.h.01,NCI:C3117,0,8,treat
+basil,pneumonia,AE.13.a,NCI:C3333,0,10,treat
+basil,pulmonary fibrosis,AE.13.a,NCI:C26869,0,10,treat
+beer,Alzheimer's disease,AG.01.y.01.b,NCI:C2866,0,6,treat
+beer,amnesia,AG.01.y.01.b,NCI:C2867,0,2,treat
+beer,diabetes,AG.01,NCI:C2985,0,4,treat
+beer,diabetes,AG.01.y.01.a,NCI:C2985,0,4,treat
+beverages,coronary heart disease,AG.01.i,NCI:C50625,0,2,treat
+biotin,type 2 diabetes,AE.13.a,NCI:C26747,0,9,treat
+black pepper,cancers,AG.01,NCI:C9305,0,15,treat
+bread,type 2 diabetes,AG.01.n.11,NCI:C26747,0,3,treat
+broccoli,breast cancer,AG.01,NCI:C9335,0,2,treat
+buckwheat,atherosclerosis,AG.01.i,NCI:C35768,0,2,treat
+buckwheat,cancers,AG.01.i,NCI:C9305,0,2,treat
+buckwheat,constipation,AG.01.i,NCI:C37930,0,2,treat
+buckwheat,hypertension,AG.01.i,NCI:C3117,0,2,treat
+buckwheat,obesity,AG.01.i,NCI:C159658,0,2,treat
+cabbage,arthritis,AG.01.h.02.c,NCI:C2883,0,2,treat
+canola oil,diabetes,AG.01.f,NCI:C2985,0,2,treat
+cauliflower,arthritis,AG.01.h.02.d,NCI:C2883,0,2,treat
+cheese,diabetes,AG.01,NCI:C2985,0,5,treat
+cheese,diabetes,AG.01.e.02,NCI:C2985,0,5,treat
+cheese,diabetes,AG.01.f,NCI:C2985,0,5,treat
+cheese,diabetes,AG.01.g,NCI:C2985,0,5,treat
+cheese,hyperphosphatemia,AG.01.e.02,NCI:C113750,0,2,treat
+cheese,type 2 diabetes,AE.10,NCI:C26747,0,7,treat
+cheese,type 2 diabetes,AG.01,NCI:C26747,0,7,treat
+cheese,type 2 diabetes,AG.01.e.02,NCI:C26747,0,7,treat
+chicken,colorectal cancer,AE.13.h.01,NCI:C4978,0,5,treat
+chickpea flour,type 2 diabetes mellitus,AG.01.j,NCI:C26747,0,4,treat
+chives,colorectal cancer,AG.01.h.02.b,NCI:C4978,0,5,treat
+chives,prostate cancer,AG.01.h.02.e,NCI:C7378,0,18,treat
+chocolate,breast cancer,AG.01,NCI:C9335,0,10,treat
+chocolate,diabetes,AG.01,NCI:C2985,0,4,treat
+chocolate,metabolic syndrome,AG.01,NCI:C3235,0,3,treat
+chocolate,stroke,AG.01,NCI:C2938,0,3,treat
+chocolate consumption,stroke,AG.01,NCI:C2938,0,3,treat
+chocolate consumption,stroke,AG.01.r,NCI:C2938,0,3,treat
+cinnamon,Alzheimer's disease,AE.13.a,NCI:C2866,0,6,treat
+cinnamon,diabetes,AE.13.a,NCI:C2985,0,16,treat
+cinnamon,diabetes,AG.01.h.01,NCI:C2985,0,5,treat
+cinnamon,diabetes,AG.01.l,NCI:C2985,0,5,treat
+cinnamon,diabetes mellitus,AE.13.a,NCI:C2985,0,18,treat
+cinnamon,gastric diseases,AE.13.a,NCI:C26886,0,3,treat
+cinnamon,glucose intolerance,AE.13.a,NCI:C34646,0,6,treat
+cinnamon,metabolic syndrome,AE.13.a,NCI:C3235,0,14,treat
+cinnamon,neurodegenerative diseases,AG.01,NCI:C27090,0,8,treat
+cinnamon,neurodegenerative diseases,AG.01.d,NCI:C27090,0,8,treat
+cinnamon,neurodegenerative diseases,AG.01.h.02.e,NCI:C27090,0,8,treat
+cinnamon,neurodegenerative diseases,AG.01.l.03,NCI:C27090,0,8,treat
+cinnamon,obesity,AE.13.a,NCI:C159658,0,6,treat
+cinnamon,type 2 diabetes,AE.13.a,NCI:C26747,0,40,treat
+cinnamon,type 2 diabetes mellitus,AE.13.a,NCI:C26747,0,6,treat
+cinnamon,type-2 diabetes,AE.13.a,NCI:C26747,0,7,treat
+cocoa,atherosclerosis,AG.01.r,NCI:C35768,0,4,treat
+cocoa,diabetes,AG.01,NCI:C2985,0,10,treat
+cocoa,hypertension,AG.01,NCI:C3117,0,2,treat
+cocoa,obesity,AG.01,NCI:C159658,0,4,treat
+cocoa,type 2 diabetes,AG.01,NCI:C26747,0,12,treat
+cocoa,type 2 diabetes mellitus,AG.01,NCI:C26747,0,13,treat
+cocoa consumption,type 2 diabetes,AG.01,NCI:C26747,0,12,treat
+coconut oil,Alzheimer's disease,AG.01.f,NCI:C2866,0,4,treat
+coffee,adenomas,AG.01.r,NCI:C2855,0,2,treat
+coffee,alcoholic liver cirrhosis,AG.01.r,NCI:C34782,0,2,treat
+coffee,atherosclerosis,AG.01,NCI:C35768,0,4,treat
+coffee,atherosclerosis,AG.01.h.01.b,NCI:C35768,0,4,treat
+coffee,atherosclerosis,AG.01.r,NCI:C35768,0,4,treat
+coffee,diabetes,AG.01.r,NCI:C2985,0,3,treat
+coffee,gastric cancer,AG.01.r,NCI:C3387,0,4,treat
+coffee,gout,AG.01.r,NCI:C34650,0,3,treat
+coffee,hyperuricemia,AG.01.r,NCI:C3961,0,2,treat
+coffee,liver disease,AG.01.r,NCI:C3196,0,4,treat
+coffee,obesity,AG.01.r,NCI:C159658,0,4,treat
+coffee,type 2 diabetes,AG.01.r,NCI:C26747,0,2,treat
+coffee consumption,cancers,AG.01.r,NCI:C9305,0,2,treat
+coffee consumption,colon cancer,AG.01.r,NCI:C9242,0,2,treat
+coriander,neurodegenerative diseases,AG.01.h.02.e,NCI:C27090,0,8,treat
+corn,celiac disease,AF.20.g,NCI:C26714,0,2,treat
+corn,celiac disease,AG.01,NCI:C26714,0,2,treat
+corn,hypertension,AG.01,NCI:C3117,0,8,treat
+cranberry juice,urinary tract infections,AG.01.m,NCI:C26934,0,2,treat
+cream,peptic ulcer disease,AG.01.e,NCI:C3318,0,3,treat
+diets rich,metabolic syndrome,AG.01.h,NCI:C3235,0,2,treat
+dried peas,type 2 diabetes,AG.01.h.02.g,NCI:C26747,0,4,treat
+eating yogurt,lactose intolerance,AG.01,NCI:C3154,0,8,treat
+eating yogurt,lactose intolerance,AG.01.e.02,NCI:C3154,0,4,treat
+egg yolk,chronic kidney disease,AG.01.g,NCI:C9438,0,3,treat
+eggs,cancers,AG.01.g,NCI:C9305,0,9,treat
+eggs,diabetes,AG.01,NCI:C2985,0,6,treat
+eggs,diabetes,AG.01.e.02,NCI:C2985,0,5,treat
+eggs,diabetes,AG.01.f,NCI:C2985,0,5,treat
+eggs,diabetes,AG.01.g,NCI:C2985,0,6,treat
+eggs,metabolic syndrome,AG.01.g,NCI:C3235,0,4,treat
+eggs,neurodegenerative diseases,AG.01.g,NCI:C27090,0,9,treat
+eggs,type 2 diabetes,AG.01.g,NCI:C26747,0,9,treat
+fat,breast cancer,AG.01.f,NCI:C9335,0,3,treat
+fat,hyperlipidaemia,AG.01.f,NCI:C34709,0,2,treat
+female,rectal cancer,AG.01.r,NCI:C9382,0,3,treat
+fenugreek,diabetes,AE.13.a,NCI:C2985,0,5,treat
+fenugreek,type 2 diabetes,AE.13.a,NCI:C26747,0,9,treat
+flour,spina bifida,AG.01.j,NCI:C101214,0,6,treat
+flour is,anaemia,AG.01.i,NCI:C2869,0,2,treat
+fruit,Alzheimer's disease,AF.07,NCI:C2866,0,2,treat
+fruit,allergic disease,AF.07,NCI:C3114,0,3,treat
+fruit,allergic rhinitis,AF.07,NCI:C34987,0,2,treat
+fruit,arthritis,AF.07,NCI:C2883,0,2,treat
+fruit,asthma,AF.07,NCI:C28397,0,5,treat
+fruit,bladder cancer,AF.07,NCI:C2901,0,10,treat
+fruit,breast cancer,AF.07,NCI:C9335,0,5,treat
+fruit,cancers,AF.07,NCI:C9305,0,11,treat
+fruit,colon cancer,AF.07,NCI:C9242,0,2,treat
+fruit,coronary heart disease,AF.07,NCI:C50625,0,12,treat
+fruit,degenerative diseases,AF.07,NCI:C27090,0,4,treat
+fruit,diabetes,AF.07,NCI:C2985,0,3,treat
+fruit,gastric cancer,AF.07,NCI:C3387,0,8,treat
+fruit,gestational diabetes mellitus,AF.07,NCI:C34942,0,4,treat
+fruit,hypertension,AF.07,NCI:C3117,0,15,treat
+fruit,liver diseases,AF.07,NCI:C3196,0,2,treat
+fruit,nephritis,AF.07,NCI:C26833,0,2,treat
+fruit,neurodegenerative diseases,AF.07,NCI:C27090,0,3,treat
+fruit,obesity,AF.07,NCI:C159658,0,5,treat
+fruit,osteoporosis,AF.07,NCI:C3298,0,5,treat
+fruit,renal cell cancer,AF.07,NCI:C9385,0,6,treat
+fruit,renal cell carcinoma,AF.07,NCI:C9385,0,5,treat
+fruit,stroke,AF.07,NCI:C2938,0,16,treat
+fruit,type 2 diabetes,AF.07,NCI:C26747,0,2,treat
+fruits,Alzheimer's disease,AG.01.h,NCI:C2866,0,3,treat
+fruits,Breast Cancer,AG.01.h,NCI:C9335,0,5,treat
+fruits,Colon cancer,AG.01.h,NCI:C9242,0,2,treat
+fruits,Parkinson's disease,AG.01.h,NCI:C26845,0,3,treat
+fruits,anemia,AG.01.h,NCI:C2869,0,2,treat
+fruits,asthma,AG.01.h,NCI:C28397,0,15,treat
+fruits,atherosclerosis,AG.01.h,NCI:C35768,0,3,treat
+fruits,bladder cancer,AG.01.h,NCI:C2901,0,3,treat
+fruits,breast cancer,AG.01.h,NCI:C9335,0,7,treat
+fruits,cancers,AE.10,NCI:C9305,0,2,treat
+fruits,cancers,AG.01.h,NCI:C9305,0,37,treat
+fruits,chronic obstructive pulmonary disease,AG.01.h,NCI:C3199,0,5,treat
+fruits,colon cancer,AG.01.h,NCI:C9242,0,3,treat
+fruits,colorectal cancer,AG.01.h,NCI:C4978,0,4,treat
+fruits,coronary heart disease,AG.01.h,NCI:C50625,0,25,treat
+fruits,degenerative diseases,AG.01.h,NCI:C27090,0,5,treat
+fruits,diabetes mellitus,AG.01.h,NCI:C2985,0,4,treat
+fruits,gastric cancer,AG.01.h,NCI:C3387,0,6,treat
+fruits,heart attacks,AG.01.h,NCI:C27996,0,2,treat
+fruits,heart disease,AG.01.h,NCI:C3079,0,5,treat
+fruits,hyperlipidaemia,AG.01.h,NCI:C34709,0,6,treat
+fruits,hyperphosphatemia,AG.01.h,NCI:C113750,0,2,treat
+fruits,hypertension,AG.01.h,NCI:C3117,0,39,treat
+fruits,kidney disease,AG.01.h,NCI:C3149,0,2,treat
+fruits,metabolic syndrome,AG.01.h,NCI:C3235,0,2,treat
+fruits,muscle wasting,AG.01.h,NCI:C94834,0,4,treat
+fruits,neurodegenerative diseases,AG.01.h,NCI:C27090,0,26,treat
+fruits,obesity,AG.01.h,NCI:C159658,0,7,treat
+fruits,osteoporosis,AG.01.h,NCI:C3298,0,2,treat
+fruits,ovarian cancer,AG.01,NCI:C7431,0,2,treat
+fruits,ovarian cancer,AG.01.h,NCI:C7431,0,2,treat
+fruits,prostate cancer,AG.01.h,NCI:C7378,0,4,treat
+fruits,skin cancer,AG.01.h,NCI:C2920,0,2,treat
+fruits,stroke,AG.01.h,NCI:C2938,0,19,treat
+"fruits,",stroke,AG.01.f,NCI:C2938,0,9,treat
+garlic,atherosclerosis,AG.01,NCI:C35768,0,2,treat
+garlic,atherosclerosis,AG.01.h.02.e,NCI:C35768,0,9,treat
+garlic,breast cancer,AG.01.h.02.e,NCI:C9335,0,6,treat
+garlic,cancers,AG.01.h.02.e,NCI:C9305,0,35,treat
+garlic,colon cancer,AG.01.h.02.e,NCI:C9242,0,10,treat
+garlic,colorectal adenocarcinoma,AG.01.h.02.e,NCI:C5105,0,3,treat
+garlic,colorectal cancer,AG.01.h.02.e,NCI:C4978,0,3,treat
+garlic,diabetes,AG.01,NCI:C2985,0,2,treat
+garlic,diabetes,AG.01.h.02.e,NCI:C2985,0,5,treat
+garlic,eclampsia,AG.01.h.02.e,NCI:C87167,0,2,treat
+garlic,gastric cancer,AG.01.h.02.e,NCI:C3387,0,8,treat
+garlic,gingivitis,AG.01.h.02.e,NCI:C34636,0,3,treat
+garlic,hepatoma,AG.01.h.02.e,NCI:C3099,0,3,treat
+garlic,hyperglycemia,AG.01.h.02.e,NCI:C26797,0,2,treat
+garlic,hypertension,AG.01.h.02.e,NCI:C3117,0,16,treat
+garlic,liver cancer,AG.01.h.02.e,NCI:C34803,0,18,treat
+garlic,myocardial infarction,AG.01.h.02.e,NCI:C27996,0,2,treat
+garlic,neurodegenerative diseases,AG.01.l.03,NCI:C27090,0,8,treat
+garlic,periodontal diseases,AG.01.h.02.e,NCI:C63743,0,3,treat
+garlic,prostate cancer,AG.01.h.02.e,NCI:C7378,0,16,treat
+garlic,renal hypertension,AG.01.h.02.e,NCI:C3121,0,2,treat
+garlic,stroke,AG.01.h.02.e,NCI:C2938,0,6,treat
+ginger,Alzheimer's disease,AG.01.l.03,NCI:C2866,0,6,treat
+ginger,CRF,AG.01.l.03,NCI:C9438,0,3,treat
+ginger,asthma,AG.01.l.03,NCI:C28397,0,4,treat
+ginger,cancers,AG.01.l.03,NCI:C9305,0,18,treat
+ginger,chronic kidney diseases,AG.01.l.03,NCI:C9438,0,3,treat
+ginger,colon cancer,AG.01.l.03,NCI:C9242,0,2,treat
+ginger,colorectal cancer,AG.01.l.03,NCI:C4978,0,9,treat
+ginger,constipation,AG.01.l.03,NCI:C37930,0,7,treat
+ginger,diabetes,AG.01.l.03,NCI:C2985,0,23,treat
+ginger,diabetes mellitus,AG.01.l.03,NCI:C2985,0,6,treat
+ginger,heart diseases,AG.01.l.03,NCI:C3079,0,4,treat
+ginger,hepatic disorders,AG.01.l.03,NCI:C3196,0,5,treat
+ginger,hyperglycemia,AG.01.l.03,NCI:C26797,0,5,treat
+ginger,hypertension,AG.01.h.01,NCI:C3117,0,3,treat
+ginger,hypertension,AG.01.l.03,NCI:C3117,0,6,treat
+ginger,inflammatory bowel diseases,AG.01.l.03,NCI:C3138,0,2,treat
+ginger,irritable bowel syndrome,AG.01.l.03,NCI:C82343,0,9,treat
+ginger,liver cancer,AG.01.l.03,NCI:C34803,0,9,treat
+ginger,migraine,AG.01.l.03,NCI:C89715,0,7,treat
+ginger,motion sickness,AG.01.l.03,NCI:C34824,0,7,treat
+ginger,neurodegenerative diseases,AG.01,NCI:C27090,0,8,treat
+ginger,neurodegenerative diseases,AG.01.d,NCI:C27090,0,8,treat
+ginger,neurodegenerative diseases,AG.01.h.02.e,NCI:C27090,0,8,treat
+ginger,neurodegenerative diseases,AG.01.l.03,NCI:C27090,0,8,treat
+ginger,obesity,AG.01.l.03,NCI:C159658,0,9,treat
+ginger,sinusitis,AG.01.l.03,NCI:C128411,0,5,treat
+ginseng,diabetes,AG.01.l,NCI:C2985,0,5,treat
+ginseng,type 2 diabetes,AE.13.a,NCI:C26747,0,9,treat
+grape juice,hypertension,AG.01.ab,NCI:C3117,0,3,treat
+grapefruit,Parkinson's disease,AG.01.h.01.a,NCI:C26845,0,3,treat
+grapefruit,hypertension,AG.01.h.01.a,NCI:C3117,0,5,treat
+grapes,atherosclerosis,AG.01,NCI:C35768,0,4,treat
+grapes,breast cancer,AG.01.h.01.b,NCI:C9335,0,10,treat
+green tea,diabetes,AG.01,NCI:C2985,0,3,treat
+green tea,diabetes,AG.01.r,NCI:C2985,0,3,treat
+green tea,prostate cancer,AG.01.h.02.e,NCI:C7378,0,14,treat
+green tea,prostate cancer,AG.01.h.02.f,NCI:C7378,0,5,treat
+hawthorn,Hypertension,AG.01.l.03,NCI:C3117,0,11,treat
+high-fat,asthma,AG.01.f,NCI:C28397,0,4,treat
+honey,amnesia,AG.01.m,NCI:C2867,0,2,treat
+honey,colorectal cancer,AG.01.m,NCI:C4978,0,5,treat
+honey,eczema,AG.01.m,NCI:C2983,0,3,treat
+honey,metabolic syndrome,AG.01.m,NCI:C3235,0,6,treat
+honey,psoriasis,AG.01.m,NCI:C3346,0,3,treat
+honey,stroke,AG.01.m,NCI:C2938,0,2,treat
+honey,type 2 diabetes,AG.01.m,NCI:C26747,0,4,treat
+honey,urinary tract infections,AG.01.m,NCI:C26934,0,3,treat
+indicate,hypertension,AG.01.h,NCI:C3117,0,2,treat
+kefir,metabolic syndrome,AG.01,NCI:C3235,0,2,treat
+kiwi,hypertension,AG.01,NCI:C3117,0,8,treat
+lemon,Alzheimer's disease,AG.01.ab,NCI:C2866,0,3,treat
+lemon,gastritis,AG.01.ab,NCI:C26780,0,2,treat
+lemon,gastroesophageal reflux,AG.01.ab,NCI:C26781,0,2,treat
+lemon,pneumonia,AG.01.h.02.e,NCI:C3333,0,10,treat
+lemon,pulmonary fibrosis,AG.01.h.02.e,NCI:C26869,0,10,treat
+lentils,type 2 diabetes,AG.01.h.02.g,NCI:C26747,0,4,treat
+liver,cancers,AE.08,NCI:C9305,0,3,treat
+low salt,stroke,AG.01.h,NCI:C2938,0,3,treat
+manner,motion sickness,AG.01.l.03,NCI:C34824,0,2,treat
+meat,Hypertension,AG.01,NCI:C3117,0,11,treat
+meat,hypertension,AG.01,NCI:C3117,0,7,treat
+milk,cancers,AE.10,NCI:C9305,0,8,treat
+milk,diabetes,AE.10,NCI:C2985,0,15,treat
+milk,gout,AE.10,NCI:C34650,0,3,treat
+milk,hereditary angioedema,AE.10,NCI:C84758,0,2,treat
+milk,lactose intolerance,AE.10,NCI:C3154,0,2,treat
+milk,liver disease,AE.10,NCI:C3196,0,9,treat
+milk,liver diseases,AE.10,NCI:C3196,0,21,treat
+milk,metabolic syndrome,AE.10,NCI:C3235,0,4,treat
+milk,stroke,AE.10,NCI:C2938,0,7,treat
+milk,type 2 diabetes,AE.10,NCI:C26747,0,2,treat
+milk products,hypertension,AE.10,NCI:C3117,0,4,treat
+mushrooms,prostate cancer,AG.01.h.02.h,NCI:C7378,0,5,treat
+nuts,atherosclerosis,AG.01,NCI:C35768,0,4,treat
+nuts,atherosclerosis,AG.01.h.01.b,NCI:C35768,0,4,treat
+nuts,atherosclerosis,AG.01.r,NCI:C35768,0,4,treat
+nuts,epilepsy,AG.01.f,NCI:C3020,0,6,treat
+nuts,stroke,AG.01.f,NCI:C2938,0,6,treat
+nuts,type 2 diabetes,AE.13.a,NCI:C26747,0,3,treat
+oats,celiac disease,AG.01.i,NCI:C26714,0,5,treat
+oats,coeliac disease,AG.01.i,NCI:C26714,0,5,treat
+oats,colorectal cancer,AG.01.i,NCI:C4978,0,5,treat
+oats,inflammatory bowel disease,AG.01.i,NCI:C3138,0,5,treat
+oil or,diabetes,AG.01.f,NCI:C2985,0,7,treat
+oil or,metabolic syndrome,AG.01.f,NCI:C3235,0,7,treat
+olive oil,Alzheimer's disease,AG.01.f,NCI:C2866,0,3,treat
+olive oil,Breast Cancer,AG.01.f,NCI:C9335,0,5,treat
+olive oil,atherosclerosis,AG.01.f,NCI:C35768,0,3,treat
+olive oil,breast cancer,AG.01.f,NCI:C9335,0,21,treat
+olive oil,breast tumor,AG.01.f,NCI:C9335,0,4,treat
+olive oil,cancers,AG.01.f,NCI:C9305,0,16,treat
+olive oil,coronary heart disease,AG.01.f,NCI:C50625,0,16,treat
+olive oil,diabetes,AG.01.f,NCI:C2985,0,10,treat
+olive oil,epilepsy,AG.01.f,NCI:C3020,0,6,treat
+olive oil,gastric cancer,AG.01.f,NCI:C3387,0,4,treat
+olive oil,hypertension,AG.01.f,NCI:C3117,0,10,treat
+olive oil,metabolic diseases,AG.01.f,NCI:C3235,0,3,treat
+olive oil,metabolic syndrome,AG.01.f,NCI:C3235,0,3,treat
+olive oil,neurodegenerative disease,AG.01.f,NCI:C27090,0,7,treat
+olive oil,neurodegenerative diseases,AG.01.f,NCI:C27090,0,37,treat
+olive oil,obesity,AG.01.f,NCI:C159658,0,3,treat
+olive oil,osteoporosis,AG.01.f,NCI:C3298,0,4,treat
+olive oil,stroke,AG.01.f,NCI:C2938,0,16,treat
+olive oil,stroke,AG.01.h,NCI:C2938,0,10,treat
+olive oil,type 2 diabetes,AG.01.f,NCI:C26747,0,19,treat
+olive oil mixture,eczema,AG.01.m,NCI:C2983,0,3,treat
+olive oil mixture,psoriasis,AG.01.m,NCI:C3346,0,3,treat
+onion,breast cancer,AG.01.h.02.e,NCI:C9335,0,4,treat
+onion,hypertension,AG.01.h.02.e,NCI:C3117,0,8,treat
+other dairy,heart disease,AG.01,NCI:C3079,0,6,treat
+other dairy,hypertension,AG.01,NCI:C3117,0,6,treat
+other dairy,obesity,AG.01,NCI:C159658,0,6,treat
+other dairy,type 2 diabetes,AG.01,NCI:C26747,0,6,treat
+other fruits,prostate cancer,AG.01.h,NCI:C7378,0,5,treat
+other fruits,prostate cancer,AG.01.h.02.f,NCI:C7378,0,5,treat
+other fruits,prostate cancer,AG.01.z,NCI:C7378,0,5,treat
+papaya,prostate cancer,AG.01.h,NCI:C7378,0,5,treat
+papaya,prostate cancer,AG.01.h.02.f,NCI:C7378,0,5,treat
+papaya,prostate cancer,AG.01.z,NCI:C7378,0,5,treat
+pear,diabetes mellitus,AG.01.h.01.d,NCI:C2985,0,2,treat
+pear,metabolic diseases,AG.01.h.01.d,NCI:C3235,0,2,treat
+peas,diabetes,AE.10,NCI:C2985,0,3,treat
+potato,renal cell carcinoma,AG.01.h.02.a,NCI:C9385,0,20,treat
+prickly pear,diabetes,AE.10,NCI:C2985,0,3,treat
+pulses,diabetes,AG.01,NCI:C2985,0,2,treat
+pulses,type 2 diabetes,AG.01,NCI:C26747,0,4,treat
+pulses,type 2 diabetes,AG.01.h.02.g,NCI:C26747,0,8,treat
+pumpkin,diabetes,AG.01.h.02.f,NCI:C2985,0,2,treat
+raspberries,arthritis,AG.01.h.01.b,NCI:C2883,0,3,treat
+red onion,ovarian cancer,AG.01.d,NCI:C7431,0,2,treat
+red wine,Breast Cancer,AG.01,NCI:C9335,0,15,treat
+red wine,Breast Cancer,AG.01.h,NCI:C9335,0,5,treat
+red wine,cerebrovascular disease,AG.01,NCI:C2938,0,3,treat
+red wine,coronary heart disease,AG.01,NCI:C50625,0,11,treat
+red wine,coronary heart disease,AG.01.y.01.a,NCI:C50625,0,2,treat
+red wine,coronary heart diseases,AG.01,NCI:C50625,0,2,treat
+red wine,diabetes,AG.01,NCI:C2985,0,6,treat
+red wine,mammary tumors,AG.01,NCI:C9335,0,3,treat
+red wine,type 2 diabetes,AG.01,NCI:C26747,0,4,treat
+red wine,vascular diseases,AG.01,NCI:C26693,0,2,treat
+rice,diabetes,AF.20.g,NCI:C2985,0,3,treat
+saffron,asthma,AE.08.i,NCI:C28397,0,3,treat
+saffron,cancers,AE.08.i,NCI:C9305,0,15,treat
+salt,stroke,AG.01,NCI:C2938,0,3,treat
+strawberries,arthritis,AG.01.n.18,NCI:C2883,0,3,treat
+sweet potato,malignant tumor,AG.01.z,NCI:C9305,0,2,treat
+sweet potato,renal cell carcinoma,AG.01.z,NCI:C9385,0,20,treat
+tea,breast cancer,AG.01.r,NCI:C9335,0,10,treat
+tea,colon cancer,AG.01.h.02.e,NCI:C9242,0,9,treat
+tea,colorectal cancer,AG.01.r,NCI:C4978,0,3,treat
+tea,diabetes,AG.01.r,NCI:C2985,0,6,treat
+tea,hypertension,AG.01.r,NCI:C3117,0,5,treat
+tea,liver disease,AG.01.r,NCI:C3196,0,2,treat
+tea,obesity,AG.01.r,NCI:C159658,0,7,treat
+tea,obesity,AG.01.y.01.a,NCI:C159658,0,4,treat
+tea,osteoporosis,AG.01.r,NCI:C3298,0,2,treat
+tea,stroke,AG.01.r,NCI:C2938,0,4,treat
+thistle,Type 2 diabetes mellitus,AE.10,NCI:C26747,0,6,treat
+thistle,liver diseases,AE.08,NCI:C3196,0,2,treat
+thistle,liver diseases,AE.10,NCI:C3196,0,7,treat
+tofu,prostate cancer,AG.01,NCI:C7378,0,2,treat
+tomato,cancers,AG.01.h.02.f,NCI:C9305,0,3,treat
+tomato,gastritis,AG.01.h.02.f,NCI:C26780,0,2,treat
+tomato,gastroesophageal reflux,AG.01.h.02.f,NCI:C26781,0,2,treat
+tomato,prostate cancer,AG.01.h.02.f,NCI:C7378,0,23,treat
+tomato sauce,prostate cancer,AG.01.h,NCI:C7378,0,15,treat
+tomatoes,prostate cancer,AG.01.h.02.f,NCI:C7378,0,13,treat
+turmeric,liver cancer,AG.01.h.01.b,NCI:C34803,0,9,treat
+turmeric,liver cancer,AG.01.h.02.b,NCI:C34803,0,9,treat
+turmeric,liver cancer,AG.01.h.02.e,NCI:C34803,0,9,treat
+turmeric,liver cancer,AG.01.h.02.f,NCI:C34803,0,9,treat
+turmeric,liver cancer,AG.01.l.03,NCI:C34803,0,9,treat
+vegetables,bladder cancer,AG.01.h,NCI:C2901,0,2,treat
+vegetables,gastric cancer,AF.07,NCI:C3387,0,8,treat
+vinegar,diabetes,AE.13.a,NCI:C2985,0,5,treat
+vinegar,diabetes,AG.01.h.01,NCI:C2985,0,5,treat
+vinegar,diabetes,AG.01.l,NCI:C2985,0,5,treat
+walnuts,breast cancer,AG.01,NCI:C9335,0,2,treat
+walnuts,mammary cancer,AG.01,NCI:C9335,0,2,treat
+water,dermatitis,AG.01.z,NCI:C2983,0,2,treat
+water,diabetes,AG.01.z,NCI:C2985,0,2,treat
+water,hyperglycemia,AG.01,NCI:C26797,0,5,treat
+water,hyperglycemia,AG.01.z,NCI:C26797,0,5,treat
+water,hypertension,AG.01.z,NCI:C3117,0,4,treat
+water,obesity,AG.01.z,NCI:C159658,0,3,treat
+watermelon,hypertension,AG.01.z,NCI:C3117,0,8,treat
+watermelon,prostate cancer,AG.01.z,NCI:C7378,0,5,treat
+well-known spice,hypertension,AG.01.h.01,NCI:C3117,0,3,treat
+wheat flour,allergic disease,AG.01.i,NCI:C3114,0,5,treat
+wheat flour,spina bifida,AG.01.i,NCI:C101214,0,3,treat
+whey,type 2 diabetes,AE.10,NCI:C26747,0,7,treat
+whey,type 2 diabetes,AG.01,NCI:C26747,0,7,treat
+whey,type 2 diabetes,AG.01.e.02,NCI:C26747,0,7,treat
+white wine,diabetes,AG.01,NCI:C2985,0,4,treat
+white wine,diabetes,AG.01.y.01.a,NCI:C2985,0,4,treat
+wine,atherosclerosis,AG.01.y.01.a,NCI:C35768,0,3,treat
+wine,coronary disease,AG.01.y.01.a,NCI:C50625,0,8,treat
+wine,obesity,AG.01.y.01.a,NCI:C159658,0,4,treat
+worldwide food,diabetes,AG.01,NCI:C2985,0,2,treat
+yogurt,breast cancer,AG.01,NCI:C9335,0,15,treat
+yogurt,heart disease,AG.01,NCI:C3079,0,6,treat
+yogurt,hyperphosphatemia,AG.01,NCI:C113750,0,2,treat
+yogurt,hypertension,AG.01,NCI:C3117,0,6,treat
+yogurt,obesity,AG.01,NCI:C159658,0,6,treat
+yogurt,type 2 diabetes,AE.10,NCI:C26747,0,7,treat
+yogurt,type 2 diabetes,AG.01,NCI:C26747,0,14,treat
+yogurt,type 2 diabetes,AG.01.e.02,NCI:C26747,0,7,treat

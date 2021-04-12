@@ -1,0 +1,223 @@
+term1,term2,hansardClosest,entity_id_y,is_cause,is_treat,relation
+", beer",migraine,AG.01,DOID:6364,10,0,cause
+apple,OAS,AG.01.h.01,DOID:0060861,6,0,cause
+apple,dermatitis,AG.01.h.02.a,DOID:2723,4,0,cause
+banana,asthma,AG.01.h.01,DOID:2841,6,0,cause
+banana,hypersensitivity,AG.01.h.01,DOID:1205,9,0,cause
+banana,pancreatitis,AG.01.h.01,DOID:4989,3,0,cause
+banana,rhinitis,AG.01.h.01,DOID:4483,11,0,cause
+banana,urticaria,AG.01.h.01,DOID:1555,11,0,cause
+barley,Celiac Disease,AG.01.i,DOID:10608,12,0,cause
+barley,Celiac disease,AG.01.i,DOID:10608,83,0,cause
+barley,anaemia,AG.01.i,DOID:2355,11,0,cause
+barley,asthma,AG.01.i,DOID:2841,2,0,cause
+barley,asthma,AG.01.j,DOID:2841,2,0,cause
+barley,autoimmune disease,AG.01.i,DOID:417,2,0,cause
+barley,autoimmune disorder,AG.01.i,DOID:417,20,0,cause
+barley,celiac disease,AG.01.i,DOID:10608,7,0,cause
+barley,coeliac disease,AG.01.i,DOID:10608,6,0,cause
+barley,dermatitis,AG.01.i,DOID:2723,18,0,cause
+barley,osteoporosis,AG.01.i,DOID:11476,11,0,cause
+beef,campylobacteriosis,AG.01,DOID:13622,2,0,cause
+beef,lymphoproliferative disorder,AG.01,DOID:0060704,2,0,cause
+beer,Korsakoff's psychosis,AG.01.y.01.b,DOID:10915,4,0,cause
+beer,Wernicke's encephalopathy,AG.01.y.01.b,DOID:2384,4,0,cause
+beer,Wernicke-Korsakoff syndrome,AG.01.y.01.b,DOID:10915,3,0,cause
+beer,lactic acidosis,AG.01.y.01.b,DOID:3650,4,0,cause
+beer,urticaria,AG.01.y.01.b,DOID:1555,3,0,cause
+beverages,telangiectasia,AE.13.a,DOID:1272,3,0,cause
+beverages,telangiectasia,AF.12,DOID:1272,3,0,cause
+cake prepared,hypersensitivity,AG.01.n.11,DOID:1205,5,0,cause
+cakes,acne,AG.01.g,DOID:6543,8,0,cause
+calcium,pericardial effusion,AE.10,DOID:118,3,0,cause
+candy,stomatitis,AG.01.l.02,DOID:9637,6,0,cause
+carrot,dermatitis,AG.01.h.02.a,DOID:2723,4,0,cause
+celery,urticaria,AG.01.h.02.b,DOID:1555,3,0,cause
+cereal,asthma,AG.01.i,DOID:2841,4,0,cause
+cereal,dermatitis,AG.01.i,DOID:2723,4,0,cause
+cereal,eczema,AG.01.i,DOID:2723,4,0,cause
+cereal flour,Asthma,AG.01.i,DOID:2841,2,0,cause
+cheese,Migraine,AG.01,DOID:6364,4,0,cause
+cheese,Migraine,AG.01.e.02,DOID:6364,2,0,cause
+cheese,hypertension,AG.01.e.02,DOID:10763,3,0,cause
+cheese,insulin-dependent diabetes mellitus,AG.01.e.02,DOID:9744,2,0,cause
+cheese,migraine,AG.01,DOID:6364,14,0,cause
+cheese,migraine,AG.01.e.02,DOID:6364,6,0,cause
+chicken,obesity,AE.13.h.01,DOID:9970,2,0,cause
+chocolate,Migraine,AG.01,DOID:6364,2,0,cause
+chocolate,Pertussis,AG.01,DOID:1116,2,0,cause
+chocolate,acne,AG.01,DOID:6543,10,0,cause
+chocolate,acne,AG.01.g,DOID:6543,8,0,cause
+chocolate,acne,AG.01.n.11,DOID:6543,8,0,cause
+chocolate,acne,AG.01.r,DOID:6543,8,0,cause
+chocolate,atrial fibrillation,AG.01,DOID:0060224,3,0,cause
+chocolate,hyperglycemia,AG.01,DOID:4195,4,0,cause
+chocolate,migraine,AG.01,DOID:6364,8,0,cause
+chocolate,migraine,AG.01.e.02,DOID:6364,7,0,cause
+chocolate,obesity,AG.01,DOID:9970,9,0,cause
+chocolate milk,diabetes,AG.01.e,DOID:9351,2,0,cause
+cinnamon,dermatitis,AE.13.a,DOID:2723,3,0,cause
+cinnamon,hypersensitivity,AE.13.a,DOID:1205,10,0,cause
+cinnamon,stomatitis,AG.01,DOID:9637,6,0,cause
+cinnamon,stomatitis,AG.01.l.02,DOID:9637,6,0,cause
+cinnamon,telangiectasia,AF.12,DOID:1272,3,0,cause
+coffee,acne,AG.01,DOID:6543,8,0,cause
+coffee,acne,AG.01.g,DOID:6543,8,0,cause
+coffee,acne,AG.01.n.11,DOID:6543,8,0,cause
+coffee,acne,AG.01.r,DOID:6543,9,0,cause
+corn,rhinitis,AG.01,DOID:4483,3,0,cause
+crab,allergic rhinitis,AG.01.d.07,DOID:4481,2,0,cause
+drinking beer,angioedema,AG.01.y.01.b,DOID:1558,5,0,cause
+drinking beer,urticaria,AG.01.y.01.b,DOID:1555,5,0,cause
+eggs,acne,AG.01,DOID:6543,8,0,cause
+eggs,acne,AG.01.g,DOID:6543,8,0,cause
+eggs,acne,AG.01.n.11,DOID:6543,8,0,cause
+eggs,acne,AG.01.r,DOID:6543,8,0,cause
+eggs,eczema,AG.01.g,DOID:2723,3,0,cause
+eggs,obstructive uropathy,AG.01.g,DOID:5200,3,0,cause
+eggs,urticaria,AG.01.g,DOID:1555,2,0,cause
+fat,Diabetes mellitus,AG.01.f,DOID:9351,7,0,cause
+fat,Obesity,AG.01.f,DOID:9970,10,0,cause
+fat,diabetes,AG.01.f,DOID:9351,10,0,cause
+fat,fatty liver syndrome,AG.01.f,DOID:9452,3,0,cause
+fat,glucose intolerance,AG.01.f,DOID:10603,6,0,cause
+fat,hyperinsulinemia,AG.01.f,DOID:2018,6,0,cause
+fat,inflammatory bowel disease,AG.01.f,DOID:0050589,2,0,cause
+fat,metabolic disease,AG.01.f,DOID:0014667,2,0,cause
+fat,metabolic disorder,AG.01.f,DOID:0014667,3,0,cause
+fat,nonalcoholic fatty liver disease,AG.01.f,DOID:0080208,3,0,cause
+fat,pneumonia,AG.01.f,DOID:552,6,0,cause
+fat,type 2 diabetes mellitus,AG.01.f,DOID:9352,2,0,cause
+flour,allergic rhinitis,AG.01.j,DOID:4481,4,0,cause
+flour,asthma,AG.01.h.01,DOID:2841,2,0,cause
+flour,asthma,AG.01.i,DOID:2841,2,0,cause
+flour,asthma,AG.01.j,DOID:2841,26,0,cause
+flour,hypersensitivity pneumonitis,AG.01.j,DOID:841,3,0,cause
+flour,rhinitis,AG.01.j,DOID:4483,6,0,cause
+flour dust,asthma,AF.10.l,DOID:2841,2,0,cause
+flour mill,bronchitis,AG.01.j,DOID:6132,6,0,cause
+"flour,",asthma,AG.01.i,DOID:2841,4,0,cause
+food rich,diarrhoea,AG.01,DOID:13250,3,0,cause
+fruit,OAS,AF.07,DOID:0060861,14,0,cause
+fruit,gastroesophageal reflux,AF.07,DOID:8534,3,0,cause
+fruit,hypersensitivity,AF.07,DOID:1205,13,0,cause
+fruit,uremia,AF.07,DOID:4676,2,0,cause
+fruits,allergic conjunctivitis,AG.01,DOID:11204,3,0,cause
+fruits,allergic conjunctivitis,AG.01.h,DOID:11204,3,0,cause
+fruits,carotenemia,AG.01.h,DOID:9969,3,0,cause
+fruits,dermatitis,AG.01.h,DOID:2723,3,0,cause
+fruits,hypersensitivity,AG.01.h,DOID:1205,5,0,cause
+fruits,pollen allergy,AG.01.h,DOID:0060497,2,0,cause
+garlic,asthma,AG.01,DOID:2841,6,0,cause
+garlic,asthma,AG.01.h.02.e,DOID:2841,19,0,cause
+garlic,dermatitis,AG.01.h.02.e,DOID:2723,6,0,cause
+garlic,hemolytic anemia,AG.01.h.02.e,DOID:583,5,0,cause
+garlic,hypersensitivity,AE.13.a,DOID:1205,10,0,cause
+garlic,rhinitis,AG.01,DOID:4483,6,0,cause
+garlic,rhinitis,AG.01.h.02.e,DOID:4483,12,0,cause
+harmful effects,hypertension,AG.01,DOID:10763,2,0,cause
+hazelnut,OAS,AG.01,DOID:0060861,2,0,cause
+horseradish,hypersensitivity,AE.13.a,DOID:1205,10,0,cause
+horseradish,hypersensitivity,AG.01,DOID:1205,10,0,cause
+horseradish,hypersensitivity,AG.01.h.02.e,DOID:1205,20,0,cause
+horseradish,hypersensitivity,AG.01.l.03,DOID:1205,10,0,cause
+lamb,asthma,AG.01.d.04,DOID:2841,2,0,cause
+lemon,endophthalmitis,AG.01.ab,DOID:4692,3,0,cause
+lemon,urticaria,AG.01.ab,DOID:1555,3,0,cause
+liquid,dental caries,AG.01,DOID:216,3,0,cause
+liver,Colorectal cancer,AE.08,DOID:9256,5,0,cause
+liver,Gaucher disease,AE.08,DOID:1926,2,0,cause
+liver,Non-alcoholic fatty liver disease,AE.08,DOID:0080208,2,0,cause
+liver,Obesity,AE.08,DOID:9970,2,0,cause
+liver,Schistosomiasis,AE.08,DOID:1395,3,0,cause
+liver,Wilson disease,AE.08,DOID:893,3,0,cause
+liver,autosomal recessive disease,AE.08,DOID:0050737,3,0,cause
+liver,fatty liver syndrome,AE.08,DOID:9452,2,0,cause
+liver,polygenic disorder,AE.08,DOID:0080577,2,0,cause
+liver,portal hypertension,AE.08,DOID:10762,2,0,cause
+meat,Multiple Sclerosis,AG.01,DOID:2377,3,0,cause
+meat,colorectal cancer,AG.01,DOID:9256,3,0,cause
+meat,gout,AG.01,DOID:13189,2,0,cause
+milk,Asthma,AE.10,DOID:2841,3,0,cause
+milk,Breast carcinoma,AE.10,DOID:3459,10,0,cause
+milk,Campylobacteriosis,AE.10,DOID:13622,4,0,cause
+milk,Eosinophilic esophagitis,AE.10,DOID:13922,7,0,cause
+milk,Hydatidosis,AE.10,DOID:1496,2,0,cause
+milk,Mastitis,AE.10,DOID:10690,7,0,cause
+milk,Rift Valley fever,AE.10,DOID:1328,2,0,cause
+milk,Tick-borne encephalitis,AE.10,DOID:0050175,4,0,cause
+milk,acne,AE.10,DOID:6543,2,0,cause
+milk,amenorrhea,AE.10,DOID:13938,5,0,cause
+milk,autosomal recessive disorder,AE.10,DOID:0050737,3,0,cause
+milk,campylobacteriosis,AE.10,DOID:13622,2,0,cause
+milk,coronary heart disease,AE.10,DOID:3393,5,0,cause
+milk,diabetic ketoacidosis,AE.10,DOID:1837,4,0,cause
+milk,diarrhea,AE.10,DOID:13250,5,0,cause
+milk,eczema,AE.10,DOID:2723,2,0,cause
+milk,hyperphosphatemia,AE.10,DOID:0050459,2,0,cause
+milk,hyperprolactinemia,AE.10,DOID:12700,2,0,cause
+milk,infectious disease,AE.10,DOID:0050117,4,0,cause
+milk,invasive ductal carcinoma,AE.10,DOID:3008,3,0,cause
+milk,myocarditis,AE.10,DOID:820,2,0,cause
+milk,ovarian cancer,AE.10,DOID:2394,3,0,cause
+milk,ovarian carcinoma,AE.10,DOID:4001,5,0,cause
+milk,pancreatitis,AE.10,DOID:4989,8,0,cause
+milk,urticaria,AE.10,DOID:1555,2,0,cause
+milk products,campylobacteriosis,AE.10,DOID:13622,3,0,cause
+mustard,hypersensitivity,AE.13.a,DOID:1205,10,0,cause
+mustard,pancreatitis,AG.01.l.03,DOID:4989,3,0,cause
+nuts,pollen allergy,AG.01,DOID:0060497,2,0,cause
+nuts,pollen allergy,AG.01.h,DOID:0060497,2,0,cause
+oats,Celiac disease,AG.01.i,DOID:10608,15,0,cause
+oats,dermatitis,AG.01.i,DOID:2723,11,0,cause
+onion,asthma,AG.01.h.02.e,DOID:2841,5,0,cause
+other meat,campylobacteriosis,AG.01,DOID:13622,2,0,cause
+peach,OAS,AG.01.h.01.e,DOID:0060861,6,0,cause
+peach,urticaria,AG.01.h.01.e,DOID:1555,12,0,cause
+pollen-associated food,pollen allergy,AG.01,DOID:0060497,2,0,cause
+potato,asthma,AG.01,DOID:2841,2,0,cause
+potato,dermatitis,AG.01.h.02.a,DOID:2723,8,0,cause
+rabbit,atopic dermatitis,AG.01.d.06,DOID:3310,3,0,cause
+red wine,breast cancer,AG.01,DOID:1612,3,0,cause
+red wine,diarrhea,AG.01,DOID:13250,8,0,cause
+red wine,diarrhoea,AG.01,DOID:13250,5,0,cause
+red wine,irritable bowel syndrome,AG.01,DOID:9778,4,0,cause
+red wine,migraine,AG.01,DOID:6364,4,0,cause
+related cereal,Celiac disease,AG.01.i,DOID:10608,8,0,cause
+rice,asthma,AF.20.g,DOID:2841,6,0,cause
+rice,urticaria,AF.20.g,DOID:1555,6,0,cause
+rosemary,asthma,AF.28,DOID:2841,3,0,cause
+rye,Celiac Disease,AG.01.i,DOID:10608,6,0,cause
+rye,Celiac disease,AG.01.i,DOID:10608,14,0,cause
+rye flour,allergic rhinitis,AG.01.j,DOID:4481,8,0,cause
+salt,diabetes,AG.01,DOID:9351,7,0,cause
+salt,diabetes,AG.01.f,DOID:9351,3,0,cause
+salt,gastric cancer,AG.01,DOID:10534,2,0,cause
+salt,obesity,AG.01,DOID:9970,2,0,cause
+soy milk,hyperphosphatemia,AE.10,DOID:0050459,2,0,cause
+spices,acne,AG.01.n.11,DOID:6543,8,0,cause
+sugar,diabetes,AG.01,DOID:9351,8,0,cause
+sugar,diabetes,AG.01.f,DOID:9351,3,0,cause
+sugar,dyslipidemia,AG.01,DOID:3146,3,0,cause
+sugar,nonalcoholic fatty liver disease,AG.01,DOID:0080208,3,0,cause
+tea,acne,AG.01.r,DOID:6543,9,0,cause
+thyme,asthma,AG.01.h.02.i,DOID:2841,3,0,cause
+tomatoes,dermatitis,AG.01.h.02.f,DOID:2723,3,0,cause
+trigger,asthma,AG.01,DOID:2841,2,0,cause
+turkey,Gastric cancer,AG.01.d.06,DOID:10534,7,0,cause
+turkey,Hypertension,AG.01.d.06,DOID:10763,7,0,cause
+unpasteurized animal milk,campylobacteriosis,AE.10,DOID:13622,3,0,cause
+vegetable oil,pneumonia,AF.02.a,DOID:552,2,0,cause
+wasabi,hypersensitivity,AG.01,DOID:1205,10,0,cause
+water,campylobacteriosis,AE.10,DOID:13622,3,0,cause
+water,campylobacteriosis,AG.01.z,DOID:13622,2,0,cause
+water,gastroenteritis,AG.01.z,DOID:2326,2,0,cause
+water,lymphadenitis,AG.01.z,DOID:1602,2,0,cause
+water,nephrosis,AG.01.z,DOID:2527,2,0,cause
+water,tuberculosis,AG.01.z,DOID:399,3,0,cause
+wheat,Celiac Disease,AG.01.i,DOID:10608,6,0,cause
+wheat flour,urticaria,AG.01.i,DOID:1555,7,0,cause
+white bread,diabetes,AG.01.n.11,DOID:9351,4,0,cause
+white wine,migraine,AG.01.y.01.a,DOID:6364,4,0,cause
+wine,diarrhea,AG.01.y.01.a,DOID:13250,4,0,cause
+wood,asthma,AF.10.l,DOID:2841,2,0,cause

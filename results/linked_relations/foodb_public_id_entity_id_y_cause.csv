@@ -1,0 +1,149 @@
+term1,term2,foodb_public_id,entity_id_y,is_cause,is_treat,relation
+agaricus bisporus,allergic rhinitis,FOOD00547,DOID:4481,6,0,cause
+agaricus bisporus,asthma,FOOD00547,DOID:2841,6,0,cause
+allium cepa,asthma,FOOD00006,DOID:2841,3,0,cause
+allium cepa,dermatitis,FOOD00006,DOID:2723,3,0,cause
+allium sativum,dermatitis,FOOD00008,DOID:2723,2,0,cause
+apple,OAS,FOOD00105,DOID:0060861,6,0,cause
+apple,dermatitis,FOOD00105,DOID:2723,4,0,cause
+baby food,diarrhea,FOOD00668,DOID:13250,3,0,cause
+banana,asthma,FOOD00208,DOID:2841,6,0,cause
+banana,hypersensitivity,FOOD00208,DOID:1205,10,0,cause
+banana,pancreatitis,FOOD00208,DOID:4989,3,0,cause
+banana,rhinitis,FOOD00208,DOID:4483,11,0,cause
+banana,urticaria,FOOD00208,DOID:1555,11,0,cause
+barley,Celiac Disease,FOOD00088,DOID:10608,12,0,cause
+barley,Celiac disease,FOOD00088,DOID:10608,83,0,cause
+barley,anaemia,FOOD00088,DOID:2355,11,0,cause
+barley,asthma,FOOD00088,DOID:2841,4,0,cause
+barley,autoimmune disease,FOOD00088,DOID:417,2,0,cause
+barley,autoimmune disorder,FOOD00088,DOID:417,20,0,cause
+barley,celiac disease,FOOD00088,DOID:10608,7,0,cause
+barley,coeliac disease,FOOD00088,DOID:10608,6,0,cause
+barley,dermatitis,FOOD00088,DOID:2723,18,0,cause
+barley,osteoporosis,FOOD00088,DOID:11476,11,0,cause
+beer,Korsakoff's psychosis,FOOD00268,DOID:10915,4,0,cause
+beer,Wernicke's encephalopathy,FOOD00268,DOID:2384,4,0,cause
+beer,Wernicke-Korsakoff syndrome,FOOD00268,DOID:10915,3,0,cause
+beer,lactic acidosis,FOOD00268,DOID:3650,5,0,cause
+beer,urticaria,FOOD00268,DOID:1555,3,0,cause
+beverages,rosacea,FOOD00870,DOID:8881,2,0,cause
+beverages,telangiectasia,FOOD00870,DOID:1272,6,0,cause
+black tea,diabetes mellitus,FOOD00907,DOID:9351,10,0,cause
+black tea,kidney diseases,FOOD00907,DOID:557,10,0,cause
+carrot,dermatitis,FOOD00245,DOID:2723,4,0,cause
+cassava,latex allergy,FOOD00323,DOID:0060532,6,0,cause
+cheese,Migraine,FOOD00617,DOID:6364,6,0,cause
+cheese,hypertension,FOOD00617,DOID:10763,3,0,cause
+cheese,insulin-dependent diabetes mellitus,FOOD00617,DOID:9744,2,0,cause
+cheese,migraine,FOOD00617,DOID:6364,20,0,cause
+chestnut,hypersensitivity,FOOD00045,DOID:1205,6,0,cause
+chestnut,latex allergy,FOOD00045,DOID:0060532,3,0,cause
+chewing gum,stomatitis,FOOD00643,DOID:9637,6,0,cause
+chicken,obesity,FOOD00329,DOID:9970,2,0,cause
+chicory,asthma,FOOD00049,DOID:2841,4,0,cause
+chocolate,Migraine,FOOD00687,DOID:6364,2,0,cause
+chocolate,Pertussis,FOOD00687,DOID:1116,2,0,cause
+chocolate,acne,FOOD00687,DOID:6543,34,0,cause
+chocolate,atrial fibrillation,FOOD00687,DOID:0060224,3,0,cause
+chocolate,hyperglycemia,FOOD00687,DOID:4195,4,0,cause
+chocolate,migraine,FOOD00687,DOID:6364,15,0,cause
+chocolate,obesity,FOOD00687,DOID:9970,16,0,cause
+cinnamon,dermatitis,FOOD00572,DOID:2723,3,0,cause
+cinnamon,hepatitis,FOOD00572,DOID:2237,4,0,cause
+cinnamon,hypersensitivity,FOOD00572,DOID:1205,10,0,cause
+cinnamon,stomatitis,FOOD00572,DOID:9637,19,0,cause
+cinnamon,telangiectasia,FOOD00572,DOID:1272,3,0,cause
+coffee,acne,FOOD00058,DOID:6543,33,0,cause
+corn,dermatitis,FOOD00205,DOID:2723,11,0,cause
+corn,rhinitis,FOOD00205,DOID:4483,3,0,cause
+crab,allergic rhinitis,FOOD00573,DOID:4481,3,0,cause
+eggs,acne,FOOD00619,DOID:6543,32,0,cause
+eggs,eczema,FOOD00619,DOID:2723,3,0,cause
+eggs,obstructive uropathy,FOOD00619,DOID:5200,3,0,cause
+eggs,urticaria,FOOD00619,DOID:1555,2,0,cause
+flour,Asthma,FOOD00799,DOID:2841,5,0,cause
+flour,allergic rhinitis,FOOD00799,DOID:4481,4,0,cause
+flour,asthma,FOOD00799,DOID:2841,30,0,cause
+flour,hypersensitivity pneumonitis,FOOD00799,DOID:841,3,0,cause
+flour,rhinitis,FOOD00799,DOID:4483,6,0,cause
+flour,urticaria,FOOD00799,DOID:1555,2,0,cause
+fruit juice,angioedema,FOOD00763,DOID:1558,2,0,cause
+fruit juice,gastrointestinal disorders,FOOD00763,DOID:77,2,0,cause
+fruits,allergic conjunctivitis,FOOD00871,DOID:11204,9,0,cause
+fruits,carotenemia,FOOD00871,DOID:9969,3,0,cause
+fruits,dermatitis,FOOD00871,DOID:2723,3,0,cause
+fruits,hypersensitivity,FOOD00871,DOID:1205,5,0,cause
+fruits,pollen allergy,FOOD00871,DOID:0060497,2,0,cause
+garlic,dermatitis,FOOD00008,DOID:2723,19,0,cause
+garlic,hemolytic anemia,FOOD00008,DOID:583,5,0,cause
+garlic,hypersensitivity,FOOD00008,DOID:1205,10,0,cause
+garlic,rhinitis,FOOD00008,DOID:4483,18,0,cause
+hazelnut,OAS,FOOD00376,DOID:0060861,2,0,cause
+hordeum vulgare,asthma,FOOD00088,DOID:2841,2,0,cause
+horseradish,hypersensitivity,FOOD00018,DOID:1205,50,0,cause
+lemon,endophthalmitis,FOOD00054,DOID:4692,3,0,cause
+lemon,hypersensitivity,FOOD00054,DOID:1205,5,0,cause
+lemon,urticaria,FOOD00054,DOID:1555,3,0,cause
+mustard,asthma,FOOD00654,DOID:2841,2,0,cause
+mustard,hypersensitivity,FOOD00654,DOID:1205,13,0,cause
+mustard,pancreatitis,FOOD00654,DOID:4989,3,0,cause
+nuts,pollen allergy,FOOD00869,DOID:0060497,4,0,cause
+papaya,hypersensitivity,FOOD00041,DOID:1205,2,0,cause
+peach,OAS,FOOD00149,DOID:0060861,6,0,cause
+peach,urticaria,FOOD00149,DOID:1555,12,0,cause
+peanut,atopic dermatitis,FOOD00016,DOID:3310,3,0,cause
+phaseolus vulgaris,diarrhoea,FOOD00134,DOID:13250,2,0,cause
+phaseolus vulgaris,diarrhoea,FOOD00882,DOID:13250,2,0,cause
+phaseolus vulgaris,diarrhoea,FOOD00883,DOID:13250,2,0,cause
+pizza,allergic rhinitis,FOOD00637,DOID:4481,6,0,cause
+pizza,asthma,FOOD00637,DOID:2841,6,0,cause
+popcorn,bronchiolitis obliterans,FOOD00719,DOID:2799,5,0,cause
+potato,asthma,FOOD00175,DOID:2841,2,0,cause
+potato,dermatitis,FOOD00175,DOID:2723,8,0,cause
+rabbit,atopic dermatitis,FOOD00528,DOID:3310,3,0,cause
+red wine,breast cancer,FOOD00911,DOID:1612,3,0,cause
+red wine,diarrhea,FOOD00911,DOID:13250,8,0,cause
+red wine,diarrhoea,FOOD00911,DOID:13250,5,0,cause
+red wine,irritable bowel syndrome,FOOD00911,DOID:9778,4,0,cause
+red wine,migraine,FOOD00911,DOID:6364,4,0,cause
+rice,asthma,FOOD00125,DOID:2841,6,0,cause
+rice,urticaria,FOOD00125,DOID:1555,6,0,cause
+rosemary,asthma,FOOD00159,DOID:2841,3,0,cause
+rye,Celiac Disease,FOOD00169,DOID:10608,6,0,cause
+rye,Celiac disease,FOOD00169,DOID:10608,22,0,cause
+rye,autoimmune disorder,FOOD00169,DOID:417,2,0,cause
+rye,celiac disease,FOOD00169,DOID:10608,13,0,cause
+rye,coeliac disease,FOOD00169,DOID:10608,6,0,cause
+rye,dermatitis,FOOD00169,DOID:2723,7,0,cause
+salt,Metabolic diseases,FOOD00647,DOID:0014667,3,0,cause
+salt,diabetes,FOOD00647,DOID:9351,10,0,cause
+salt,gastric cancer,FOOD00647,DOID:10534,4,0,cause
+soy milk,hyperphosphatemia,FOOD00736,DOID:0050459,2,0,cause
+sugar,diabetes,FOOD00651,DOID:9351,11,0,cause
+sugar,dyslipidemia,FOOD00651,DOID:3146,3,0,cause
+sugar,nonalcoholic fatty liver disease,FOOD00651,DOID:0080208,3,0,cause
+tea,acne,FOOD00038,DOID:6543,9,0,cause
+triticum aestivum,Celiac disease,FOOD00187,DOID:10608,5,0,cause
+turkey,Gastric cancer,FOOD00494,DOID:10534,7,0,cause
+turkey,Hypertension,FOOD00494,DOID:10763,7,0,cause
+vanilla,telangiectasia,FOOD00195,DOID:1272,3,0,cause
+wasabi,hypersensitivity,FOOD00498,DOID:1205,10,0,cause
+water,campylobacteriosis,FOOD00664,DOID:13622,5,0,cause
+water,gastroenteritis,FOOD00664,DOID:2326,2,0,cause
+water,lymphadenitis,FOOD00664,DOID:1602,2,0,cause
+water,nephrosis,FOOD00664,DOID:2527,2,0,cause
+water,tuberculosis,FOOD00664,DOID:399,3,0,cause
+wheat,Celiac Disease,FOOD00561,DOID:10608,6,0,cause
+wheat,Celiac disease,FOOD00561,DOID:10608,60,0,cause
+wheat,Coeliac disease,FOOD00561,DOID:10608,6,0,cause
+wheat,asthma,FOOD00561,DOID:2841,2,0,cause
+wheat,autoimmune disease,FOOD00561,DOID:417,2,0,cause
+wheat,autoimmune disorder,FOOD00561,DOID:417,26,0,cause
+wheat,coeliac disease,FOOD00561,DOID:10608,13,0,cause
+wheat,dermatitis,FOOD00561,DOID:2723,11,0,cause
+wheat,eczema,FOOD00561,DOID:2723,9,0,cause
+wheat,irritable bowel syndrome,FOOD00561,DOID:9778,2,0,cause
+wheat,osteoporosis,FOOD00561,DOID:11476,11,0,cause
+white bread,diabetes,FOOD00987,DOID:9351,4,0,cause
+white wine,migraine,FOOD00917,DOID:6364,4,0,cause

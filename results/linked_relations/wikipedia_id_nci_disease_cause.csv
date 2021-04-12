@@ -1,0 +1,104 @@
+term1,term2,wikipedia_id,nci_disease,is_cause,is_treat,relation
+agaricus bisporus,allergic rhinitis,Agaricus bisporus,NCI:C34987,6,0,cause
+agaricus bisporus,asthma,Agaricus bisporus,NCI:C28397,6,0,cause
+allium cepa,asthma,Onion,NCI:C28397,3,0,cause
+allium cepa,dermatitis,Onion,NCI:C2983,3,0,cause
+allium sativum,dermatitis,Garlic,NCI:C2983,2,0,cause
+apple,dermatitis,Apple,NCI:C2983,4,0,cause
+banana,asthma,Banana,NCI:C28397,6,0,cause
+banana,hypersensitivity,Banana,NCI:C3114,10,0,cause
+banana,pancreatitis,Banana,NCI:C3306,3,0,cause
+banana,rhinitis,Banana,NCI:C34986,11,0,cause
+barley,Celiac Disease,Barley,NCI:C26714,12,0,cause
+barley,Celiac disease,Barley,NCI:C26714,83,0,cause
+barley,anaemia,Barley,NCI:C2869,11,0,cause
+barley,asthma,Barley,NCI:C28397,4,0,cause
+barley,celiac disease,Barley,NCI:C26714,7,0,cause
+barley,coeliac disease,Barley,NCI:C26714,6,0,cause
+barley,dermatitis,Barley,NCI:C2983,18,0,cause
+barley,osteoporosis,Barley,NCI:C3298,11,0,cause
+beer,Korsakoff's psychosis,Beer,NCI:C35764,4,0,cause
+beer,Wernicke-Korsakoff syndrome,Beer,NCI:C35764,3,0,cause
+beer,lactic acidosis,Beer,NCI:C98969,5,0,cause
+beverages,rosacea,Beverages,NCI:C97136,2,0,cause
+beverages,telangiectasia,Beverages,NCI:C28194,6,0,cause
+carrot,dermatitis,Carrot,NCI:C2983,4,0,cause
+cheese,Migraine,Cheese,NCI:C89715,6,0,cause
+cheese,hypertension,Cheese,NCI:C3117,3,0,cause
+cheese,insulin-dependent diabetes mellitus,Cheese,NCI:C2986,2,0,cause
+cheese,migraine,Cheese,NCI:C89715,20,0,cause
+chestnut,hypersensitivity,Chestnut,NCI:C3114,6,0,cause
+chewing gum,stomatitis,Chewing_gum,NCI:C26887,6,0,cause
+chicken,obesity,Chicken,NCI:C159658,2,0,cause
+chicory,asthma,Chicory,NCI:C28397,4,0,cause
+chocolate,Migraine,Types_of_chocolate,NCI:C89715,2,0,cause
+chocolate,atrial fibrillation,Types_of_chocolate,NCI:C50466,3,0,cause
+chocolate,hyperglycemia,Types_of_chocolate,NCI:C26797,4,0,cause
+chocolate,migraine,Types_of_chocolate,NCI:C89715,15,0,cause
+chocolate,obesity,Types_of_chocolate,NCI:C159658,16,0,cause
+cinnamon,dermatitis,Cinnamon,NCI:C2983,3,0,cause
+cinnamon,hepatitis,Cinnamon,NCI:C82978,4,0,cause
+cinnamon,hypersensitivity,Cinnamon,NCI:C3114,10,0,cause
+cinnamon,stomatitis,Cinnamon,NCI:C26887,19,0,cause
+cinnamon,telangiectasia,Cinnamon,NCI:C28194,3,0,cause
+corn,dermatitis,Corn,NCI:C2983,11,0,cause
+corn,rhinitis,Corn,NCI:C34986,3,0,cause
+crab,allergic rhinitis,Crab,NCI:C34987,3,0,cause
+eggs,eczema,Eggs,NCI:C2983,3,0,cause
+eggs,obstructive uropathy,Eggs,NCI:C79805,3,0,cause
+flour,Asthma,Flour,NCI:C28397,5,0,cause
+flour,allergic rhinitis,Flour,NCI:C34987,4,0,cause
+flour,asthma,Flour,NCI:C28397,30,0,cause
+flour,hypersensitivity pneumonitis,Flour,NCI:C34369,3,0,cause
+flour,rhinitis,Flour,NCI:C34986,6,0,cause
+fruit juice,angioedema,Juice,NCI:C112175,2,0,cause
+fruits,allergic conjunctivitis,Fruits,NCI:C34506,9,0,cause
+fruits,carotenemia,Fruits,NCI:C26963,3,0,cause
+fruits,dermatitis,Fruits,NCI:C2983,3,0,cause
+fruits,hypersensitivity,Fruits,NCI:C3114,5,0,cause
+garlic,dermatitis,Garlic,NCI:C2983,19,0,cause
+garlic,hemolytic anemia,Garlic,NCI:C34376,5,0,cause
+garlic,hypersensitivity,Garlic,NCI:C3114,10,0,cause
+garlic,rhinitis,Garlic,NCI:C34986,18,0,cause
+hordeum vulgare,asthma,Barley,NCI:C28397,2,0,cause
+horseradish,hypersensitivity,Horseradish,NCI:C3114,50,0,cause
+lemon,endophthalmitis,Lemon,NCI:C34586,3,0,cause
+lemon,hypersensitivity,Lemon,NCI:C3114,5,0,cause
+mustard,asthma,Mustard_(condiment),NCI:C28397,2,0,cause
+mustard,hypersensitivity,Mustard_(condiment),NCI:C3114,13,0,cause
+mustard,pancreatitis,Mustard_(condiment),NCI:C3306,3,0,cause
+papaya,hypersensitivity,Papaya,NCI:C3114,2,0,cause
+phaseolus vulgaris,gastroenteritis,Phaseolus_vulgaris,NCI:C34632,2,0,cause
+pizza,allergic rhinitis,Pizza,NCI:C34987,6,0,cause
+pizza,asthma,Pizza,NCI:C28397,6,0,cause
+popcorn,bronchiolitis obliterans,Popcorn,NCI:C62580,5,0,cause
+potato,asthma,Potato,NCI:C28397,2,0,cause
+potato,dermatitis,Potato,NCI:C2983,8,0,cause
+rice,asthma,Rice,NCI:C28397,6,0,cause
+rosemary,asthma,Rosemary,NCI:C28397,3,0,cause
+rye,Celiac Disease,Rye,NCI:C26714,6,0,cause
+rye,Celiac disease,Rye,NCI:C26714,22,0,cause
+rye,celiac disease,Rye,NCI:C26714,13,0,cause
+rye,coeliac disease,Rye,NCI:C26714,6,0,cause
+rye,dermatitis,Rye,NCI:C2983,7,0,cause
+salt,Metabolic diseases,Salt,NCI:C3235,3,0,cause
+salt,diabetes,Salt,NCI:C2985,10,0,cause
+salt,gastric cancer,Salt,NCI:C3387,4,0,cause
+soy milk,hyperphosphatemia,Soy_milk,NCI:C113750,2,0,cause
+sugar,diabetes,Sugar,NCI:C2985,11,0,cause
+triticum aestivum,Celiac disease,Common wheat,NCI:C26714,5,0,cause
+turkey,Gastric cancer,Meleagris_gallopavo,NCI:C3387,7,0,cause
+turkey,Hypertension,Meleagris_gallopavo,NCI:C3117,7,0,cause
+vanilla,telangiectasia,Vanilla,NCI:C28194,3,0,cause
+wasabi,hypersensitivity,Wasabi,NCI:C3114,10,0,cause
+water,gastroenteritis,Water,NCI:C34632,2,0,cause
+water,lymphadenitis,Water,NCI:C26978,2,0,cause
+wheat,Celiac Disease,Wheat,NCI:C26714,6,0,cause
+wheat,Celiac disease,Wheat,NCI:C26714,60,0,cause
+wheat,Coeliac disease,Wheat,NCI:C26714,6,0,cause
+wheat,asthma,Wheat,NCI:C28397,2,0,cause
+wheat,coeliac disease,Wheat,NCI:C26714,13,0,cause
+wheat,dermatitis,Wheat,NCI:C2983,11,0,cause
+wheat,eczema,Wheat,NCI:C2983,9,0,cause
+wheat,irritable bowel syndrome,Wheat,NCI:C82343,2,0,cause
+wheat,osteoporosis,Wheat,NCI:C3298,11,0,cause

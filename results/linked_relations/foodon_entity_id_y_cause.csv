@@ -1,0 +1,168 @@
+term1,term2,foodon,entity_id_y,is_cause,is_treat,relation
+", beer",migraine,http://purl.obolibrary.org/obo/FOODON_03310272,DOID:6364,10,0,cause
+apple,OAS,http://purl.obolibrary.org/obo/FOODON_03301710***http://purl.obolibrary.org/obo/NCBITaxon_3750,DOID:0060861,6,0,cause
+apple,dermatitis,http://purl.obolibrary.org/obo/NCBITaxon_4039,DOID:2723,4,0,cause
+banana,asthma,http://purl.obolibrary.org/obo/NCBITaxon_89151***http://purl.obolibrary.org/obo/NCBITaxon_4641,DOID:2841,6,0,cause
+banana,hypersensitivity,http://purl.obolibrary.org/obo/NCBITaxon_89151***http://purl.obolibrary.org/obo/NCBITaxon_4641,DOID:1205,9,0,cause
+banana,pancreatitis,http://purl.obolibrary.org/obo/NCBITaxon_89151***http://purl.obolibrary.org/obo/NCBITaxon_4641,DOID:4989,3,0,cause
+banana,rhinitis,http://purl.obolibrary.org/obo/NCBITaxon_89151***http://purl.obolibrary.org/obo/NCBITaxon_4641,DOID:4483,11,0,cause
+banana,urticaria,http://purl.obolibrary.org/obo/NCBITaxon_89151***http://purl.obolibrary.org/obo/NCBITaxon_4641,DOID:1555,11,0,cause
+barley,Celiac Disease,http://purl.obolibrary.org/obo/NCBITaxon_4513,DOID:10608,12,0,cause
+barley,Celiac disease,http://purl.obolibrary.org/obo/FOODON_03315188***http://purl.obolibrary.org/obo/NCBITaxon_4498,DOID:10608,6,0,cause
+barley,Celiac disease,http://purl.obolibrary.org/obo/NCBITaxon_4513,DOID:10608,77,0,cause
+barley,anaemia,http://purl.obolibrary.org/obo/NCBITaxon_4513,DOID:2355,11,0,cause
+barley,asthma,http://purl.obolibrary.org/obo/FOODON_03301116,DOID:2841,2,0,cause
+barley,asthma,http://purl.obolibrary.org/obo/NCBITaxon_4513,DOID:2841,2,0,cause
+barley,autoimmune disease,http://purl.obolibrary.org/obo/NCBITaxon_4513,DOID:417,2,0,cause
+barley,autoimmune disorder,http://purl.obolibrary.org/obo/NCBITaxon_4513,DOID:417,20,0,cause
+barley,celiac disease,http://purl.obolibrary.org/obo/NCBITaxon_4513,DOID:10608,7,0,cause
+barley,coeliac disease,http://purl.obolibrary.org/obo/NCBITaxon_4513,DOID:10608,6,0,cause
+barley,dermatitis,http://purl.obolibrary.org/obo/NCBITaxon_4513,DOID:2723,18,0,cause
+barley,osteoporosis,http://purl.obolibrary.org/obo/NCBITaxon_4513,DOID:11476,11,0,cause
+beer,Korsakoff's psychosis,http://purl.obolibrary.org/obo/FOODON_03301619,DOID:10915,4,0,cause
+beer,Wernicke's encephalopathy,http://purl.obolibrary.org/obo/FOODON_03301619,DOID:2384,4,0,cause
+beer,Wernicke-Korsakoff syndrome,http://purl.obolibrary.org/obo/FOODON_03301619,DOID:10915,3,0,cause
+beer,lactic acidosis,http://purl.obolibrary.org/obo/FOODON_03301619,DOID:3650,4,0,cause
+beer,urticaria,http://purl.obolibrary.org/obo/FOODON_03301619,DOID:1555,3,0,cause
+beverages,telangiectasia,http://purl.obolibrary.org/obo/FOODON_03301175***http://purl.obolibrary.org/obo/NCBITaxon_128608,DOID:1272,3,0,cause
+beverages,telangiectasia,http://purl.obolibrary.org/obo/NCBITaxon_51238***http://purl.obolibrary.org/obo/FOODON_03411355,DOID:1272,3,0,cause
+calcium,pericardial effusion,http://purl.obolibrary.org/obo/UBERON_0001913,DOID:118,3,0,cause
+candy,stomatitis,http://purl.obolibrary.org/obo/FOODON_03301051,DOID:9637,6,0,cause
+carrot,dermatitis,http://purl.obolibrary.org/obo/NCBITaxon_4113,DOID:2723,4,0,cause
+celery,urticaria,http://purl.obolibrary.org/obo/NCBITaxon_117781,DOID:1555,3,0,cause
+cheese,Migraine,http://purl.obolibrary.org/obo/CHEBI_33290,DOID:6364,2,0,cause
+cheese,Migraine,http://purl.obolibrary.org/obo/FOODON_03307240,DOID:6364,2,0,cause
+cheese,migraine,http://purl.obolibrary.org/obo/CHEBI_33290,DOID:6364,2,0,cause
+cheese,migraine,http://purl.obolibrary.org/obo/FOODON_03307240,DOID:6364,12,0,cause
+chicken,obesity,http://purl.obolibrary.org/obo/NCBITaxon_9031***http://purl.obolibrary.org/obo/FOODON_03411457,DOID:9970,2,0,cause
+chocolate,Migraine,http://purl.obolibrary.org/obo/FOODON_03307240,DOID:6364,2,0,cause
+chocolate,Pertussis,http://purl.obolibrary.org/obo/FOODON_03307240,DOID:1116,2,0,cause
+chocolate,acne,http://purl.obolibrary.org/obo/FOODON_03307240,DOID:6543,10,0,cause
+chocolate,atrial fibrillation,http://purl.obolibrary.org/obo/FOODON_03307240,DOID:0060224,3,0,cause
+chocolate,hyperglycemia,http://purl.obolibrary.org/obo/FOODON_03307240,DOID:4195,4,0,cause
+chocolate,migraine,http://purl.obolibrary.org/obo/FOODON_03307240,DOID:6364,8,0,cause
+chocolate,obesity,http://purl.obolibrary.org/obo/FOODON_03307240,DOID:9970,9,0,cause
+cinnamon,dermatitis,http://purl.obolibrary.org/obo/FOODON_03301175***http://purl.obolibrary.org/obo/NCBITaxon_128608,DOID:2723,3,0,cause
+cinnamon,hypersensitivity,http://purl.obolibrary.org/obo/FOODON_03301175***http://purl.obolibrary.org/obo/NCBITaxon_128608,DOID:1205,10,0,cause
+cinnamon,stomatitis,http://purl.obolibrary.org/obo/CHEBI_33290,DOID:9637,6,0,cause
+cinnamon,stomatitis,http://purl.obolibrary.org/obo/FOODON_03301051,DOID:9637,6,0,cause
+cinnamon,telangiectasia,http://purl.obolibrary.org/obo/NCBITaxon_51238***http://purl.obolibrary.org/obo/FOODON_03411355,DOID:1272,3,0,cause
+coffee,acne,http://purl.obolibrary.org/obo/FOODON_03307240,DOID:6543,8,0,cause
+corn,rhinitis,http://purl.obolibrary.org/obo/NCBITaxon_381124,DOID:4483,3,0,cause
+drinking beer,angioedema,http://purl.obolibrary.org/obo/FOODON_03301619,DOID:1558,5,0,cause
+drinking beer,urticaria,http://purl.obolibrary.org/obo/FOODON_03301619,DOID:1555,5,0,cause
+eggs,acne,http://purl.obolibrary.org/obo/FOODON_03307240,DOID:6543,8,0,cause
+flour,allergic rhinitis,http://purl.obolibrary.org/obo/FOODON_03301116,DOID:4481,4,0,cause
+flour,asthma,http://purl.obolibrary.org/obo/FOODON_03301116,DOID:2841,26,0,cause
+flour,asthma,http://purl.obolibrary.org/obo/NCBITaxon_4513,DOID:2841,2,0,cause
+flour,asthma,http://purl.obolibrary.org/obo/NCBITaxon_89151***http://purl.obolibrary.org/obo/NCBITaxon_4641,DOID:2841,2,0,cause
+flour,hypersensitivity pneumonitis,http://purl.obolibrary.org/obo/FOODON_03301116,DOID:841,3,0,cause
+flour,rhinitis,http://purl.obolibrary.org/obo/FOODON_03301116,DOID:4483,6,0,cause
+flour dust,asthma,http://purl.obolibrary.org/obo/FOODON_03500035***http://purl.obolibrary.org/obo/FOODON_03420309,DOID:2841,2,0,cause
+flour mill,bronchitis,http://purl.obolibrary.org/obo/FOODON_03301116,DOID:6132,6,0,cause
+food rich,diarrhoea,http://purl.obolibrary.org/obo/CHEBI_33290,DOID:13250,3,0,cause
+fruit,OAS,http://purl.obolibrary.org/obo/PO_0009001,DOID:0060861,14,0,cause
+fruit,gastroesophageal reflux,http://purl.obolibrary.org/obo/PO_0009001,DOID:8534,3,0,cause
+fruit,hypersensitivity,http://purl.obolibrary.org/obo/PO_0009001,DOID:1205,13,0,cause
+fruit,uremia,http://purl.obolibrary.org/obo/PO_0009001,DOID:4676,2,0,cause
+fruits,allergic conjunctivitis,http://purl.obolibrary.org/obo/CHEBI_33290,DOID:11204,3,0,cause
+garlic,asthma,http://purl.obolibrary.org/obo/CHEBI_33290,DOID:2841,6,0,cause
+garlic,asthma,http://purl.obolibrary.org/obo/NCBITaxon_4682,DOID:2841,19,0,cause
+garlic,dermatitis,http://purl.obolibrary.org/obo/NCBITaxon_4682,DOID:2723,6,0,cause
+garlic,hemolytic anemia,http://purl.obolibrary.org/obo/NCBITaxon_4682,DOID:583,5,0,cause
+garlic,hypersensitivity,http://purl.obolibrary.org/obo/FOODON_03301175***http://purl.obolibrary.org/obo/NCBITaxon_128608,DOID:1205,10,0,cause
+garlic,rhinitis,http://purl.obolibrary.org/obo/CHEBI_33290,DOID:4483,6,0,cause
+garlic,rhinitis,http://purl.obolibrary.org/obo/NCBITaxon_4682,DOID:4483,12,0,cause
+harmful effects,hypertension,http://purl.obolibrary.org/obo/FOODON_03310272,DOID:10763,2,0,cause
+horseradish,hypersensitivity,http://purl.obolibrary.org/obo/FOODON_03301175***http://purl.obolibrary.org/obo/NCBITaxon_128608,DOID:1205,10,0,cause
+horseradish,hypersensitivity,http://purl.obolibrary.org/obo/FOODON_03316284,DOID:1205,10,0,cause
+horseradish,hypersensitivity,http://purl.obolibrary.org/obo/FOODON_03316347***http://purl.obolibrary.org/obo/NCBITaxon_4679,DOID:1205,10,0,cause
+horseradish,hypersensitivity,http://purl.obolibrary.org/obo/NCBITaxon_4682,DOID:1205,10,0,cause
+lamb,asthma,http://purl.obolibrary.org/obo/FOODON_03411669,DOID:2841,2,0,cause
+lemon,endophthalmitis,http://purl.obolibrary.org/obo/FOODON_03301441,DOID:4692,3,0,cause
+lemon,urticaria,http://purl.obolibrary.org/obo/FOODON_03301441,DOID:1555,3,0,cause
+liquid,dental caries,http://purl.obolibrary.org/obo/FOODON_03412974,DOID:216,3,0,cause
+liver,Colorectal cancer,http://purl.obolibrary.org/obo/UBERON_0002107,DOID:9256,5,0,cause
+liver,Gaucher disease,http://purl.obolibrary.org/obo/UBERON_0002107,DOID:1926,2,0,cause
+liver,Non-alcoholic fatty liver disease,http://purl.obolibrary.org/obo/UBERON_0002107,DOID:0080208,2,0,cause
+liver,Obesity,http://purl.obolibrary.org/obo/UBERON_0002107,DOID:9970,2,0,cause
+liver,Schistosomiasis,http://purl.obolibrary.org/obo/UBERON_0002107,DOID:1395,3,0,cause
+liver,Wilson disease,http://purl.obolibrary.org/obo/UBERON_0002107,DOID:893,3,0,cause
+liver,autosomal recessive disease,http://purl.obolibrary.org/obo/UBERON_0002107,DOID:0050737,3,0,cause
+liver,fatty liver syndrome,http://purl.obolibrary.org/obo/UBERON_0002107,DOID:9452,2,0,cause
+liver,polygenic disorder,http://purl.obolibrary.org/obo/UBERON_0002107,DOID:0080577,2,0,cause
+liver,portal hypertension,http://purl.obolibrary.org/obo/UBERON_0002107,DOID:10762,2,0,cause
+milk,Asthma,http://purl.obolibrary.org/obo/UBERON_0001913,DOID:2841,3,0,cause
+milk,Breast carcinoma,http://purl.obolibrary.org/obo/UBERON_0001913,DOID:3459,10,0,cause
+milk,Campylobacteriosis,http://purl.obolibrary.org/obo/UBERON_0001913,DOID:13622,4,0,cause
+milk,Eosinophilic esophagitis,http://purl.obolibrary.org/obo/UBERON_0001913,DOID:13922,7,0,cause
+milk,Hydatidosis,http://purl.obolibrary.org/obo/UBERON_0001913,DOID:1496,2,0,cause
+milk,Mastitis,http://purl.obolibrary.org/obo/UBERON_0001913,DOID:10690,7,0,cause
+milk,Rift Valley fever,http://purl.obolibrary.org/obo/UBERON_0001913,DOID:1328,2,0,cause
+milk,Tick-borne encephalitis,http://purl.obolibrary.org/obo/UBERON_0001913,DOID:0050175,4,0,cause
+milk,acne,http://purl.obolibrary.org/obo/UBERON_0001913,DOID:6543,2,0,cause
+milk,amenorrhea,http://purl.obolibrary.org/obo/UBERON_0001913,DOID:13938,5,0,cause
+milk,autosomal recessive disorder,http://purl.obolibrary.org/obo/UBERON_0001913,DOID:0050737,3,0,cause
+milk,campylobacteriosis,http://purl.obolibrary.org/obo/UBERON_0001913,DOID:13622,2,0,cause
+milk,coronary heart disease,http://purl.obolibrary.org/obo/UBERON_0001913,DOID:3393,5,0,cause
+milk,diabetic ketoacidosis,http://purl.obolibrary.org/obo/UBERON_0001913,DOID:1837,4,0,cause
+milk,diarrhea,http://purl.obolibrary.org/obo/UBERON_0001913,DOID:13250,5,0,cause
+milk,eczema,http://purl.obolibrary.org/obo/UBERON_0001913,DOID:2723,2,0,cause
+milk,hyperphosphatemia,http://purl.obolibrary.org/obo/UBERON_0001913,DOID:0050459,2,0,cause
+milk,hyperprolactinemia,http://purl.obolibrary.org/obo/UBERON_0001913,DOID:12700,2,0,cause
+milk,infectious disease,http://purl.obolibrary.org/obo/UBERON_0001913,DOID:0050117,4,0,cause
+milk,invasive ductal carcinoma,http://purl.obolibrary.org/obo/UBERON_0001913,DOID:3008,3,0,cause
+milk,myocarditis,http://purl.obolibrary.org/obo/UBERON_0001913,DOID:820,2,0,cause
+milk,ovarian cancer,http://purl.obolibrary.org/obo/UBERON_0001913,DOID:2394,3,0,cause
+milk,ovarian carcinoma,http://purl.obolibrary.org/obo/UBERON_0001913,DOID:4001,5,0,cause
+milk,pancreatitis,http://purl.obolibrary.org/obo/UBERON_0001913,DOID:4989,8,0,cause
+milk,urticaria,http://purl.obolibrary.org/obo/UBERON_0001913,DOID:1555,2,0,cause
+milk products,campylobacteriosis,http://purl.obolibrary.org/obo/UBERON_0001913,DOID:13622,3,0,cause
+mustard,hypersensitivity,http://purl.obolibrary.org/obo/FOODON_03301175***http://purl.obolibrary.org/obo/NCBITaxon_128608,DOID:1205,10,0,cause
+nuts,pollen allergy,http://purl.obolibrary.org/obo/CHEBI_33290,DOID:0060497,2,0,cause
+oats,Celiac disease,http://purl.obolibrary.org/obo/FOODON_03315188***http://purl.obolibrary.org/obo/NCBITaxon_4498,DOID:10608,15,0,cause
+oats,dermatitis,http://purl.obolibrary.org/obo/FOODON_03315188***http://purl.obolibrary.org/obo/NCBITaxon_4498,DOID:2723,11,0,cause
+onion,asthma,http://purl.obolibrary.org/obo/FOODON_03316347***http://purl.obolibrary.org/obo/NCBITaxon_4679,DOID:2841,5,0,cause
+peach,OAS,http://purl.obolibrary.org/obo/NCBITaxon_3760***http://purl.obolibrary.org/obo/FOODON_03315502***http://purl.obolibrary.org/obo/FOODON_03301719,DOID:0060861,6,0,cause
+peach,urticaria,http://purl.obolibrary.org/obo/NCBITaxon_3760***http://purl.obolibrary.org/obo/FOODON_03315502***http://purl.obolibrary.org/obo/FOODON_03301719,DOID:1555,12,0,cause
+pollen-associated food,pollen allergy,http://purl.obolibrary.org/obo/CHEBI_33290,DOID:0060497,2,0,cause
+potato,dermatitis,http://purl.obolibrary.org/obo/NCBITaxon_4039,DOID:2723,4,0,cause
+potato,dermatitis,http://purl.obolibrary.org/obo/NCBITaxon_4113,DOID:2723,4,0,cause
+rabbit,atopic dermatitis,http://purl.obolibrary.org/obo/GAZ_00000558***http://purl.obolibrary.org/obo/NCBITaxon_9103,DOID:3310,3,0,cause
+red wine,breast cancer,http://purl.obolibrary.org/obo/FOODON_03310272,DOID:1612,3,0,cause
+red wine,diarrhea,http://purl.obolibrary.org/obo/FOODON_03310272,DOID:13250,8,0,cause
+red wine,diarrhoea,http://purl.obolibrary.org/obo/FOODON_03310272,DOID:13250,5,0,cause
+red wine,irritable bowel syndrome,http://purl.obolibrary.org/obo/FOODON_03310272,DOID:9778,4,0,cause
+red wine,migraine,http://purl.obolibrary.org/obo/FOODON_03310272,DOID:6364,4,0,cause
+rice,asthma,http://purl.obolibrary.org/obo/NCBITaxon_4530,DOID:2841,6,0,cause
+rice,urticaria,http://purl.obolibrary.org/obo/NCBITaxon_4530,DOID:1555,6,0,cause
+rye,Celiac Disease,http://purl.obolibrary.org/obo/NCBITaxon_4513,DOID:10608,6,0,cause
+rye,Celiac disease,http://purl.obolibrary.org/obo/FOODON_03315188***http://purl.obolibrary.org/obo/NCBITaxon_4498,DOID:10608,6,0,cause
+rye flour,allergic rhinitis,http://purl.obolibrary.org/obo/FOODON_03301116,DOID:4481,8,0,cause
+salt,diabetes,http://purl.obolibrary.org/obo/CHEBI_24866,DOID:9351,4,0,cause
+salt,diabetes,http://purl.obolibrary.org/obo/FOODON_03420108,DOID:9351,3,0,cause
+salt,gastric cancer,http://purl.obolibrary.org/obo/CHEBI_24866,DOID:10534,2,0,cause
+salt,obesity,http://purl.obolibrary.org/obo/CHEBI_24866,DOID:9970,2,0,cause
+soy milk,hyperphosphatemia,http://purl.obolibrary.org/obo/UBERON_0001913,DOID:0050459,2,0,cause
+sugar,diabetes,http://purl.obolibrary.org/obo/CHEBI_24866,DOID:9351,3,0,cause
+sugar,diabetes,http://purl.obolibrary.org/obo/FOODON_03420108,DOID:9351,5,0,cause
+sugar,dyslipidemia,http://purl.obolibrary.org/obo/FOODON_03420108,DOID:3146,3,0,cause
+sugar,nonalcoholic fatty liver disease,http://purl.obolibrary.org/obo/FOODON_03420108,DOID:0080208,3,0,cause
+sugar,obesity,http://purl.obolibrary.org/obo/FOODON_03307240,DOID:9970,4,0,cause
+thyme,asthma,http://purl.obolibrary.org/obo/NCBITaxon_49992,DOID:2841,3,0,cause
+trigger,asthma,http://purl.obolibrary.org/obo/CHEBI_33290,DOID:2841,2,0,cause
+turkey,Gastric cancer,http://purl.obolibrary.org/obo/GAZ_00000558***http://purl.obolibrary.org/obo/NCBITaxon_9103,DOID:10534,7,0,cause
+turkey,Hypertension,http://purl.obolibrary.org/obo/GAZ_00000558***http://purl.obolibrary.org/obo/NCBITaxon_9103,DOID:10763,7,0,cause
+unpasteurized animal milk,campylobacteriosis,http://purl.obolibrary.org/obo/UBERON_0001913,DOID:13622,3,0,cause
+vegetable oil,pneumonia,http://purl.obolibrary.org/obo/FOODON_03305263***http://purl.obolibrary.org/obo/FOODON_03310387,DOID:552,2,0,cause
+wasabi,hypersensitivity,http://purl.obolibrary.org/obo/FOODON_03316284,DOID:1205,10,0,cause
+water,campylobacteriosis,http://purl.obolibrary.org/obo/ENVO_00002006,DOID:13622,2,0,cause
+water,campylobacteriosis,http://purl.obolibrary.org/obo/UBERON_0001913,DOID:13622,3,0,cause
+water,gastroenteritis,http://purl.obolibrary.org/obo/ENVO_00002006,DOID:2326,2,0,cause
+water,lymphadenitis,http://purl.obolibrary.org/obo/ENVO_00002006,DOID:1602,2,0,cause
+water,nephrosis,http://purl.obolibrary.org/obo/ENVO_00002006,DOID:2527,2,0,cause
+water,tuberculosis,http://purl.obolibrary.org/obo/ENVO_00002006,DOID:399,3,0,cause
+wheat,Celiac Disease,http://purl.obolibrary.org/obo/NCBITaxon_4513,DOID:10608,6,0,cause
+white bread,diabetes,http://purl.obolibrary.org/obo/FOODON_03301055,DOID:9351,4,0,cause
+white wine,migraine,http://purl.obolibrary.org/obo/FOODON_03310273,DOID:6364,4,0,cause
+wood,asthma,http://purl.obolibrary.org/obo/FOODON_03500035***http://purl.obolibrary.org/obo/FOODON_03420309,DOID:2841,2,0,cause

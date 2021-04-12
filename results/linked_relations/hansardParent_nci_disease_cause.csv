@@ -1,0 +1,151 @@
+term1,term2,hansardParent,nci_disease,is_cause,is_treat,relation
+", beer",migraine,AG.01,NCI:C89715,10,0,cause
+apple,dermatitis,AG.01.h,NCI:C2983,4,0,cause
+banana,asthma,AG.01.h,NCI:C28397,6,0,cause
+banana,hypersensitivity,AG.01.h,NCI:C3114,9,0,cause
+banana,pancreatitis,AG.01.h,NCI:C3306,3,0,cause
+banana,rhinitis,AG.01.h,NCI:C34986,11,0,cause
+barley,Celiac Disease,AG.01.i,NCI:C26714,12,0,cause
+barley,Celiac disease,AG.01.i,NCI:C26714,83,0,cause
+barley,anaemia,AG.01.i,NCI:C2869,11,0,cause
+barley,asthma,AG.01.i,NCI:C28397,2,0,cause
+barley,asthma,AG.01.j,NCI:C28397,2,0,cause
+barley,celiac disease,AG.01.i,NCI:C26714,7,0,cause
+barley,coeliac disease,AG.01.i,NCI:C26714,6,0,cause
+barley,dermatitis,AG.01.i,NCI:C2983,18,0,cause
+barley,osteoporosis,AG.01.i,NCI:C3298,11,0,cause
+beer,Korsakoff's psychosis,AG.01.y,NCI:C35764,4,0,cause
+beer,Wernicke-Korsakoff syndrome,AG.01.y,NCI:C35764,3,0,cause
+beer,lactic acidosis,AG.01.y,NCI:C98969,4,0,cause
+beverages,telangiectasia,AF.12,NCI:C28194,3,0,cause
+beverages,telangiectasia,AG.01.l,NCI:C28194,3,0,cause
+cake prepared,hypersensitivity,AG.01.n,NCI:C3114,5,0,cause
+calcium,pericardial effusion,AG.01.e,NCI:C3319,3,0,cause
+candy,stomatitis,AG.01.l,NCI:C26887,6,0,cause
+carrot,dermatitis,AG.01.h,NCI:C2983,4,0,cause
+cereal,asthma,AG.01.i,NCI:C28397,4,0,cause
+cereal,dermatitis,AG.01.i,NCI:C2983,4,0,cause
+cereal,eczema,AG.01.i,NCI:C2983,4,0,cause
+cereal flour,Asthma,AG.01.i,NCI:C28397,2,0,cause
+cheese,Migraine,AG.01,NCI:C89715,4,0,cause
+cheese,Migraine,AG.01.ae,NCI:C89715,2,0,cause
+cheese,hypertension,AG.01.ae,NCI:C3117,3,0,cause
+cheese,insulin-dependent diabetes mellitus,AG.01.ae,NCI:C2986,2,0,cause
+cheese,migraine,AG.01,NCI:C89715,14,0,cause
+cheese,migraine,AG.01.ae,NCI:C89715,6,0,cause
+chicken,obesity,AG.01.d,NCI:C159658,2,0,cause
+chocolate,Migraine,AG.01,NCI:C89715,2,0,cause
+chocolate,atrial fibrillation,AG.01,NCI:C50466,3,0,cause
+chocolate,hyperglycemia,AG.01,NCI:C26797,4,0,cause
+chocolate,migraine,AG.01,NCI:C89715,8,0,cause
+chocolate,migraine,AG.01.ae,NCI:C89715,7,0,cause
+chocolate,obesity,AG.01,NCI:C159658,9,0,cause
+cinnamon,dermatitis,AG.01.l,NCI:C2983,3,0,cause
+cinnamon,hypersensitivity,AG.01.l,NCI:C3114,9,0,cause
+cinnamon,stomatitis,AG.01,NCI:C26887,6,0,cause
+cinnamon,stomatitis,AG.01.l,NCI:C26887,7,0,cause
+cinnamon,telangiectasia,AF.12,NCI:C28194,3,0,cause
+corn,rhinitis,AG.01,NCI:C34986,3,0,cause
+crab,allergic rhinitis,AG.01.d,NCI:C34987,2,0,cause
+drinking beer,angioedema,AG.01.y,NCI:C112175,5,0,cause
+eggs,eczema,AG.01.g,NCI:C2983,3,0,cause
+eggs,obstructive uropathy,AG.01.g,NCI:C79805,3,0,cause
+fat,Diabetes mellitus,AG.01.f,NCI:C2985,6,0,cause
+fat,Obesity,AG.01.f,NCI:C159658,6,0,cause
+fat,Obesity,AG.01.t,NCI:C159658,4,0,cause
+fat,diabetes,AG.01.f,NCI:C2985,10,0,cause
+fat,glucose intolerance,AG.01.f,NCI:C34646,6,0,cause
+fat,inflammatory bowel disease,AG.01.f,NCI:C3138,2,0,cause
+fat,metabolic disorder,AG.01.t,NCI:C3235,2,0,cause
+fat,pneumonia,AG.01.f,NCI:C3333,4,0,cause
+fat,pneumonia,AG.01.t,NCI:C3333,2,0,cause
+fat,type 2 diabetes mellitus,AG.01.f,NCI:C26747,2,0,cause
+flour,allergic rhinitis,AG.01.j,NCI:C34987,4,0,cause
+flour,asthma,AG.01.h,NCI:C28397,2,0,cause
+flour,asthma,AG.01.i,NCI:C28397,2,0,cause
+flour,asthma,AG.01.j,NCI:C28397,26,0,cause
+flour,hypersensitivity pneumonitis,AG.01.j,NCI:C34369,3,0,cause
+flour,rhinitis,AG.01.j,NCI:C34986,6,0,cause
+flour dust,asthma,AF.10,NCI:C28397,2,0,cause
+flour mill,bronchitis,AG.01.j,NCI:C26722,6,0,cause
+"flour,",asthma,AG.01.k,NCI:C28397,3,0,cause
+fruit,gastroesophageal reflux,AF.07,NCI:C26781,3,0,cause
+fruit,hypersensitivity,AF.07,NCI:C3114,13,0,cause
+fruits,allergic conjunctivitis,AG.01,NCI:C34506,3,0,cause
+fruits,allergic conjunctivitis,AG.01.h,NCI:C34506,3,0,cause
+fruits,carotenemia,AG.01.h,NCI:C26963,3,0,cause
+fruits,dermatitis,AG.01.h,NCI:C2983,3,0,cause
+fruits,hypersensitivity,AG.01.h,NCI:C3114,5,0,cause
+garlic,asthma,AG.01,NCI:C28397,6,0,cause
+garlic,asthma,AG.01.h,NCI:C28397,19,0,cause
+garlic,dermatitis,AG.01.h,NCI:C2983,6,0,cause
+garlic,hemolytic anemia,AG.01.h,NCI:C34376,5,0,cause
+garlic,hypersensitivity,AG.01.l,NCI:C3114,9,0,cause
+garlic,rhinitis,AG.01,NCI:C34986,6,0,cause
+garlic,rhinitis,AG.01.h,NCI:C34986,12,0,cause
+harmful effects,hypertension,AG.01,NCI:C3117,2,0,cause
+horseradish,hypersensitivity,AG.01,NCI:C3114,10,0,cause
+horseradish,hypersensitivity,AG.01.h,NCI:C3114,20,0,cause
+horseradish,hypersensitivity,AG.01.l,NCI:C3114,19,0,cause
+lamb,asthma,AG.01.d,NCI:C28397,2,0,cause
+lemon,endophthalmitis,AG.01.h,NCI:C34586,3,0,cause
+liquid,dental caries,AG.01,NCI:C52593,2,0,cause
+liver,Colorectal cancer,AE.08,NCI:C4978,5,0,cause
+liver,Gaucher disease,AE.08,NCI:C61268,2,0,cause
+liver,Obesity,AE.08,NCI:C159658,2,0,cause
+liver,Wilson disease,AE.08,NCI:C84756,3,0,cause
+liver,portal hypertension,AE.08,NCI:C3119,2,0,cause
+meat,Multiple Sclerosis,AG.01,NCI:C3243,3,0,cause
+meat,colorectal cancer,AG.01,NCI:C4978,3,0,cause
+meat,gout,AG.01,NCI:C34650,2,0,cause
+milk,Asthma,AG.01.e,NCI:C28397,3,0,cause
+milk,Breast carcinoma,AG.01.e,NCI:C4872,10,0,cause
+milk,Eosinophilic esophagitis,AG.01.e,NCI:C27105,7,0,cause
+milk,Hydatidosis,AG.01.e,NCI:C84682,2,0,cause
+milk,Mastitis,AG.01.e,NCI:C53662,7,0,cause
+milk,Rift Valley fever,AG.01.e,NCI:C128419,2,0,cause
+milk,amenorrhea,AG.01.e,NCI:C61443,5,0,cause
+milk,coronary heart disease,AG.01.e,NCI:C50625,4,0,cause
+milk,diabetic ketoacidosis,AG.01.e,NCI:C50530,4,0,cause
+milk,eczema,AG.01.e,NCI:C2983,2,0,cause
+milk,hyperphosphatemia,AG.01.e,NCI:C113750,2,0,cause
+milk,invasive ductal carcinoma,AG.01.e,NCI:C4017,3,0,cause
+milk,mastitis,AE.10,NCI:C53662,6,0,cause
+milk,ovarian cancer,AG.01.e,NCI:C7431,3,0,cause
+milk,pancreatitis,AG.01.e,NCI:C3306,8,0,cause
+mustard,hypersensitivity,AG.01.l,NCI:C3114,10,0,cause
+mustard,pancreatitis,AG.01.l,NCI:C3306,3,0,cause
+oats,Celiac disease,AG.01.i,NCI:C26714,15,0,cause
+oats,dermatitis,AG.01.i,NCI:C2983,11,0,cause
+onion,asthma,AG.01.h,NCI:C28397,5,0,cause
+potato,asthma,AG.01,NCI:C28397,2,0,cause
+potato,dermatitis,AG.01.h,NCI:C2983,8,0,cause
+red wine,breast cancer,AG.01,NCI:C9335,3,0,cause
+red wine,irritable bowel syndrome,AG.01,NCI:C82343,4,0,cause
+red wine,migraine,AG.01,NCI:C89715,4,0,cause
+related cereal,Celiac disease,AG.01.i,NCI:C26714,8,0,cause
+rice,asthma,AF.20,NCI:C28397,6,0,cause
+rosemary,asthma,AF.28,NCI:C28397,3,0,cause
+rye,Celiac Disease,AG.01.i,NCI:C26714,6,0,cause
+rye,Celiac disease,AG.01.i,NCI:C26714,14,0,cause
+rye flour,allergic rhinitis,AG.01.j,NCI:C34987,8,0,cause
+salt,diabetes,AG.01,NCI:C2985,7,0,cause
+salt,diabetes,AG.01.f,NCI:C2985,3,0,cause
+salt,gastric cancer,AG.01,NCI:C3387,2,0,cause
+salt,obesity,AG.01,NCI:C159658,2,0,cause
+soy milk,hyperphosphatemia,AG.01.e,NCI:C113750,2,0,cause
+sugar,diabetes,AG.01,NCI:C2985,8,0,cause
+sugar,diabetes,AG.01.f,NCI:C2985,3,0,cause
+thyme,asthma,AG.01.h,NCI:C28397,3,0,cause
+tomatoes,dermatitis,AG.01.h,NCI:C2983,3,0,cause
+trigger,asthma,AG.01,NCI:C28397,2,0,cause
+turkey,Gastric cancer,AG.01.d,NCI:C3387,7,0,cause
+turkey,Hypertension,AG.01.d,NCI:C3117,7,0,cause
+vegetable oil,pneumonia,AG.01.f,NCI:C3333,2,0,cause
+wasabi,hypersensitivity,AG.01,NCI:C3114,10,0,cause
+water,gastroenteritis,AG.01.z,NCI:C34632,2,0,cause
+water,lymphadenitis,AG.01.z,NCI:C26978,2,0,cause
+wheat,Celiac Disease,AG.01.i,NCI:C26714,6,0,cause
+white bread,diabetes,AG.01.n,NCI:C2985,4,0,cause
+white wine,migraine,AG.01.y,NCI:C89715,4,0,cause
+wood,asthma,AF.10,NCI:C28397,2,0,cause

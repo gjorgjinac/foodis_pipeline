@@ -1,0 +1,67 @@
+term1,term2,foodb_public_id,omim_disease,is_cause,is_treat,relation
+agaricus bisporus,allergic rhinitis,FOOD00547,OMIM:607154,6,0,cause
+agaricus bisporus,asthma,FOOD00547,OMIM:600807,6,0,cause
+allium cepa,asthma,FOOD00006,OMIM:600807,3,0,cause
+apple,OAS,FOOD00105,OMIM:206920,6,0,cause
+banana,asthma,FOOD00208,OMIM:600807,6,0,cause
+banana,pancreatitis,FOOD00208,OMIM:167800,3,0,cause
+barley,Celiac Disease,FOOD00088,OMIM:611598,12,0,cause
+barley,Celiac disease,FOOD00088,OMIM:611598,83,0,cause
+barley,asthma,FOOD00088,OMIM:600807,4,0,cause
+barley,autoimmune disease,FOOD00088,OMIM:109100,2,0,cause
+barley,autoimmune disorder,FOOD00088,OMIM:109100,20,0,cause
+barley,celiac disease,FOOD00088,OMIM:611598,7,0,cause
+barley,coeliac disease,FOOD00088,OMIM:611598,6,0,cause
+barley,osteoporosis,FOOD00088,OMIM:166710,11,0,cause
+beer,Korsakoff's psychosis,FOOD00268,OMIM:277730,4,0,cause
+beer,Wernicke-Korsakoff syndrome,FOOD00268,OMIM:277730,3,0,cause
+cheese,Migraine,FOOD00617,OMIM:157300,6,0,cause
+cheese,insulin-dependent diabetes mellitus,FOOD00617,OMIM:222100,2,0,cause
+cheese,migraine,FOOD00617,OMIM:157300,20,0,cause
+chicken,obesity,FOOD00329,OMIM:601665,2,0,cause
+chicory,asthma,FOOD00049,OMIM:600807,4,0,cause
+chocolate,Migraine,FOOD00687,OMIM:157300,2,0,cause
+chocolate,acne,FOOD00687,OMIM:604324,34,0,cause
+chocolate,migraine,FOOD00687,OMIM:157300,15,0,cause
+chocolate,obesity,FOOD00687,OMIM:601665,16,0,cause
+coffee,acne,FOOD00058,OMIM:604324,33,0,cause
+crab,allergic rhinitis,FOOD00573,OMIM:607154,3,0,cause
+eggs,acne,FOOD00619,OMIM:604324,32,0,cause
+flour,Asthma,FOOD00799,OMIM:600807,5,0,cause
+flour,allergic rhinitis,FOOD00799,OMIM:607154,4,0,cause
+flour,asthma,FOOD00799,OMIM:600807,30,0,cause
+fruits,carotenemia,FOOD00871,OMIM:115300,3,0,cause
+garlic,hemolytic anemia,FOOD00008,OMIM:266120,5,0,cause
+hazelnut,OAS,FOOD00376,OMIM:206920,2,0,cause
+hordeum vulgare,asthma,FOOD00088,OMIM:600807,2,0,cause
+mustard,asthma,FOOD00654,OMIM:600807,2,0,cause
+mustard,pancreatitis,FOOD00654,OMIM:167800,3,0,cause
+peach,OAS,FOOD00149,OMIM:206920,6,0,cause
+peanut,atopic dermatitis,FOOD00016,OMIM:603165,3,0,cause
+pizza,allergic rhinitis,FOOD00637,OMIM:607154,6,0,cause
+pizza,asthma,FOOD00637,OMIM:600807,6,0,cause
+potato,asthma,FOOD00175,OMIM:600807,2,0,cause
+rabbit,atopic dermatitis,FOOD00528,OMIM:603165,3,0,cause
+red wine,breast cancer,FOOD00911,OMIM:114480,3,0,cause
+red wine,migraine,FOOD00911,OMIM:157300,4,0,cause
+rice,asthma,FOOD00125,OMIM:600807,6,0,cause
+rosemary,asthma,FOOD00159,OMIM:600807,3,0,cause
+rye,Celiac Disease,FOOD00169,OMIM:611598,6,0,cause
+rye,Celiac disease,FOOD00169,OMIM:611598,22,0,cause
+rye,autoimmune disorder,FOOD00169,OMIM:109100,2,0,cause
+rye,celiac disease,FOOD00169,OMIM:611598,13,0,cause
+rye,coeliac disease,FOOD00169,OMIM:611598,6,0,cause
+salt,gastric cancer,FOOD00647,OMIM:613659,4,0,cause
+sugar,nonalcoholic fatty liver disease,FOOD00651,OMIM:613387,3,0,cause
+tea,acne,FOOD00038,OMIM:604324,9,0,cause
+triticum aestivum,Celiac disease,FOOD00187,OMIM:611598,5,0,cause
+turkey,Gastric cancer,FOOD00494,OMIM:613659,7,0,cause
+wheat,Celiac Disease,FOOD00561,OMIM:611598,6,0,cause
+wheat,Celiac disease,FOOD00561,OMIM:611598,60,0,cause
+wheat,Coeliac disease,FOOD00561,OMIM:611598,6,0,cause
+wheat,asthma,FOOD00561,OMIM:600807,2,0,cause
+wheat,autoimmune disease,FOOD00561,OMIM:109100,2,0,cause
+wheat,autoimmune disorder,FOOD00561,OMIM:109100,26,0,cause
+wheat,coeliac disease,FOOD00561,OMIM:611598,13,0,cause
+wheat,osteoporosis,FOOD00561,OMIM:166710,11,0,cause
+white wine,migraine,FOOD00917,OMIM:157300,4,0,cause

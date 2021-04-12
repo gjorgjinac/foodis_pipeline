@@ -1,0 +1,132 @@
+term1,term2,wikipedia_id,umls_disease,is_cause,is_treat,relation
+agaricus bisporus,allergic rhinitis,Agaricus bisporus,UMLS_CUI:C0002103,6,0,cause
+agaricus bisporus,asthma,Agaricus bisporus,UMLS_CUI:C0004096,6,0,cause
+allium cepa,asthma,Onion,UMLS_CUI:C0004096,3,0,cause
+allium cepa,dermatitis,Onion,UMLS_CUI:C0011603,3,0,cause
+allium sativum,dermatitis,Garlic,UMLS_CUI:C0011603,2,0,cause
+apple,dermatitis,Apple,UMLS_CUI:C0011603,4,0,cause
+baby food,diarrhea,Baby food,UMLS_CUI:C0013369,3,0,cause
+banana,asthma,Banana,UMLS_CUI:C0004096,6,0,cause
+banana,hypersensitivity,Banana,UMLS_CUI:C0020517,10,0,cause
+banana,pancreatitis,Banana,UMLS_CUI:C0030305,3,0,cause
+banana,rhinitis,Banana,UMLS_CUI:C0035455,11,0,cause
+banana,urticaria,Banana,UMLS_CUI:C0029839,11,0,cause
+barley,Celiac Disease,Barley,UMLS_CUI:C0007570,12,0,cause
+barley,Celiac disease,Barley,UMLS_CUI:C0007570,83,0,cause
+barley,anaemia,Barley,UMLS_CUI:C0002871,11,0,cause
+barley,asthma,Barley,UMLS_CUI:C0004096,4,0,cause
+barley,autoimmune disease,Barley,UMLS_CUI:C0003089,2,0,cause
+barley,autoimmune disorder,Barley,UMLS_CUI:C0003089,20,0,cause
+barley,celiac disease,Barley,UMLS_CUI:C0007570,7,0,cause
+barley,coeliac disease,Barley,UMLS_CUI:C0007570,6,0,cause
+barley,dermatitis,Barley,UMLS_CUI:C0011603,18,0,cause
+barley,osteoporosis,Barley,UMLS_CUI:C0029456,11,0,cause
+beer,Korsakoff's psychosis,Beer,UMLS_CUI:C0349464,4,0,cause
+beer,Wernicke's encephalopathy,Beer,UMLS_CUI:C0043121,4,0,cause
+beer,Wernicke-Korsakoff syndrome,Beer,UMLS_CUI:C0349464,3,0,cause
+beer,lactic acidosis,Beer,UMLS_CUI:C0001125,5,0,cause
+beer,urticaria,Beer,UMLS_CUI:C0029839,3,0,cause
+beverages,rosacea,Beverages,UMLS_CUI:C0035854,2,0,cause
+beverages,telangiectasia,Beverages,UMLS_CUI:C0039446,6,0,cause
+carrot,dermatitis,Carrot,UMLS_CUI:C0011603,4,0,cause
+cheese,Migraine,Cheese,UMLS_CUI:C0149931,6,0,cause
+cheese,hypertension,Cheese,UMLS_CUI:C0020538,3,0,cause
+cheese,insulin-dependent diabetes mellitus,Cheese,UMLS_CUI:C0011854,2,0,cause
+cheese,migraine,Cheese,UMLS_CUI:C0149931,20,0,cause
+chestnut,hypersensitivity,Chestnut,UMLS_CUI:C0020517,6,0,cause
+chewing gum,stomatitis,Chewing_gum,UMLS_CUI:C0038362,6,0,cause
+chicken,obesity,Chicken,UMLS_CUI:C0028754,2,0,cause
+chicory,asthma,Chicory,UMLS_CUI:C0004096,4,0,cause
+chocolate,Migraine,Types_of_chocolate,UMLS_CUI:C0149931,2,0,cause
+chocolate,Pertussis,Types_of_chocolate,UMLS_CUI:C0006015,2,0,cause
+chocolate,acne,Types_of_chocolate,UMLS_CUI:C0152249,34,0,cause
+chocolate,atrial fibrillation,Types_of_chocolate,UMLS_CUI:C0004238,3,0,cause
+chocolate,hyperglycemia,Types_of_chocolate,UMLS_CUI:C0020456,4,0,cause
+chocolate,migraine,Types_of_chocolate,UMLS_CUI:C0149931,15,0,cause
+chocolate,obesity,Types_of_chocolate,UMLS_CUI:C0028754,16,0,cause
+cinnamon,dermatitis,Cinnamon,UMLS_CUI:C0011603,3,0,cause
+cinnamon,hepatitis,Cinnamon,UMLS_CUI:C0149519,4,0,cause
+cinnamon,hypersensitivity,Cinnamon,UMLS_CUI:C0020517,10,0,cause
+cinnamon,stomatitis,Cinnamon,UMLS_CUI:C0038362,19,0,cause
+cinnamon,telangiectasia,Cinnamon,UMLS_CUI:C0039446,3,0,cause
+coffee,acne,Coffee,UMLS_CUI:C0152249,33,0,cause
+corn,dermatitis,Corn,UMLS_CUI:C0011603,11,0,cause
+corn,rhinitis,Corn,UMLS_CUI:C0035455,3,0,cause
+crab,allergic rhinitis,Crab,UMLS_CUI:C0002103,3,0,cause
+eggs,acne,Eggs,UMLS_CUI:C0152249,32,0,cause
+eggs,eczema,Eggs,UMLS_CUI:C0011603,3,0,cause
+eggs,obstructive uropathy,Eggs,UMLS_CUI:C0178879,3,0,cause
+eggs,urticaria,Eggs,UMLS_CUI:C0029839,2,0,cause
+flour,Asthma,Flour,UMLS_CUI:C0004096,5,0,cause
+flour,allergic rhinitis,Flour,UMLS_CUI:C0002103,4,0,cause
+flour,asthma,Flour,UMLS_CUI:C0004096,30,0,cause
+flour,hypersensitivity pneumonitis,Flour,UMLS_CUI:C0002390,3,0,cause
+flour,rhinitis,Flour,UMLS_CUI:C0035455,6,0,cause
+flour,urticaria,Flour,UMLS_CUI:C0029839,2,0,cause
+fruit juice,angioedema,Juice,UMLS_CUI:C0002994,2,0,cause
+fruit juice,gastrointestinal disorders,Juice,UMLS_CUI:C0012242,2,0,cause
+fruits,allergic conjunctivitis,Fruits,UMLS_CUI:C0009766,9,0,cause
+fruits,carotenemia,Fruits,UMLS_CUI:C0154271,3,0,cause
+fruits,dermatitis,Fruits,UMLS_CUI:C0011603,3,0,cause
+fruits,hypersensitivity,Fruits,UMLS_CUI:C0020517,5,0,cause
+garlic,dermatitis,Garlic,UMLS_CUI:C0011603,19,0,cause
+garlic,hemolytic anemia,Garlic,UMLS_CUI:C0002878,5,0,cause
+garlic,hypersensitivity,Garlic,UMLS_CUI:C0020517,10,0,cause
+garlic,rhinitis,Garlic,UMLS_CUI:C0035455,18,0,cause
+hordeum vulgare,asthma,Barley,UMLS_CUI:C0004096,2,0,cause
+horseradish,hypersensitivity,Horseradish,UMLS_CUI:C0020517,50,0,cause
+lemon,endophthalmitis,Lemon,UMLS_CUI:C0014236,3,0,cause
+lemon,hypersensitivity,Lemon,UMLS_CUI:C0020517,5,0,cause
+lemon,urticaria,Lemon,UMLS_CUI:C0029839,3,0,cause
+mustard,asthma,Mustard_(condiment),UMLS_CUI:C0004096,2,0,cause
+mustard,hypersensitivity,Mustard_(condiment),UMLS_CUI:C0020517,13,0,cause
+mustard,pancreatitis,Mustard_(condiment),UMLS_CUI:C0030305,3,0,cause
+papaya,hypersensitivity,Papaya,UMLS_CUI:C0020517,2,0,cause
+peach,urticaria,Peach,UMLS_CUI:C0029839,12,0,cause
+peanut,atopic dermatitis,Mr. Peanut,UMLS_CUI:C0011615,3,0,cause
+phaseolus vulgaris,diarrhoea,Phaseolus vulgaris,UMLS_CUI:C0013369,2,0,cause
+phaseolus vulgaris,diarrhoea,Phaseolus_vulgaris,UMLS_CUI:C0013369,4,0,cause
+phaseolus vulgaris,gastroenteritis,Phaseolus_vulgaris,UMLS_CUI:C0017160,2,0,cause
+pizza,allergic rhinitis,Pizza,UMLS_CUI:C0002103,6,0,cause
+pizza,asthma,Pizza,UMLS_CUI:C0004096,6,0,cause
+popcorn,bronchiolitis obliterans,Popcorn,UMLS_CUI:C0006272,5,0,cause
+potato,asthma,Potato,UMLS_CUI:C0004096,2,0,cause
+potato,dermatitis,Potato,UMLS_CUI:C0011603,8,0,cause
+rabbit,atopic dermatitis,Rabbit,UMLS_CUI:C0011615,3,0,cause
+rice,asthma,Rice,UMLS_CUI:C0004096,6,0,cause
+rice,urticaria,Rice,UMLS_CUI:C0029839,6,0,cause
+rosemary,asthma,Rosemary,UMLS_CUI:C0004096,3,0,cause
+rye,Celiac Disease,Rye,UMLS_CUI:C0007570,6,0,cause
+rye,Celiac disease,Rye,UMLS_CUI:C0007570,22,0,cause
+rye,autoimmune disorder,Rye,UMLS_CUI:C0003089,2,0,cause
+rye,celiac disease,Rye,UMLS_CUI:C0007570,13,0,cause
+rye,coeliac disease,Rye,UMLS_CUI:C0007570,6,0,cause
+rye,dermatitis,Rye,UMLS_CUI:C0011603,7,0,cause
+salt,Metabolic diseases,Salt,UMLS_CUI:C0025517,3,0,cause
+salt,diabetes,Salt,UMLS_CUI:C0011849,10,0,cause
+salt,gastric cancer,Salt,UMLS_CUI:C0024623,4,0,cause
+soy milk,hyperphosphatemia,Soy_milk,UMLS_CUI:C0085681,2,0,cause
+sugar,diabetes,Sugar,UMLS_CUI:C0011849,11,0,cause
+sugar,dyslipidemia,Sugar,UMLS_CUI:C0023772,3,0,cause
+tea,acne,Tea,UMLS_CUI:C0152249,9,0,cause
+triticum aestivum,Celiac disease,Common wheat,UMLS_CUI:C0007570,5,0,cause
+turkey,Gastric cancer,Meleagris_gallopavo,UMLS_CUI:C0024623,7,0,cause
+turkey,Hypertension,Meleagris_gallopavo,UMLS_CUI:C0020538,7,0,cause
+vanilla,telangiectasia,Vanilla,UMLS_CUI:C0039446,3,0,cause
+wasabi,hypersensitivity,Wasabi,UMLS_CUI:C0020517,10,0,cause
+water,campylobacteriosis,Water,UMLS_CUI:C0006818,5,0,cause
+water,gastroenteritis,Water,UMLS_CUI:C0017160,2,0,cause
+water,lymphadenitis,Water,UMLS_CUI:C0024205,2,0,cause
+water,nephrosis,Water,UMLS_CUI:C0027720,2,0,cause
+water,tuberculosis,Water,UMLS_CUI:C0041295,3,0,cause
+wheat,Celiac Disease,Wheat,UMLS_CUI:C0007570,6,0,cause
+wheat,Celiac disease,Wheat,UMLS_CUI:C0007570,60,0,cause
+wheat,Coeliac disease,Wheat,UMLS_CUI:C0007570,6,0,cause
+wheat,asthma,Wheat,UMLS_CUI:C0004096,2,0,cause
+wheat,autoimmune disease,Wheat,UMLS_CUI:C0003089,2,0,cause
+wheat,autoimmune disorder,Wheat,UMLS_CUI:C0003089,26,0,cause
+wheat,coeliac disease,Wheat,UMLS_CUI:C0007570,13,0,cause
+wheat,dermatitis,Wheat,UMLS_CUI:C0011603,11,0,cause
+wheat,eczema,Wheat,UMLS_CUI:C0011603,9,0,cause
+wheat,irritable bowel syndrome,Wheat,UMLS_CUI:C0022104,2,0,cause
+wheat,osteoporosis,Wheat,UMLS_CUI:C0029456,11,0,cause

@@ -1,0 +1,71 @@
+term1,term2,itis_id,snomedct_disease,is_cause,is_treat,relation
+allium cepa,asthma,42720.0,SNOMEDCT_US_2020_09_01:187687003,3,0,cause
+allium cepa,dermatitis,42720.0,SNOMEDCT_US_2020_09_01:238538009,3,0,cause
+allium sativum,dermatitis,42652.0,SNOMEDCT_US_2020_09_01:238538009,2,0,cause
+apple,dermatitis,25262.0,SNOMEDCT_US_2020_09_01:238538009,4,0,cause
+banana,asthma,42390.0,SNOMEDCT_US_2020_09_01:187687003,6,0,cause
+banana,hypersensitivity,42390.0,SNOMEDCT_US_2020_09_01:257550005,10,0,cause
+banana,pancreatitis,42390.0,SNOMEDCT_US_2020_09_01:393591004,3,0,cause
+banana,rhinitis,42390.0,SNOMEDCT_US_2020_09_01:70076002,11,0,cause
+banana,urticaria,42390.0,SNOMEDCT_US_2020_09_01:267817001,11,0,cause
+barley,Celiac Disease,40874.0,SNOMEDCT_US_2020_09_01:197477005,12,0,cause
+barley,Celiac disease,40874.0,SNOMEDCT_US_2020_09_01:197477005,83,0,cause
+barley,anaemia,40874.0,SNOMEDCT_US_2020_09_01:64593003,11,0,cause
+barley,asthma,40874.0,SNOMEDCT_US_2020_09_01:187687003,4,0,cause
+barley,celiac disease,40874.0,SNOMEDCT_US_2020_09_01:197477005,7,0,cause
+barley,coeliac disease,40874.0,SNOMEDCT_US_2020_09_01:197477005,6,0,cause
+barley,dermatitis,40874.0,SNOMEDCT_US_2020_09_01:238538009,18,0,cause
+barley,osteoporosis,40874.0,SNOMEDCT_US_2020_09_01:156825006,11,0,cause
+carrot,dermatitis,524846.0,SNOMEDCT_US_2020_09_01:238538009,4,0,cause
+chestnut,hypersensitivity,19451.0,SNOMEDCT_US_2020_09_01:257550005,6,0,cause
+chicken,obesity,176086.0,SNOMEDCT_US_2020_09_01:5476005,2,0,cause
+chicory,asthma,36763.0,SNOMEDCT_US_2020_09_01:187687003,4,0,cause
+cinnamon,dermatitis,18174.0,SNOMEDCT_US_2020_09_01:238538009,3,0,cause
+cinnamon,hepatitis,18174.0,SNOMEDCT_US_2020_09_01:266539002,4,0,cause
+cinnamon,hypersensitivity,18174.0,SNOMEDCT_US_2020_09_01:257550005,10,0,cause
+cinnamon,stomatitis,18174.0,SNOMEDCT_US_2020_09_01:95361005,19,0,cause
+cinnamon,telangiectasia,18174.0,SNOMEDCT_US_2020_09_01:112641009,3,0,cause
+coffee,acne,35189.0,SNOMEDCT_US_2020_09_01:11381005,33,0,cause
+corn,dermatitis,42269.0,SNOMEDCT_US_2020_09_01:238538009,11,0,cause
+corn,rhinitis,42269.0,SNOMEDCT_US_2020_09_01:70076002,3,0,cause
+crab,allergic rhinitis,98276.0,SNOMEDCT_US_2020_09_01:38103000,3,0,cause
+garlic,dermatitis,42652.0,SNOMEDCT_US_2020_09_01:238538009,19,0,cause
+garlic,hemolytic anemia,42652.0,SNOMEDCT_US_2020_09_01:61261009,5,0,cause
+garlic,hypersensitivity,42652.0,SNOMEDCT_US_2020_09_01:257550005,10,0,cause
+garlic,rhinitis,42652.0,SNOMEDCT_US_2020_09_01:70076002,18,0,cause
+hordeum vulgare,asthma,40874.0,SNOMEDCT_US_2020_09_01:187687003,2,0,cause
+horseradish,hypersensitivity,23044.0,SNOMEDCT_US_2020_09_01:257550005,50,0,cause
+lemon,endophthalmitis,28885.0,SNOMEDCT_US_2020_09_01:1847009,3,0,cause
+lemon,hypersensitivity,28885.0,SNOMEDCT_US_2020_09_01:257550005,5,0,cause
+lemon,urticaria,28885.0,SNOMEDCT_US_2020_09_01:267817001,3,0,cause
+papaya,hypersensitivity,22324.0,SNOMEDCT_US_2020_09_01:257550005,2,0,cause
+peach,urticaria,24765.0,SNOMEDCT_US_2020_09_01:267817001,12,0,cause
+peanut,atopic dermatitis,26463.0,SNOMEDCT_US_2020_09_01:156331003,3,0,cause
+phaseolus vulgaris,diarrhoea,26857.0,SNOMEDCT_US_2020_09_01:154268000,6,0,cause
+phaseolus vulgaris,gastroenteritis,26857.0,SNOMEDCT_US_2020_09_01:154278002,3,0,cause
+potato,asthma,505272.0,SNOMEDCT_US_2020_09_01:187687003,2,0,cause
+potato,dermatitis,505272.0,SNOMEDCT_US_2020_09_01:238538009,8,0,cause
+rabbit,atopic dermatitis,180110.0,SNOMEDCT_US_2020_09_01:156331003,3,0,cause
+rice,asthma,41976.0,SNOMEDCT_US_2020_09_01:187687003,6,0,cause
+rice,urticaria,41976.0,SNOMEDCT_US_2020_09_01:267817001,6,0,cause
+rosemary,asthma,32677.0,SNOMEDCT_US_2020_09_01:187687003,3,0,cause
+rye,Celiac Disease,42090.0,SNOMEDCT_US_2020_09_01:197477005,6,0,cause
+rye,Celiac disease,42090.0,SNOMEDCT_US_2020_09_01:197477005,22,0,cause
+rye,celiac disease,42090.0,SNOMEDCT_US_2020_09_01:197477005,13,0,cause
+rye,coeliac disease,42090.0,SNOMEDCT_US_2020_09_01:197477005,6,0,cause
+rye,dermatitis,42090.0,SNOMEDCT_US_2020_09_01:238538009,7,0,cause
+tea,acne,506801.0,SNOMEDCT_US_2020_09_01:11381005,9,0,cause
+triticum aestivum,Celiac disease,42237.0,SNOMEDCT_US_2020_09_01:197477005,5,0,cause
+turkey,Gastric cancer,176136.0,SNOMEDCT_US_2020_09_01:126824007,7,0,cause
+turkey,Hypertension,176136.0,SNOMEDCT_US_2020_09_01:38341003,7,0,cause
+vanilla,telangiectasia,43714.0,SNOMEDCT_US_2020_09_01:112641009,3,0,cause
+wasabi,hypersensitivity,506210.0,SNOMEDCT_US_2020_09_01:257550005,10,0,cause
+wheat,Celiac Disease,42236.0,SNOMEDCT_US_2020_09_01:197477005,6,0,cause
+wheat,Celiac disease,42236.0,SNOMEDCT_US_2020_09_01:197477005,60,0,cause
+wheat,Coeliac disease,42236.0,SNOMEDCT_US_2020_09_01:197477005,6,0,cause
+wheat,asthma,42236.0,SNOMEDCT_US_2020_09_01:187687003,2,0,cause
+wheat,coeliac disease,42236.0,SNOMEDCT_US_2020_09_01:197477005,13,0,cause
+wheat,dermatitis,42236.0,SNOMEDCT_US_2020_09_01:238538009,11,0,cause
+wheat,eczema,42236.0,SNOMEDCT_US_2020_09_01:238538009,9,0,cause
+wheat,irritable bowel syndrome,42236.0,SNOMEDCT_US_2020_09_01:155783000,2,0,cause
+wheat,osteoporosis,42236.0,SNOMEDCT_US_2020_09_01:156825006,11,0,cause

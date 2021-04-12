@@ -1,0 +1,34 @@
+term1,term2,ncbi_taxonomy_id,efo_disease,is_cause,is_treat,relation
+agaricus bisporus,allergic rhinitis,5341.0,EFO:0003956,6,0,cause
+agaricus bisporus,asthma,5341.0,EFO:0000270,6,0,cause
+allium cepa,asthma,4679.0,EFO:0000270,3,0,cause
+banana,asthma,4641.0,EFO:0000270,6,0,cause
+banana,pancreatitis,4641.0,EFO:0000278,3,0,cause
+barley,Celiac Disease,4513.0,EFO:0001060,12,0,cause
+barley,Celiac disease,4513.0,EFO:0001060,83,0,cause
+barley,anaemia,4513.0,EFO:0004272,11,0,cause
+barley,asthma,4513.0,EFO:0000270,4,0,cause
+barley,celiac disease,4513.0,EFO:0001060,7,0,cause
+barley,coeliac disease,4513.0,EFO:0001060,6,0,cause
+barley,osteoporosis,4513.0,EFO:0003882,11,0,cause
+chicken,obesity,9031.0,EFO:0001073,2,0,cause
+chicory,asthma,13427.0,EFO:0000270,4,0,cause
+crab,allergic rhinitis,6752.0,EFO:0003956,3,0,cause
+hordeum vulgare,asthma,4513.0,EFO:0000270,2,0,cause
+peanut,atopic dermatitis,3818.0,EFO:0000274,3,0,cause
+potato,asthma,4113.0,EFO:0000270,2,0,cause
+rabbit,atopic dermatitis,9979.0,EFO:0000274,3,0,cause
+rice,asthma,4530.0,EFO:0000270,6,0,cause
+rosemary,asthma,39367.0,EFO:0000270,3,0,cause
+rye,Celiac Disease,4550.0,EFO:0001060,6,0,cause
+rye,Celiac disease,4550.0,EFO:0001060,22,0,cause
+rye,celiac disease,4550.0,EFO:0001060,13,0,cause
+rye,coeliac disease,4550.0,EFO:0001060,6,0,cause
+triticum aestivum,Celiac disease,4565.0,EFO:0001060,5,0,cause
+turkey,Hypertension,9103.0,EFO:0000537,7,0,cause
+wheat,Celiac Disease,4564.0,EFO:0001060,6,0,cause
+wheat,Celiac disease,4564.0,EFO:0001060,60,0,cause
+wheat,Coeliac disease,4564.0,EFO:0001060,6,0,cause
+wheat,asthma,4564.0,EFO:0000270,2,0,cause
+wheat,coeliac disease,4564.0,EFO:0001060,13,0,cause
+wheat,osteoporosis,4564.0,EFO:0003882,11,0,cause

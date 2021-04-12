@@ -1,0 +1,424 @@
+term1,term2,hansardParent,umls_disease,is_cause,is_treat,relation
+", gymnema",diabetes,AG.01.h,UMLS_CUI:C0011849,0,5,treat
+", laver",hypertension,AG.01.h,UMLS_CUI:C0020538,0,16,treat
+", lemon balm",gastric ulcers,AG.01.e,UMLS_CUI:C0038358,0,5,treat
+", licorice",neurodegenerative diseases,AG.01,UMLS_CUI:C1285162,0,24,treat
+apple,hypertension,AG.01.h,UMLS_CUI:C0020538,0,8,treat
+asparagus,liver cancer,AG.01.h,UMLS_CUI:C0854795,0,18,treat
+banana,hypertension,AG.01.h,UMLS_CUI:C0020538,0,8,treat
+basil,pneumonia,AG.01.l,UMLS_CUI:C0032285,0,9,treat
+basil,pulmonary fibrosis,AG.01.l,UMLS_CUI:C0034069,0,9,treat
+beer,Alzheimer's disease,AG.01.y,UMLS_CUI:C0002395,0,6,treat
+beer,amnesia,AG.01.y,UMLS_CUI:C0002625,0,2,treat
+beer,diabetes,AG.01,UMLS_CUI:C0011849,0,4,treat
+beer,diabetes,AG.01.y,UMLS_CUI:C0011849,0,4,treat
+beverages,coronary heart disease,AG.01.i,UMLS_CUI:C0151744,0,2,treat
+biotin,type 2 diabetes,AG.01.l,UMLS_CUI:C0011860,0,9,treat
+black pepper,cancers,AG.01,UMLS_CUI:C0006826,0,15,treat
+bread,type 2 diabetes,AG.01.n,UMLS_CUI:C0011860,0,3,treat
+broccoli,breast cancer,AG.01,UMLS_CUI:C0006142,0,2,treat
+buckwheat,atherosclerosis,AG.01.i,UMLS_CUI:C0004153,0,2,treat
+buckwheat,cancers,AG.01.i,UMLS_CUI:C0006826,0,2,treat
+buckwheat,constipation,AG.01.i,UMLS_CUI:C0009806,0,2,treat
+buckwheat,hypertension,AG.01.i,UMLS_CUI:C0020538,0,2,treat
+buckwheat,obesity,AG.01.i,UMLS_CUI:C0028754,0,2,treat
+cabbage,arthritis,AG.01.h,UMLS_CUI:C0003864,0,2,treat
+canola oil,diabetes,AG.01.f,UMLS_CUI:C0011849,0,2,treat
+carrots,lung cancer,AG.01.h,UMLS_CUI:C0024624,0,2,treat
+cauliflower,arthritis,AG.01.h,UMLS_CUI:C0003864,0,2,treat
+cheese,diabetes,AG.01,UMLS_CUI:C0011849,0,5,treat
+cheese,diabetes,AG.01.ae,UMLS_CUI:C0011849,0,5,treat
+cheese,diabetes,AG.01.f,UMLS_CUI:C0011849,0,5,treat
+cheese,diabetes,AG.01.g,UMLS_CUI:C0011849,0,5,treat
+cheese,hyperphosphatemia,AG.01.ae,UMLS_CUI:C0085681,0,2,treat
+cheese,type 2 diabetes,AG.01,UMLS_CUI:C0011860,0,7,treat
+cheese,type 2 diabetes,AG.01.ae,UMLS_CUI:C0011860,0,7,treat
+cheese,type 2 diabetes,AG.01.e,UMLS_CUI:C0011860,0,7,treat
+chicken,colorectal cancer,AG.01.d,UMLS_CUI:C0346629,0,5,treat
+chickpea flour,type 2 diabetes mellitus,AG.01.j,UMLS_CUI:C0011860,0,4,treat
+chives,colorectal cancer,AG.01.h,UMLS_CUI:C0346629,0,5,treat
+chives,prostate cancer,AG.01.h,UMLS_CUI:C0033578,0,18,treat
+chocolate,breast cancer,AG.01,UMLS_CUI:C0006142,0,9,treat
+chocolate,diabetes,AG.01,UMLS_CUI:C0011849,0,4,treat
+chocolate,metabolic syndrome,AG.01,UMLS_CUI:C0025517,0,3,treat
+chocolate,stroke,AG.01,UMLS_CUI:C0007820,0,3,treat
+chocolate consumption,stroke,AG.01,UMLS_CUI:C0007820,0,3,treat
+chocolate consumption,stroke,AG.01.ac,UMLS_CUI:C0007820,0,3,treat
+cinnamon,Alzheimer's disease,AG.01.l,UMLS_CUI:C0002395,0,6,treat
+cinnamon,diabetes,AG.01.ae,UMLS_CUI:C0011849,0,5,treat
+cinnamon,diabetes,AG.01.h,UMLS_CUI:C0011849,0,5,treat
+cinnamon,diabetes,AG.01.l,UMLS_CUI:C0011849,0,15,treat
+cinnamon,diabetes mellitus,AG.01.l,UMLS_CUI:C0011849,0,18,treat
+cinnamon,diarrhea,AG.01.l,UMLS_CUI:C0013369,0,3,treat
+cinnamon,gastric diseases,AG.01.l,UMLS_CUI:C0038354,0,3,treat
+cinnamon,glucose intolerance,AG.01.l,UMLS_CUI:C0271650,0,6,treat
+cinnamon,metabolic syndrome,AG.01.l,UMLS_CUI:C0025517,0,14,treat
+cinnamon,neurodegenerative diseases,AG.01,UMLS_CUI:C1285162,0,8,treat
+cinnamon,neurodegenerative diseases,AG.01.h,UMLS_CUI:C1285162,0,16,treat
+cinnamon,neurodegenerative diseases,AG.01.l,UMLS_CUI:C1285162,0,8,treat
+cinnamon,obesity,AG.01.l,UMLS_CUI:C0028754,0,6,treat
+cinnamon,type 2 diabetes,AG.01.l,UMLS_CUI:C0011860,0,40,treat
+cinnamon,type 2 diabetes mellitus,AG.01.l,UMLS_CUI:C0011860,0,6,treat
+cinnamon,type-2 diabetes,AG.01.l,UMLS_CUI:C0011860,0,7,treat
+cocoa,atherosclerosis,AG.01.ag,UMLS_CUI:C0004153,0,4,treat
+cocoa,diabetes,AG.01,UMLS_CUI:C0011849,0,10,treat
+cocoa,hypertension,AG.01,UMLS_CUI:C0020538,0,2,treat
+cocoa,obesity,AG.01,UMLS_CUI:C0028754,0,4,treat
+cocoa,type 2 diabetes,AG.01,UMLS_CUI:C0011860,0,12,treat
+cocoa,type 2 diabetes mellitus,AG.01,UMLS_CUI:C0011860,0,13,treat
+cocoa consumption,type 2 diabetes,AG.01,UMLS_CUI:C0011860,0,12,treat
+coconut,atopic dermatitis,AG.01.h,UMLS_CUI:C0011615,0,10,treat
+coconut oil,Alzheimer's disease,AG.01.f,UMLS_CUI:C0002395,0,4,treat
+coconut oil,atopic dermatitis,AG.01.f,UMLS_CUI:C0011615,0,3,treat
+coffee,adenomas,AG.01.ag,UMLS_CUI:C0334389,0,2,treat
+coffee,alcoholic liver cirrhosis,AG.01.ag,UMLS_CUI:C0023891,0,2,treat
+coffee,atherosclerosis,AG.01,UMLS_CUI:C0004153,0,4,treat
+coffee,atherosclerosis,AG.01.ag,UMLS_CUI:C0004153,0,4,treat
+coffee,atherosclerosis,AG.01.h,UMLS_CUI:C0004153,0,4,treat
+coffee,diabetes,AG.01.ag,UMLS_CUI:C0011849,0,3,treat
+coffee,gastric cancer,AG.01.ag,UMLS_CUI:C0024623,0,3,treat
+coffee,gout,AG.01.ag,UMLS_CUI:C0018099,0,3,treat
+coffee,hyperuricemia,AG.01.ag,UMLS_CUI:C0740394,0,2,treat
+coffee,liver disease,AG.01.ag,UMLS_CUI:C0023895,0,4,treat
+coffee,obesity,AG.01.ag,UMLS_CUI:C0028754,0,4,treat
+coffee,type 2 diabetes,AG.01.ag,UMLS_CUI:C0011860,0,2,treat
+coffee consumption,cancers,AG.01.ag,UMLS_CUI:C0006826,0,2,treat
+coffee consumption,colon cancer,AG.01.ag,UMLS_CUI:C0007102,0,2,treat
+cooked rice,atopic dermatitis,AG.01.t,UMLS_CUI:C0011615,0,4,treat
+coriander,neurodegenerative diseases,AG.01.h,UMLS_CUI:C1285162,0,8,treat
+corn,celiac disease,AF.20,UMLS_CUI:C0007570,0,2,treat
+corn,celiac disease,AG.01,UMLS_CUI:C0007570,0,2,treat
+corn,hypertension,AG.01,UMLS_CUI:C0020538,0,8,treat
+cranberry juice,urinary tract infections,AG.01.l,UMLS_CUI:C0149523,0,2,treat
+cream,peptic ulcer disease,AG.01.e,UMLS_CUI:C0030920,0,3,treat
+diets rich,metabolic syndrome,AG.01.h,UMLS_CUI:C0025517,0,2,treat
+dried peas,type 2 diabetes,AG.01.h,UMLS_CUI:C0011860,0,4,treat
+eating yogurt,lactose intolerance,AG.01,UMLS_CUI:C0022951,0,8,treat
+eating yogurt,lactose intolerance,AG.01.ae,UMLS_CUI:C0022951,0,4,treat
+egg yolk,chronic kidney disease,AG.01.g,UMLS_CUI:C0022661,0,3,treat
+eggs,cancers,AG.01.g,UMLS_CUI:C0006826,0,9,treat
+eggs,diabetes,AG.01,UMLS_CUI:C0011849,0,6,treat
+eggs,diabetes,AG.01.ae,UMLS_CUI:C0011849,0,5,treat
+eggs,diabetes,AG.01.f,UMLS_CUI:C0011849,0,5,treat
+eggs,diabetes,AG.01.g,UMLS_CUI:C0011849,0,6,treat
+eggs,metabolic syndrome,AG.01.g,UMLS_CUI:C0025517,0,4,treat
+eggs,neurodegenerative diseases,AG.01.g,UMLS_CUI:C1285162,0,9,treat
+eggs,type 2 diabetes,AG.01.g,UMLS_CUI:C0011860,0,9,treat
+fat,breast cancer,AG.01.f,UMLS_CUI:C0006142,0,3,treat
+fat,hyperlipidaemia,AG.01.f,UMLS_CUI:C0020473,0,2,treat
+female,rectal cancer,AG.01.ac,UMLS_CUI:C0949022,0,3,treat
+fenugreek,diabetes,AG.01.l,UMLS_CUI:C0011849,0,5,treat
+fenugreek,type 2 diabetes,AG.01.l,UMLS_CUI:C0011860,0,9,treat
+flour,spina bifida,AG.01.j,UMLS_CUI:C0080178,0,6,treat
+flour is,anaemia,AG.01.k,UMLS_CUI:C0002871,0,2,treat
+fruit,allergic disease,AF.07,UMLS_CUI:C0020517,0,3,treat
+fruit,allergic rhinitis,AF.07,UMLS_CUI:C0002103,0,2,treat
+fruit,arthritis,AF.07,UMLS_CUI:C0003864,0,2,treat
+fruit,asthma,AF.07,UMLS_CUI:C0004096,0,5,treat
+fruit,bladder cancer,AF.07,UMLS_CUI:C0005684,0,10,treat
+fruit,bone diseases,AF.07,UMLS_CUI:C0005940,0,2,treat
+fruit,breast cancer,AF.07,UMLS_CUI:C0006142,0,5,treat
+fruit,cancers,AF.07,UMLS_CUI:C0006826,0,11,treat
+fruit,cataract,AF.07,UMLS_CUI:C0029531,0,3,treat
+fruit,colon cancer,AF.07,UMLS_CUI:C0007102,0,2,treat
+fruit,coronary heart disease,AF.03,UMLS_CUI:C0151744,0,3,treat
+fruit,coronary heart disease,AF.07,UMLS_CUI:C0151744,0,9,treat
+fruit,degenerative diseases,AF.07,UMLS_CUI:C1285162,0,4,treat
+fruit,dementia,AF.03,UMLS_CUI:C0154319,0,3,treat
+fruit,dementia,AF.07,UMLS_CUI:C0154319,0,2,treat
+fruit,diabetes,AF.07,UMLS_CUI:C0011849,0,3,treat
+fruit,gastric cancer,AF.07,UMLS_CUI:C0024623,0,8,treat
+fruit,gastrointestinal disorders,AF.07,UMLS_CUI:C0012242,0,2,treat
+fruit,gestational diabetes mellitus,AF.07,UMLS_CUI:C0085207,0,4,treat
+fruit,hypertension,AF.07,UMLS_CUI:C0020538,0,14,treat
+fruit,liver diseases,AF.07,UMLS_CUI:C0023895,0,2,treat
+fruit,nephritis,AF.07,UMLS_CUI:C0027697,0,2,treat
+fruit,neurodegenerative diseases,AF.07,UMLS_CUI:C1285162,0,3,treat
+fruit,obesity,AF.07,UMLS_CUI:C0028754,0,5,treat
+fruit,osteoporosis,AF.07,UMLS_CUI:C0029456,0,4,treat
+fruit,renal cell cancer,AF.07,UMLS_CUI:C0007134,0,6,treat
+fruit,renal cell carcinoma,AF.07,UMLS_CUI:C0007134,0,5,treat
+fruit,stroke,AF.07,UMLS_CUI:C0007820,0,15,treat
+fruit,type 2 diabetes,AF.07,UMLS_CUI:C0011860,0,2,treat
+fruits,Alzheimer's disease,AG.01.h,UMLS_CUI:C0002395,0,3,treat
+fruits,Breast Cancer,AG.01.h,UMLS_CUI:C0006142,0,5,treat
+fruits,Colon cancer,AG.01.h,UMLS_CUI:C0007102,0,2,treat
+fruits,Parkinson's disease,AG.01.h,UMLS_CUI:C0030567,0,3,treat
+fruits,anemia,AG.01.h,UMLS_CUI:C0002871,0,2,treat
+fruits,asthma,AG.01.h,UMLS_CUI:C0004096,0,15,treat
+fruits,atherosclerosis,AG.01.h,UMLS_CUI:C0004153,0,3,treat
+fruits,bladder cancer,AG.01.h,UMLS_CUI:C0005684,0,3,treat
+fruits,breast cancer,AG.01.h,UMLS_CUI:C0006142,0,7,treat
+fruits,cancers,AG.01.e,UMLS_CUI:C0006826,0,2,treat
+fruits,cancers,AG.01.h,UMLS_CUI:C0006826,0,37,treat
+fruits,cataracts,AG.01.h,UMLS_CUI:C0029531,0,5,treat
+fruits,chronic obstructive pulmonary disease,AG.01.h,UMLS_CUI:C0024117,0,5,treat
+fruits,colon cancer,AG.01.h,UMLS_CUI:C0007102,0,3,treat
+fruits,colorectal cancer,AG.01.h,UMLS_CUI:C0346629,0,4,treat
+fruits,coronary heart disease,AG.01.h,UMLS_CUI:C0151744,0,25,treat
+fruits,degenerative diseases,AG.01.h,UMLS_CUI:C1285162,0,5,treat
+fruits,dementia,AG.01.h,UMLS_CUI:C0154319,0,13,treat
+fruits,diabetes mellitus,AG.01.h,UMLS_CUI:C0011849,0,4,treat
+fruits,diarrhea,AG.01.h,UMLS_CUI:C0013369,0,3,treat
+fruits,diarrhoea,AG.01.h,UMLS_CUI:C0013369,0,4,treat
+fruits,gastric cancer,AG.01.h,UMLS_CUI:C0024623,0,6,treat
+fruits,heart attacks,AG.01.h,UMLS_CUI:C0027051,0,2,treat
+fruits,heart disease,AG.01.h,UMLS_CUI:C0018799,0,5,treat
+fruits,hyperlipidaemia,AG.01.h,UMLS_CUI:C0020473,0,6,treat
+fruits,hyperphosphatemia,AG.01.h,UMLS_CUI:C0085681,0,2,treat
+fruits,hypertension,AG.01.h,UMLS_CUI:C0020538,0,39,treat
+fruits,kidney disease,AG.01.h,UMLS_CUI:C0022658,0,2,treat
+fruits,kidney stones,AG.01.h,UMLS_CUI:C0156257,0,2,treat
+fruits,lung cancer,AG.01.h,UMLS_CUI:C0024624,0,4,treat
+fruits,metabolic syndrome,AG.01.h,UMLS_CUI:C0025517,0,2,treat
+fruits,muscle wasting,AG.01.h,UMLS_CUI:C0026846,0,4,treat
+fruits,neurodegenerative diseases,AG.01.h,UMLS_CUI:C1285162,0,26,treat
+fruits,obesity,AG.01.h,UMLS_CUI:C0028754,0,7,treat
+fruits,osteoporosis,AG.01.h,UMLS_CUI:C0029456,0,2,treat
+fruits,ovarian cancer,AG.01,UMLS_CUI:C1299247,0,2,treat
+fruits,ovarian cancer,AG.01.h,UMLS_CUI:C1299247,0,2,treat
+fruits,prostate cancer,AG.01.h,UMLS_CUI:C0033578,0,4,treat
+fruits,schistosomiasis,AG.01.h,UMLS_CUI:C0029827,0,2,treat
+fruits,skin cancer,AG.01.h,UMLS_CUI:C0007114,0,2,treat
+fruits,stroke,AG.01.h,UMLS_CUI:C0007820,0,19,treat
+"fruits,",stroke,AG.01.f,UMLS_CUI:C0007820,0,8,treat
+garlic,atherosclerosis,AG.01,UMLS_CUI:C0004153,0,2,treat
+garlic,atherosclerosis,AG.01.h,UMLS_CUI:C0004153,0,9,treat
+garlic,breast cancer,AG.01.h,UMLS_CUI:C0006142,0,6,treat
+garlic,cancers,AG.01.h,UMLS_CUI:C0006826,0,35,treat
+garlic,colon cancer,AG.01.h,UMLS_CUI:C0007102,0,10,treat
+garlic,colorectal adenocarcinoma,AG.01.h,UMLS_CUI:C1319315,0,3,treat
+garlic,colorectal cancer,AG.01.h,UMLS_CUI:C0346629,0,3,treat
+garlic,diabetes,AG.01,UMLS_CUI:C0011849,0,2,treat
+garlic,diabetes,AG.01.h,UMLS_CUI:C0011849,0,5,treat
+garlic,dyslipidemia,AG.01.h,UMLS_CUI:C0023772,0,3,treat
+garlic,eclampsia,AG.01.h,UMLS_CUI:C0013537,0,2,treat
+garlic,gastric cancer,AG.01.h,UMLS_CUI:C0024623,0,8,treat
+garlic,gingivitis,AG.01.h,UMLS_CUI:C0008684,0,3,treat
+garlic,hyperglycemia,AG.01.h,UMLS_CUI:C0020456,0,2,treat
+garlic,hypertension,AG.01.h,UMLS_CUI:C0020538,0,16,treat
+garlic,liver cancer,AG.01.h,UMLS_CUI:C0854795,0,18,treat
+garlic,myocardial infarction,AG.01.h,UMLS_CUI:C0027051,0,2,treat
+garlic,neurodegenerative diseases,AG.01.l,UMLS_CUI:C1285162,0,8,treat
+garlic,periodontal diseases,AG.01.h,UMLS_CUI:C0031090,0,3,treat
+garlic,prostate cancer,AG.01.h,UMLS_CUI:C0033578,0,16,treat
+garlic,renal hypertension,AG.01.h,UMLS_CUI:C0020544,0,2,treat
+garlic,stroke,AG.01.h,UMLS_CUI:C0007820,0,6,treat
+ginger,Alzheimer's disease,AG.01.l,UMLS_CUI:C0002395,0,6,treat
+ginger,CRF,AG.01.l,UMLS_CUI:C0022661,0,3,treat
+ginger,asthma,AG.01.l,UMLS_CUI:C0004096,0,4,treat
+ginger,cancers,AG.01.l,UMLS_CUI:C0006826,0,18,treat
+ginger,chronic kidney diseases,AG.01.l,UMLS_CUI:C0022661,0,3,treat
+ginger,colon cancer,AG.01.l,UMLS_CUI:C0007102,0,2,treat
+ginger,colorectal cancer,AG.01.l,UMLS_CUI:C0346629,0,9,treat
+ginger,constipation,AG.01.l,UMLS_CUI:C0009806,0,7,treat
+ginger,diabetes,AG.01.l,UMLS_CUI:C0011849,0,23,treat
+ginger,diabetes mellitus,AG.01.l,UMLS_CUI:C0011849,0,6,treat
+ginger,diarrhea,AG.01.l,UMLS_CUI:C0013369,0,5,treat
+ginger,diarrhoea,AG.01.l,UMLS_CUI:C0013369,0,7,treat
+ginger,gastrointestinal disease,AG.01.l,UMLS_CUI:C0012242,0,3,treat
+ginger,heart diseases,AG.01.l,UMLS_CUI:C0018799,0,4,treat
+ginger,hepatic disorders,AG.01.l,UMLS_CUI:C0023895,0,5,treat
+ginger,hyperglycemia,AG.01.l,UMLS_CUI:C0020456,0,5,treat
+ginger,hypertension,AG.01.l,UMLS_CUI:C0020538,0,9,treat
+ginger,inflammatory bowel diseases,AG.01.l,UMLS_CUI:C0021390,0,2,treat
+ginger,irritable bowel syndrome,AG.01.l,UMLS_CUI:C0022104,0,9,treat
+ginger,liver cancer,AG.01.l,UMLS_CUI:C0854795,0,9,treat
+ginger,migraine,AG.01.l,UMLS_CUI:C0149931,0,7,treat
+ginger,motion sickness,AG.01.l,UMLS_CUI:C0026603,0,7,treat
+ginger,neurodegenerative diseases,AG.01,UMLS_CUI:C1285162,0,8,treat
+ginger,neurodegenerative diseases,AG.01.h,UMLS_CUI:C1285162,0,16,treat
+ginger,neurodegenerative diseases,AG.01.l,UMLS_CUI:C1285162,0,8,treat
+ginger,obesity,AG.01.l,UMLS_CUI:C0028754,0,9,treat
+ginger,sinusitis,AG.01.l,UMLS_CUI:C0149512,0,5,treat
+ginseng,diabetes,AG.01.ae,UMLS_CUI:C0011849,0,5,treat
+ginseng,type 2 diabetes,AG.01.l,UMLS_CUI:C0011860,0,9,treat
+grape juice,hypertension,AG.01.l,UMLS_CUI:C0020538,0,3,treat
+grapefruit,Parkinson's disease,AG.01.h,UMLS_CUI:C0030567,0,3,treat
+grapefruit,hypertension,AG.01.h,UMLS_CUI:C0020538,0,5,treat
+grapes,atherosclerosis,AG.01,UMLS_CUI:C0004153,0,4,treat
+grapes,breast cancer,AG.01.h,UMLS_CUI:C0006142,0,9,treat
+green tea,diabetes,AG.01,UMLS_CUI:C0011849,0,3,treat
+green tea,diabetes,AG.01.ag,UMLS_CUI:C0011849,0,3,treat
+green tea,prostate cancer,AG.01.h,UMLS_CUI:C0033578,0,19,treat
+hawthorn,Hypertension,AG.01.l,UMLS_CUI:C0020538,0,11,treat
+high-fat,asthma,AG.01.f,UMLS_CUI:C0004096,0,4,treat
+honey,amnesia,AG.01.l,UMLS_CUI:C0002625,0,2,treat
+honey,colorectal cancer,AG.01.l,UMLS_CUI:C0346629,0,5,treat
+honey,eczema,AG.01.l,UMLS_CUI:C0011603,0,3,treat
+honey,metabolic syndrome,AG.01.l,UMLS_CUI:C0025517,0,6,treat
+honey,psoriasis,AG.01.l,UMLS_CUI:C0033860,0,3,treat
+honey,stroke,AG.01.l,UMLS_CUI:C0007820,0,2,treat
+honey,type 2 diabetes,AG.01.l,UMLS_CUI:C0011860,0,4,treat
+honey,urinary tract infections,AG.01.l,UMLS_CUI:C0149523,0,3,treat
+indicate,hypertension,AG.01.h,UMLS_CUI:C0020538,0,2,treat
+kefir,metabolic syndrome,AG.01,UMLS_CUI:C0025517,0,2,treat
+kiwi,hypertension,AG.01,UMLS_CUI:C0020538,0,8,treat
+lemon,Alzheimer's disease,AG.01.h,UMLS_CUI:C0002395,0,3,treat
+lemon,gastritis,AG.01.h,UMLS_CUI:C0017152,0,2,treat
+lemon,gastroesophageal reflux,AG.01.h,UMLS_CUI:C0017168,0,2,treat
+lemon,pneumonia,AG.01.h,UMLS_CUI:C0032285,0,10,treat
+lemon,pulmonary fibrosis,AG.01.h,UMLS_CUI:C0034069,0,10,treat
+lentils,type 2 diabetes,AG.01.h,UMLS_CUI:C0011860,0,4,treat
+liver,cancers,AE.08,UMLS_CUI:C0006826,0,3,treat
+low salt,stroke,AG.01.h,UMLS_CUI:C0007820,0,3,treat
+manner,motion sickness,AG.01.l,UMLS_CUI:C0026603,0,2,treat
+meat,Hypertension,AG.01,UMLS_CUI:C0020538,0,11,treat
+meat,hypertension,AG.01,UMLS_CUI:C0020538,0,7,treat
+milk,cancers,AG.01.e,UMLS_CUI:C0006826,0,8,treat
+milk,dementia,AG.01.e,UMLS_CUI:C0154319,0,3,treat
+milk,diabetes,AG.01.e,UMLS_CUI:C0011849,0,15,treat
+milk,food allergies,AG.01.e,UMLS_CUI:C0016470,0,12,treat
+milk,gout,AG.01.e,UMLS_CUI:C0018099,0,3,treat
+milk,hereditary angioedema,AG.01.e,UMLS_CUI:C0019243,0,2,treat
+milk,lactose intolerance,AG.01.e,UMLS_CUI:C0022951,0,2,treat
+milk,liver disease,AG.01.e,UMLS_CUI:C0023895,0,9,treat
+milk,liver diseases,AG.01.e,UMLS_CUI:C0023895,0,21,treat
+milk,metabolic syndrome,AG.01.e,UMLS_CUI:C0025517,0,4,treat
+milk,osteoporosis,AE.10,UMLS_CUI:C0029456,0,3,treat
+milk,stroke,AE.10,UMLS_CUI:C0007820,0,2,treat
+milk,stroke,AG.01.e,UMLS_CUI:C0007820,0,5,treat
+milk,type 2 diabetes,AG.01.e,UMLS_CUI:C0011860,0,2,treat
+milk products,hypertension,AG.01.e,UMLS_CUI:C0020538,0,3,treat
+mushrooms,prostate cancer,AG.01.h,UMLS_CUI:C0033578,0,5,treat
+nuts,atherosclerosis,AG.01,UMLS_CUI:C0004153,0,4,treat
+nuts,atherosclerosis,AG.01.ag,UMLS_CUI:C0004153,0,4,treat
+nuts,atherosclerosis,AG.01.h,UMLS_CUI:C0004153,0,4,treat
+nuts,epilepsy,AG.01.f,UMLS_CUI:C0014544,0,5,treat
+nuts,stroke,AG.01.f,UMLS_CUI:C0007820,0,5,treat
+nuts,type 2 diabetes,AG.01.l,UMLS_CUI:C0011860,0,3,treat
+oatmeal,atopic dermatitis,AG.01.j,UMLS_CUI:C0011615,0,2,treat
+oats,celiac disease,AG.01.i,UMLS_CUI:C0007570,0,5,treat
+oats,coeliac disease,AG.01.i,UMLS_CUI:C0007570,0,5,treat
+oats,colorectal cancer,AG.01.i,UMLS_CUI:C0346629,0,5,treat
+oats,inflammatory bowel disease,AG.01.i,UMLS_CUI:C0021390,0,5,treat
+oil or,diabetes,AG.01.f,UMLS_CUI:C0011849,0,6,treat
+oil or,metabolic syndrome,AG.01.f,UMLS_CUI:C0025517,0,6,treat
+olive oil,Alzheimer's disease,AG.01.f,UMLS_CUI:C0002395,0,2,treat
+olive oil,Breast Cancer,AG.01.f,UMLS_CUI:C0006142,0,5,treat
+olive oil,atherosclerosis,AG.01.f,UMLS_CUI:C0004153,0,3,treat
+olive oil,breast cancer,AG.01.f,UMLS_CUI:C0006142,0,19,treat
+olive oil,breast cancer,AG.01.h,UMLS_CUI:C0006142,0,2,treat
+olive oil,breast tumor,AG.01.f,UMLS_CUI:C0006142,0,4,treat
+olive oil,cancers,AG.01.f,UMLS_CUI:C0006826,0,15,treat
+olive oil,coronary heart disease,AG.01.f,UMLS_CUI:C0151744,0,16,treat
+olive oil,dementia,AG.01.f,UMLS_CUI:C0154319,0,7,treat
+olive oil,dementia,AG.01.h,UMLS_CUI:C0154319,0,4,treat
+olive oil,diabetes,AG.01.f,UMLS_CUI:C0011849,0,10,treat
+olive oil,epilepsy,AG.01.f,UMLS_CUI:C0014544,0,5,treat
+olive oil,gastric cancer,AG.01.f,UMLS_CUI:C0024623,0,3,treat
+olive oil,hypertension,AG.01.f,UMLS_CUI:C0020538,0,10,treat
+olive oil,metabolic diseases,AG.01.f,UMLS_CUI:C0025517,0,3,treat
+olive oil,metabolic syndrome,AG.01.f,UMLS_CUI:C0025517,0,3,treat
+olive oil,neurodegenerative disease,AG.01.f,UMLS_CUI:C1285162,0,7,treat
+olive oil,neurodegenerative diseases,AG.01.f,UMLS_CUI:C1285162,0,34,treat
+olive oil,neurodegenerative diseases,AG.01.h,UMLS_CUI:C1285162,0,3,treat
+olive oil,obesity,AG.01.f,UMLS_CUI:C0028754,0,3,treat
+olive oil,osteoporosis,AG.01.f,UMLS_CUI:C0029456,0,2,treat
+olive oil,osteoporosis,AG.01.h,UMLS_CUI:C0029456,0,2,treat
+olive oil,stroke,AG.01.f,UMLS_CUI:C0007820,0,13,treat
+olive oil,stroke,AG.01.h,UMLS_CUI:C0007820,0,13,treat
+olive oil,type 2 diabetes,AG.01.f,UMLS_CUI:C0011860,0,18,treat
+olive oil mixture,eczema,AG.01.l,UMLS_CUI:C0011603,0,3,treat
+olive oil mixture,psoriasis,AG.01.l,UMLS_CUI:C0033860,0,3,treat
+onion,breast cancer,AG.01.h,UMLS_CUI:C0006142,0,4,treat
+onion,hypertension,AG.01.h,UMLS_CUI:C0020538,0,8,treat
+other dairy,heart disease,AG.01,UMLS_CUI:C0018799,0,6,treat
+other dairy,hypertension,AG.01,UMLS_CUI:C0020538,0,6,treat
+other dairy,obesity,AG.01,UMLS_CUI:C0028754,0,6,treat
+other dairy,type 2 diabetes,AG.01,UMLS_CUI:C0011860,0,6,treat
+other fruits,prostate cancer,AG.01.h,UMLS_CUI:C0033578,0,10,treat
+other fruits,prostate cancer,AG.01.z,UMLS_CUI:C0033578,0,5,treat
+papaya,prostate cancer,AG.01.h,UMLS_CUI:C0033578,0,10,treat
+papaya,prostate cancer,AG.01.z,UMLS_CUI:C0033578,0,5,treat
+pear,diabetes mellitus,AG.01.h,UMLS_CUI:C0011849,0,2,treat
+pear,metabolic diseases,AG.01.h,UMLS_CUI:C0025517,0,2,treat
+peas,diabetes,AG.01.h,UMLS_CUI:C0011849,0,2,treat
+potato,renal cell carcinoma,AG.01.h,UMLS_CUI:C0007134,0,20,treat
+prickly pear,diabetes,AG.01.e,UMLS_CUI:C0011849,0,3,treat
+pulses,diabetes,AG.01,UMLS_CUI:C0011849,0,2,treat
+pulses,type 2 diabetes,AG.01,UMLS_CUI:C0011860,0,4,treat
+pulses,type 2 diabetes,AG.01.h,UMLS_CUI:C0011860,0,8,treat
+pumpkin,diabetes,AG.01.h,UMLS_CUI:C0011849,0,2,treat
+raspberries,arthritis,AG.01.h,UMLS_CUI:C0003864,0,2,treat
+red onion,ovarian cancer,AG.01.h,UMLS_CUI:C1299247,0,2,treat
+red wine,Breast Cancer,AG.01,UMLS_CUI:C0006142,0,15,treat
+red wine,Breast Cancer,AG.01.h,UMLS_CUI:C0006142,0,5,treat
+red wine,cerebrovascular disease,AG.01,UMLS_CUI:C0007820,0,3,treat
+red wine,coronary heart disease,AG.01,UMLS_CUI:C0151744,0,11,treat
+red wine,coronary heart disease,AG.01.y,UMLS_CUI:C0151744,0,2,treat
+red wine,coronary heart diseases,AG.01,UMLS_CUI:C0151744,0,2,treat
+red wine,dementia,AG.01,UMLS_CUI:C0154319,0,2,treat
+red wine,diabetes,AG.01,UMLS_CUI:C0011849,0,6,treat
+red wine,lung cancer,AG.01,UMLS_CUI:C0024624,0,2,treat
+red wine,mammary tumors,AG.01,UMLS_CUI:C0006142,0,3,treat
+red wine,type 2 diabetes,AG.01,UMLS_CUI:C0011860,0,4,treat
+red wine,vascular diseases,AG.01,UMLS_CUI:C0752127,0,2,treat
+rice,atopic dermatitis,AF.20,UMLS_CUI:C0011615,0,3,treat
+rice,diabetes,AF.20,UMLS_CUI:C0011849,0,3,treat
+saffron,asthma,AE.08,UMLS_CUI:C0004096,0,3,treat
+saffron,cancers,AE.08,UMLS_CUI:C0006826,0,15,treat
+salt,stroke,AG.01,UMLS_CUI:C0007820,0,3,treat
+strawberries,arthritis,AG.01.h,UMLS_CUI:C0003864,0,2,treat
+sweet potato,malignant tumor,AG.01.h,UMLS_CUI:C0006826,0,2,treat
+sweet potato,renal cell carcinoma,AG.01.h,UMLS_CUI:C0007134,0,20,treat
+tea,breast cancer,AG.01.ac,UMLS_CUI:C0006142,0,10,treat
+tea,colon cancer,AG.01.h,UMLS_CUI:C0007102,0,9,treat
+tea,colorectal cancer,AG.01.ac,UMLS_CUI:C0346629,0,3,treat
+tea,dementia,AG.01,UMLS_CUI:C0154319,0,2,treat
+tea,diabetes,AG.01.ac,UMLS_CUI:C0011849,0,6,treat
+tea,hypertension,AG.01.ac,UMLS_CUI:C0020538,0,5,treat
+tea,liver disease,AG.01.ac,UMLS_CUI:C0023895,0,2,treat
+tea,obesity,AG.01.ac,UMLS_CUI:C0028754,0,3,treat
+tea,obesity,AG.01.ag,UMLS_CUI:C0028754,0,4,treat
+tea,obesity,AG.01.y,UMLS_CUI:C0028754,0,4,treat
+tea,osteoporosis,AG.01.ac,UMLS_CUI:C0029456,0,2,treat
+tea,stroke,AG.01.ac,UMLS_CUI:C0007820,0,4,treat
+thistle,Type 2 diabetes mellitus,AG.01.e,UMLS_CUI:C0011860,0,6,treat
+thistle,liver diseases,AE.08,UMLS_CUI:C0023895,0,2,treat
+thistle,liver diseases,AG.01.e,UMLS_CUI:C0023895,0,7,treat
+tofu,prostate cancer,AG.01,UMLS_CUI:C0033578,0,2,treat
+tomato,cancers,AG.01.h,UMLS_CUI:C0006826,0,3,treat
+tomato,gastritis,AG.01.h,UMLS_CUI:C0017152,0,2,treat
+tomato,gastroesophageal reflux,AG.01.h,UMLS_CUI:C0017168,0,2,treat
+tomato,prostate cancer,AG.01.h,UMLS_CUI:C0033578,0,23,treat
+tomato sauce,prostate cancer,AG.01.l,UMLS_CUI:C0033578,0,15,treat
+tomatoes,prostate cancer,AG.01.h,UMLS_CUI:C0033578,0,13,treat
+turmeric,liver cancer,AG.01.h,UMLS_CUI:C0854795,0,36,treat
+turmeric,liver cancer,AG.01.l,UMLS_CUI:C0854795,0,9,treat
+vegetables,bladder cancer,AG.01.h,UMLS_CUI:C0005684,0,2,treat
+vegetables,gastric cancer,AF.07,UMLS_CUI:C0024623,0,8,treat
+vinegar,diabetes,AG.01.ae,UMLS_CUI:C0011849,0,5,treat
+vinegar,diabetes,AG.01.h,UMLS_CUI:C0011849,0,5,treat
+vinegar,diabetes,AG.01.l,UMLS_CUI:C0011849,0,5,treat
+walnuts,breast cancer,AG.01,UMLS_CUI:C0006142,0,2,treat
+walnuts,mammary cancer,AG.01,UMLS_CUI:C0006142,0,2,treat
+water,dermatitis,AG.01.z,UMLS_CUI:C0011603,0,2,treat
+water,diabetes,AG.01.z,UMLS_CUI:C0011849,0,2,treat
+water,hyperglycemia,AG.01,UMLS_CUI:C0020456,0,5,treat
+water,hyperglycemia,AG.01.z,UMLS_CUI:C0020456,0,5,treat
+water,hypertension,AG.01.z,UMLS_CUI:C0020538,0,4,treat
+water,obesity,AG.01.z,UMLS_CUI:C0028754,0,3,treat
+watermelon,hypertension,AG.01.z,UMLS_CUI:C0020538,0,8,treat
+watermelon,prostate cancer,AG.01.z,UMLS_CUI:C0033578,0,5,treat
+well-known spice,hypertension,AG.01.l,UMLS_CUI:C0020538,0,3,treat
+wheat flour,allergic disease,AG.01.j,UMLS_CUI:C0020517,0,2,treat
+wheat flour,allergic disease,AG.01.k,UMLS_CUI:C0020517,0,3,treat
+wheat flour,spina bifida,AG.01.k,UMLS_CUI:C0080178,0,2,treat
+whey,type 2 diabetes,AG.01,UMLS_CUI:C0011860,0,7,treat
+whey,type 2 diabetes,AG.01.ae,UMLS_CUI:C0011860,0,7,treat
+whey,type 2 diabetes,AG.01.e,UMLS_CUI:C0011860,0,7,treat
+white wine,diabetes,AG.01,UMLS_CUI:C0011849,0,4,treat
+white wine,diabetes,AG.01.y,UMLS_CUI:C0011849,0,4,treat
+wine,atherosclerosis,AG.01.y,UMLS_CUI:C0004153,0,3,treat
+wine,coronary disease,AG.01.y,UMLS_CUI:C0151744,0,8,treat
+wine,obesity,AG.01.y,UMLS_CUI:C0028754,0,4,treat
+worldwide food,diabetes,AG.01,UMLS_CUI:C0011849,0,2,treat
+yogurt,breast cancer,AG.01,UMLS_CUI:C0006142,0,15,treat
+yogurt,heart disease,AG.01,UMLS_CUI:C0018799,0,6,treat
+yogurt,hyperphosphatemia,AG.01,UMLS_CUI:C0085681,0,2,treat
+yogurt,hypertension,AG.01,UMLS_CUI:C0020538,0,6,treat
+yogurt,obesity,AG.01,UMLS_CUI:C0028754,0,6,treat
+yogurt,type 2 diabetes,AG.01,UMLS_CUI:C0011860,0,14,treat
+yogurt,type 2 diabetes,AG.01.ae,UMLS_CUI:C0011860,0,7,treat
+yogurt,type 2 diabetes,AG.01.e,UMLS_CUI:C0011860,0,7,treat

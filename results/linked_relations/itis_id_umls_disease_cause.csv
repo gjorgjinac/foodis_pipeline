@@ -1,0 +1,76 @@
+term1,term2,itis_id,umls_disease,is_cause,is_treat,relation
+allium cepa,asthma,42720.0,UMLS_CUI:C0004096,3,0,cause
+allium cepa,dermatitis,42720.0,UMLS_CUI:C0011603,3,0,cause
+allium sativum,dermatitis,42652.0,UMLS_CUI:C0011603,2,0,cause
+apple,dermatitis,25262.0,UMLS_CUI:C0011603,4,0,cause
+banana,asthma,42390.0,UMLS_CUI:C0004096,6,0,cause
+banana,hypersensitivity,42390.0,UMLS_CUI:C0020517,10,0,cause
+banana,pancreatitis,42390.0,UMLS_CUI:C0030305,3,0,cause
+banana,rhinitis,42390.0,UMLS_CUI:C0035455,11,0,cause
+banana,urticaria,42390.0,UMLS_CUI:C0029839,11,0,cause
+barley,Celiac Disease,40874.0,UMLS_CUI:C0007570,12,0,cause
+barley,Celiac disease,40874.0,UMLS_CUI:C0007570,83,0,cause
+barley,anaemia,40874.0,UMLS_CUI:C0002871,11,0,cause
+barley,asthma,40874.0,UMLS_CUI:C0004096,4,0,cause
+barley,autoimmune disease,40874.0,UMLS_CUI:C0003089,2,0,cause
+barley,autoimmune disorder,40874.0,UMLS_CUI:C0003089,20,0,cause
+barley,celiac disease,40874.0,UMLS_CUI:C0007570,7,0,cause
+barley,coeliac disease,40874.0,UMLS_CUI:C0007570,6,0,cause
+barley,dermatitis,40874.0,UMLS_CUI:C0011603,18,0,cause
+barley,osteoporosis,40874.0,UMLS_CUI:C0029456,11,0,cause
+carrot,dermatitis,524846.0,UMLS_CUI:C0011603,4,0,cause
+chestnut,hypersensitivity,19451.0,UMLS_CUI:C0020517,6,0,cause
+chicken,obesity,176086.0,UMLS_CUI:C0028754,2,0,cause
+chicory,asthma,36763.0,UMLS_CUI:C0004096,4,0,cause
+cinnamon,dermatitis,18174.0,UMLS_CUI:C0011603,3,0,cause
+cinnamon,hepatitis,18174.0,UMLS_CUI:C0149519,4,0,cause
+cinnamon,hypersensitivity,18174.0,UMLS_CUI:C0020517,10,0,cause
+cinnamon,stomatitis,18174.0,UMLS_CUI:C0038362,19,0,cause
+cinnamon,telangiectasia,18174.0,UMLS_CUI:C0039446,3,0,cause
+coffee,acne,35189.0,UMLS_CUI:C0152249,33,0,cause
+corn,dermatitis,42269.0,UMLS_CUI:C0011603,11,0,cause
+corn,rhinitis,42269.0,UMLS_CUI:C0035455,3,0,cause
+crab,allergic rhinitis,98276.0,UMLS_CUI:C0002103,3,0,cause
+garlic,dermatitis,42652.0,UMLS_CUI:C0011603,19,0,cause
+garlic,hemolytic anemia,42652.0,UMLS_CUI:C0002878,5,0,cause
+garlic,hypersensitivity,42652.0,UMLS_CUI:C0020517,10,0,cause
+garlic,rhinitis,42652.0,UMLS_CUI:C0035455,18,0,cause
+hordeum vulgare,asthma,40874.0,UMLS_CUI:C0004096,2,0,cause
+horseradish,hypersensitivity,23044.0,UMLS_CUI:C0020517,50,0,cause
+lemon,endophthalmitis,28885.0,UMLS_CUI:C0014236,3,0,cause
+lemon,hypersensitivity,28885.0,UMLS_CUI:C0020517,5,0,cause
+lemon,urticaria,28885.0,UMLS_CUI:C0029839,3,0,cause
+papaya,hypersensitivity,22324.0,UMLS_CUI:C0020517,2,0,cause
+peach,urticaria,24765.0,UMLS_CUI:C0029839,12,0,cause
+peanut,atopic dermatitis,26463.0,UMLS_CUI:C0011615,3,0,cause
+phaseolus vulgaris,diarrhoea,26857.0,UMLS_CUI:C0013369,6,0,cause
+phaseolus vulgaris,gastroenteritis,26857.0,UMLS_CUI:C0017160,3,0,cause
+potato,asthma,505272.0,UMLS_CUI:C0004096,2,0,cause
+potato,dermatitis,505272.0,UMLS_CUI:C0011603,8,0,cause
+rabbit,atopic dermatitis,180110.0,UMLS_CUI:C0011615,3,0,cause
+rice,asthma,41976.0,UMLS_CUI:C0004096,6,0,cause
+rice,urticaria,41976.0,UMLS_CUI:C0029839,6,0,cause
+rosemary,asthma,32677.0,UMLS_CUI:C0004096,3,0,cause
+rye,Celiac Disease,42090.0,UMLS_CUI:C0007570,6,0,cause
+rye,Celiac disease,42090.0,UMLS_CUI:C0007570,22,0,cause
+rye,autoimmune disorder,42090.0,UMLS_CUI:C0003089,2,0,cause
+rye,celiac disease,42090.0,UMLS_CUI:C0007570,13,0,cause
+rye,coeliac disease,42090.0,UMLS_CUI:C0007570,6,0,cause
+rye,dermatitis,42090.0,UMLS_CUI:C0011603,7,0,cause
+tea,acne,506801.0,UMLS_CUI:C0152249,9,0,cause
+triticum aestivum,Celiac disease,42237.0,UMLS_CUI:C0007570,5,0,cause
+turkey,Gastric cancer,176136.0,UMLS_CUI:C0024623,7,0,cause
+turkey,Hypertension,176136.0,UMLS_CUI:C0020538,7,0,cause
+vanilla,telangiectasia,43714.0,UMLS_CUI:C0039446,3,0,cause
+wasabi,hypersensitivity,506210.0,UMLS_CUI:C0020517,10,0,cause
+wheat,Celiac Disease,42236.0,UMLS_CUI:C0007570,6,0,cause
+wheat,Celiac disease,42236.0,UMLS_CUI:C0007570,60,0,cause
+wheat,Coeliac disease,42236.0,UMLS_CUI:C0007570,6,0,cause
+wheat,asthma,42236.0,UMLS_CUI:C0004096,2,0,cause
+wheat,autoimmune disease,42236.0,UMLS_CUI:C0003089,2,0,cause
+wheat,autoimmune disorder,42236.0,UMLS_CUI:C0003089,26,0,cause
+wheat,coeliac disease,42236.0,UMLS_CUI:C0007570,13,0,cause
+wheat,dermatitis,42236.0,UMLS_CUI:C0011603,11,0,cause
+wheat,eczema,42236.0,UMLS_CUI:C0011603,9,0,cause
+wheat,irritable bowel syndrome,42236.0,UMLS_CUI:C0022104,2,0,cause
+wheat,osteoporosis,42236.0,UMLS_CUI:C0029456,11,0,cause

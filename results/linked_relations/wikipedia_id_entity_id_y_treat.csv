@@ -1,0 +1,424 @@
+term1,term2,wikipedia_id,entity_id_y,is_cause,is_treat,relation
+alcoholic beverages,heart disease,Alcoholic_beverages,DOID:114,0,2,treat
+allium,cancers,Allium haematochiton,DOID:162,0,6,treat
+allium,colorectal cancer,Allium haematochiton,DOID:9256,0,6,treat
+allium,gastric cancer,Allium haematochiton,DOID:10534,0,10,treat
+allium,prostate cancer,Allium haematochiton,DOID:10283,0,9,treat
+allium,stomach cancer,Allium haematochiton,DOID:10534,0,6,treat
+allium cepa,breast cancer,Onion,DOID:1612,0,4,treat
+allium sativum,anemia,Garlic,DOID:2355,0,2,treat
+allium sativum,asthma,Garlic,DOID:2841,0,6,treat
+allium sativum,atherosclerosis,Garlic,DOID:1936,0,2,treat
+allium sativum,bladder cancer,Garlic,DOID:11054,0,3,treat
+allium sativum,cancers,Garlic,DOID:162,0,17,treat
+allium sativum,diabetes,Garlic,DOID:9351,0,8,treat
+allium sativum,dyslipidemia,Garlic,DOID:3146,0,2,treat
+allium sativum,gastric cancer,Garlic,DOID:10534,0,5,treat
+allium sativum,hypertension,Garlic,DOID:10763,0,5,treat
+allium sativum,kidney diseases,Garlic,DOID:557,0,4,treat
+allium sativum,liver diseases,Garlic,DOID:409,0,4,treat
+allium sativum,malaria,Garlic,DOID:12365,0,4,treat
+allium sativum,measles,Garlic,DOID:8622,0,2,treat
+allium sativum,neoplasm,Garlic,DOID:14566,0,2,treat
+allium sativum,syphilis,Garlic,DOID:4166,0,2,treat
+allium sativum,yellow fever,Garlic,DOID:9682,0,2,treat
+annona muricata,cancers,Soursop,DOID:162,0,4,treat
+annona muricata,prostate cancer,Soursop,DOID:10283,0,4,treat
+annona muricata,tuberculosis,Soursop,DOID:399,0,4,treat
+annona muricata,urinary tract infections,Soursop,DOID:13148,0,4,treat
+apium graveolens,hypertension,Wild celery,DOID:10763,0,3,treat
+apple,hypertension,Apple,DOID:10763,0,8,treat
+asparagus,liver cancer,Asparagus,DOID:3571,0,18,treat
+avena sativa,atopic dermatitis,Oat,DOID:3310,0,2,treat
+banana,hypertension,Banana,DOID:10763,0,8,treat
+beer,Alzheimer's disease,Beer,DOID:10652,0,6,treat
+beer,amnesia,Beer,DOID:10914,0,2,treat
+beer,diabetes,Beer,DOID:9351,0,8,treat
+beverages,allergic diseases,Beverages,DOID:1205,0,3,treat
+beverages,celiac disease,Beverages,DOID:10608,0,3,treat
+beverages,coronary heart disease,Beverages,DOID:3393,0,7,treat
+beverages,heart disease,Beverages,DOID:114,0,7,treat
+brassica oleracea,prostate cancer,Brassica_oleracea,DOID:10283,0,4,treat
+breadfruit,diabetes,Breadfruit,DOID:9351,0,2,treat
+broccoli,breast cancer,Broccoli,DOID:1612,0,4,treat
+broccoli,cancers,Broccoli,DOID:162,0,5,treat
+broccoli,cervical cancer,Broccoli,DOID:4362,0,2,treat
+broccoli,colon cancer,Broccoli,DOID:219,0,4,treat
+broccoli,diabetes,Broccoli,DOID:9351,0,5,treat
+broccoli,mammary tumors,Broccoli,DOID:1612,0,4,treat
+broccoli,neurodegenerative diseases,Broccoli,DOID:1289,0,5,treat
+cabbage,arthritis,Cabbage,DOID:848,0,2,treat
+cabbage,breast cancer,Cabbage,DOID:1612,0,3,treat
+cabbage,cervical cancer,Cabbage,DOID:4362,0,2,treat
+camellia sinensis,colorectal cancer,Tea,DOID:9256,0,4,treat
+camellia sinensis,diabetes,Tea,DOID:9351,0,5,treat
+camellia sinensis,hypertension,Tea,DOID:10763,0,2,treat
+camellia sinensis,obesity,Tea,DOID:9970,0,3,treat
+capsicum,cancers,Capsicum,DOID:162,0,15,treat
+capsicum,hypertension,Capsicum,DOID:10763,0,3,treat
+capsicum,psoriasis,Capsicum,DOID:8893,0,2,treat
+capsicum annuum,anemia,Capsicum_annuum,DOID:2355,0,10,treat
+capsicum annuum,anemia,Italian sweet pepper,DOID:2355,0,2,treat
+capsicum annuum,asthma,Capsicum_annuum,DOID:2841,0,10,treat
+capsicum annuum,asthma,Italian sweet pepper,DOID:2841,0,2,treat
+capsicum annuum,measles,Capsicum_annuum,DOID:8622,0,10,treat
+capsicum annuum,measles,Italian sweet pepper,DOID:8622,0,2,treat
+capsicum annuum,syphilis,Capsicum_annuum,DOID:4166,0,10,treat
+capsicum annuum,syphilis,Italian sweet pepper,DOID:4166,0,2,treat
+cauliflower,arthritis,Cauliflower,DOID:848,0,2,treat
+cheese,diabetes,Cheese,DOID:9351,0,25,treat
+cheese,hyperphosphatemia,Cheese,DOID:0050459,0,2,treat
+cheese,type 2 diabetes,Cheese,DOID:9352,0,28,treat
+chives,colorectal cancer,Chives,DOID:9256,0,5,treat
+chives,prostate cancer,Chives,DOID:10283,0,18,treat
+chocolate,breast cancer,Types_of_chocolate,DOID:1612,0,10,treat
+chocolate,diabetes,Types_of_chocolate,DOID:9351,0,4,treat
+chocolate,metabolic syndrome,Types_of_chocolate,DOID:0014667,0,3,treat
+chocolate,stroke,Types_of_chocolate,DOID:6713,0,3,treat
+cichorium intybus,type 2 diabetes mellitus,Chicory,DOID:9352,0,3,treat
+cinnamomum,diabetes,Cinnamon,DOID:9351,0,2,treat
+cinnamomum,gastritis,Cinnamon,DOID:4029,0,2,treat
+cinnamomum,type 2 diabetes mellitus,Cinnamon,DOID:9352,0,6,treat
+cinnamon,Alzheimer's disease,Cinnamon,DOID:10652,0,10,treat
+cinnamon,diabetes,Cinnamon,DOID:9351,0,34,treat
+cinnamon,diabetes mellitus,Cinnamon,DOID:9351,0,18,treat
+cinnamon,diabetes mellitus type 2,Cinnamon,DOID:0111099;DOID:9352,0,2,treat
+cinnamon,diarrhea,Cinnamon,DOID:13250,0,3,treat
+cinnamon,gastric diseases,Cinnamon,DOID:76,0,3,treat
+cinnamon,glucose intolerance,Cinnamon,DOID:10603,0,6,treat
+cinnamon,metabolic syndrome,Cinnamon,DOID:0014667,0,21,treat
+cinnamon,neurodegenerative diseases,Cinnamon,DOID:1289,0,40,treat
+cinnamon,obesity,Cinnamon,DOID:9970,0,6,treat
+cinnamon,type 2 diabetes,Cinnamon,DOID:9352,0,63,treat
+cinnamon,type 2 diabetes mellitus,Cinnamon,DOID:9352,0,6,treat
+cinnamon,type-2 diabetes,Cinnamon,DOID:9352,0,7,treat
+citrus,gastric cancer,Citrus,DOID:10534,0,4,treat
+citrus maxima,hypertension,Pomelo,DOID:10763,0,2,treat
+cocktail,anemia,List_of_cocktails,DOID:2355,0,2,treat
+cocktail,degenerative diseases,List_of_cocktails,DOID:1289,0,2,treat
+coconut,atopic dermatitis,Coconut,DOID:3310,0,10,treat
+coffee,adenomas,Coffee,DOID:657,0,2,treat
+coffee,alcoholic liver cirrhosis,Coffee,DOID:14018,0,2,treat
+coffee,atherosclerosis,Coffee,DOID:1936,0,12,treat
+coffee,diabetes,Coffee,DOID:9351,0,5,treat
+coffee,gastric cancer,Coffee,DOID:10534,0,4,treat
+coffee,gout,Coffee,DOID:13189,0,3,treat
+coffee,hyperuricemia,Coffee,DOID:1920,0,2,treat
+coffee,liver disease,Coffee,DOID:409,0,4,treat
+coffee,nonalcoholic steatohepatitis,Coffee,DOID:0080547,0,4,treat
+coffee,obesity,Coffee,DOID:9970,0,4,treat
+coffee,type 2 diabetes,Coffee,DOID:9352,0,4,treat
+coriander,neurodegenerative diseases,Coriander,DOID:1289,0,8,treat
+corn,celiac disease,Corn,DOID:10608,0,6,treat
+corn,hypertension,Corn,DOID:10763,0,8,treat
+corn,neural tube defects,Corn,DOID:0080074,0,5,treat
+cream,peptic ulcer disease,Cream,DOID:750,0,3,treat
+crocus sativus,asthma,Saffron,DOID:2841,0,2,treat
+crocus sativus,cancers,Saffron,DOID:162,0,15,treat
+cucurbita,alopecia,Cucurbita,DOID:987,0,2,treat
+curcuma longa,asthma,Turmeric,DOID:2841,0,4,treat
+curcuma longa,cancers,Turmeric,DOID:162,0,15,treat
+curcuma longa,diabetes,Turmeric,DOID:9351,0,10,treat
+curcuma longa,heart diseases,Turmeric,DOID:114,0,4,treat
+curcuma longa,hepatic disorders,Turmeric,DOID:409,0,5,treat
+curcuma longa,hyperglycemia,Turmeric,DOID:4195,0,5,treat
+curcuma longa,neurodegenerative diseases,Turmeric,DOID:1289,0,2,treat
+curcuma longa,obesity,Turmeric,DOID:9970,0,5,treat
+curcuma longa,rheumatoid arthritis,Turmeric,DOID:7148,0,2,treat
+curcuma longa,sinusitis,Turmeric,DOID:0050127,0,5,treat
+diospyros,impotence,Persimmon,DOID:1875,0,2,treat
+eggs,cancers,Eggs,DOID:162,0,9,treat
+eggs,diabetes,Eggs,DOID:9351,0,27,treat
+eggs,metabolic syndrome,Eggs,DOID:0014667,0,4,treat
+eggs,neurodegenerative diseases,Eggs,DOID:1289,0,9,treat
+eggs,type 2 diabetes,Eggs,DOID:9352,0,9,treat
+fenugreek,diabetes,Fenugreek,DOID:9351,0,5,treat
+fenugreek,type 2 diabetes,Fenugreek,DOID:9352,0,9,treat
+ficus carica,constipation,Ficus_carica,DOID:2089,0,3,treat
+flour,Neural Tube Defects,Flour,DOID:0080074,0,2,treat
+flour,anencephaly,Flour,DOID:0060668,0,6,treat
+flour,neural tube defects,Flour,DOID:0080074,0,13,treat
+flour,spina bifida,Flour,DOID:0080016,0,6,treat
+fruit juice,Metabolic Syndrome,Juice,DOID:0014667,0,6,treat
+fruit juice,dyslipidemia,Juice,DOID:3146,0,6,treat
+fruits,Alzheimer's disease,Fruits,DOID:10652,0,4,treat
+fruits,Breast Cancer,Fruits,DOID:1612,0,5,treat
+fruits,Colon cancer,Fruits,DOID:219,0,2,treat
+fruits,Parkinson's disease,Fruits,DOID:14330,0,3,treat
+fruits,adenomas,Fruits,DOID:657,0,4,treat
+fruits,amnesia,Fruits,DOID:10914,0,2,treat
+fruits,anemia,Fruits,DOID:2355,0,2,treat
+fruits,asthma,Fruits,DOID:2841,0,18,treat
+fruits,atherosclerosis,Fruits,DOID:1936,0,3,treat
+fruits,bladder cancer,Fruits,DOID:11054,0,5,treat
+fruits,breast cancer,Fruits,DOID:1612,0,7,treat
+fruits,cancers,Fruits,DOID:162,0,41,treat
+fruits,carcinomas,Fruits,DOID:305,0,2,treat
+fruits,cataracts,Fruits,DOID:83,0,7,treat
+fruits,cerebrovascular diseases,Fruits,DOID:6713,0,2,treat
+fruits,chronic obstructive pulmonary disease,Fruits,DOID:3083,0,5,treat
+fruits,colon cancer,Fruits,DOID:219,0,3,treat
+fruits,colorectal cancer,Fruits,DOID:9256,0,6,treat
+fruits,coronary heart disease,Fruits,DOID:3393,0,25,treat
+fruits,degenerative diseases,Fruits,DOID:1289,0,6,treat
+fruits,dementia,Fruits,DOID:1307,0,13,treat
+fruits,diabetes mellitus,Fruits,DOID:9351,0,4,treat
+fruits,diarrhea,Fruits,DOID:13250,0,5,treat
+fruits,diarrhoea,Fruits,DOID:13250,0,4,treat
+fruits,dysentery,Fruits,DOID:12384,0,2,treat
+fruits,gastric cancer,Fruits,DOID:10534,0,6,treat
+fruits,heart attacks,Fruits,DOID:5844,0,2,treat
+fruits,heart disease,Fruits,DOID:114,0,9,treat
+fruits,hyperlipidaemia,Fruits,DOID:1168,0,6,treat
+fruits,hyperphosphatemia,Fruits,DOID:0050459,0,2,treat
+fruits,hypertension,Fruits,DOID:10763,0,40,treat
+fruits,kidney disease,Fruits,DOID:557,0,2,treat
+fruits,kidney stones,Fruits,DOID:585,0,2,treat
+fruits,lung cancer,Fruits,DOID:1324,0,4,treat
+fruits,metabolic syndrome,Fruits,DOID:0014667,0,2,treat
+fruits,muscle wasting,Fruits,DOID:767,0,4,treat
+fruits,neurodegenerative diseases,Fruits,DOID:1289,0,26,treat
+fruits,obesity,Fruits,DOID:9970,0,7,treat
+fruits,osteoporosis,Fruits,DOID:11476,0,3,treat
+fruits,ovarian cancer,Fruits,DOID:2394,0,4,treat
+fruits,prostate cancer,Fruits,DOID:10283,0,4,treat
+fruits,schistosomiasis,Fruits,DOID:1395,0,2,treat
+fruits,skin cancer,Fruits,DOID:4159,0,2,treat
+fruits,stroke,Fruits,DOID:6713,0,19,treat
+garcinia mangostana,diarrhea,Purple_mangosteen,DOID:13250,0,2,treat
+garlic,DSs,Garlic,DOID:0111777;DOID:0050125,0,8,treat
+garlic,arteriosclerosis,Garlic,DOID:2349,0,4,treat
+garlic,atherosclerosis,Garlic,DOID:1936,0,23,treat
+garlic,breast cancer,Garlic,DOID:1612,0,17,treat
+garlic,cancers,Garlic,DOID:162,0,50,treat
+garlic,colon cancer,Garlic,DOID:219,0,10,treat
+garlic,colorectal adenocarcinoma,Garlic,DOID:0050861,0,4,treat
+garlic,colorectal cancer,Garlic,DOID:9256,0,8,treat
+garlic,diabetes,Garlic,DOID:9351,0,20,treat
+garlic,dyslipidemia,Garlic,DOID:3146,0,3,treat
+garlic,eclampsia,Garlic,DOID:13593,0,2,treat
+garlic,gastric cancer,Garlic,DOID:10534,0,8,treat
+garlic,gingivitis,Garlic,DOID:3087,0,3,treat
+garlic,hepatoma,Garlic,DOID:684,0,3,treat
+garlic,hyperglycemia,Garlic,DOID:4195,0,2,treat
+garlic,hypertension,Garlic,DOID:10763,0,29,treat
+garlic,kidney diseases,Garlic,DOID:557,0,4,treat
+garlic,liver cancer,Garlic,DOID:3571,0,18,treat
+garlic,liver diseases,Garlic,DOID:409,0,4,treat
+garlic,malaria,Garlic,DOID:12365,0,4,treat
+garlic,mammary cancer,Garlic,DOID:1612,0,14,treat
+garlic,metabolic diseases,Garlic,DOID:0014667,0,3,treat
+garlic,myocardial infarction,Garlic,DOID:5844,0,2,treat
+garlic,neurodegenerative diseases,Garlic,DOID:1289,0,8,treat
+garlic,periodontal diseases,Garlic,DOID:3388,0,3,treat
+garlic,prostate cancer,Garlic,DOID:10283,0,19,treat
+garlic,renal hypertension,Garlic,DOID:1073,0,2,treat
+garlic,stroke,Garlic,DOID:6713,0,6,treat
+garlic,thrombosis,Garlic,DOID:0060903,0,3,treat
+ginger,Alzheimer's disease,Ginger,DOID:10652,0,9,treat
+ginger,CRF,Ginger,DOID:784,0,3,treat
+ginger,adenomas,Ginger,DOID:657,0,5,treat
+ginger,analgesia,Ginger,DOID:0060145,0,2,treat
+ginger,arthritis,Ginger,DOID:848,0,4,treat
+ginger,asthma,Ginger,DOID:2841,0,7,treat
+ginger,bronchitis,Ginger,DOID:6132,0,3,treat
+ginger,cancers,Ginger,DOID:162,0,33,treat
+ginger,chronic kidney diseases,Ginger,DOID:784,0,3,treat
+ginger,colon cancer,Ginger,DOID:219,0,2,treat
+ginger,colorectal cancer,Ginger,DOID:9256,0,9,treat
+ginger,constipation,Ginger,DOID:2089,0,14,treat
+ginger,diabetes,Ginger,DOID:9351,0,26,treat
+ginger,diabetes mellitus,Ginger,DOID:9351,0,6,treat
+ginger,diarrhea,Ginger,DOID:13250,0,17,treat
+ginger,diarrhoea,Ginger,DOID:13250,0,9,treat
+ginger,dysentery,Ginger,DOID:12384,0,3,treat
+ginger,gastrointestinal disease,Ginger,DOID:77,0,3,treat
+ginger,gastrointestinal diseases,Ginger,DOID:77,0,2,treat
+ginger,gastrointestinal disorders,Ginger,DOID:77,0,3,treat
+ginger,heart diseases,Ginger,DOID:114,0,4,treat
+ginger,hepatic disorders,Ginger,DOID:409,0,5,treat
+ginger,hyperglycemia,Ginger,DOID:4195,0,5,treat
+ginger,hypertension,Ginger,DOID:10763,0,13,treat
+ginger,infectious diseases,Ginger,DOID:0050117,0,4,treat
+ginger,inflammatory bowel diseases,Ginger,DOID:0050589,0,2,treat
+ginger,irritable bowel syndrome,Ginger,DOID:9778,0,9,treat
+ginger,liver cancer,Ginger,DOID:3571,0,9,treat
+ginger,migraine,Ginger,DOID:6364,0,8,treat
+ginger,motion sickness,Ginger,DOID:2951,0,12,treat
+ginger,mucositis,Ginger,DOID:0080178,0,3,treat
+ginger,neurodegenerative diseases,Ginger,DOID:1289,0,32,treat
+ginger,obesity,Ginger,DOID:9970,0,14,treat
+ginger,sinusitis,Ginger,DOID:0050127,0,5,treat
+ginkgo biloba,asthma,Ginkgo biloba,DOID:2841,0,4,treat
+ginseng,amnesia,Ginseng,DOID:10914,0,2,treat
+ginseng,dementia,Ginseng,DOID:1307,0,2,treat
+ginseng,diabetes,Ginseng,DOID:9351,0,15,treat
+ginseng,hyperglycemia,Ginseng,DOID:4195,0,2,treat
+ginseng,hypertension,Ginseng,DOID:10763,0,3,treat
+ginseng,metabolic diseases,Ginseng,DOID:0014667,0,2,treat
+ginseng,migraine,Ginseng,DOID:6364,0,3,treat
+ginseng,obesity,Ginseng,DOID:9970,0,4,treat
+ginseng,stroke,Ginseng,DOID:6713,0,2,treat
+ginseng,type 2 diabetes,Ginseng,DOID:9352,0,22,treat
+glycine max,osteoporosis,Soybean,DOID:11476,0,2,treat
+gossypium,diarrhea,Cottonseed,DOID:13250,0,2,treat
+grape,atherosclerosis,Grape,DOID:1936,0,3,treat
+grape,colon cancer,Grape,DOID:219,0,11,treat
+grape,diabetes,Grape,DOID:9351,0,2,treat
+grape,mammary tumor,Grape,DOID:1612,0,2,treat
+grape,prostate cancer,Grape,DOID:10283,0,2,treat
+grapefruit,Parkinson's disease,Grapefruit,DOID:14330,0,3,treat
+grapefruit,hypertension,Grapefruit,DOID:10763,0,5,treat
+hibiscus sabdariffa,diabetes,Roselle_(plant),DOID:9351,0,3,treat
+hibiscus sabdariffa,hypertension,Roselle_(plant),DOID:10763,0,7,treat
+hibiscus sabdariffa,obesity,Roselle_(plant),DOID:9970,0,2,treat
+honey,amnesia,Honey,DOID:10914,0,2,treat
+honey,colorectal cancer,Honey,DOID:9256,0,5,treat
+honey,eczema,Honey,DOID:2723,0,3,treat
+honey,metabolic syndrome,Honey,DOID:0014667,0,6,treat
+honey,psoriasis,Honey,DOID:8893,0,3,treat
+honey,stroke,Honey,DOID:6713,0,2,treat
+honey,type 2 diabetes,Honey,DOID:9352,0,4,treat
+honey,urinary tract infections,Honey,DOID:13148,0,3,treat
+ipomoea batatas,hyperglycemia,Sweet Potato Pie (album),DOID:4195,0,4,treat
+ipomoea batatas,type 2 diabetes,Sweet Potato Pie (album),DOID:9352,0,4,treat
+ipomoea batatas,type 2 diabetes mellitus,Sweet Potato Pie (album),DOID:9352,0,3,treat
+kefir,metabolic syndrome,Kefir,DOID:0014667,0,2,treat
+kefir,non-alcoholic fatty liver disease,Kefir,DOID:0080208,0,11,treat
+kiwi,hypertension,Kiwifruit,DOID:10763,0,8,treat
+lemon,Alzheimer's disease,Lemon,DOID:10652,0,3,treat
+lemon,allergic rhinitis,Lemon,DOID:4481,0,2,treat
+lemon,asthma,Lemon,DOID:2841,0,2,treat
+lemon,gastritis,Lemon,DOID:4029,0,2,treat
+lemon,gastroesophageal reflux,Lemon,DOID:8534,0,2,treat
+lemon,pneumonia,Lemon,DOID:552,0,10,treat
+lemon,pulmonary fibrosis,Lemon,DOID:3770,0,10,treat
+lentils,type 2 diabetes,Lentils,DOID:9352,0,4,treat
+linum usitatissimum,migraine,Flax,DOID:6364,0,3,treat
+liquor,coronary disease,Liquor,DOID:3393,0,8,treat
+lupinus albus,celiac disease,White_lupine,DOID:10608,0,2,treat
+mangifera indica,asthma,Mango,DOID:2841,0,2,treat
+millet,diabetes mellitus,Millet,DOID:9351,0,4,treat
+momordica charantia,diabetes,Bitter melon,DOID:9351,0,2,treat
+momordica charantia,hyperglycemia,Bitter melon,DOID:4195,0,4,treat
+mulberry,dyslipidemia,Mulberry,DOID:3146,0,3,treat
+mulberry,obesity,Mulberry,DOID:9970,0,3,treat
+mushrooms,prostate cancer,Mushrooms,DOID:10283,0,5,treat
+nuts,atherosclerosis,Nut_(fruit),DOID:1936,0,12,treat
+nuts,epilepsy,Nut_(fruit),DOID:1826,0,6,treat
+nuts,stroke,Nut_(fruit),DOID:6713,0,6,treat
+nuts,type 2 diabetes,Nut_(fruit),DOID:9352,0,3,treat
+oat,diabetes,Oat,DOID:9351,0,16,treat
+opuntia,diabetes,Opuntia,DOID:9351,0,2,treat
+opuntia,diabetes mellitus,Opuntia,DOID:9351,0,5,treat
+oryza sativa,celiac disease,Rice,DOID:10608,0,2,treat
+oryza sativa,diabetes,Rice,DOID:9351,0,3,treat
+panax,alopecia,Ginseng,DOID:987,0,2,treat
+panax,amnesia,Ginseng,DOID:10914,0,2,treat
+panax,dementia,Ginseng,DOID:1307,0,3,treat
+panax,diabetes,Ginseng,DOID:9351,0,2,treat
+panax,hyperglycemia,Ginseng,DOID:4195,0,3,treat
+panax,hypertension,Ginseng,DOID:10763,0,3,treat
+panax,metabolic diseases,Ginseng,DOID:0014667,0,2,treat
+panax,migraine,Ginseng,DOID:6364,0,3,treat
+panax,obesity,Ginseng,DOID:9970,0,2,treat
+panax,stroke,Ginseng,DOID:6713,0,2,treat
+papaya,prostate cancer,Papaya,DOID:10283,0,15,treat
+pear,diabetes mellitus,Pear,DOID:9351,0,2,treat
+pear,metabolic diseases,Pear,DOID:0014667,0,2,treat
+piper nigrum,cancers,Black pepper,DOID:162,0,15,treat
+pisum sativum,anemia,Pea,DOID:2355,0,2,treat
+pisum sativum,asthma,Pea,DOID:2841,0,2,treat
+pisum sativum,measles,Pea,DOID:8622,0,2,treat
+pisum sativum,syphilis,Pea,DOID:4166,0,2,treat
+pisum sativum,yellow fever,Pea,DOID:9682,0,2,treat
+pomegranate,colon cancer,Pomegranate,DOID:219,0,10,treat
+pomegranate,liver cancer,Pomegranate,DOID:3571,0,9,treat
+pomegranate,prostate cancer,Pomegranate,DOID:10283,0,5,treat
+potato,renal cell carcinoma,Potato,DOID:4450,0,20,treat
+prickly pear,diabetes,Opuntia,DOID:9351,0,3,treat
+prunus,diarrhea,Prunus,DOID:13250,0,3,treat
+pulses,diabetes,Pulse_(legume),DOID:9351,0,2,treat
+pulses,type 2 diabetes,Pulse_(legume),DOID:9352,0,12,treat
+punica granatum,cystitis,Pomegranate,DOID:1679,0,3,treat
+punica granatum,diarrhea,Pomegranate,DOID:13250,0,2,treat
+punica granatum,psoriasis,Pomegranate,DOID:8893,0,3,treat
+raphanus sativus,anemia,Radish,DOID:2355,0,2,treat
+raphanus sativus,asthma,Radish,DOID:2841,0,2,treat
+raphanus sativus,measles,Radish,DOID:8622,0,2,treat
+rice,atopic dermatitis,Rice,DOID:3310,0,3,treat
+rice,celiac disease,Rice,DOID:10608,0,2,treat
+rice,diabetes,Rice,DOID:9351,0,3,treat
+saffron,asthma,Saffron,DOID:2841,0,3,treat
+saffron,cancers,Saffron,DOID:162,0,30,treat
+salt,stroke,Salt,DOID:6713,0,3,treat
+sisymbrium,anemia,Hedge_mustard,DOID:2355,0,2,treat
+sisymbrium,asthma,Hedge_mustard,DOID:2841,0,2,treat
+sisymbrium,measles,Hedge_mustard,DOID:8622,0,2,treat
+sisymbrium,syphilis,Hedge_mustard,DOID:4166,0,2,treat
+sisymbrium,yellow fever,Hedge_mustard,DOID:9682,0,2,treat
+soy bean,pancreatitis,Soybean,DOID:4989,0,4,treat
+strawberry,hypertension,Strawberry,DOID:10763,0,2,treat
+sweet potato,malignant tumor,Sweet Potato Pie (album),DOID:162,0,2,treat
+sweet potato,renal cell carcinoma,Sweet Potato Pie (album),DOID:4450,0,20,treat
+tea,breast cancer,Tea,DOID:1612,0,10,treat
+tea,colon cancer,Tea,DOID:219,0,9,treat
+tea,colorectal cancer,Tea,DOID:9256,0,3,treat
+tea,coronary disease,Tea,DOID:3393,0,8,treat
+tea,dementia,Tea,DOID:1307,0,3,treat
+tea,diabetes,Tea,DOID:9351,0,8,treat
+tea,hypertension,Tea,DOID:10763,0,5,treat
+tea,liver disease,Tea,DOID:409,0,2,treat
+tea,metabolic syndrome,Tea,DOID:0014667,0,2,treat
+tea,obesity,Tea,DOID:9970,0,13,treat
+tea,osteoporosis,Tea,DOID:11476,0,2,treat
+tea,stroke,Tea,DOID:6713,0,4,treat
+thistle,Type 2 diabetes mellitus,Thistle,DOID:9352,0,6,treat
+thistle,liver diseases,Thistle,DOID:409,0,9,treat
+thistle,nonalcoholic steatohepatitis,Thistle,DOID:0080547,0,6,treat
+tofu,prostate cancer,Tofu,DOID:10283,0,2,treat
+trigonella foenum-graecum,diabetes,Fenugreek,DOID:9351,0,14,treat
+triticum aestivum,diarrhea,Common wheat,DOID:13250,0,2,treat
+turmeric,liver cancer,Turmeric,DOID:3571,0,45,treat
+vaccinium macrocarpon,psoriasis,Vaccinium macrocarpon,DOID:8893,0,3,treat
+vaccinium macrocarpon,urinary tract infections,Vaccinium macrocarpon,DOID:13148,0,4,treat
+vaccinium vitis-idaea,obesity,Vaccinium vitis-idaea,DOID:9970,0,4,treat
+vinegar,diabetes,Vinegar,DOID:9351,0,15,treat
+water,dermatitis,Water,DOID:2723,0,2,treat
+water,diabetes,Water,DOID:9351,0,2,treat
+water,hyperglycemia,Water,DOID:4195,0,10,treat
+water,hypertension,Water,DOID:10763,0,4,treat
+water,obesity,Water,DOID:9970,0,3,treat
+watermelon,hypertension,Watermelon,DOID:10763,0,8,treat
+watermelon,prostate cancer,Watermelon,DOID:10283,0,5,treat
+wheat,neural tube defects,Wheat,DOID:0080074,0,5,treat
+wheat,spina bifida,Wheat,DOID:0080016,0,2,treat
+whey,Type 2 diabetes,Whey,DOID:9352,0,4,treat
+whey,glucose intolerance,Whey,DOID:10603,0,5,treat
+whey,metabolic syndrome,Whey,DOID:0014667,0,8,treat
+whey,obesity,Whey,DOID:9970,0,7,treat
+whey,type 2 diabetes,Whey,DOID:9352,0,33,treat
+whey,type 2 diabetes mellitus,Whey,DOID:9352,0,5,treat
+zea mays,celiac disease,Corn,DOID:10608,0,2,treat
+zingiber officinale,analgesia,Ginger,DOID:0060145,0,2,treat
+zingiber officinale,arthritis,Ginger,DOID:848,0,4,treat
+zingiber officinale,bronchitis,Ginger,DOID:6132,0,3,treat
+zingiber officinale,cancers,Ginger,DOID:162,0,16,treat
+zingiber officinale,colorectal cancer,Ginger,DOID:9256,0,5,treat
+zingiber officinale,constipation,Ginger,DOID:2089,0,7,treat
+zingiber officinale,dementia,Ginger,DOID:1307,0,4,treat
+zingiber officinale,diabetes mellitus,Ginger,DOID:9351,0,4,treat
+zingiber officinale,diarrhea,Ginger,DOID:13250,0,10,treat
+zingiber officinale,diarrhoea,Ginger,DOID:13250,0,2,treat
+zingiber officinale,dysentery,Ginger,DOID:12384,0,3,treat
+zingiber officinale,gastrointestinal diseases,Ginger,DOID:77,0,2,treat
+zingiber officinale,gastrointestinal disorders,Ginger,DOID:77,0,5,treat
+zingiber officinale,helminthiasis,Ginger,DOID:883,0,4,treat
+zingiber officinale,hepatoma,Ginger,DOID:684,0,2,treat
+zingiber officinale,hyperglycemia,Ginger,DOID:4195,0,6,treat
+zingiber officinale,hypertension,Ginger,DOID:10763,0,7,treat
+zingiber officinale,infectious diseases,Ginger,DOID:0050117,0,4,treat
+zingiber officinale,motion sickness,Ginger,DOID:2951,0,2,treat
+zingiber officinale,obesity,Ginger,DOID:9970,0,5,treat
+zingiber officinale,type 2 diabetes mellitus,Ginger,DOID:9352,0,3,treat
+zingiber officinale,ulcerative colitis,Ginger,DOID:8577,0,2,treat

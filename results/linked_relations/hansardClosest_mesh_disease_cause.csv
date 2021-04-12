@@ -1,0 +1,188 @@
+term1,term2,hansardClosest,mesh_disease,is_cause,is_treat,relation
+", beer",migraine,AG.01,MESH:D008881,10,0,cause
+apple,dermatitis,AG.01.h.02.a,MESH:D003872,4,0,cause
+banana,asthma,AG.01.h.01,MESH:D001249,6,0,cause
+banana,hypersensitivity,AG.01.h.01,MESH:D006967,9,0,cause
+banana,pancreatitis,AG.01.h.01,MESH:D010195,3,0,cause
+banana,rhinitis,AG.01.h.01,MESH:D012220,11,0,cause
+barley,Celiac Disease,AG.01.i,MESH:D002446,12,0,cause
+barley,Celiac disease,AG.01.i,MESH:D002446,83,0,cause
+barley,anaemia,AG.01.i,MESH:D000740,11,0,cause
+barley,asthma,AG.01.i,MESH:D001249,2,0,cause
+barley,asthma,AG.01.j,MESH:D001249,2,0,cause
+barley,celiac disease,AG.01.i,MESH:D002446,7,0,cause
+barley,coeliac disease,AG.01.i,MESH:D002446,6,0,cause
+barley,dermatitis,AG.01.i,MESH:D003872,18,0,cause
+barley,osteoporosis,AG.01.i,MESH:D010024,11,0,cause
+beef,campylobacteriosis,AG.01,MESH:D002169,2,0,cause
+beer,Korsakoff's psychosis,AG.01.y.01.b,MESH:D020915,4,0,cause
+beer,Wernicke's encephalopathy,AG.01.y.01.b,MESH:D014899,4,0,cause
+beer,Wernicke-Korsakoff syndrome,AG.01.y.01.b,MESH:D020915,3,0,cause
+beer,lactic acidosis,AG.01.y.01.b,MESH:D000140,4,0,cause
+beverages,telangiectasia,AE.13.a,MESH:D013684,3,0,cause
+beverages,telangiectasia,AF.12,MESH:D013684,3,0,cause
+cake prepared,hypersensitivity,AG.01.n.11,MESH:D006967,5,0,cause
+cakes,acne,AG.01.g,MESH:D000152,8,0,cause
+calcium,pericardial effusion,AE.10,MESH:D010490,3,0,cause
+candy,stomatitis,AG.01.l.02,MESH:D013280,6,0,cause
+carrot,dermatitis,AG.01.h.02.a,MESH:D003872,4,0,cause
+cereal,asthma,AG.01.i,MESH:D001249,4,0,cause
+cereal,dermatitis,AG.01.i,MESH:D003872,4,0,cause
+cereal,eczema,AG.01.i,MESH:D003872,4,0,cause
+cereal flour,Asthma,AG.01.i,MESH:D001249,2,0,cause
+cheese,Migraine,AG.01,MESH:D008881,4,0,cause
+cheese,Migraine,AG.01.e.02,MESH:D008881,2,0,cause
+cheese,hypertension,AG.01.e.02,MESH:D006973,3,0,cause
+cheese,insulin-dependent diabetes mellitus,AG.01.e.02,MESH:D003922,2,0,cause
+cheese,migraine,AG.01,MESH:D008881,14,0,cause
+cheese,migraine,AG.01.e.02,MESH:D008881,6,0,cause
+chicken,obesity,AE.13.h.01,MESH:D009765,2,0,cause
+chocolate,Migraine,AG.01,MESH:D008881,2,0,cause
+chocolate,Pertussis,AG.01,MESH:D001885,2,0,cause
+chocolate,acne,AG.01,MESH:D000152,10,0,cause
+chocolate,acne,AG.01.g,MESH:D000152,8,0,cause
+chocolate,acne,AG.01.n.11,MESH:D000152,8,0,cause
+chocolate,acne,AG.01.r,MESH:D000152,8,0,cause
+chocolate,atrial fibrillation,AG.01,MESH:D001281,3,0,cause
+chocolate,hyperglycemia,AG.01,MESH:D006943,4,0,cause
+chocolate,migraine,AG.01,MESH:D008881,8,0,cause
+chocolate,migraine,AG.01.e.02,MESH:D008881,7,0,cause
+chocolate,obesity,AG.01,MESH:D009765,9,0,cause
+chocolate milk,diabetes,AG.01.e,MESH:D003920,2,0,cause
+cinnamon,dermatitis,AE.13.a,MESH:D003872,3,0,cause
+cinnamon,hypersensitivity,AE.13.a,MESH:D006967,10,0,cause
+cinnamon,stomatitis,AG.01,MESH:D013280,6,0,cause
+cinnamon,stomatitis,AG.01.l.02,MESH:D013280,6,0,cause
+cinnamon,telangiectasia,AF.12,MESH:D013684,3,0,cause
+coffee,acne,AG.01,MESH:D000152,8,0,cause
+coffee,acne,AG.01.g,MESH:D000152,8,0,cause
+coffee,acne,AG.01.n.11,MESH:D000152,8,0,cause
+coffee,acne,AG.01.r,MESH:D000152,9,0,cause
+corn,rhinitis,AG.01,MESH:D012220,3,0,cause
+drinking beer,angioedema,AG.01.y.01.b,MESH:D000799,5,0,cause
+eggs,acne,AG.01,MESH:D000152,8,0,cause
+eggs,acne,AG.01.g,MESH:D000152,8,0,cause
+eggs,acne,AG.01.n.11,MESH:D000152,8,0,cause
+eggs,acne,AG.01.r,MESH:D000152,8,0,cause
+eggs,eczema,AG.01.g,MESH:D003872,3,0,cause
+fat,Diabetes mellitus,AG.01.f,MESH:D003920,7,0,cause
+fat,Obesity,AG.01.f,MESH:D009765,10,0,cause
+fat,diabetes,AG.01.f,MESH:D003920,10,0,cause
+fat,fatty liver syndrome,AG.01.f,MESH:D005235,3,0,cause
+fat,glucose intolerance,AG.01.f,MESH:D018149,6,0,cause
+fat,hyperinsulinemia,AG.01.f,MESH:D006946,6,0,cause
+fat,inflammatory bowel disease,AG.01.f,MESH:D015212,2,0,cause
+fat,metabolic disease,AG.01.f,MESH:D008659,2,0,cause
+fat,metabolic disorder,AG.01.f,MESH:D008659,3,0,cause
+fat,pneumonia,AG.01.f,MESH:D011014,6,0,cause
+fat,type 2 diabetes mellitus,AG.01.f,MESH:D003924,2,0,cause
+flour,asthma,AG.01.h.01,MESH:D001249,2,0,cause
+flour,asthma,AG.01.i,MESH:D001249,2,0,cause
+flour,asthma,AG.01.j,MESH:D001249,26,0,cause
+flour,hypersensitivity pneumonitis,AG.01.j,MESH:D000542,3,0,cause
+flour,rhinitis,AG.01.j,MESH:D012220,6,0,cause
+flour dust,asthma,AF.10.l,MESH:D001249,2,0,cause
+flour mill,bronchitis,AG.01.j,MESH:D001991,6,0,cause
+"flour,",asthma,AG.01.i,MESH:D001249,4,0,cause
+food rich,diarrhoea,AG.01,MESH:D004403,3,0,cause
+fruit,gastroesophageal reflux,AF.07,MESH:D005764,3,0,cause
+fruit,hypersensitivity,AF.07,MESH:D006967,13,0,cause
+fruit,uremia,AF.07,MESH:D014511,2,0,cause
+fruits,allergic conjunctivitis,AG.01,MESH:D003233,3,0,cause
+fruits,allergic conjunctivitis,AG.01.h,MESH:D003233,3,0,cause
+fruits,dermatitis,AG.01.h,MESH:D003872,3,0,cause
+fruits,hypersensitivity,AG.01.h,MESH:D006967,5,0,cause
+garlic,asthma,AG.01,MESH:D001249,6,0,cause
+garlic,asthma,AG.01.h.02.e,MESH:D001249,19,0,cause
+garlic,dermatitis,AG.01.h.02.e,MESH:D003872,6,0,cause
+garlic,hemolytic anemia,AG.01.h.02.e,MESH:D000743,5,0,cause
+garlic,hypersensitivity,AE.13.a,MESH:D006967,10,0,cause
+garlic,rhinitis,AG.01,MESH:D012220,6,0,cause
+garlic,rhinitis,AG.01.h.02.e,MESH:D012220,12,0,cause
+harmful effects,hypertension,AG.01,MESH:D006973,2,0,cause
+horseradish,hypersensitivity,AE.13.a,MESH:D006967,10,0,cause
+horseradish,hypersensitivity,AG.01,MESH:D006967,10,0,cause
+horseradish,hypersensitivity,AG.01.h.02.e,MESH:D006967,20,0,cause
+horseradish,hypersensitivity,AG.01.l.03,MESH:D006967,10,0,cause
+lamb,asthma,AG.01.d.04,MESH:D001249,2,0,cause
+lemon,endophthalmitis,AG.01.ab,MESH:D009877,3,0,cause
+liquid,dental caries,AG.01,MESH:D003731,3,0,cause
+liver,Colorectal cancer,AE.08,MESH:D015179,5,0,cause
+liver,Gaucher disease,AE.08,MESH:D005776,2,0,cause
+liver,Obesity,AE.08,MESH:D009765,2,0,cause
+liver,Wilson disease,AE.08,MESH:D006527,3,0,cause
+liver,fatty liver syndrome,AE.08,MESH:D005235,2,0,cause
+liver,portal hypertension,AE.08,MESH:D006975,2,0,cause
+meat,Multiple Sclerosis,AG.01,MESH:D009103,3,0,cause
+meat,colorectal cancer,AG.01,MESH:D015179,3,0,cause
+meat,gout,AG.01,MESH:D015210,2,0,cause
+milk,Asthma,AE.10,MESH:D001249,3,0,cause
+milk,Breast carcinoma,AE.10,MESH:D001943,10,0,cause
+milk,Campylobacteriosis,AE.10,MESH:D002169,4,0,cause
+milk,Eosinophilic esophagitis,AE.10,MESH:D057765,7,0,cause
+milk,Hydatidosis,AE.10,MESH:D004443,2,0,cause
+milk,Mastitis,AE.10,MESH:D008413,7,0,cause
+milk,Rift Valley fever,AE.10,MESH:D012295,2,0,cause
+milk,Tick-borne encephalitis,AE.10,MESH:D004675,4,0,cause
+milk,acne,AE.10,MESH:D000152,2,0,cause
+milk,amenorrhea,AE.10,MESH:D000568,5,0,cause
+milk,campylobacteriosis,AE.10,MESH:D002169,2,0,cause
+milk,coronary heart disease,AE.10,MESH:D003324,5,0,cause
+milk,diabetic ketoacidosis,AE.10,MESH:D016883,4,0,cause
+milk,diarrhea,AE.10,MESH:D004403,5,0,cause
+milk,eczema,AE.10,MESH:D003872,2,0,cause
+milk,hyperphosphatemia,AE.10,MESH:D054559,2,0,cause
+milk,hyperprolactinemia,AE.10,MESH:D002640,2,0,cause
+milk,invasive ductal carcinoma,AE.10,MESH:D018270,3,0,cause
+milk,myocarditis,AE.10,MESH:D009205,2,0,cause
+milk,ovarian cancer,AE.10,MESH:D010051,3,0,cause
+milk,pancreatitis,AE.10,MESH:D010195,8,0,cause
+milk products,campylobacteriosis,AE.10,MESH:D002169,3,0,cause
+mustard,hypersensitivity,AE.13.a,MESH:D006967,10,0,cause
+mustard,pancreatitis,AG.01.l.03,MESH:D010195,3,0,cause
+oats,Celiac disease,AG.01.i,MESH:D002446,15,0,cause
+oats,dermatitis,AG.01.i,MESH:D003872,11,0,cause
+onion,asthma,AG.01.h.02.e,MESH:D001249,5,0,cause
+other meat,campylobacteriosis,AG.01,MESH:D002169,2,0,cause
+potato,asthma,AG.01,MESH:D001249,2,0,cause
+potato,dermatitis,AG.01.h.02.a,MESH:D003872,8,0,cause
+rabbit,atopic dermatitis,AG.01.d.06,MESH:D003876,3,0,cause
+red wine,breast cancer,AG.01,MESH:D001943,3,0,cause
+red wine,diarrhea,AG.01,MESH:D004403,8,0,cause
+red wine,diarrhoea,AG.01,MESH:D004403,5,0,cause
+red wine,irritable bowel syndrome,AG.01,MESH:D043183,4,0,cause
+red wine,migraine,AG.01,MESH:D008881,4,0,cause
+related cereal,Celiac disease,AG.01.i,MESH:D002446,8,0,cause
+rice,asthma,AF.20.g,MESH:D001249,6,0,cause
+rosemary,asthma,AF.28,MESH:D001249,3,0,cause
+rye,Celiac Disease,AG.01.i,MESH:D002446,6,0,cause
+rye,Celiac disease,AG.01.i,MESH:D002446,14,0,cause
+salt,diabetes,AG.01,MESH:D003920,7,0,cause
+salt,diabetes,AG.01.f,MESH:D003920,3,0,cause
+salt,gastric cancer,AG.01,MESH:D013274,2,0,cause
+salt,obesity,AG.01,MESH:D009765,2,0,cause
+soy milk,hyperphosphatemia,AE.10,MESH:D054559,2,0,cause
+spices,acne,AG.01.n.11,MESH:D000152,8,0,cause
+sugar,diabetes,AG.01,MESH:D003920,8,0,cause
+sugar,diabetes,AG.01.f,MESH:D003920,3,0,cause
+sugar,dyslipidemia,AG.01,MESH:D008052,3,0,cause
+tea,acne,AG.01.r,MESH:D000152,9,0,cause
+thyme,asthma,AG.01.h.02.i,MESH:D001249,3,0,cause
+tomatoes,dermatitis,AG.01.h.02.f,MESH:D003872,3,0,cause
+trigger,asthma,AG.01,MESH:D001249,2,0,cause
+turkey,Gastric cancer,AG.01.d.06,MESH:D013274,7,0,cause
+turkey,Hypertension,AG.01.d.06,MESH:D006973,7,0,cause
+unpasteurized animal milk,campylobacteriosis,AE.10,MESH:D002169,3,0,cause
+vegetable oil,pneumonia,AF.02.a,MESH:D011014,2,0,cause
+wasabi,hypersensitivity,AG.01,MESH:D006967,10,0,cause
+water,campylobacteriosis,AE.10,MESH:D002169,3,0,cause
+water,campylobacteriosis,AG.01.z,MESH:D002169,2,0,cause
+water,gastroenteritis,AG.01.z,MESH:D005759,2,0,cause
+water,lymphadenitis,AG.01.z,MESH:D008199,2,0,cause
+water,nephrosis,AG.01.z,MESH:D009401,2,0,cause
+water,tuberculosis,AG.01.z,MESH:D014375,3,0,cause
+wheat,Celiac Disease,AG.01.i,MESH:D002446,6,0,cause
+white bread,diabetes,AG.01.n.11,MESH:D003920,4,0,cause
+white wine,migraine,AG.01.y.01.a,MESH:D008881,4,0,cause
+wine,diarrhea,AG.01.y.01.a,MESH:D004403,4,0,cause
+wood,asthma,AF.10.l,MESH:D001249,2,0,cause

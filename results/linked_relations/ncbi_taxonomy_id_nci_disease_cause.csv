@@ -1,0 +1,64 @@
+term1,term2,ncbi_taxonomy_id,nci_disease,is_cause,is_treat,relation
+agaricus bisporus,allergic rhinitis,5341.0,NCI:C34987,6,0,cause
+agaricus bisporus,asthma,5341.0,NCI:C28397,6,0,cause
+allium cepa,asthma,4679.0,NCI:C28397,3,0,cause
+allium cepa,dermatitis,4679.0,NCI:C2983,3,0,cause
+allium sativum,dermatitis,4682.0,NCI:C2983,2,0,cause
+apple,dermatitis,283210.0,NCI:C2983,4,0,cause
+banana,asthma,4641.0,NCI:C28397,6,0,cause
+banana,hypersensitivity,4641.0,NCI:C3114,10,0,cause
+banana,pancreatitis,4641.0,NCI:C3306,3,0,cause
+banana,rhinitis,4641.0,NCI:C34986,11,0,cause
+barley,Celiac Disease,4513.0,NCI:C26714,12,0,cause
+barley,Celiac disease,4513.0,NCI:C26714,83,0,cause
+barley,anaemia,4513.0,NCI:C2869,11,0,cause
+barley,asthma,4513.0,NCI:C28397,4,0,cause
+barley,celiac disease,4513.0,NCI:C26714,7,0,cause
+barley,coeliac disease,4513.0,NCI:C26714,6,0,cause
+barley,dermatitis,4513.0,NCI:C2983,18,0,cause
+barley,osteoporosis,4513.0,NCI:C3298,11,0,cause
+carrot,dermatitis,79200.0,NCI:C2983,4,0,cause
+chestnut,hypersensitivity,21019.0,NCI:C3114,6,0,cause
+chicken,obesity,9031.0,NCI:C159658,2,0,cause
+chicory,asthma,13427.0,NCI:C28397,4,0,cause
+cinnamon,dermatitis,13428.0,NCI:C2983,3,0,cause
+cinnamon,hepatitis,13428.0,NCI:C82978,4,0,cause
+cinnamon,hypersensitivity,13428.0,NCI:C3114,10,0,cause
+cinnamon,stomatitis,13428.0,NCI:C26887,19,0,cause
+cinnamon,telangiectasia,13428.0,NCI:C28194,3,0,cause
+corn,dermatitis,4577.0,NCI:C2983,11,0,cause
+corn,rhinitis,4577.0,NCI:C34986,3,0,cause
+crab,allergic rhinitis,6752.0,NCI:C34987,3,0,cause
+garlic,dermatitis,4682.0,NCI:C2983,19,0,cause
+garlic,hemolytic anemia,4682.0,NCI:C34376,5,0,cause
+garlic,hypersensitivity,4682.0,NCI:C3114,10,0,cause
+garlic,rhinitis,4682.0,NCI:C34986,18,0,cause
+hordeum vulgare,asthma,4513.0,NCI:C28397,2,0,cause
+horseradish,hypersensitivity,3704.0,NCI:C3114,50,0,cause
+lemon,endophthalmitis,2708.0,NCI:C34586,3,0,cause
+lemon,hypersensitivity,2708.0,NCI:C3114,5,0,cause
+papaya,hypersensitivity,3649.0,NCI:C3114,2,0,cause
+phaseolus vulgaris,gastroenteritis,3885.0,NCI:C34632,3,0,cause
+potato,asthma,4113.0,NCI:C28397,2,0,cause
+potato,dermatitis,4113.0,NCI:C2983,8,0,cause
+rice,asthma,4530.0,NCI:C28397,6,0,cause
+rosemary,asthma,39367.0,NCI:C28397,3,0,cause
+rye,Celiac Disease,4550.0,NCI:C26714,6,0,cause
+rye,Celiac disease,4550.0,NCI:C26714,22,0,cause
+rye,celiac disease,4550.0,NCI:C26714,13,0,cause
+rye,coeliac disease,4550.0,NCI:C26714,6,0,cause
+rye,dermatitis,4550.0,NCI:C2983,7,0,cause
+triticum aestivum,Celiac disease,4565.0,NCI:C26714,5,0,cause
+turkey,Gastric cancer,9103.0,NCI:C3387,7,0,cause
+turkey,Hypertension,9103.0,NCI:C3117,7,0,cause
+vanilla,telangiectasia,51238.0,NCI:C28194,3,0,cause
+wasabi,hypersensitivity,75806.0,NCI:C3114,10,0,cause
+wheat,Celiac Disease,4564.0,NCI:C26714,6,0,cause
+wheat,Celiac disease,4564.0,NCI:C26714,60,0,cause
+wheat,Coeliac disease,4564.0,NCI:C26714,6,0,cause
+wheat,asthma,4564.0,NCI:C28397,2,0,cause
+wheat,coeliac disease,4564.0,NCI:C26714,13,0,cause
+wheat,dermatitis,4564.0,NCI:C2983,11,0,cause
+wheat,eczema,4564.0,NCI:C2983,9,0,cause
+wheat,irritable bowel syndrome,4564.0,NCI:C82343,2,0,cause
+wheat,osteoporosis,4564.0,NCI:C3298,11,0,cause

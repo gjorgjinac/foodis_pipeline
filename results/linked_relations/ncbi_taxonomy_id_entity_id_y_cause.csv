@@ -1,0 +1,83 @@
+term1,term2,ncbi_taxonomy_id,entity_id_y,is_cause,is_treat,relation
+agaricus bisporus,allergic rhinitis,5341.0,DOID:4481,6,0,cause
+agaricus bisporus,asthma,5341.0,DOID:2841,6,0,cause
+allium cepa,asthma,4679.0,DOID:2841,3,0,cause
+allium cepa,dermatitis,4679.0,DOID:2723,3,0,cause
+allium sativum,dermatitis,4682.0,DOID:2723,2,0,cause
+apple,OAS,283210.0,DOID:0060861,6,0,cause
+apple,dermatitis,283210.0,DOID:2723,4,0,cause
+banana,asthma,4641.0,DOID:2841,6,0,cause
+banana,hypersensitivity,4641.0,DOID:1205,10,0,cause
+banana,pancreatitis,4641.0,DOID:4989,3,0,cause
+banana,rhinitis,4641.0,DOID:4483,11,0,cause
+banana,urticaria,4641.0,DOID:1555,11,0,cause
+barley,Celiac Disease,4513.0,DOID:10608,12,0,cause
+barley,Celiac disease,4513.0,DOID:10608,83,0,cause
+barley,anaemia,4513.0,DOID:2355,11,0,cause
+barley,asthma,4513.0,DOID:2841,4,0,cause
+barley,autoimmune disease,4513.0,DOID:417,2,0,cause
+barley,autoimmune disorder,4513.0,DOID:417,20,0,cause
+barley,celiac disease,4513.0,DOID:10608,7,0,cause
+barley,coeliac disease,4513.0,DOID:10608,6,0,cause
+barley,dermatitis,4513.0,DOID:2723,18,0,cause
+barley,osteoporosis,4513.0,DOID:11476,11,0,cause
+carrot,dermatitis,79200.0,DOID:2723,4,0,cause
+cassava,latex allergy,3983.0,DOID:0060532,6,0,cause
+chestnut,hypersensitivity,21019.0,DOID:1205,6,0,cause
+chestnut,latex allergy,21019.0,DOID:0060532,3,0,cause
+chicken,obesity,9031.0,DOID:9970,2,0,cause
+chicory,asthma,13427.0,DOID:2841,4,0,cause
+cinnamon,dermatitis,13428.0,DOID:2723,3,0,cause
+cinnamon,hepatitis,13428.0,DOID:2237,4,0,cause
+cinnamon,hypersensitivity,13428.0,DOID:1205,10,0,cause
+cinnamon,stomatitis,13428.0,DOID:9637,19,0,cause
+cinnamon,telangiectasia,13428.0,DOID:1272,3,0,cause
+coffee,acne,13442.0,DOID:6543,33,0,cause
+corn,dermatitis,4577.0,DOID:2723,11,0,cause
+corn,rhinitis,4577.0,DOID:4483,3,0,cause
+crab,allergic rhinitis,6752.0,DOID:4481,3,0,cause
+garlic,dermatitis,4682.0,DOID:2723,19,0,cause
+garlic,hemolytic anemia,4682.0,DOID:583,5,0,cause
+garlic,hypersensitivity,4682.0,DOID:1205,10,0,cause
+garlic,rhinitis,4682.0,DOID:4483,18,0,cause
+hazelnut,OAS,13450.0,DOID:0060861,2,0,cause
+hordeum vulgare,asthma,4513.0,DOID:2841,2,0,cause
+horseradish,hypersensitivity,3704.0,DOID:1205,50,0,cause
+lemon,endophthalmitis,2708.0,DOID:4692,3,0,cause
+lemon,hypersensitivity,2708.0,DOID:1205,5,0,cause
+lemon,urticaria,2708.0,DOID:1555,3,0,cause
+papaya,hypersensitivity,3649.0,DOID:1205,2,0,cause
+peach,OAS,3760.0,DOID:0060861,6,0,cause
+peach,urticaria,3760.0,DOID:1555,12,0,cause
+peanut,atopic dermatitis,3818.0,DOID:3310,3,0,cause
+phaseolus vulgaris,diarrhoea,3885.0,DOID:13250,6,0,cause
+phaseolus vulgaris,gastroenteritis,3885.0,DOID:2326,3,0,cause
+potato,asthma,4113.0,DOID:2841,2,0,cause
+potato,dermatitis,4113.0,DOID:2723,8,0,cause
+rabbit,atopic dermatitis,9979.0,DOID:3310,3,0,cause
+rice,asthma,4530.0,DOID:2841,6,0,cause
+rice,urticaria,4530.0,DOID:1555,6,0,cause
+rosemary,asthma,39367.0,DOID:2841,3,0,cause
+rye,Celiac Disease,4550.0,DOID:10608,6,0,cause
+rye,Celiac disease,4550.0,DOID:10608,22,0,cause
+rye,autoimmune disorder,4550.0,DOID:417,2,0,cause
+rye,celiac disease,4550.0,DOID:10608,13,0,cause
+rye,coeliac disease,4550.0,DOID:10608,6,0,cause
+rye,dermatitis,4550.0,DOID:2723,7,0,cause
+tea,acne,4442.0,DOID:6543,9,0,cause
+triticum aestivum,Celiac disease,4565.0,DOID:10608,5,0,cause
+turkey,Gastric cancer,9103.0,DOID:10534,7,0,cause
+turkey,Hypertension,9103.0,DOID:10763,7,0,cause
+vanilla,telangiectasia,51238.0,DOID:1272,3,0,cause
+wasabi,hypersensitivity,75806.0,DOID:1205,10,0,cause
+wheat,Celiac Disease,4564.0,DOID:10608,6,0,cause
+wheat,Celiac disease,4564.0,DOID:10608,60,0,cause
+wheat,Coeliac disease,4564.0,DOID:10608,6,0,cause
+wheat,asthma,4564.0,DOID:2841,2,0,cause
+wheat,autoimmune disease,4564.0,DOID:417,2,0,cause
+wheat,autoimmune disorder,4564.0,DOID:417,26,0,cause
+wheat,coeliac disease,4564.0,DOID:10608,13,0,cause
+wheat,dermatitis,4564.0,DOID:2723,11,0,cause
+wheat,eczema,4564.0,DOID:2723,9,0,cause
+wheat,irritable bowel syndrome,4564.0,DOID:9778,2,0,cause
+wheat,osteoporosis,4564.0,DOID:11476,11,0,cause

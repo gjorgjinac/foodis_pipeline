@@ -1,0 +1,106 @@
+term1,term2,itis_id,omim_disease,is_cause,is_treat,relation
+allium,colorectal cancer,42634.0,OMIM:114500,0,6,treat
+allium,gastric cancer,42634.0,OMIM:613659,0,10,treat
+allium,prostate cancer,42634.0,OMIM:608658,0,9,treat
+allium,stomach cancer,42634.0,OMIM:613659,0,6,treat
+allium cepa,breast cancer,42720.0,OMIM:114480,0,4,treat
+allium sativum,asthma,42652.0,OMIM:600807,0,6,treat
+allium sativum,bladder cancer,42652.0,OMIM:109800,0,3,treat
+allium sativum,gastric cancer,42652.0,OMIM:613659,0,5,treat
+annona muricata,prostate cancer,18098.0,OMIM:608658,0,4,treat
+avena sativa,atopic dermatitis,41459.0,OMIM:603165,0,2,treat
+brassica oleracea,prostate cancer,23062.0,OMIM:608658,0,4,treat
+broccoli,breast cancer,530961.0,OMIM:114480,0,4,treat
+broccoli,cervical cancer,530961.0,OMIM:603956,0,2,treat
+broccoli,mammary tumors,530961.0,OMIM:114480,0,4,treat
+cabbage,breast cancer,526962.0,OMIM:114480,0,3,treat
+cabbage,cervical cancer,526962.0,OMIM:603956,0,2,treat
+camellia sinensis,colorectal cancer,506801.0,OMIM:114500,0,4,treat
+camellia sinensis,obesity,506801.0,OMIM:601665,0,3,treat
+capsicum,psoriasis,30491.0,OMIM:PS177900,0,2,treat
+capsicum annuum,asthma,30492.0,OMIM:600807,0,12,treat
+chives,colorectal cancer,42636.0,OMIM:114500,0,5,treat
+chives,prostate cancer,42636.0,OMIM:608658,0,18,treat
+cichorium intybus,type 2 diabetes mellitus,36763.0,OMIM:601283,0,3,treat
+cinnamomum,type 2 diabetes mellitus,18174.0,OMIM:601283,0,6,treat
+cinnamon,obesity,18174.0,OMIM:601665,0,6,treat
+cinnamon,type 2 diabetes,18174.0,OMIM:601283,0,63,treat
+cinnamon,type 2 diabetes mellitus,18174.0,OMIM:601283,0,6,treat
+cinnamon,type-2 diabetes,18174.0,OMIM:601283,0,7,treat
+citrus,gastric cancer,28882.0,OMIM:613659,0,4,treat
+coconut,atopic dermatitis,42451.0,OMIM:603165,0,10,treat
+coffee,gastric cancer,35189.0,OMIM:613659,0,4,treat
+coffee,obesity,35189.0,OMIM:601665,0,4,treat
+coffee,type 2 diabetes,35189.0,OMIM:601283,0,4,treat
+corn,celiac disease,42269.0,OMIM:611598,0,6,treat
+corn,neural tube defects,42269.0,OMIM:301410,0,5,treat
+crocus sativus,asthma,501794.0,OMIM:600807,0,2,treat
+cucurbita,alopecia,22365.0,OMIM:PS203655,0,2,treat
+curcuma longa,asthma,42394.0,OMIM:600807,0,4,treat
+curcuma longa,obesity,42394.0,OMIM:601665,0,5,treat
+curcuma longa,rheumatoid arthritis,42394.0,OMIM:180300,0,2,treat
+fenugreek,type 2 diabetes,505590.0,OMIM:601283,0,9,treat
+garlic,breast cancer,42652.0,OMIM:114480,0,17,treat
+garlic,colorectal cancer,42652.0,OMIM:114500,0,8,treat
+garlic,gastric cancer,42652.0,OMIM:613659,0,8,treat
+garlic,hepatoma,42652.0,OMIM:114550,0,3,treat
+garlic,mammary cancer,42652.0,OMIM:114480,0,14,treat
+garlic,myocardial infarction,42652.0,OMIM:608557,0,2,treat
+garlic,prostate cancer,42652.0,OMIM:608658,0,19,treat
+ginger,asthma,42402.0,OMIM:600807,0,7,treat
+ginger,colorectal cancer,42402.0,OMIM:114500,0,9,treat
+ginger,inflammatory bowel diseases,42402.0,OMIM:PS266600,0,2,treat
+ginger,migraine,42402.0,OMIM:157300,0,8,treat
+ginger,motion sickness,42402.0,OMIM:158280,0,12,treat
+ginger,obesity,42402.0,OMIM:601665,0,14,treat
+ginkgo biloba,asthma,183269.0,OMIM:600807,0,4,treat
+ginseng,migraine,29398.0,OMIM:157300,0,3,treat
+ginseng,obesity,29398.0,OMIM:601665,0,4,treat
+ginseng,type 2 diabetes,29398.0,OMIM:601283,0,22,treat
+glycine max,osteoporosis,26716.0,OMIM:166710,0,2,treat
+grape,mammary tumor,28606.0,OMIM:114480,0,2,treat
+grape,prostate cancer,28606.0,OMIM:608658,0,2,treat
+grapefruit,Parkinson's disease,28887.0,OMIM:PS168600,0,3,treat
+hibiscus sabdariffa,obesity,503001.0,OMIM:601665,0,2,treat
+ipomoea batatas,type 2 diabetes,30764.0,OMIM:601283,0,4,treat
+ipomoea batatas,type 2 diabetes mellitus,30764.0,OMIM:601283,0,3,treat
+lemon,allergic rhinitis,28885.0,OMIM:607154,0,2,treat
+lemon,asthma,28885.0,OMIM:600807,0,2,treat
+lemon,gastroesophageal reflux,28885.0,OMIM:109350,0,2,treat
+lentils,type 2 diabetes,503364.0,OMIM:601283,0,4,treat
+linum usitatissimum,migraine,29226.0,OMIM:157300,0,3,treat
+lupinus albus,celiac disease,503572.0,OMIM:611598,0,2,treat
+mangifera indica,asthma,28803.0,OMIM:600807,0,2,treat
+mulberry,obesity,19064.0,OMIM:601665,0,3,treat
+oryza sativa,celiac disease,41976.0,OMIM:611598,0,2,treat
+panax,alopecia,29398.0,OMIM:PS203655,0,2,treat
+panax,migraine,29398.0,OMIM:157300,0,3,treat
+panax,obesity,29398.0,OMIM:601665,0,2,treat
+papaya,prostate cancer,22324.0,OMIM:608658,0,15,treat
+pisum sativum,asthma,26867.0,OMIM:600807,0,2,treat
+pomegranate,prostate cancer,27278.0,OMIM:608658,0,5,treat
+potato,renal cell carcinoma,505272.0,OMIM:300854,0,20,treat
+punica granatum,psoriasis,27278.0,OMIM:PS177900,0,3,treat
+raphanus sativus,asthma,23290.0,OMIM:600807,0,2,treat
+rice,atopic dermatitis,41976.0,OMIM:603165,0,3,treat
+rice,celiac disease,41976.0,OMIM:611598,0,2,treat
+saffron,asthma,501794.0,OMIM:600807,0,3,treat
+sisymbrium,asthma,23311.0,OMIM:600807,0,2,treat
+soy bean,pancreatitis,26716.0,OMIM:167800,0,4,treat
+sweet potato,renal cell carcinoma,30764.0,OMIM:300854,0,20,treat
+tea,breast cancer,506801.0,OMIM:114480,0,10,treat
+tea,colorectal cancer,506801.0,OMIM:114500,0,3,treat
+tea,coronary disease,506801.0,OMIM:614293,0,8,treat
+tea,obesity,506801.0,OMIM:601665,0,13,treat
+tea,osteoporosis,506801.0,OMIM:166710,0,2,treat
+thistle,Type 2 diabetes mellitus,36334.0,OMIM:601283,0,6,treat
+vaccinium macrocarpon,psoriasis,23599.0,OMIM:PS177900,0,3,treat
+vaccinium vitis-idaea,obesity,505637.0,OMIM:601665,0,4,treat
+watermelon,prostate cancer,22356.0,OMIM:608658,0,5,treat
+wheat,neural tube defects,42236.0,OMIM:301410,0,5,treat
+zea mays,celiac disease,42269.0,OMIM:611598,0,2,treat
+zingiber officinale,colorectal cancer,42402.0,OMIM:114500,0,5,treat
+zingiber officinale,hepatoma,42402.0,OMIM:114550,0,2,treat
+zingiber officinale,motion sickness,42402.0,OMIM:158280,0,2,treat
+zingiber officinale,obesity,42402.0,OMIM:601665,0,5,treat
+zingiber officinale,type 2 diabetes mellitus,42402.0,OMIM:601283,0,3,treat

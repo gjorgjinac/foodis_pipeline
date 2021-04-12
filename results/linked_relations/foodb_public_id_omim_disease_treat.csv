@@ -1,0 +1,174 @@
+term1,term2,foodb_public_id,omim_disease,is_cause,is_treat,relation
+allium,colorectal cancer,FOOD00005,OMIM:114500,0,6,treat
+allium,gastric cancer,FOOD00005,OMIM:613659,0,10,treat
+allium,prostate cancer,FOOD00005,OMIM:608658,0,9,treat
+allium,stomach cancer,FOOD00005,OMIM:613659,0,6,treat
+allium cepa,breast cancer,FOOD00006,OMIM:114480,0,4,treat
+allium sativum,asthma,FOOD00008,OMIM:600807,0,6,treat
+allium sativum,bladder cancer,FOOD00008,OMIM:109800,0,3,treat
+allium sativum,gastric cancer,FOOD00008,OMIM:613659,0,5,treat
+annona muricata,prostate cancer,FOOD00478,OMIM:608658,0,4,treat
+avena sativa,atopic dermatitis,FOOD00022,OMIM:603165,0,2,treat
+beverages,celiac disease,FOOD00870,OMIM:611598,0,3,treat
+beverages,coronary heart disease,FOOD00870,OMIM:614293,0,7,treat
+brassica oleracea,prostate cancer,FOOD00030,OMIM:608658,0,4,treat
+broccoli,breast cancer,FOOD00034,OMIM:114480,0,4,treat
+broccoli,cervical cancer,FOOD00034,OMIM:603956,0,2,treat
+broccoli,mammary tumors,FOOD00034,OMIM:114480,0,4,treat
+cabbage,breast cancer,FOOD00851,OMIM:114480,0,3,treat
+cabbage,cervical cancer,FOOD00851,OMIM:603956,0,2,treat
+camellia sinensis,colorectal cancer,FOOD00038,OMIM:114500,0,4,treat
+camellia sinensis,obesity,FOOD00038,OMIM:601665,0,3,treat
+capsicum,psoriasis,FOOD00233,OMIM:PS177900,0,2,treat
+capsicum annuum,asthma,FOOD00040,OMIM:600807,0,2,treat
+capsicum annuum,asthma,FOOD00877,OMIM:600807,0,2,treat
+capsicum annuum,asthma,FOOD00878,OMIM:600807,0,2,treat
+capsicum annuum,asthma,FOOD00879,OMIM:600807,0,2,treat
+capsicum annuum,asthma,FOOD00880,OMIM:600807,0,2,treat
+capsicum annuum,asthma,FOOD00881,OMIM:600807,0,2,treat
+cheese,type 2 diabetes,FOOD00617,OMIM:601283,0,28,treat
+chives,colorectal cancer,FOOD00009,OMIM:114500,0,5,treat
+chives,prostate cancer,FOOD00009,OMIM:608658,0,18,treat
+chocolate,breast cancer,FOOD00687,OMIM:114480,0,10,treat
+cichorium intybus,type 2 diabetes mellitus,FOOD00049,OMIM:601283,0,3,treat
+cinnamomum,type 2 diabetes mellitus,FOOD00572,OMIM:601283,0,6,treat
+cinnamon,obesity,FOOD00572,OMIM:601665,0,6,treat
+cinnamon,type 2 diabetes,FOOD00572,OMIM:601283,0,63,treat
+cinnamon,type 2 diabetes mellitus,FOOD00572,OMIM:601283,0,6,treat
+cinnamon,type-2 diabetes,FOOD00572,OMIM:601283,0,7,treat
+citrus,gastric cancer,FOOD00859,OMIM:613659,0,4,treat
+coconut,atopic dermatitis,FOOD00336,OMIM:603165,0,10,treat
+coconut oil,atopic dermatitis,FOOD00941,OMIM:603165,0,3,treat
+coffee,gastric cancer,FOOD00058,OMIM:613659,0,4,treat
+coffee,obesity,FOOD00058,OMIM:601665,0,4,treat
+coffee,type 2 diabetes,FOOD00058,OMIM:601283,0,4,treat
+corn,celiac disease,FOOD00205,OMIM:611598,0,6,treat
+corn,neural tube defects,FOOD00205,OMIM:301410,0,5,treat
+crocus sativus,asthma,FOOD00063,OMIM:600807,0,2,treat
+cucurbita,alopecia,FOOD00066,OMIM:PS203655,0,2,treat
+curcuma longa,asthma,FOOD00068,OMIM:600807,0,4,treat
+curcuma longa,obesity,FOOD00068,OMIM:601665,0,5,treat
+curcuma longa,rheumatoid arthritis,FOOD00068,OMIM:180300,0,2,treat
+eggs,type 2 diabetes,FOOD00619,OMIM:601283,0,9,treat
+fenugreek,type 2 diabetes,FOOD00186,OMIM:601283,0,9,treat
+flour,Neural Tube Defects,FOOD00799,OMIM:301410,0,2,treat
+flour,anencephaly,FOOD00799,OMIM:206500,0,6,treat
+flour,neural tube defects,FOOD00799,OMIM:301410,0,13,treat
+fruits,Breast Cancer,FOOD00871,OMIM:114480,0,5,treat
+fruits,Parkinson's disease,FOOD00871,OMIM:PS168600,0,3,treat
+fruits,asthma,FOOD00871,OMIM:600807,0,18,treat
+fruits,bladder cancer,FOOD00871,OMIM:109800,0,5,treat
+fruits,breast cancer,FOOD00871,OMIM:114480,0,7,treat
+fruits,cataracts,FOOD00871,OMIM:601371,0,7,treat
+fruits,chronic obstructive pulmonary disease,FOOD00871,OMIM:606963,0,5,treat
+fruits,colorectal cancer,FOOD00871,OMIM:114500,0,6,treat
+fruits,coronary heart disease,FOOD00871,OMIM:614293,0,25,treat
+fruits,gastric cancer,FOOD00871,OMIM:613659,0,6,treat
+fruits,heart attacks,FOOD00871,OMIM:608557,0,2,treat
+fruits,lung cancer,FOOD00871,OMIM:612593,0,4,treat
+fruits,obesity,FOOD00871,OMIM:601665,0,7,treat
+fruits,osteoporosis,FOOD00871,OMIM:166710,0,3,treat
+fruits,ovarian cancer,FOOD00871,OMIM:167000,0,4,treat
+fruits,prostate cancer,FOOD00871,OMIM:608658,0,4,treat
+garlic,breast cancer,FOOD00008,OMIM:114480,0,17,treat
+garlic,colorectal cancer,FOOD00008,OMIM:114500,0,8,treat
+garlic,gastric cancer,FOOD00008,OMIM:613659,0,8,treat
+garlic,hepatoma,FOOD00008,OMIM:114550,0,3,treat
+garlic,mammary cancer,FOOD00008,OMIM:114480,0,14,treat
+garlic,myocardial infarction,FOOD00008,OMIM:608557,0,2,treat
+garlic,prostate cancer,FOOD00008,OMIM:608658,0,19,treat
+ginger,asthma,FOOD00206,OMIM:600807,0,7,treat
+ginger,colorectal cancer,FOOD00206,OMIM:114500,0,9,treat
+ginger,inflammatory bowel diseases,FOOD00206,OMIM:PS266600,0,2,treat
+ginger,migraine,FOOD00206,OMIM:157300,0,8,treat
+ginger,motion sickness,FOOD00206,OMIM:158280,0,12,treat
+ginger,obesity,FOOD00206,OMIM:601665,0,14,treat
+ginkgo biloba,asthma,FOOD00367,OMIM:600807,0,4,treat
+ginseng,migraine,FOOD00219,OMIM:157300,0,3,treat
+ginseng,obesity,FOOD00219,OMIM:601665,0,4,treat
+ginseng,type 2 diabetes,FOOD00219,OMIM:601283,0,22,treat
+glycine max,osteoporosis,FOOD00085,OMIM:166710,0,2,treat
+grape,mammary tumor,FOOD00369,OMIM:114480,0,2,treat
+grape,prostate cancer,FOOD00369,OMIM:608658,0,2,treat
+grapefruit,Parkinson's disease,FOOD00256,OMIM:PS168600,0,3,treat
+green tea,colorectal cancer,FOOD00908,OMIM:114500,0,7,treat
+green tea,obesity,FOOD00908,OMIM:601665,0,7,treat
+green tea,prostate cancer,FOOD00908,OMIM:608658,0,41,treat
+green tea,uterine fibroids,FOOD00908,OMIM:150699,0,2,treat
+hibiscus sabdariffa,obesity,FOOD00447,OMIM:601665,0,2,treat
+honey,colorectal cancer,FOOD00626,OMIM:114500,0,5,treat
+honey,psoriasis,FOOD00626,OMIM:PS177900,0,3,treat
+honey,type 2 diabetes,FOOD00626,OMIM:601283,0,4,treat
+ipomoea batatas,type 2 diabetes,FOOD00092,OMIM:601283,0,4,treat
+ipomoea batatas,type 2 diabetes mellitus,FOOD00092,OMIM:601283,0,3,treat
+kefir,non-alcoholic fatty liver disease,FOOD00691,OMIM:613387,0,11,treat
+lemon,allergic rhinitis,FOOD00054,OMIM:607154,0,2,treat
+lemon,asthma,FOOD00054,OMIM:600807,0,2,treat
+lemon,gastroesophageal reflux,FOOD00054,OMIM:109350,0,2,treat
+lentils,type 2 diabetes,FOOD00098,OMIM:601283,0,4,treat
+linum usitatissimum,migraine,FOOD00101,OMIM:157300,0,3,treat
+liquor,coronary disease,FOOD00616,OMIM:614293,0,8,treat
+lupinus albus,celiac disease,FOOD00403,OMIM:611598,0,2,treat
+mangifera indica,asthma,FOOD00106,OMIM:600807,0,2,treat
+mulberry,obesity,FOOD00116,OMIM:601665,0,3,treat
+mushrooms,prostate cancer,FOOD00853,OMIM:608658,0,5,treat
+nuts,type 2 diabetes,FOOD00869,OMIM:601283,0,3,treat
+olive oil,Breast Cancer,FOOD00909,OMIM:114480,0,5,treat
+olive oil,breast cancer,FOOD00909,OMIM:114480,0,22,treat
+olive oil,breast tumor,FOOD00909,OMIM:114480,0,4,treat
+olive oil,coronary heart disease,FOOD00909,OMIM:614293,0,16,treat
+olive oil,gastric cancer,FOOD00909,OMIM:613659,0,4,treat
+olive oil,myocardial infarction,FOOD00909,OMIM:608557,0,5,treat
+olive oil,obesity,FOOD00909,OMIM:601665,0,3,treat
+olive oil,osteoporosis,FOOD00909,OMIM:166710,0,4,treat
+olive oil,type 2 diabetes,FOOD00909,OMIM:601283,0,19,treat
+oryza sativa,celiac disease,FOOD00125,OMIM:611598,0,2,treat
+panax,alopecia,FOOD00219,OMIM:PS203655,0,2,treat
+panax,migraine,FOOD00219,OMIM:157300,0,3,treat
+panax,obesity,FOOD00219,OMIM:601665,0,2,treat
+papaya,prostate cancer,FOOD00041,OMIM:608658,0,15,treat
+pisum sativum,asthma,FOOD00141,OMIM:600807,0,2,treat
+pomegranate,prostate cancer,FOOD00151,OMIM:608658,0,5,treat
+potato,renal cell carcinoma,FOOD00175,OMIM:300854,0,20,treat
+pulses,type 2 diabetes,FOOD00867,OMIM:601283,0,12,treat
+punica granatum,psoriasis,FOOD00151,OMIM:PS177900,0,3,treat
+raphanus sativus,asthma,FOOD00153,OMIM:600807,0,2,treat
+red onion,ovarian cancer,FOOD00962,OMIM:167000,0,4,treat
+red wine,Breast Cancer,FOOD00911,OMIM:114480,0,20,treat
+red wine,coronary heart disease,FOOD00911,OMIM:614293,0,18,treat
+red wine,coronary heart diseases,FOOD00911,OMIM:614293,0,2,treat
+red wine,lung cancer,FOOD00911,OMIM:612593,0,2,treat
+red wine,mammary tumors,FOOD00911,OMIM:114480,0,3,treat
+red wine,type 2 diabetes,FOOD00911,OMIM:601283,0,4,treat
+rice,atopic dermatitis,FOOD00125,OMIM:603165,0,3,treat
+rice,celiac disease,FOOD00125,OMIM:611598,0,2,treat
+saffron,asthma,FOOD00063,OMIM:600807,0,3,treat
+sisymbrium,asthma,FOOD00475,OMIM:600807,0,2,treat
+soy bean,pancreatitis,FOOD00085,OMIM:167800,0,4,treat
+sweet potato,renal cell carcinoma,FOOD00092,OMIM:300854,0,20,treat
+tea,breast cancer,FOOD00038,OMIM:114480,0,10,treat
+tea,colorectal cancer,FOOD00038,OMIM:114500,0,3,treat
+tea,coronary disease,FOOD00038,OMIM:614293,0,8,treat
+tea,obesity,FOOD00038,OMIM:601665,0,13,treat
+tea,osteoporosis,FOOD00038,OMIM:166710,0,2,treat
+thistle,Type 2 diabetes mellitus,FOOD00606,OMIM:601283,0,6,treat
+tofu,prostate cancer,FOOD00696,OMIM:608658,0,2,treat
+trifolium pratense,alopecia,FOOD00930,OMIM:PS203655,0,2,treat
+vaccinium macrocarpon,psoriasis,FOOD00192,OMIM:PS177900,0,3,treat
+vaccinium vitis-idaea,obesity,FOOD00194,OMIM:601665,0,4,treat
+water,obesity,FOOD00664,OMIM:601665,0,3,treat
+watermelon,prostate cancer,FOOD00052,OMIM:608658,0,5,treat
+wheat,neural tube defects,FOOD00561,OMIM:301410,0,5,treat
+whey,Type 2 diabetes,FOOD00658,OMIM:601283,0,4,treat
+whey,obesity,FOOD00658,OMIM:601665,0,7,treat
+whey,type 2 diabetes,FOOD00658,OMIM:601283,0,33,treat
+whey,type 2 diabetes mellitus,FOOD00658,OMIM:601283,0,5,treat
+yogurt,breast cancer,FOOD00620,OMIM:114480,0,15,treat
+yogurt,obesity,FOOD00620,OMIM:601665,0,12,treat
+yogurt,type 2 diabetes,FOOD00620,OMIM:601283,0,34,treat
+zea mays,celiac disease,FOOD00205,OMIM:611598,0,2,treat
+zingiber officinale,colorectal cancer,FOOD00206,OMIM:114500,0,5,treat
+zingiber officinale,hepatoma,FOOD00206,OMIM:114550,0,2,treat
+zingiber officinale,motion sickness,FOOD00206,OMIM:158280,0,2,treat
+zingiber officinale,obesity,FOOD00206,OMIM:601665,0,5,treat
+zingiber officinale,type 2 diabetes mellitus,FOOD00206,OMIM:601283,0,3,treat

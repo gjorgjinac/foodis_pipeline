@@ -1,0 +1,54 @@
+term1,term2,foodon,efo_disease,is_cause,is_treat,relation
+", beer",migraine,http://purl.obolibrary.org/obo/FOODON_03310272,EFO:0003821,10,0,cause
+banana,asthma,http://purl.obolibrary.org/obo/NCBITaxon_89151***http://purl.obolibrary.org/obo/NCBITaxon_4641,EFO:0000270,6,0,cause
+banana,pancreatitis,http://purl.obolibrary.org/obo/NCBITaxon_89151***http://purl.obolibrary.org/obo/NCBITaxon_4641,EFO:0000278,3,0,cause
+barley,Celiac Disease,http://purl.obolibrary.org/obo/NCBITaxon_4513,EFO:0001060,12,0,cause
+barley,Celiac disease,http://purl.obolibrary.org/obo/FOODON_03315188***http://purl.obolibrary.org/obo/NCBITaxon_4498,EFO:0001060,6,0,cause
+barley,Celiac disease,http://purl.obolibrary.org/obo/NCBITaxon_4513,EFO:0001060,77,0,cause
+barley,anaemia,http://purl.obolibrary.org/obo/NCBITaxon_4513,EFO:0004272,11,0,cause
+barley,asthma,http://purl.obolibrary.org/obo/FOODON_03301116,EFO:0000270,2,0,cause
+barley,asthma,http://purl.obolibrary.org/obo/NCBITaxon_4513,EFO:0000270,2,0,cause
+barley,celiac disease,http://purl.obolibrary.org/obo/NCBITaxon_4513,EFO:0001060,7,0,cause
+barley,coeliac disease,http://purl.obolibrary.org/obo/NCBITaxon_4513,EFO:0001060,6,0,cause
+barley,osteoporosis,http://purl.obolibrary.org/obo/NCBITaxon_4513,EFO:0003882,11,0,cause
+cheese,Migraine,http://purl.obolibrary.org/obo/CHEBI_33290,EFO:0003821,2,0,cause
+cheese,Migraine,http://purl.obolibrary.org/obo/FOODON_03307240,EFO:0003821,2,0,cause
+cheese,migraine,http://purl.obolibrary.org/obo/CHEBI_33290,EFO:0003821,2,0,cause
+cheese,migraine,http://purl.obolibrary.org/obo/FOODON_03307240,EFO:0003821,12,0,cause
+chicken,obesity,http://purl.obolibrary.org/obo/NCBITaxon_9031***http://purl.obolibrary.org/obo/FOODON_03411457,EFO:0001073,2,0,cause
+chocolate,Migraine,http://purl.obolibrary.org/obo/FOODON_03307240,EFO:0003821,2,0,cause
+chocolate,migraine,http://purl.obolibrary.org/obo/FOODON_03307240,EFO:0003821,8,0,cause
+chocolate,obesity,http://purl.obolibrary.org/obo/FOODON_03307240,EFO:0001073,9,0,cause
+flour,allergic rhinitis,http://purl.obolibrary.org/obo/FOODON_03301116,EFO:0003956,4,0,cause
+flour,asthma,http://purl.obolibrary.org/obo/FOODON_03301116,EFO:0000270,26,0,cause
+flour,asthma,http://purl.obolibrary.org/obo/NCBITaxon_4513,EFO:0000270,2,0,cause
+flour,asthma,http://purl.obolibrary.org/obo/NCBITaxon_89151***http://purl.obolibrary.org/obo/NCBITaxon_4641,EFO:0000270,2,0,cause
+flour dust,asthma,http://purl.obolibrary.org/obo/FOODON_03500035***http://purl.obolibrary.org/obo/FOODON_03420309,EFO:0000270,2,0,cause
+garlic,asthma,http://purl.obolibrary.org/obo/CHEBI_33290,EFO:0000270,6,0,cause
+garlic,asthma,http://purl.obolibrary.org/obo/NCBITaxon_4682,EFO:0000270,19,0,cause
+harmful effects,hypertension,http://purl.obolibrary.org/obo/FOODON_03310272,EFO:0000537,2,0,cause
+lamb,asthma,http://purl.obolibrary.org/obo/FOODON_03411669,EFO:0000270,2,0,cause
+liquid,dental caries,http://purl.obolibrary.org/obo/FOODON_03412974,EFO:0003819,3,0,cause
+liver,Obesity,http://purl.obolibrary.org/obo/UBERON_0002107,EFO:0001073,2,0,cause
+milk,Asthma,http://purl.obolibrary.org/obo/UBERON_0001913,EFO:0000270,3,0,cause
+milk,Breast carcinoma,http://purl.obolibrary.org/obo/UBERON_0001913,EFO:0000305,10,0,cause
+milk,Eosinophilic esophagitis,http://purl.obolibrary.org/obo/UBERON_0001913,EFO:0004232,7,0,cause
+milk,coronary heart disease,http://purl.obolibrary.org/obo/UBERON_0001913,EFO:0001645,5,0,cause
+milk,ovarian carcinoma,http://purl.obolibrary.org/obo/UBERON_0001913,EFO:0001075,5,0,cause
+milk,pancreatitis,http://purl.obolibrary.org/obo/UBERON_0001913,EFO:0000278,8,0,cause
+oats,Celiac disease,http://purl.obolibrary.org/obo/FOODON_03315188***http://purl.obolibrary.org/obo/NCBITaxon_4498,EFO:0001060,15,0,cause
+onion,asthma,http://purl.obolibrary.org/obo/FOODON_03316347***http://purl.obolibrary.org/obo/NCBITaxon_4679,EFO:0000270,5,0,cause
+rabbit,atopic dermatitis,http://purl.obolibrary.org/obo/GAZ_00000558***http://purl.obolibrary.org/obo/NCBITaxon_9103,EFO:0000274,3,0,cause
+red wine,migraine,http://purl.obolibrary.org/obo/FOODON_03310272,EFO:0003821,4,0,cause
+rice,asthma,http://purl.obolibrary.org/obo/NCBITaxon_4530,EFO:0000270,6,0,cause
+rye,Celiac Disease,http://purl.obolibrary.org/obo/NCBITaxon_4513,EFO:0001060,6,0,cause
+rye,Celiac disease,http://purl.obolibrary.org/obo/FOODON_03315188***http://purl.obolibrary.org/obo/NCBITaxon_4498,EFO:0001060,6,0,cause
+rye flour,allergic rhinitis,http://purl.obolibrary.org/obo/FOODON_03301116,EFO:0003956,8,0,cause
+salt,obesity,http://purl.obolibrary.org/obo/CHEBI_24866,EFO:0001073,2,0,cause
+sugar,obesity,http://purl.obolibrary.org/obo/FOODON_03307240,EFO:0001073,4,0,cause
+thyme,asthma,http://purl.obolibrary.org/obo/NCBITaxon_49992,EFO:0000270,3,0,cause
+trigger,asthma,http://purl.obolibrary.org/obo/CHEBI_33290,EFO:0000270,2,0,cause
+turkey,Hypertension,http://purl.obolibrary.org/obo/GAZ_00000558***http://purl.obolibrary.org/obo/NCBITaxon_9103,EFO:0000537,7,0,cause
+wheat,Celiac Disease,http://purl.obolibrary.org/obo/NCBITaxon_4513,EFO:0001060,6,0,cause
+white wine,migraine,http://purl.obolibrary.org/obo/FOODON_03310273,EFO:0003821,4,0,cause
+wood,asthma,http://purl.obolibrary.org/obo/FOODON_03500035***http://purl.obolibrary.org/obo/FOODON_03420309,EFO:0000270,2,0,cause

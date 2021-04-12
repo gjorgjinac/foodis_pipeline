@@ -1,0 +1,203 @@
+term1,term2,hansardClosest,snomedct_disease,is_cause,is_treat,relation
+", beer",migraine,AG.01,SNOMEDCT_US_2020_09_01:155046006,10,0,cause
+apple,dermatitis,AG.01.h.02.a,SNOMEDCT_US_2020_09_01:238538009,4,0,cause
+banana,asthma,AG.01.h.01,SNOMEDCT_US_2020_09_01:187687003,6,0,cause
+banana,hypersensitivity,AG.01.h.01,SNOMEDCT_US_2020_09_01:257550005,9,0,cause
+banana,pancreatitis,AG.01.h.01,SNOMEDCT_US_2020_09_01:393591004,3,0,cause
+banana,rhinitis,AG.01.h.01,SNOMEDCT_US_2020_09_01:70076002,11,0,cause
+banana,urticaria,AG.01.h.01,SNOMEDCT_US_2020_09_01:267817001,11,0,cause
+barley,Celiac Disease,AG.01.i,SNOMEDCT_US_2020_09_01:197477005,12,0,cause
+barley,Celiac disease,AG.01.i,SNOMEDCT_US_2020_09_01:197477005,83,0,cause
+barley,anaemia,AG.01.i,SNOMEDCT_US_2020_09_01:64593003,11,0,cause
+barley,asthma,AG.01.i,SNOMEDCT_US_2020_09_01:187687003,2,0,cause
+barley,asthma,AG.01.j,SNOMEDCT_US_2020_09_01:187687003,2,0,cause
+barley,celiac disease,AG.01.i,SNOMEDCT_US_2020_09_01:197477005,7,0,cause
+barley,coeliac disease,AG.01.i,SNOMEDCT_US_2020_09_01:197477005,6,0,cause
+barley,dermatitis,AG.01.i,SNOMEDCT_US_2020_09_01:238538009,18,0,cause
+barley,osteoporosis,AG.01.i,SNOMEDCT_US_2020_09_01:156825006,11,0,cause
+beef,campylobacteriosis,AG.01,SNOMEDCT_US_2020_09_01:86500004,2,0,cause
+beer,Korsakoff's psychosis,AG.01.y.01.b,SNOMEDCT_US_2020_09_01:69482004,4,0,cause
+beer,Wernicke's encephalopathy,AG.01.y.01.b,SNOMEDCT_US_2020_09_01:190627001,4,0,cause
+beer,Wernicke-Korsakoff syndrome,AG.01.y.01.b,SNOMEDCT_US_2020_09_01:69482004,3,0,cause
+beer,lactic acidosis,AG.01.y.01.b,SNOMEDCT_US_2020_09_01:91273001,4,0,cause
+beer,urticaria,AG.01.y.01.b,SNOMEDCT_US_2020_09_01:267817001,3,0,cause
+beverages,telangiectasia,AE.13.a,SNOMEDCT_US_2020_09_01:112641009,3,0,cause
+beverages,telangiectasia,AF.12,SNOMEDCT_US_2020_09_01:112641009,3,0,cause
+cake prepared,hypersensitivity,AG.01.n.11,SNOMEDCT_US_2020_09_01:257550005,5,0,cause
+cakes,acne,AG.01.g,SNOMEDCT_US_2020_09_01:11381005,8,0,cause
+calcium,pericardial effusion,AE.10,SNOMEDCT_US_2020_09_01:70370001,3,0,cause
+candy,stomatitis,AG.01.l.02,SNOMEDCT_US_2020_09_01:95361005,6,0,cause
+carrot,dermatitis,AG.01.h.02.a,SNOMEDCT_US_2020_09_01:238538009,4,0,cause
+celery,urticaria,AG.01.h.02.b,SNOMEDCT_US_2020_09_01:267817001,3,0,cause
+cereal,asthma,AG.01.i,SNOMEDCT_US_2020_09_01:187687003,4,0,cause
+cereal,dermatitis,AG.01.i,SNOMEDCT_US_2020_09_01:238538009,4,0,cause
+cereal,eczema,AG.01.i,SNOMEDCT_US_2020_09_01:238538009,4,0,cause
+cereal flour,Asthma,AG.01.i,SNOMEDCT_US_2020_09_01:187687003,2,0,cause
+cheese,Migraine,AG.01,SNOMEDCT_US_2020_09_01:155046006,4,0,cause
+cheese,Migraine,AG.01.e.02,SNOMEDCT_US_2020_09_01:155046006,2,0,cause
+cheese,hypertension,AG.01.e.02,SNOMEDCT_US_2020_09_01:38341003,3,0,cause
+cheese,insulin-dependent diabetes mellitus,AG.01.e.02,SNOMEDCT_US_2020_09_01:46635009,2,0,cause
+cheese,migraine,AG.01,SNOMEDCT_US_2020_09_01:155046006,14,0,cause
+cheese,migraine,AG.01.e.02,SNOMEDCT_US_2020_09_01:155046006,6,0,cause
+chicken,obesity,AE.13.h.01,SNOMEDCT_US_2020_09_01:5476005,2,0,cause
+chocolate,Migraine,AG.01,SNOMEDCT_US_2020_09_01:155046006,2,0,cause
+chocolate,Pertussis,AG.01,SNOMEDCT_US_2020_09_01:26484003,2,0,cause
+chocolate,acne,AG.01,SNOMEDCT_US_2020_09_01:11381005,10,0,cause
+chocolate,acne,AG.01.g,SNOMEDCT_US_2020_09_01:11381005,8,0,cause
+chocolate,acne,AG.01.n.11,SNOMEDCT_US_2020_09_01:11381005,8,0,cause
+chocolate,acne,AG.01.r,SNOMEDCT_US_2020_09_01:11381005,8,0,cause
+chocolate,atrial fibrillation,AG.01,SNOMEDCT_US_2020_09_01:266306001,3,0,cause
+chocolate,hyperglycemia,AG.01,SNOMEDCT_US_2020_09_01:144187006,4,0,cause
+chocolate,migraine,AG.01,SNOMEDCT_US_2020_09_01:155046006,8,0,cause
+chocolate,migraine,AG.01.e.02,SNOMEDCT_US_2020_09_01:155046006,7,0,cause
+chocolate,obesity,AG.01,SNOMEDCT_US_2020_09_01:5476005,9,0,cause
+chocolate milk,diabetes,AG.01.e,SNOMEDCT_US_2020_09_01:267467004,2,0,cause
+cinnamon,dermatitis,AE.13.a,SNOMEDCT_US_2020_09_01:238538009,3,0,cause
+cinnamon,hypersensitivity,AE.13.a,SNOMEDCT_US_2020_09_01:257550005,10,0,cause
+cinnamon,stomatitis,AG.01,SNOMEDCT_US_2020_09_01:95361005,6,0,cause
+cinnamon,stomatitis,AG.01.l.02,SNOMEDCT_US_2020_09_01:95361005,6,0,cause
+cinnamon,telangiectasia,AF.12,SNOMEDCT_US_2020_09_01:112641009,3,0,cause
+coffee,acne,AG.01,SNOMEDCT_US_2020_09_01:11381005,8,0,cause
+coffee,acne,AG.01.g,SNOMEDCT_US_2020_09_01:11381005,8,0,cause
+coffee,acne,AG.01.n.11,SNOMEDCT_US_2020_09_01:11381005,8,0,cause
+coffee,acne,AG.01.r,SNOMEDCT_US_2020_09_01:11381005,9,0,cause
+corn,rhinitis,AG.01,SNOMEDCT_US_2020_09_01:70076002,3,0,cause
+crab,allergic rhinitis,AG.01.d.07,SNOMEDCT_US_2020_09_01:38103000,2,0,cause
+drinking beer,angioedema,AG.01.y.01.b,SNOMEDCT_US_2020_09_01:41291007,5,0,cause
+drinking beer,urticaria,AG.01.y.01.b,SNOMEDCT_US_2020_09_01:267817001,5,0,cause
+eggs,acne,AG.01,SNOMEDCT_US_2020_09_01:11381005,8,0,cause
+eggs,acne,AG.01.g,SNOMEDCT_US_2020_09_01:11381005,8,0,cause
+eggs,acne,AG.01.n.11,SNOMEDCT_US_2020_09_01:11381005,8,0,cause
+eggs,acne,AG.01.r,SNOMEDCT_US_2020_09_01:11381005,8,0,cause
+eggs,eczema,AG.01.g,SNOMEDCT_US_2020_09_01:238538009,3,0,cause
+eggs,obstructive uropathy,AG.01.g,SNOMEDCT_US_2020_09_01:7163005,3,0,cause
+eggs,urticaria,AG.01.g,SNOMEDCT_US_2020_09_01:267817001,2,0,cause
+fat,Diabetes mellitus,AG.01.f,SNOMEDCT_US_2020_09_01:267467004,7,0,cause
+fat,Obesity,AG.01.f,SNOMEDCT_US_2020_09_01:5476005,10,0,cause
+fat,diabetes,AG.01.f,SNOMEDCT_US_2020_09_01:267467004,10,0,cause
+fat,fatty liver syndrome,AG.01.f,SNOMEDCT_US_2020_09_01:50325005,3,0,cause
+fat,glucose intolerance,AG.01.f,SNOMEDCT_US_2020_09_01:267426009,6,0,cause
+fat,hyperinsulinemia,AG.01.f,SNOMEDCT_US_2020_09_01:154694003,6,0,cause
+fat,inflammatory bowel disease,AG.01.f,SNOMEDCT_US_2020_09_01:155759008,2,0,cause
+fat,metabolic disease,AG.01.f,SNOMEDCT_US_2020_09_01:75934005,2,0,cause
+fat,metabolic disorder,AG.01.f,SNOMEDCT_US_2020_09_01:75934005,3,0,cause
+fat,pneumonia,AG.01.f,SNOMEDCT_US_2020_09_01:266391003,6,0,cause
+fat,type 2 diabetes mellitus,AG.01.f,SNOMEDCT_US_2020_09_01:44054006,2,0,cause
+flour,allergic rhinitis,AG.01.j,SNOMEDCT_US_2020_09_01:38103000,4,0,cause
+flour,asthma,AG.01.h.01,SNOMEDCT_US_2020_09_01:187687003,2,0,cause
+flour,asthma,AG.01.i,SNOMEDCT_US_2020_09_01:187687003,2,0,cause
+flour,asthma,AG.01.j,SNOMEDCT_US_2020_09_01:187687003,26,0,cause
+flour,hypersensitivity pneumonitis,AG.01.j,SNOMEDCT_US_2020_09_01:155581001,3,0,cause
+flour,rhinitis,AG.01.j,SNOMEDCT_US_2020_09_01:70076002,6,0,cause
+flour dust,asthma,AF.10.l,SNOMEDCT_US_2020_09_01:187687003,2,0,cause
+flour mill,bronchitis,AG.01.j,SNOMEDCT_US_2020_09_01:155566007,6,0,cause
+"flour,",asthma,AG.01.i,SNOMEDCT_US_2020_09_01:187687003,4,0,cause
+food rich,diarrhoea,AG.01,SNOMEDCT_US_2020_09_01:154268000,3,0,cause
+fruit,gastroesophageal reflux,AF.07,SNOMEDCT_US_2020_09_01:235595009,3,0,cause
+fruit,hypersensitivity,AF.07,SNOMEDCT_US_2020_09_01:257550005,13,0,cause
+fruit,uremia,AF.07,SNOMEDCT_US_2020_09_01:44730006,2,0,cause
+fruits,allergic conjunctivitis,AG.01,SNOMEDCT_US_2020_09_01:231854006,3,0,cause
+fruits,allergic conjunctivitis,AG.01.h,SNOMEDCT_US_2020_09_01:231854006,3,0,cause
+fruits,carotenemia,AG.01.h,SNOMEDCT_US_2020_09_01:35487009,3,0,cause
+fruits,dermatitis,AG.01.h,SNOMEDCT_US_2020_09_01:238538009,3,0,cause
+fruits,hypersensitivity,AG.01.h,SNOMEDCT_US_2020_09_01:257550005,5,0,cause
+garlic,asthma,AG.01,SNOMEDCT_US_2020_09_01:187687003,6,0,cause
+garlic,asthma,AG.01.h.02.e,SNOMEDCT_US_2020_09_01:187687003,19,0,cause
+garlic,dermatitis,AG.01.h.02.e,SNOMEDCT_US_2020_09_01:238538009,6,0,cause
+garlic,hemolytic anemia,AG.01.h.02.e,SNOMEDCT_US_2020_09_01:61261009,5,0,cause
+garlic,hypersensitivity,AE.13.a,SNOMEDCT_US_2020_09_01:257550005,10,0,cause
+garlic,rhinitis,AG.01,SNOMEDCT_US_2020_09_01:70076002,6,0,cause
+garlic,rhinitis,AG.01.h.02.e,SNOMEDCT_US_2020_09_01:70076002,12,0,cause
+harmful effects,hypertension,AG.01,SNOMEDCT_US_2020_09_01:38341003,2,0,cause
+horseradish,hypersensitivity,AE.13.a,SNOMEDCT_US_2020_09_01:257550005,10,0,cause
+horseradish,hypersensitivity,AG.01,SNOMEDCT_US_2020_09_01:257550005,10,0,cause
+horseradish,hypersensitivity,AG.01.h.02.e,SNOMEDCT_US_2020_09_01:257550005,20,0,cause
+horseradish,hypersensitivity,AG.01.l.03,SNOMEDCT_US_2020_09_01:257550005,10,0,cause
+lamb,asthma,AG.01.d.04,SNOMEDCT_US_2020_09_01:187687003,2,0,cause
+lemon,endophthalmitis,AG.01.ab,SNOMEDCT_US_2020_09_01:1847009,3,0,cause
+lemon,urticaria,AG.01.ab,SNOMEDCT_US_2020_09_01:267817001,3,0,cause
+liquid,dental caries,AG.01,SNOMEDCT_US_2020_09_01:155632007,3,0,cause
+liver,Colorectal cancer,AE.08,SNOMEDCT_US_2020_09_01:93854002,5,0,cause
+liver,Gaucher disease,AE.08,SNOMEDCT_US_2020_09_01:190794006,2,0,cause
+liver,Obesity,AE.08,SNOMEDCT_US_2020_09_01:5476005,2,0,cause
+liver,Schistosomiasis,AE.08,SNOMEDCT_US_2020_09_01:187116001,3,0,cause
+liver,Wilson disease,AE.08,SNOMEDCT_US_2020_09_01:88518009,3,0,cause
+liver,fatty liver syndrome,AE.08,SNOMEDCT_US_2020_09_01:50325005,2,0,cause
+liver,portal hypertension,AE.08,SNOMEDCT_US_2020_09_01:155821005,2,0,cause
+meat,Multiple Sclerosis,AG.01,SNOMEDCT_US_2020_09_01:155023009,3,0,cause
+meat,colorectal cancer,AG.01,SNOMEDCT_US_2020_09_01:93854002,3,0,cause
+meat,gout,AG.01,SNOMEDCT_US_2020_09_01:90560007,2,0,cause
+milk,Asthma,AE.10,SNOMEDCT_US_2020_09_01:187687003,3,0,cause
+milk,Breast carcinoma,AE.10,SNOMEDCT_US_2020_09_01:154513000,10,0,cause
+milk,Campylobacteriosis,AE.10,SNOMEDCT_US_2020_09_01:86500004,4,0,cause
+milk,Eosinophilic esophagitis,AE.10,SNOMEDCT_US_2020_09_01:235599003,7,0,cause
+milk,Hydatidosis,AE.10,SNOMEDCT_US_2020_09_01:154414008,2,0,cause
+milk,Mastitis,AE.10,SNOMEDCT_US_2020_09_01:155952005,7,0,cause
+milk,Rift Valley fever,AE.10,SNOMEDCT_US_2020_09_01:7077006,2,0,cause
+milk,Tick-borne encephalitis,AE.10,SNOMEDCT_US_2020_09_01:16901001,4,0,cause
+milk,acne,AE.10,SNOMEDCT_US_2020_09_01:11381005,2,0,cause
+milk,amenorrhea,AE.10,SNOMEDCT_US_2020_09_01:156034000,5,0,cause
+milk,campylobacteriosis,AE.10,SNOMEDCT_US_2020_09_01:86500004,2,0,cause
+milk,coronary heart disease,AE.10,SNOMEDCT_US_2020_09_01:53741008,5,0,cause
+milk,diabetic ketoacidosis,AE.10,SNOMEDCT_US_2020_09_01:154671004,4,0,cause
+milk,diarrhea,AE.10,SNOMEDCT_US_2020_09_01:154268000,5,0,cause
+milk,eczema,AE.10,SNOMEDCT_US_2020_09_01:238538009,2,0,cause
+milk,hyperphosphatemia,AE.10,SNOMEDCT_US_2020_09_01:20165001,2,0,cause
+milk,hyperprolactinemia,AE.10,SNOMEDCT_US_2020_09_01:190468001,2,0,cause
+milk,invasive ductal carcinoma,AE.10,SNOMEDCT_US_2020_09_01:408643008,3,0,cause
+milk,myocarditis,AE.10,SNOMEDCT_US_2020_09_01:50920009,2,0,cause
+milk,ovarian cancer,AE.10,SNOMEDCT_US_2020_09_01:123843001,3,0,cause
+milk,pancreatitis,AE.10,SNOMEDCT_US_2020_09_01:393591004,8,0,cause
+milk,urticaria,AE.10,SNOMEDCT_US_2020_09_01:267817001,2,0,cause
+milk products,campylobacteriosis,AE.10,SNOMEDCT_US_2020_09_01:86500004,3,0,cause
+mustard,hypersensitivity,AE.13.a,SNOMEDCT_US_2020_09_01:257550005,10,0,cause
+mustard,pancreatitis,AG.01.l.03,SNOMEDCT_US_2020_09_01:393591004,3,0,cause
+oats,Celiac disease,AG.01.i,SNOMEDCT_US_2020_09_01:197477005,15,0,cause
+oats,dermatitis,AG.01.i,SNOMEDCT_US_2020_09_01:238538009,11,0,cause
+onion,asthma,AG.01.h.02.e,SNOMEDCT_US_2020_09_01:187687003,5,0,cause
+other meat,campylobacteriosis,AG.01,SNOMEDCT_US_2020_09_01:86500004,2,0,cause
+peach,urticaria,AG.01.h.01.e,SNOMEDCT_US_2020_09_01:267817001,12,0,cause
+potato,asthma,AG.01,SNOMEDCT_US_2020_09_01:187687003,2,0,cause
+potato,dermatitis,AG.01.h.02.a,SNOMEDCT_US_2020_09_01:238538009,8,0,cause
+rabbit,atopic dermatitis,AG.01.d.06,SNOMEDCT_US_2020_09_01:156331003,3,0,cause
+red wine,breast cancer,AG.01,SNOMEDCT_US_2020_09_01:254837009,3,0,cause
+red wine,diarrhea,AG.01,SNOMEDCT_US_2020_09_01:154268000,8,0,cause
+red wine,diarrhoea,AG.01,SNOMEDCT_US_2020_09_01:154268000,5,0,cause
+red wine,irritable bowel syndrome,AG.01,SNOMEDCT_US_2020_09_01:155783000,4,0,cause
+red wine,migraine,AG.01,SNOMEDCT_US_2020_09_01:155046006,4,0,cause
+related cereal,Celiac disease,AG.01.i,SNOMEDCT_US_2020_09_01:197477005,8,0,cause
+rice,asthma,AF.20.g,SNOMEDCT_US_2020_09_01:187687003,6,0,cause
+rice,urticaria,AF.20.g,SNOMEDCT_US_2020_09_01:267817001,6,0,cause
+rosemary,asthma,AF.28,SNOMEDCT_US_2020_09_01:187687003,3,0,cause
+rye,Celiac Disease,AG.01.i,SNOMEDCT_US_2020_09_01:197477005,6,0,cause
+rye,Celiac disease,AG.01.i,SNOMEDCT_US_2020_09_01:197477005,14,0,cause
+rye flour,allergic rhinitis,AG.01.j,SNOMEDCT_US_2020_09_01:38103000,8,0,cause
+salt,diabetes,AG.01,SNOMEDCT_US_2020_09_01:267467004,7,0,cause
+salt,diabetes,AG.01.f,SNOMEDCT_US_2020_09_01:267467004,3,0,cause
+salt,gastric cancer,AG.01,SNOMEDCT_US_2020_09_01:126824007,2,0,cause
+salt,obesity,AG.01,SNOMEDCT_US_2020_09_01:5476005,2,0,cause
+soy milk,hyperphosphatemia,AE.10,SNOMEDCT_US_2020_09_01:20165001,2,0,cause
+spices,acne,AG.01.n.11,SNOMEDCT_US_2020_09_01:11381005,8,0,cause
+sugar,diabetes,AG.01,SNOMEDCT_US_2020_09_01:267467004,8,0,cause
+sugar,diabetes,AG.01.f,SNOMEDCT_US_2020_09_01:267467004,3,0,cause
+tea,acne,AG.01.r,SNOMEDCT_US_2020_09_01:11381005,9,0,cause
+thyme,asthma,AG.01.h.02.i,SNOMEDCT_US_2020_09_01:187687003,3,0,cause
+tomatoes,dermatitis,AG.01.h.02.f,SNOMEDCT_US_2020_09_01:238538009,3,0,cause
+trigger,asthma,AG.01,SNOMEDCT_US_2020_09_01:187687003,2,0,cause
+turkey,Gastric cancer,AG.01.d.06,SNOMEDCT_US_2020_09_01:126824007,7,0,cause
+turkey,Hypertension,AG.01.d.06,SNOMEDCT_US_2020_09_01:38341003,7,0,cause
+unpasteurized animal milk,campylobacteriosis,AE.10,SNOMEDCT_US_2020_09_01:86500004,3,0,cause
+vegetable oil,pneumonia,AF.02.a,SNOMEDCT_US_2020_09_01:266391003,2,0,cause
+wasabi,hypersensitivity,AG.01,SNOMEDCT_US_2020_09_01:257550005,10,0,cause
+water,campylobacteriosis,AE.10,SNOMEDCT_US_2020_09_01:86500004,3,0,cause
+water,campylobacteriosis,AG.01.z,SNOMEDCT_US_2020_09_01:86500004,2,0,cause
+water,gastroenteritis,AG.01.z,SNOMEDCT_US_2020_09_01:154278002,2,0,cause
+water,lymphadenitis,AG.01.z,SNOMEDCT_US_2020_09_01:19471005,2,0,cause
+water,nephrosis,AG.01.z,SNOMEDCT_US_2020_09_01:90708001,2,0,cause
+water,tuberculosis,AG.01.z,SNOMEDCT_US_2020_09_01:15202009,3,0,cause
+wheat,Celiac Disease,AG.01.i,SNOMEDCT_US_2020_09_01:197477005,6,0,cause
+wheat flour,urticaria,AG.01.i,SNOMEDCT_US_2020_09_01:267817001,7,0,cause
+white bread,diabetes,AG.01.n.11,SNOMEDCT_US_2020_09_01:267467004,4,0,cause
+white wine,migraine,AG.01.y.01.a,SNOMEDCT_US_2020_09_01:155046006,4,0,cause
+wine,diarrhea,AG.01.y.01.a,SNOMEDCT_US_2020_09_01:154268000,4,0,cause
+wood,asthma,AF.10.l,SNOMEDCT_US_2020_09_01:187687003,2,0,cause

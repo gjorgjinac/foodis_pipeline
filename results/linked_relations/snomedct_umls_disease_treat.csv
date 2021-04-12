@@ -1,0 +1,340 @@
+term1,term2,snomedct,umls_disease,is_cause,is_treat,relation
+", gymnema",diabetes,http://purl.bioontology.org/ontology/SNOMEDCT/260177005,UMLS_CUI:C0011849,0,5,treat
+", laver",hypertension,http://purl.bioontology.org/ontology/SNOMEDCT/735050002,UMLS_CUI:C0020538,0,8,treat
+", laver",hypertension,http://purl.bioontology.org/ontology/SNOMEDCT/735053000,UMLS_CUI:C0020538,0,8,treat
+", lemon balm",gastric ulcers,http://purl.bioontology.org/ontology/SNOMEDCT/70813002,UMLS_CUI:C0038358,0,5,treat
+", licorice",neurodegenerative diseases,http://purl.bioontology.org/ontology/SNOMEDCT/412066006***http://purl.bioontology.org/ontology/SNOMEDCT/412060000,UMLS_CUI:C1285162,0,24,treat
+apple,hypertension,http://purl.bioontology.org/ontology/SNOMEDCT/735215001,UMLS_CUI:C0020538,0,8,treat
+asparagus,liver cancer,http://purl.bioontology.org/ontology/SNOMEDCT/227218003,UMLS_CUI:C0854795,0,18,treat
+banana,hypertension,http://purl.bioontology.org/ontology/SNOMEDCT/256307007,UMLS_CUI:C0020538,0,8,treat
+basil,pneumonia,http://purl.bioontology.org/ontology/SNOMEDCT/227388008,UMLS_CUI:C0032285,0,10,treat
+basil,pulmonary fibrosis,http://purl.bioontology.org/ontology/SNOMEDCT/227388008,UMLS_CUI:C0034069,0,10,treat
+beer,Alzheimer's disease,http://purl.bioontology.org/ontology/SNOMEDCT/53410008,UMLS_CUI:C0002395,0,6,treat
+beer,amnesia,http://purl.bioontology.org/ontology/SNOMEDCT/53410008,UMLS_CUI:C0002625,0,2,treat
+beer,diabetes,http://purl.bioontology.org/ontology/SNOMEDCT/35748005,UMLS_CUI:C0011849,0,4,treat
+beer,diabetes,http://purl.bioontology.org/ontology/SNOMEDCT/35748005***http://purl.bioontology.org/ontology/SNOMEDCT/58732000,UMLS_CUI:C0011849,0,4,treat
+biotin,type 2 diabetes,http://purl.bioontology.org/ontology/SNOMEDCT/227388008,UMLS_CUI:C0011860,0,9,treat
+black pepper,cancers,http://purl.bioontology.org/ontology/SNOMEDCT/412066006***http://purl.bioontology.org/ontology/SNOMEDCT/412060000,UMLS_CUI:C0006826,0,15,treat
+bread,type 2 diabetes,http://purl.bioontology.org/ontology/SNOMEDCT/226559002,UMLS_CUI:C0011860,0,3,treat
+broccoli,breast cancer,http://purl.bioontology.org/ontology/SNOMEDCT/735123009,UMLS_CUI:C0006142,0,2,treat
+buckwheat,atherosclerosis,http://purl.bioontology.org/ontology/SNOMEDCT/226723006,UMLS_CUI:C0004153,0,2,treat
+buckwheat,cancers,http://purl.bioontology.org/ontology/SNOMEDCT/226723006,UMLS_CUI:C0006826,0,2,treat
+buckwheat,constipation,http://purl.bioontology.org/ontology/SNOMEDCT/226723006,UMLS_CUI:C0009806,0,2,treat
+buckwheat,hypertension,http://purl.bioontology.org/ontology/SNOMEDCT/226723006,UMLS_CUI:C0020538,0,2,treat
+buckwheat,obesity,http://purl.bioontology.org/ontology/SNOMEDCT/226723006,UMLS_CUI:C0028754,0,2,treat
+cabbage,arthritis,http://purl.bioontology.org/ontology/SNOMEDCT/735108004,UMLS_CUI:C0003864,0,2,treat
+canola oil,diabetes,http://purl.bioontology.org/ontology/SNOMEDCT/713648000***http://purl.bioontology.org/ontology/SNOMEDCT/226908006,UMLS_CUI:C0011849,0,2,treat
+cauliflower,arthritis,http://purl.bioontology.org/ontology/SNOMEDCT/735336002,UMLS_CUI:C0003864,0,2,treat
+cheese,diabetes,http://purl.bioontology.org/ontology/SNOMEDCT/102262009***http://purl.bioontology.org/ontology/SNOMEDCT/443931000124105,UMLS_CUI:C0011849,0,5,treat
+cheese,diabetes,http://purl.bioontology.org/ontology/SNOMEDCT/102264005,UMLS_CUI:C0011849,0,5,treat
+cheese,hyperphosphatemia,http://purl.bioontology.org/ontology/SNOMEDCT/102264005,UMLS_CUI:C0085681,0,2,treat
+cheese,type 2 diabetes,http://purl.bioontology.org/ontology/SNOMEDCT/102264005,UMLS_CUI:C0011860,0,7,treat
+cheese,type 2 diabetes,http://purl.bioontology.org/ontology/SNOMEDCT/226863004,UMLS_CUI:C0011860,0,7,treat
+cheese,type 2 diabetes,http://purl.bioontology.org/ontology/SNOMEDCT/70813002,UMLS_CUI:C0011860,0,7,treat
+chicken,colorectal cancer,http://purl.bioontology.org/ontology/SNOMEDCT/226955001,UMLS_CUI:C0346629,0,5,treat
+chickpea flour,type 2 diabetes mellitus,http://purl.bioontology.org/ontology/SNOMEDCT/63766005,UMLS_CUI:C0011860,0,4,treat
+chives,colorectal cancer,http://purl.bioontology.org/ontology/SNOMEDCT/256326004,UMLS_CUI:C0346629,0,5,treat
+chives,prostate cancer,http://purl.bioontology.org/ontology/SNOMEDCT/735030001,UMLS_CUI:C0033578,0,18,treat
+chocolate,breast cancer,http://purl.bioontology.org/ontology/SNOMEDCT/102262009,UMLS_CUI:C0006142,0,10,treat
+chocolate,diabetes,http://purl.bioontology.org/ontology/SNOMEDCT/102262009,UMLS_CUI:C0011849,0,4,treat
+chocolate,metabolic syndrome,http://purl.bioontology.org/ontology/SNOMEDCT/102262009,UMLS_CUI:C0025517,0,3,treat
+chocolate,stroke,http://purl.bioontology.org/ontology/SNOMEDCT/102262009,UMLS_CUI:C0007820,0,3,treat
+chocolate consumption,stroke,http://purl.bioontology.org/ontology/SNOMEDCT/102262009,UMLS_CUI:C0007820,0,3,treat
+chocolate consumption,stroke,http://purl.bioontology.org/ontology/SNOMEDCT/16313001,UMLS_CUI:C0007820,0,3,treat
+cinnamon,Alzheimer's disease,http://purl.bioontology.org/ontology/SNOMEDCT/227388008,UMLS_CUI:C0002395,0,6,treat
+cinnamon,diabetes,http://purl.bioontology.org/ontology/SNOMEDCT/227388008,UMLS_CUI:C0011849,0,16,treat
+cinnamon,diabetes,http://purl.bioontology.org/ontology/SNOMEDCT/260177005,UMLS_CUI:C0011849,0,5,treat
+cinnamon,diabetes mellitus,http://purl.bioontology.org/ontology/SNOMEDCT/227388008,UMLS_CUI:C0011849,0,18,treat
+cinnamon,diarrhea,http://purl.bioontology.org/ontology/SNOMEDCT/227388008,UMLS_CUI:C0013369,0,3,treat
+cinnamon,gastric diseases,http://purl.bioontology.org/ontology/SNOMEDCT/227388008,UMLS_CUI:C0038354,0,3,treat
+cinnamon,glucose intolerance,http://purl.bioontology.org/ontology/SNOMEDCT/227388008,UMLS_CUI:C0271650,0,6,treat
+cinnamon,metabolic syndrome,http://purl.bioontology.org/ontology/SNOMEDCT/227388008,UMLS_CUI:C0025517,0,14,treat
+cinnamon,neurodegenerative diseases,http://purl.bioontology.org/ontology/SNOMEDCT/227400003,UMLS_CUI:C1285162,0,8,treat
+cinnamon,neurodegenerative diseases,http://purl.bioontology.org/ontology/SNOMEDCT/412066006***http://purl.bioontology.org/ontology/SNOMEDCT/260180006,UMLS_CUI:C1285162,0,8,treat
+cinnamon,neurodegenerative diseases,http://purl.bioontology.org/ontology/SNOMEDCT/412066006***http://purl.bioontology.org/ontology/SNOMEDCT/412060000,UMLS_CUI:C1285162,0,8,treat
+cinnamon,neurodegenerative diseases,http://purl.bioontology.org/ontology/SNOMEDCT/735030001,UMLS_CUI:C1285162,0,8,treat
+cinnamon,obesity,http://purl.bioontology.org/ontology/SNOMEDCT/227388008,UMLS_CUI:C0028754,0,6,treat
+cinnamon,type 2 diabetes,http://purl.bioontology.org/ontology/SNOMEDCT/227388008,UMLS_CUI:C0011860,0,40,treat
+cinnamon,type 2 diabetes mellitus,http://purl.bioontology.org/ontology/SNOMEDCT/227388008,UMLS_CUI:C0011860,0,6,treat
+cinnamon,type-2 diabetes,http://purl.bioontology.org/ontology/SNOMEDCT/227388008,UMLS_CUI:C0011860,0,7,treat
+cocoa,atherosclerosis,http://purl.bioontology.org/ontology/SNOMEDCT/29263009,UMLS_CUI:C0004153,0,4,treat
+cocoa,diabetes,http://purl.bioontology.org/ontology/SNOMEDCT/901000161107,UMLS_CUI:C0011849,0,10,treat
+cocoa,hypertension,http://purl.bioontology.org/ontology/SNOMEDCT/901000161107,UMLS_CUI:C0020538,0,2,treat
+cocoa,obesity,http://purl.bioontology.org/ontology/SNOMEDCT/901000161107,UMLS_CUI:C0028754,0,4,treat
+cocoa,type 2 diabetes,http://purl.bioontology.org/ontology/SNOMEDCT/901000161107,UMLS_CUI:C0011860,0,12,treat
+cocoa,type 2 diabetes mellitus,http://purl.bioontology.org/ontology/SNOMEDCT/901000161107,UMLS_CUI:C0011860,0,13,treat
+cocoa consumption,type 2 diabetes,http://purl.bioontology.org/ontology/SNOMEDCT/901000161107,UMLS_CUI:C0011860,0,12,treat
+coconut,atopic dermatitis,http://purl.bioontology.org/ontology/SNOMEDCT/735211005,UMLS_CUI:C0011615,0,10,treat
+coconut oil,Alzheimer's disease,http://purl.bioontology.org/ontology/SNOMEDCT/735211005***http://purl.bioontology.org/ontology/SNOMEDCT/28942008,UMLS_CUI:C0002395,0,4,treat
+coconut oil,atopic dermatitis,http://purl.bioontology.org/ontology/SNOMEDCT/735211005***http://purl.bioontology.org/ontology/SNOMEDCT/28942008,UMLS_CUI:C0011615,0,3,treat
+coffee,adenomas,http://purl.bioontology.org/ontology/SNOMEDCT/29263009,UMLS_CUI:C0334389,0,2,treat
+coffee,alcoholic liver cirrhosis,http://purl.bioontology.org/ontology/SNOMEDCT/29263009,UMLS_CUI:C0023891,0,2,treat
+coffee,atherosclerosis,http://purl.bioontology.org/ontology/SNOMEDCT/256317002,UMLS_CUI:C0004153,0,4,treat
+coffee,atherosclerosis,http://purl.bioontology.org/ontology/SNOMEDCT/29263009,UMLS_CUI:C0004153,0,4,treat
+coffee,atherosclerosis,http://purl.bioontology.org/ontology/SNOMEDCT/901000161107,UMLS_CUI:C0004153,0,4,treat
+coffee,diabetes,http://purl.bioontology.org/ontology/SNOMEDCT/29263009,UMLS_CUI:C0011849,0,3,treat
+coffee,gastric cancer,http://purl.bioontology.org/ontology/SNOMEDCT/29263009,UMLS_CUI:C0024623,0,4,treat
+coffee,gout,http://purl.bioontology.org/ontology/SNOMEDCT/29263009,UMLS_CUI:C0018099,0,3,treat
+coffee,hyperuricemia,http://purl.bioontology.org/ontology/SNOMEDCT/29263009,UMLS_CUI:C0740394,0,2,treat
+coffee,liver disease,http://purl.bioontology.org/ontology/SNOMEDCT/29263009,UMLS_CUI:C0023895,0,4,treat
+coffee,obesity,http://purl.bioontology.org/ontology/SNOMEDCT/29263009,UMLS_CUI:C0028754,0,4,treat
+coffee,type 2 diabetes,http://purl.bioontology.org/ontology/SNOMEDCT/29263009,UMLS_CUI:C0011860,0,2,treat
+coffee consumption,cancers,http://purl.bioontology.org/ontology/SNOMEDCT/29263009,UMLS_CUI:C0006826,0,2,treat
+coffee consumption,colon cancer,http://purl.bioontology.org/ontology/SNOMEDCT/29263009,UMLS_CUI:C0007102,0,2,treat
+cooked rice,atopic dermatitis,http://purl.bioontology.org/ontology/SNOMEDCT/67324005,UMLS_CUI:C0011615,0,4,treat
+coriander,neurodegenerative diseases,http://purl.bioontology.org/ontology/SNOMEDCT/735030001,UMLS_CUI:C1285162,0,8,treat
+corn,celiac disease,http://purl.bioontology.org/ontology/SNOMEDCT/412357001,UMLS_CUI:C0007570,0,2,treat
+corn,celiac disease,http://purl.bioontology.org/ontology/SNOMEDCT/67324005,UMLS_CUI:C0007570,0,2,treat
+corn,hypertension,http://purl.bioontology.org/ontology/SNOMEDCT/412357001,UMLS_CUI:C0020538,0,8,treat
+cream,peptic ulcer disease,http://purl.bioontology.org/ontology/SNOMEDCT/255621006,UMLS_CUI:C0030920,0,3,treat
+dried peas,type 2 diabetes,http://purl.bioontology.org/ontology/SNOMEDCT/260184002,UMLS_CUI:C0011860,0,4,treat
+eating yogurt,lactose intolerance,http://purl.bioontology.org/ontology/SNOMEDCT/102264005,UMLS_CUI:C0022951,0,4,treat
+eating yogurt,lactose intolerance,http://purl.bioontology.org/ontology/SNOMEDCT/226863004,UMLS_CUI:C0022951,0,4,treat
+egg yolk,chronic kidney disease,http://purl.bioontology.org/ontology/SNOMEDCT/256442007,UMLS_CUI:C0022661,0,3,treat
+eggs,diabetes,http://purl.bioontology.org/ontology/SNOMEDCT/102262009***http://purl.bioontology.org/ontology/SNOMEDCT/443931000124105,UMLS_CUI:C0011849,0,5,treat
+eggs,diabetes,http://purl.bioontology.org/ontology/SNOMEDCT/102264005,UMLS_CUI:C0011849,0,5,treat
+female,rectal cancer,http://purl.bioontology.org/ontology/SNOMEDCT/16313001,UMLS_CUI:C0949022,0,3,treat
+fenugreek,diabetes,http://purl.bioontology.org/ontology/SNOMEDCT/227388008,UMLS_CUI:C0011849,0,5,treat
+fenugreek,type 2 diabetes,http://purl.bioontology.org/ontology/SNOMEDCT/227388008,UMLS_CUI:C0011860,0,9,treat
+flour,spina bifida,http://purl.bioontology.org/ontology/SNOMEDCT/63766005,UMLS_CUI:C0080178,0,6,treat
+flour is,anaemia,http://purl.bioontology.org/ontology/SNOMEDCT/229944000***http://purl.bioontology.org/ontology/SNOMEDCT/63766005***http://purl.bioontology.org/ontology/SNOMEDCT/412071004,UMLS_CUI:C0002871,0,2,treat
+fruit,Alzheimer's disease,http://purl.bioontology.org/ontology/SNOMEDCT/72511004,UMLS_CUI:C0002395,0,2,treat
+fruit,allergic disease,http://purl.bioontology.org/ontology/SNOMEDCT/72511004,UMLS_CUI:C0020517,0,3,treat
+fruit,allergic rhinitis,http://purl.bioontology.org/ontology/SNOMEDCT/72511004,UMLS_CUI:C0002103,0,2,treat
+fruit,arthritis,http://purl.bioontology.org/ontology/SNOMEDCT/72511004,UMLS_CUI:C0003864,0,2,treat
+fruit,asthma,http://purl.bioontology.org/ontology/SNOMEDCT/72511004,UMLS_CUI:C0004096,0,5,treat
+fruit,bladder cancer,http://purl.bioontology.org/ontology/SNOMEDCT/72511004,UMLS_CUI:C0005684,0,10,treat
+fruit,bone diseases,http://purl.bioontology.org/ontology/SNOMEDCT/72511004,UMLS_CUI:C0005940,0,2,treat
+fruit,breast cancer,http://purl.bioontology.org/ontology/SNOMEDCT/72511004,UMLS_CUI:C0006142,0,5,treat
+fruit,cancers,http://purl.bioontology.org/ontology/SNOMEDCT/72511004,UMLS_CUI:C0006826,0,11,treat
+fruit,cataract,http://purl.bioontology.org/ontology/SNOMEDCT/72511004,UMLS_CUI:C0029531,0,3,treat
+fruit,colon cancer,http://purl.bioontology.org/ontology/SNOMEDCT/72511004,UMLS_CUI:C0007102,0,2,treat
+fruit,coronary heart disease,http://purl.bioontology.org/ontology/SNOMEDCT/72511004,UMLS_CUI:C0151744,0,12,treat
+fruit,degenerative diseases,http://purl.bioontology.org/ontology/SNOMEDCT/72511004,UMLS_CUI:C1285162,0,4,treat
+fruit,dementia,http://purl.bioontology.org/ontology/SNOMEDCT/72511004,UMLS_CUI:C0154319,0,5,treat
+fruit,diabetes,http://purl.bioontology.org/ontology/SNOMEDCT/72511004,UMLS_CUI:C0011849,0,3,treat
+fruit,gastric cancer,http://purl.bioontology.org/ontology/SNOMEDCT/72511004,UMLS_CUI:C0024623,0,8,treat
+fruit,gastrointestinal disorders,http://purl.bioontology.org/ontology/SNOMEDCT/72511004,UMLS_CUI:C0012242,0,2,treat
+fruit,gestational diabetes mellitus,http://purl.bioontology.org/ontology/SNOMEDCT/72511004,UMLS_CUI:C0085207,0,4,treat
+fruit,hypertension,http://purl.bioontology.org/ontology/SNOMEDCT/72511004,UMLS_CUI:C0020538,0,15,treat
+fruit,liver diseases,http://purl.bioontology.org/ontology/SNOMEDCT/72511004,UMLS_CUI:C0023895,0,2,treat
+fruit,nephritis,http://purl.bioontology.org/ontology/SNOMEDCT/72511004,UMLS_CUI:C0027697,0,2,treat
+fruit,neurodegenerative diseases,http://purl.bioontology.org/ontology/SNOMEDCT/72511004,UMLS_CUI:C1285162,0,3,treat
+fruit,obesity,http://purl.bioontology.org/ontology/SNOMEDCT/72511004,UMLS_CUI:C0028754,0,5,treat
+fruit,osteoporosis,http://purl.bioontology.org/ontology/SNOMEDCT/72511004,UMLS_CUI:C0029456,0,5,treat
+fruit,renal cell cancer,http://purl.bioontology.org/ontology/SNOMEDCT/72511004,UMLS_CUI:C0007134,0,6,treat
+fruit,renal cell carcinoma,http://purl.bioontology.org/ontology/SNOMEDCT/72511004,UMLS_CUI:C0007134,0,5,treat
+fruit,stroke,http://purl.bioontology.org/ontology/SNOMEDCT/72511004,UMLS_CUI:C0007820,0,16,treat
+fruit,type 2 diabetes,http://purl.bioontology.org/ontology/SNOMEDCT/72511004,UMLS_CUI:C0011860,0,2,treat
+fruits,cancers,http://purl.bioontology.org/ontology/SNOMEDCT/70813002,UMLS_CUI:C0006826,0,2,treat
+"fruits,",stroke,http://purl.bioontology.org/ontology/SNOMEDCT/41834005***http://purl.bioontology.org/ontology/SNOMEDCT/411317002,UMLS_CUI:C0007820,0,9,treat
+garlic,atherosclerosis,http://purl.bioontology.org/ontology/SNOMEDCT/735030001,UMLS_CUI:C0004153,0,9,treat
+garlic,breast cancer,http://purl.bioontology.org/ontology/SNOMEDCT/735030001,UMLS_CUI:C0006142,0,6,treat
+garlic,cancers,http://purl.bioontology.org/ontology/SNOMEDCT/735030001,UMLS_CUI:C0006826,0,35,treat
+garlic,colon cancer,http://purl.bioontology.org/ontology/SNOMEDCT/735030001,UMLS_CUI:C0007102,0,10,treat
+garlic,colorectal adenocarcinoma,http://purl.bioontology.org/ontology/SNOMEDCT/735030001,UMLS_CUI:C1319315,0,3,treat
+garlic,colorectal cancer,http://purl.bioontology.org/ontology/SNOMEDCT/735030001,UMLS_CUI:C0346629,0,3,treat
+garlic,diabetes,http://purl.bioontology.org/ontology/SNOMEDCT/735030001,UMLS_CUI:C0011849,0,5,treat
+garlic,dyslipidemia,http://purl.bioontology.org/ontology/SNOMEDCT/735030001,UMLS_CUI:C0023772,0,3,treat
+garlic,eclampsia,http://purl.bioontology.org/ontology/SNOMEDCT/735030001,UMLS_CUI:C0013537,0,2,treat
+garlic,gastric cancer,http://purl.bioontology.org/ontology/SNOMEDCT/735030001,UMLS_CUI:C0024623,0,8,treat
+garlic,gingivitis,http://purl.bioontology.org/ontology/SNOMEDCT/735030001,UMLS_CUI:C0008684,0,3,treat
+garlic,hyperglycemia,http://purl.bioontology.org/ontology/SNOMEDCT/735030001,UMLS_CUI:C0020456,0,2,treat
+garlic,hypertension,http://purl.bioontology.org/ontology/SNOMEDCT/735030001,UMLS_CUI:C0020538,0,16,treat
+garlic,liver cancer,http://purl.bioontology.org/ontology/SNOMEDCT/735030001,UMLS_CUI:C0854795,0,18,treat
+garlic,myocardial infarction,http://purl.bioontology.org/ontology/SNOMEDCT/735030001,UMLS_CUI:C0027051,0,2,treat
+garlic,neurodegenerative diseases,http://purl.bioontology.org/ontology/SNOMEDCT/227400003,UMLS_CUI:C1285162,0,8,treat
+garlic,periodontal diseases,http://purl.bioontology.org/ontology/SNOMEDCT/735030001,UMLS_CUI:C0031090,0,3,treat
+garlic,prostate cancer,http://purl.bioontology.org/ontology/SNOMEDCT/735030001,UMLS_CUI:C0033578,0,16,treat
+garlic,renal hypertension,http://purl.bioontology.org/ontology/SNOMEDCT/735030001,UMLS_CUI:C0020544,0,2,treat
+garlic,stroke,http://purl.bioontology.org/ontology/SNOMEDCT/735030001,UMLS_CUI:C0007820,0,6,treat
+ginger,Alzheimer's disease,http://purl.bioontology.org/ontology/SNOMEDCT/227400003,UMLS_CUI:C0002395,0,6,treat
+ginger,CRF,http://purl.bioontology.org/ontology/SNOMEDCT/227400003,UMLS_CUI:C0022661,0,3,treat
+ginger,asthma,http://purl.bioontology.org/ontology/SNOMEDCT/227400003,UMLS_CUI:C0004096,0,4,treat
+ginger,cancers,http://purl.bioontology.org/ontology/SNOMEDCT/227400003,UMLS_CUI:C0006826,0,18,treat
+ginger,chronic kidney diseases,http://purl.bioontology.org/ontology/SNOMEDCT/227400003,UMLS_CUI:C0022661,0,3,treat
+ginger,colon cancer,http://purl.bioontology.org/ontology/SNOMEDCT/227400003,UMLS_CUI:C0007102,0,2,treat
+ginger,colorectal cancer,http://purl.bioontology.org/ontology/SNOMEDCT/227400003,UMLS_CUI:C0346629,0,9,treat
+ginger,constipation,http://purl.bioontology.org/ontology/SNOMEDCT/227400003,UMLS_CUI:C0009806,0,7,treat
+ginger,diabetes,http://purl.bioontology.org/ontology/SNOMEDCT/227400003,UMLS_CUI:C0011849,0,23,treat
+ginger,diabetes mellitus,http://purl.bioontology.org/ontology/SNOMEDCT/227400003,UMLS_CUI:C0011849,0,6,treat
+ginger,diarrhea,http://purl.bioontology.org/ontology/SNOMEDCT/227400003,UMLS_CUI:C0013369,0,5,treat
+ginger,diarrhoea,http://purl.bioontology.org/ontology/SNOMEDCT/227400003,UMLS_CUI:C0013369,0,7,treat
+ginger,gastrointestinal disease,http://purl.bioontology.org/ontology/SNOMEDCT/227400003,UMLS_CUI:C0012242,0,3,treat
+ginger,heart diseases,http://purl.bioontology.org/ontology/SNOMEDCT/227400003,UMLS_CUI:C0018799,0,4,treat
+ginger,hepatic disorders,http://purl.bioontology.org/ontology/SNOMEDCT/227400003,UMLS_CUI:C0023895,0,5,treat
+ginger,hyperglycemia,http://purl.bioontology.org/ontology/SNOMEDCT/227400003,UMLS_CUI:C0020456,0,5,treat
+ginger,hypertension,http://purl.bioontology.org/ontology/SNOMEDCT/227400003,UMLS_CUI:C0020538,0,6,treat
+ginger,hypertension,http://purl.bioontology.org/ontology/SNOMEDCT/24515005,UMLS_CUI:C0020538,0,3,treat
+ginger,inflammatory bowel diseases,http://purl.bioontology.org/ontology/SNOMEDCT/227400003,UMLS_CUI:C0021390,0,2,treat
+ginger,irritable bowel syndrome,http://purl.bioontology.org/ontology/SNOMEDCT/227400003,UMLS_CUI:C0022104,0,9,treat
+ginger,liver cancer,http://purl.bioontology.org/ontology/SNOMEDCT/227400003,UMLS_CUI:C0854795,0,9,treat
+ginger,migraine,http://purl.bioontology.org/ontology/SNOMEDCT/227400003,UMLS_CUI:C0149931,0,7,treat
+ginger,motion sickness,http://purl.bioontology.org/ontology/SNOMEDCT/227400003,UMLS_CUI:C0026603,0,7,treat
+ginger,neurodegenerative diseases,http://purl.bioontology.org/ontology/SNOMEDCT/227400003,UMLS_CUI:C1285162,0,8,treat
+ginger,neurodegenerative diseases,http://purl.bioontology.org/ontology/SNOMEDCT/412066006***http://purl.bioontology.org/ontology/SNOMEDCT/260180006,UMLS_CUI:C1285162,0,8,treat
+ginger,neurodegenerative diseases,http://purl.bioontology.org/ontology/SNOMEDCT/412066006***http://purl.bioontology.org/ontology/SNOMEDCT/412060000,UMLS_CUI:C1285162,0,8,treat
+ginger,neurodegenerative diseases,http://purl.bioontology.org/ontology/SNOMEDCT/735030001,UMLS_CUI:C1285162,0,8,treat
+ginger,obesity,http://purl.bioontology.org/ontology/SNOMEDCT/227400003,UMLS_CUI:C0028754,0,9,treat
+ginger,sinusitis,http://purl.bioontology.org/ontology/SNOMEDCT/227400003,UMLS_CUI:C0149512,0,5,treat
+ginseng,type 2 diabetes,http://purl.bioontology.org/ontology/SNOMEDCT/227388008,UMLS_CUI:C0011860,0,9,treat
+grape juice,hypertension,http://purl.bioontology.org/ontology/SNOMEDCT/226492005***http://purl.bioontology.org/ontology/SNOMEDCT/129559002,UMLS_CUI:C0020538,0,3,treat
+grapefruit,Parkinson's disease,http://purl.bioontology.org/ontology/SNOMEDCT/256315005,UMLS_CUI:C0030567,0,3,treat
+grapefruit,hypertension,http://purl.bioontology.org/ontology/SNOMEDCT/256315005,UMLS_CUI:C0020538,0,5,treat
+grapes,atherosclerosis,http://purl.bioontology.org/ontology/SNOMEDCT/901000161107,UMLS_CUI:C0004153,0,4,treat
+grapes,breast cancer,http://purl.bioontology.org/ontology/SNOMEDCT/256317002,UMLS_CUI:C0006142,0,10,treat
+green tea,diabetes,http://purl.bioontology.org/ontology/SNOMEDCT/29263009,UMLS_CUI:C0011849,0,3,treat
+green tea,diabetes,http://purl.bioontology.org/ontology/SNOMEDCT/901000161107,UMLS_CUI:C0011849,0,3,treat
+green tea,prostate cancer,http://purl.bioontology.org/ontology/SNOMEDCT/735030001,UMLS_CUI:C0033578,0,14,treat
+hawthorn,Hypertension,http://purl.bioontology.org/ontology/SNOMEDCT/227400003,UMLS_CUI:C0020538,0,11,treat
+honey,amnesia,http://purl.bioontology.org/ontology/SNOMEDCT/227598003,UMLS_CUI:C0002625,0,2,treat
+honey,colorectal cancer,http://purl.bioontology.org/ontology/SNOMEDCT/227598003,UMLS_CUI:C0346629,0,5,treat
+honey,eczema,http://purl.bioontology.org/ontology/SNOMEDCT/227598003,UMLS_CUI:C0011603,0,3,treat
+honey,metabolic syndrome,http://purl.bioontology.org/ontology/SNOMEDCT/227598003,UMLS_CUI:C0025517,0,6,treat
+honey,psoriasis,http://purl.bioontology.org/ontology/SNOMEDCT/227598003,UMLS_CUI:C0033860,0,3,treat
+honey,stroke,http://purl.bioontology.org/ontology/SNOMEDCT/227598003,UMLS_CUI:C0007820,0,2,treat
+honey,type 2 diabetes,http://purl.bioontology.org/ontology/SNOMEDCT/227598003,UMLS_CUI:C0011860,0,4,treat
+honey,urinary tract infections,http://purl.bioontology.org/ontology/SNOMEDCT/227598003,UMLS_CUI:C0149523,0,3,treat
+lemon,Alzheimer's disease,http://purl.bioontology.org/ontology/SNOMEDCT/735340006,UMLS_CUI:C0002395,0,3,treat
+lemon,gastritis,http://purl.bioontology.org/ontology/SNOMEDCT/735340006,UMLS_CUI:C0017152,0,2,treat
+lemon,gastroesophageal reflux,http://purl.bioontology.org/ontology/SNOMEDCT/735340006,UMLS_CUI:C0017168,0,2,treat
+lemon,pneumonia,http://purl.bioontology.org/ontology/SNOMEDCT/735030001,UMLS_CUI:C0032285,0,10,treat
+lemon,pulmonary fibrosis,http://purl.bioontology.org/ontology/SNOMEDCT/735030001,UMLS_CUI:C0034069,0,10,treat
+lentils,type 2 diabetes,http://purl.bioontology.org/ontology/SNOMEDCT/227350006,UMLS_CUI:C0011860,0,4,treat
+manner,motion sickness,http://purl.bioontology.org/ontology/SNOMEDCT/227400003,UMLS_CUI:C0026603,0,2,treat
+meat,Hypertension,http://purl.bioontology.org/ontology/SNOMEDCT/28647000,UMLS_CUI:C0020538,0,11,treat
+meat,hypertension,http://purl.bioontology.org/ontology/SNOMEDCT/28647000,UMLS_CUI:C0020538,0,7,treat
+milk,cancers,http://purl.bioontology.org/ontology/SNOMEDCT/70813002,UMLS_CUI:C0006826,0,8,treat
+milk,dementia,http://purl.bioontology.org/ontology/SNOMEDCT/70813002,UMLS_CUI:C0154319,0,3,treat
+milk,diabetes,http://purl.bioontology.org/ontology/SNOMEDCT/70813002,UMLS_CUI:C0011849,0,15,treat
+milk,food allergies,http://purl.bioontology.org/ontology/SNOMEDCT/70813002,UMLS_CUI:C0016470,0,12,treat
+milk,gout,http://purl.bioontology.org/ontology/SNOMEDCT/70813002,UMLS_CUI:C0018099,0,3,treat
+milk,hereditary angioedema,http://purl.bioontology.org/ontology/SNOMEDCT/70813002,UMLS_CUI:C0019243,0,2,treat
+milk,lactose intolerance,http://purl.bioontology.org/ontology/SNOMEDCT/70813002,UMLS_CUI:C0022951,0,2,treat
+milk,liver disease,http://purl.bioontology.org/ontology/SNOMEDCT/70813002,UMLS_CUI:C0023895,0,9,treat
+milk,liver diseases,http://purl.bioontology.org/ontology/SNOMEDCT/70813002,UMLS_CUI:C0023895,0,21,treat
+milk,metabolic syndrome,http://purl.bioontology.org/ontology/SNOMEDCT/70813002,UMLS_CUI:C0025517,0,4,treat
+milk,stroke,http://purl.bioontology.org/ontology/SNOMEDCT/70813002,UMLS_CUI:C0007820,0,7,treat
+milk,type 2 diabetes,http://purl.bioontology.org/ontology/SNOMEDCT/70813002,UMLS_CUI:C0011860,0,2,treat
+milk products,hypertension,http://purl.bioontology.org/ontology/SNOMEDCT/70813002,UMLS_CUI:C0020538,0,4,treat
+nuts,atherosclerosis,http://purl.bioontology.org/ontology/SNOMEDCT/256317002,UMLS_CUI:C0004153,0,4,treat
+nuts,atherosclerosis,http://purl.bioontology.org/ontology/SNOMEDCT/29263009,UMLS_CUI:C0004153,0,4,treat
+nuts,atherosclerosis,http://purl.bioontology.org/ontology/SNOMEDCT/901000161107,UMLS_CUI:C0004153,0,4,treat
+nuts,epilepsy,http://purl.bioontology.org/ontology/SNOMEDCT/41834005***http://purl.bioontology.org/ontology/SNOMEDCT/411317002,UMLS_CUI:C0014544,0,6,treat
+nuts,stroke,http://purl.bioontology.org/ontology/SNOMEDCT/41834005***http://purl.bioontology.org/ontology/SNOMEDCT/411317002,UMLS_CUI:C0007820,0,6,treat
+nuts,type 2 diabetes,http://purl.bioontology.org/ontology/SNOMEDCT/227388008,UMLS_CUI:C0011860,0,3,treat
+oatmeal,atopic dermatitis,http://purl.bioontology.org/ontology/SNOMEDCT/226725004,UMLS_CUI:C0011615,0,3,treat
+oats,celiac disease,http://purl.bioontology.org/ontology/SNOMEDCT/9424004***http://purl.bioontology.org/ontology/SNOMEDCT/418504009,UMLS_CUI:C0007570,0,5,treat
+oats,coeliac disease,http://purl.bioontology.org/ontology/SNOMEDCT/9424004***http://purl.bioontology.org/ontology/SNOMEDCT/418504009,UMLS_CUI:C0007570,0,5,treat
+oats,colorectal cancer,http://purl.bioontology.org/ontology/SNOMEDCT/9424004***http://purl.bioontology.org/ontology/SNOMEDCT/418504009,UMLS_CUI:C0346629,0,5,treat
+oats,inflammatory bowel disease,http://purl.bioontology.org/ontology/SNOMEDCT/9424004***http://purl.bioontology.org/ontology/SNOMEDCT/418504009,UMLS_CUI:C0021390,0,5,treat
+oil or,diabetes,http://purl.bioontology.org/ontology/SNOMEDCT/41834005***http://purl.bioontology.org/ontology/SNOMEDCT/411317002,UMLS_CUI:C0011849,0,7,treat
+oil or,metabolic syndrome,http://purl.bioontology.org/ontology/SNOMEDCT/41834005***http://purl.bioontology.org/ontology/SNOMEDCT/411317002,UMLS_CUI:C0025517,0,7,treat
+olive oil,Alzheimer's disease,http://purl.bioontology.org/ontology/SNOMEDCT/41834005***http://purl.bioontology.org/ontology/SNOMEDCT/411317002,UMLS_CUI:C0002395,0,3,treat
+olive oil,Breast Cancer,http://purl.bioontology.org/ontology/SNOMEDCT/41834005***http://purl.bioontology.org/ontology/SNOMEDCT/411317002,UMLS_CUI:C0006142,0,5,treat
+olive oil,atherosclerosis,http://purl.bioontology.org/ontology/SNOMEDCT/41834005***http://purl.bioontology.org/ontology/SNOMEDCT/411317002,UMLS_CUI:C0004153,0,3,treat
+olive oil,breast cancer,http://purl.bioontology.org/ontology/SNOMEDCT/41834005***http://purl.bioontology.org/ontology/SNOMEDCT/411317002,UMLS_CUI:C0006142,0,21,treat
+olive oil,breast tumor,http://purl.bioontology.org/ontology/SNOMEDCT/41834005***http://purl.bioontology.org/ontology/SNOMEDCT/411317002,UMLS_CUI:C0006142,0,4,treat
+olive oil,cancers,http://purl.bioontology.org/ontology/SNOMEDCT/41834005***http://purl.bioontology.org/ontology/SNOMEDCT/411317002,UMLS_CUI:C0006826,0,16,treat
+olive oil,coronary heart disease,http://purl.bioontology.org/ontology/SNOMEDCT/41834005***http://purl.bioontology.org/ontology/SNOMEDCT/411317002,UMLS_CUI:C0151744,0,16,treat
+olive oil,dementia,http://purl.bioontology.org/ontology/SNOMEDCT/41834005***http://purl.bioontology.org/ontology/SNOMEDCT/411317002,UMLS_CUI:C0154319,0,11,treat
+olive oil,diabetes,http://purl.bioontology.org/ontology/SNOMEDCT/41834005***http://purl.bioontology.org/ontology/SNOMEDCT/411317002,UMLS_CUI:C0011849,0,10,treat
+olive oil,epilepsy,http://purl.bioontology.org/ontology/SNOMEDCT/41834005***http://purl.bioontology.org/ontology/SNOMEDCT/411317002,UMLS_CUI:C0014544,0,6,treat
+olive oil,gastric cancer,http://purl.bioontology.org/ontology/SNOMEDCT/41834005***http://purl.bioontology.org/ontology/SNOMEDCT/411317002,UMLS_CUI:C0024623,0,4,treat
+olive oil,hypertension,http://purl.bioontology.org/ontology/SNOMEDCT/41834005***http://purl.bioontology.org/ontology/SNOMEDCT/411317002,UMLS_CUI:C0020538,0,10,treat
+olive oil,metabolic diseases,http://purl.bioontology.org/ontology/SNOMEDCT/41834005***http://purl.bioontology.org/ontology/SNOMEDCT/411317002,UMLS_CUI:C0025517,0,3,treat
+olive oil,metabolic syndrome,http://purl.bioontology.org/ontology/SNOMEDCT/41834005***http://purl.bioontology.org/ontology/SNOMEDCT/411317002,UMLS_CUI:C0025517,0,3,treat
+olive oil,neurodegenerative disease,http://purl.bioontology.org/ontology/SNOMEDCT/41834005***http://purl.bioontology.org/ontology/SNOMEDCT/411317002,UMLS_CUI:C1285162,0,7,treat
+olive oil,neurodegenerative diseases,http://purl.bioontology.org/ontology/SNOMEDCT/41834005***http://purl.bioontology.org/ontology/SNOMEDCT/411317002,UMLS_CUI:C1285162,0,37,treat
+olive oil,obesity,http://purl.bioontology.org/ontology/SNOMEDCT/41834005***http://purl.bioontology.org/ontology/SNOMEDCT/411317002,UMLS_CUI:C0028754,0,3,treat
+olive oil,osteoporosis,http://purl.bioontology.org/ontology/SNOMEDCT/41834005***http://purl.bioontology.org/ontology/SNOMEDCT/411317002,UMLS_CUI:C0029456,0,4,treat
+olive oil,stroke,http://purl.bioontology.org/ontology/SNOMEDCT/41834005***http://purl.bioontology.org/ontology/SNOMEDCT/411317002,UMLS_CUI:C0007820,0,16,treat
+olive oil,type 2 diabetes,http://purl.bioontology.org/ontology/SNOMEDCT/41834005***http://purl.bioontology.org/ontology/SNOMEDCT/411317002,UMLS_CUI:C0011860,0,19,treat
+olive oil mixture,eczema,http://purl.bioontology.org/ontology/SNOMEDCT/227598003,UMLS_CUI:C0011603,0,3,treat
+olive oil mixture,psoriasis,http://purl.bioontology.org/ontology/SNOMEDCT/227598003,UMLS_CUI:C0033860,0,3,treat
+onion,breast cancer,http://purl.bioontology.org/ontology/SNOMEDCT/735047000,UMLS_CUI:C0006142,0,4,treat
+onion,hypertension,http://purl.bioontology.org/ontology/SNOMEDCT/735047000,UMLS_CUI:C0020538,0,8,treat
+other dairy,heart disease,http://purl.bioontology.org/ontology/SNOMEDCT/226863004,UMLS_CUI:C0018799,0,6,treat
+other dairy,hypertension,http://purl.bioontology.org/ontology/SNOMEDCT/226863004,UMLS_CUI:C0020538,0,6,treat
+other dairy,obesity,http://purl.bioontology.org/ontology/SNOMEDCT/226863004,UMLS_CUI:C0028754,0,6,treat
+other dairy,type 2 diabetes,http://purl.bioontology.org/ontology/SNOMEDCT/226863004,UMLS_CUI:C0011860,0,6,treat
+other fruits,prostate cancer,http://purl.bioontology.org/ontology/SNOMEDCT/419420009,UMLS_CUI:C0033578,0,5,treat
+other fruits,prostate cancer,http://purl.bioontology.org/ontology/SNOMEDCT/734881000,UMLS_CUI:C0033578,0,5,treat
+papaya,prostate cancer,http://purl.bioontology.org/ontology/SNOMEDCT/419420009,UMLS_CUI:C0033578,0,5,treat
+papaya,prostate cancer,http://purl.bioontology.org/ontology/SNOMEDCT/734881000,UMLS_CUI:C0033578,0,5,treat
+pear,diabetes mellitus,http://purl.bioontology.org/ontology/SNOMEDCT/735050002,UMLS_CUI:C0011849,0,2,treat
+pear,metabolic diseases,http://purl.bioontology.org/ontology/SNOMEDCT/735050002,UMLS_CUI:C0025517,0,2,treat
+peas,diabetes,http://purl.bioontology.org/ontology/SNOMEDCT/260184002,UMLS_CUI:C0011849,0,3,treat
+potato,renal cell carcinoma,http://purl.bioontology.org/ontology/SNOMEDCT/735053000,UMLS_CUI:C0007134,0,20,treat
+prickly pear,diabetes,http://purl.bioontology.org/ontology/SNOMEDCT/70813002,UMLS_CUI:C0011849,0,3,treat
+pulses,type 2 diabetes,http://purl.bioontology.org/ontology/SNOMEDCT/227350006,UMLS_CUI:C0011860,0,4,treat
+pulses,type 2 diabetes,http://purl.bioontology.org/ontology/SNOMEDCT/260184002,UMLS_CUI:C0011860,0,4,treat
+pumpkin,diabetes,http://purl.bioontology.org/ontology/SNOMEDCT/227260004,UMLS_CUI:C0011849,0,2,treat
+raspberries,arthritis,http://purl.bioontology.org/ontology/SNOMEDCT/227444000,UMLS_CUI:C0003864,0,3,treat
+red onion,ovarian cancer,http://purl.bioontology.org/ontology/SNOMEDCT/442361000124108***http://purl.bioontology.org/ontology/SNOMEDCT/735047000,UMLS_CUI:C1299247,0,2,treat
+red wine,Breast Cancer,http://purl.bioontology.org/ontology/SNOMEDCT/35748005***http://purl.bioontology.org/ontology/SNOMEDCT/58732000,UMLS_CUI:C0006142,0,15,treat
+red wine,cerebrovascular disease,http://purl.bioontology.org/ontology/SNOMEDCT/35748005***http://purl.bioontology.org/ontology/SNOMEDCT/58732000,UMLS_CUI:C0007820,0,3,treat
+red wine,coronary heart disease,http://purl.bioontology.org/ontology/SNOMEDCT/35748005,UMLS_CUI:C0151744,0,2,treat
+red wine,coronary heart disease,http://purl.bioontology.org/ontology/SNOMEDCT/35748005***http://purl.bioontology.org/ontology/SNOMEDCT/58732000,UMLS_CUI:C0151744,0,11,treat
+red wine,coronary heart diseases,http://purl.bioontology.org/ontology/SNOMEDCT/35748005***http://purl.bioontology.org/ontology/SNOMEDCT/58732000,UMLS_CUI:C0151744,0,2,treat
+red wine,dementia,http://purl.bioontology.org/ontology/SNOMEDCT/35748005***http://purl.bioontology.org/ontology/SNOMEDCT/58732000,UMLS_CUI:C0154319,0,2,treat
+red wine,diabetes,http://purl.bioontology.org/ontology/SNOMEDCT/35748005***http://purl.bioontology.org/ontology/SNOMEDCT/58732000,UMLS_CUI:C0011849,0,6,treat
+red wine,lung cancer,http://purl.bioontology.org/ontology/SNOMEDCT/35748005***http://purl.bioontology.org/ontology/SNOMEDCT/58732000,UMLS_CUI:C0024624,0,2,treat
+red wine,mammary tumors,http://purl.bioontology.org/ontology/SNOMEDCT/35748005***http://purl.bioontology.org/ontology/SNOMEDCT/58732000,UMLS_CUI:C0006142,0,3,treat
+red wine,type 2 diabetes,http://purl.bioontology.org/ontology/SNOMEDCT/35748005***http://purl.bioontology.org/ontology/SNOMEDCT/58732000,UMLS_CUI:C0011860,0,4,treat
+red wine,vascular diseases,http://purl.bioontology.org/ontology/SNOMEDCT/35748005***http://purl.bioontology.org/ontology/SNOMEDCT/58732000,UMLS_CUI:C0752127,0,2,treat
+rice,atopic dermatitis,http://purl.bioontology.org/ontology/SNOMEDCT/67324005,UMLS_CUI:C0011615,0,3,treat
+rice,diabetes,http://purl.bioontology.org/ontology/SNOMEDCT/67324005,UMLS_CUI:C0011849,0,3,treat
+saffron,asthma,http://purl.bioontology.org/ontology/SNOMEDCT/735010000,UMLS_CUI:C0004096,0,3,treat
+saffron,cancers,http://purl.bioontology.org/ontology/SNOMEDCT/735010000,UMLS_CUI:C0006826,0,15,treat
+strawberries,arthritis,http://purl.bioontology.org/ontology/SNOMEDCT/102261002,UMLS_CUI:C0003864,0,3,treat
+sweet potato,malignant tumor,http://purl.bioontology.org/ontology/SNOMEDCT/735053000***http://purl.bioontology.org/ontology/SNOMEDCT/735004000,UMLS_CUI:C0006826,0,2,treat
+sweet potato,renal cell carcinoma,http://purl.bioontology.org/ontology/SNOMEDCT/735053000***http://purl.bioontology.org/ontology/SNOMEDCT/735004000,UMLS_CUI:C0007134,0,20,treat
+tea,breast cancer,http://purl.bioontology.org/ontology/SNOMEDCT/16313001,UMLS_CUI:C0006142,0,10,treat
+tea,colon cancer,http://purl.bioontology.org/ontology/SNOMEDCT/735030001,UMLS_CUI:C0007102,0,9,treat
+tea,colorectal cancer,http://purl.bioontology.org/ontology/SNOMEDCT/16313001,UMLS_CUI:C0346629,0,3,treat
+tea,dementia,http://purl.bioontology.org/ontology/SNOMEDCT/901000161107,UMLS_CUI:C0154319,0,2,treat
+tea,diabetes,http://purl.bioontology.org/ontology/SNOMEDCT/16313001,UMLS_CUI:C0011849,0,6,treat
+tea,hypertension,http://purl.bioontology.org/ontology/SNOMEDCT/16313001,UMLS_CUI:C0020538,0,5,treat
+tea,liver disease,http://purl.bioontology.org/ontology/SNOMEDCT/16313001,UMLS_CUI:C0023895,0,2,treat
+tea,obesity,http://purl.bioontology.org/ontology/SNOMEDCT/16313001,UMLS_CUI:C0028754,0,3,treat
+tea,obesity,http://purl.bioontology.org/ontology/SNOMEDCT/29263009,UMLS_CUI:C0028754,0,4,treat
+tea,obesity,http://purl.bioontology.org/ontology/SNOMEDCT/35748005,UMLS_CUI:C0028754,0,4,treat
+tea,osteoporosis,http://purl.bioontology.org/ontology/SNOMEDCT/16313001,UMLS_CUI:C0029456,0,2,treat
+tea,stroke,http://purl.bioontology.org/ontology/SNOMEDCT/16313001,UMLS_CUI:C0007820,0,4,treat
+thistle,Type 2 diabetes mellitus,http://purl.bioontology.org/ontology/SNOMEDCT/70813002,UMLS_CUI:C0011860,0,6,treat
+thistle,liver diseases,http://purl.bioontology.org/ontology/SNOMEDCT/70813002,UMLS_CUI:C0023895,0,7,treat
+tofu,prostate cancer,http://purl.bioontology.org/ontology/SNOMEDCT/227365007,UMLS_CUI:C0033578,0,2,treat
+tomato,cancers,http://purl.bioontology.org/ontology/SNOMEDCT/734881000,UMLS_CUI:C0006826,0,3,treat
+tomato,gastritis,http://purl.bioontology.org/ontology/SNOMEDCT/734881000,UMLS_CUI:C0017152,0,2,treat
+tomato,gastroesophageal reflux,http://purl.bioontology.org/ontology/SNOMEDCT/734881000,UMLS_CUI:C0017168,0,2,treat
+tomato,prostate cancer,http://purl.bioontology.org/ontology/SNOMEDCT/734881000,UMLS_CUI:C0033578,0,23,treat
+tomato sauce,prostate cancer,http://purl.bioontology.org/ontology/SNOMEDCT/227519005***http://purl.bioontology.org/ontology/SNOMEDCT/734881000***http://purl.bioontology.org/ontology/SNOMEDCT/227536002,UMLS_CUI:C0033578,0,15,treat
+turmeric,liver cancer,http://purl.bioontology.org/ontology/SNOMEDCT/227218003,UMLS_CUI:C0854795,0,9,treat
+turmeric,liver cancer,http://purl.bioontology.org/ontology/SNOMEDCT/227400003,UMLS_CUI:C0854795,0,9,treat
+turmeric,liver cancer,http://purl.bioontology.org/ontology/SNOMEDCT/256317002,UMLS_CUI:C0854795,0,9,treat
+turmeric,liver cancer,http://purl.bioontology.org/ontology/SNOMEDCT/735030001,UMLS_CUI:C0854795,0,9,treat
+vegetables,gastric cancer,http://purl.bioontology.org/ontology/SNOMEDCT/72511004,UMLS_CUI:C0024623,0,8,treat
+vinegar,diabetes,http://purl.bioontology.org/ontology/SNOMEDCT/227388008,UMLS_CUI:C0011849,0,5,treat
+vinegar,diabetes,http://purl.bioontology.org/ontology/SNOMEDCT/260177005,UMLS_CUI:C0011849,0,5,treat
+watermelon,hypertension,http://purl.bioontology.org/ontology/SNOMEDCT/419420009,UMLS_CUI:C0020538,0,8,treat
+watermelon,prostate cancer,http://purl.bioontology.org/ontology/SNOMEDCT/419420009,UMLS_CUI:C0033578,0,5,treat
+well-known spice,hypertension,http://purl.bioontology.org/ontology/SNOMEDCT/24515005,UMLS_CUI:C0020538,0,3,treat
+wheat flour,allergic disease,http://purl.bioontology.org/ontology/SNOMEDCT/229944000***http://purl.bioontology.org/ontology/SNOMEDCT/63766005***http://purl.bioontology.org/ontology/SNOMEDCT/412071004,UMLS_CUI:C0020517,0,5,treat
+wheat flour,spina bifida,http://purl.bioontology.org/ontology/SNOMEDCT/229944000***http://purl.bioontology.org/ontology/SNOMEDCT/63766005***http://purl.bioontology.org/ontology/SNOMEDCT/412071004,UMLS_CUI:C0080178,0,3,treat
+whey,type 2 diabetes,http://purl.bioontology.org/ontology/SNOMEDCT/102264005,UMLS_CUI:C0011860,0,7,treat
+whey,type 2 diabetes,http://purl.bioontology.org/ontology/SNOMEDCT/226863004,UMLS_CUI:C0011860,0,7,treat
+whey,type 2 diabetes,http://purl.bioontology.org/ontology/SNOMEDCT/70813002,UMLS_CUI:C0011860,0,7,treat
+white wine,diabetes,http://purl.bioontology.org/ontology/SNOMEDCT/35748005,UMLS_CUI:C0011849,0,4,treat
+white wine,diabetes,http://purl.bioontology.org/ontology/SNOMEDCT/35748005***http://purl.bioontology.org/ontology/SNOMEDCT/58732000,UMLS_CUI:C0011849,0,4,treat
+wine,atherosclerosis,http://purl.bioontology.org/ontology/SNOMEDCT/35748005,UMLS_CUI:C0004153,0,3,treat
+wine,coronary disease,http://purl.bioontology.org/ontology/SNOMEDCT/35748005,UMLS_CUI:C0151744,0,8,treat
+wine,obesity,http://purl.bioontology.org/ontology/SNOMEDCT/35748005,UMLS_CUI:C0028754,0,4,treat
+yogurt,breast cancer,http://purl.bioontology.org/ontology/SNOMEDCT/226863004,UMLS_CUI:C0006142,0,15,treat
+yogurt,heart disease,http://purl.bioontology.org/ontology/SNOMEDCT/226863004,UMLS_CUI:C0018799,0,6,treat
+yogurt,hyperphosphatemia,http://purl.bioontology.org/ontology/SNOMEDCT/226863004,UMLS_CUI:C0085681,0,2,treat
+yogurt,hypertension,http://purl.bioontology.org/ontology/SNOMEDCT/226863004,UMLS_CUI:C0020538,0,6,treat
+yogurt,obesity,http://purl.bioontology.org/ontology/SNOMEDCT/226863004,UMLS_CUI:C0028754,0,6,treat
+yogurt,type 2 diabetes,http://purl.bioontology.org/ontology/SNOMEDCT/102264005,UMLS_CUI:C0011860,0,7,treat
+yogurt,type 2 diabetes,http://purl.bioontology.org/ontology/SNOMEDCT/226863004,UMLS_CUI:C0011860,0,14,treat
+yogurt,type 2 diabetes,http://purl.bioontology.org/ontology/SNOMEDCT/70813002,UMLS_CUI:C0011860,0,7,treat

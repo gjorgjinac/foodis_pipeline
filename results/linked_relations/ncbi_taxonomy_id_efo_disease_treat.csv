@@ -1,0 +1,108 @@
+term1,term2,ncbi_taxonomy_id,efo_disease,is_cause,is_treat,relation
+allium sativum,anemia,4682.0,EFO:0004272,0,2,treat
+allium sativum,asthma,4682.0,EFO:0000270,0,6,treat
+allium sativum,atherosclerosis,4682.0,EFO:0003914,0,2,treat
+allium sativum,hypertension,4682.0,EFO:0000537,0,5,treat
+allium sativum,kidney diseases,4682.0,EFO:0003086,0,4,treat
+allium sativum,malaria,4682.0,EFO:0001068,0,4,treat
+apium graveolens,hypertension,4045.0,EFO:0000537,0,3,treat
+apple,hypertension,283210.0,EFO:0000537,0,8,treat
+avena sativa,atopic dermatitis,4498.0,EFO:0000274,0,2,treat
+banana,hypertension,4641.0,EFO:0000537,0,8,treat
+camellia sinensis,hypertension,4442.0,EFO:0000537,0,2,treat
+camellia sinensis,obesity,4442.0,EFO:0001073,0,3,treat
+capsicum,hypertension,4071.0,EFO:0000537,0,3,treat
+capsicum,psoriasis,4071.0,EFO:0000676,0,2,treat
+capsicum annuum,anemia,4072.0,EFO:0004272,0,12,treat
+capsicum annuum,asthma,4072.0,EFO:0000270,0,12,treat
+cichorium intybus,type 2 diabetes mellitus,13427.0,EFO:0001360,0,3,treat
+cinnamomum,type 2 diabetes mellitus,13428.0,EFO:0001360,0,6,treat
+cinnamon,Alzheimer's disease,13428.0,EFO:0000249,0,10,treat
+cinnamon,obesity,13428.0,EFO:0001073,0,6,treat
+cinnamon,type 2 diabetes,13428.0,EFO:0001360,0,63,treat
+cinnamon,type 2 diabetes mellitus,13428.0,EFO:0001360,0,6,treat
+cinnamon,type-2 diabetes,13428.0,EFO:0001360,0,7,treat
+citrus maxima,hypertension,37334.0,EFO:0000537,0,2,treat
+coconut,atopic dermatitis,13894.0,EFO:0000274,0,10,treat
+coffee,atherosclerosis,13442.0,EFO:0003914,0,12,treat
+coffee,gout,13442.0,EFO:0004274,0,3,treat
+coffee,obesity,13442.0,EFO:0001073,0,4,treat
+coffee,type 2 diabetes,13442.0,EFO:0001360,0,4,treat
+corn,celiac disease,4577.0,EFO:0001060,0,6,treat
+corn,hypertension,4577.0,EFO:0000537,0,8,treat
+crocus sativus,asthma,82528.0,EFO:0000270,0,2,treat
+curcuma longa,asthma,136217.0,EFO:0000270,0,4,treat
+curcuma longa,obesity,136217.0,EFO:0001073,0,5,treat
+curcuma longa,rheumatoid arthritis,136217.0,EFO:0000685,0,2,treat
+diospyros,impotence,13492.0,EFO:0004234,0,2,treat
+fenugreek,type 2 diabetes,78534.0,EFO:0001360,0,9,treat
+garlic,atherosclerosis,4682.0,EFO:0003914,0,23,treat
+garlic,hepatoma,4682.0,EFO:0000182,0,3,treat
+garlic,hypertension,4682.0,EFO:0000537,0,29,treat
+garlic,kidney diseases,4682.0,EFO:0003086,0,4,treat
+garlic,malaria,4682.0,EFO:0001068,0,4,treat
+garlic,myocardial infarction,4682.0,EFO:0000612,0,2,treat
+garlic,stroke,4682.0,EFO:0000712,0,6,treat
+ginger,Alzheimer's disease,94328.0,EFO:0000249,0,9,treat
+ginger,asthma,94328.0,EFO:0000270,0,7,treat
+ginger,hypertension,94328.0,EFO:0000537,0,13,treat
+ginger,inflammatory bowel diseases,94328.0,EFO:0003767,0,2,treat
+ginger,migraine,94328.0,EFO:0003821,0,8,treat
+ginger,obesity,94328.0,EFO:0001073,0,14,treat
+ginkgo biloba,asthma,3311.0,EFO:0000270,0,4,treat
+ginseng,hypertension,4054.0,EFO:0000537,0,3,treat
+ginseng,migraine,4054.0,EFO:0003821,0,3,treat
+ginseng,obesity,4054.0,EFO:0001073,0,4,treat
+ginseng,stroke,4054.0,EFO:0000712,0,2,treat
+ginseng,type 2 diabetes,4054.0,EFO:0001360,0,22,treat
+glycine max,osteoporosis,3847.0,EFO:0003882,0,2,treat
+grape,atherosclerosis,3603.0,EFO:0003914,0,3,treat
+grapefruit,Parkinson's disease,37656.0,EFO:0002508,0,3,treat
+grapefruit,hypertension,37656.0,EFO:0000537,0,5,treat
+hibiscus sabdariffa,hypertension,183260.0,EFO:0000537,0,7,treat
+hibiscus sabdariffa,obesity,183260.0,EFO:0001073,0,2,treat
+ipomoea batatas,type 2 diabetes,4120.0,EFO:0001360,0,4,treat
+ipomoea batatas,type 2 diabetes mellitus,4120.0,EFO:0001360,0,3,treat
+kiwi,hypertension,3625.0,EFO:0000537,0,8,treat
+lemon,Alzheimer's disease,2708.0,EFO:0000249,0,3,treat
+lemon,allergic rhinitis,2708.0,EFO:0003956,0,2,treat
+lemon,asthma,2708.0,EFO:0000270,0,2,treat
+lentils,type 2 diabetes,3864.0,EFO:0001360,0,4,treat
+linum usitatissimum,migraine,4006.0,EFO:0003821,0,3,treat
+lupinus albus,celiac disease,3870.0,EFO:0001060,0,2,treat
+mangifera indica,asthma,29780.0,EFO:0000270,0,2,treat
+mulberry,obesity,3497.0,EFO:0001073,0,3,treat
+oryza sativa,celiac disease,4530.0,EFO:0001060,0,2,treat
+panax,hypertension,4054.0,EFO:0000537,0,3,treat
+panax,migraine,4054.0,EFO:0003821,0,3,treat
+panax,obesity,4054.0,EFO:0001073,0,2,treat
+panax,stroke,4054.0,EFO:0000712,0,2,treat
+pisum sativum,anemia,3888.0,EFO:0004272,0,2,treat
+pisum sativum,asthma,3888.0,EFO:0000270,0,2,treat
+potato,renal cell carcinoma,4113.0,EFO:0000681,0,20,treat
+punica granatum,psoriasis,22663.0,EFO:0000676,0,3,treat
+raphanus sativus,anemia,3726.0,EFO:0004272,0,2,treat
+raphanus sativus,asthma,3726.0,EFO:0000270,0,2,treat
+rice,atopic dermatitis,4530.0,EFO:0000274,0,3,treat
+rice,celiac disease,4530.0,EFO:0001060,0,2,treat
+saffron,asthma,82528.0,EFO:0000270,0,3,treat
+sisymbrium,anemia,3729.0,EFO:0004272,0,2,treat
+sisymbrium,asthma,3729.0,EFO:0000270,0,2,treat
+soy bean,pancreatitis,3847.0,EFO:0000278,0,4,treat
+strawberry,hypertension,3747.0,EFO:0000537,0,2,treat
+sweet potato,renal cell carcinoma,4120.0,EFO:0000681,0,20,treat
+tea,coronary disease,4442.0,EFO:0001645,0,8,treat
+tea,hypertension,4442.0,EFO:0000537,0,5,treat
+tea,obesity,4442.0,EFO:0001073,0,13,treat
+tea,osteoporosis,4442.0,EFO:0003882,0,2,treat
+tea,stroke,4442.0,EFO:0000712,0,4,treat
+thistle,Type 2 diabetes mellitus,41549.0,EFO:0001360,0,6,treat
+vaccinium macrocarpon,psoriasis,13750.0,EFO:0000676,0,3,treat
+vaccinium vitis-idaea,obesity,180772.0,EFO:0001073,0,4,treat
+watermelon,hypertension,3654.0,EFO:0000537,0,8,treat
+zea mays,celiac disease,4577.0,EFO:0001060,0,2,treat
+zingiber officinale,hepatoma,94328.0,EFO:0000182,0,2,treat
+zingiber officinale,hypertension,94328.0,EFO:0000537,0,7,treat
+zingiber officinale,obesity,94328.0,EFO:0001073,0,5,treat
+zingiber officinale,type 2 diabetes mellitus,94328.0,EFO:0001360,0,3,treat
+zingiber officinale,ulcerative colitis,94328.0,EFO:0000729,0,2,treat

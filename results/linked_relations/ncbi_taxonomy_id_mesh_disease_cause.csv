@@ -1,0 +1,67 @@
+term1,term2,ncbi_taxonomy_id,mesh_disease,is_cause,is_treat,relation
+agaricus bisporus,asthma,5341.0,MESH:D001249,6,0,cause
+allium cepa,asthma,4679.0,MESH:D001249,3,0,cause
+allium cepa,dermatitis,4679.0,MESH:D003872,3,0,cause
+allium sativum,dermatitis,4682.0,MESH:D003872,2,0,cause
+apple,dermatitis,283210.0,MESH:D003872,4,0,cause
+banana,asthma,4641.0,MESH:D001249,6,0,cause
+banana,hypersensitivity,4641.0,MESH:D006967,10,0,cause
+banana,pancreatitis,4641.0,MESH:D010195,3,0,cause
+banana,rhinitis,4641.0,MESH:D012220,11,0,cause
+barley,Celiac Disease,4513.0,MESH:D002446,12,0,cause
+barley,Celiac disease,4513.0,MESH:D002446,83,0,cause
+barley,anaemia,4513.0,MESH:D000740,11,0,cause
+barley,asthma,4513.0,MESH:D001249,4,0,cause
+barley,celiac disease,4513.0,MESH:D002446,7,0,cause
+barley,coeliac disease,4513.0,MESH:D002446,6,0,cause
+barley,dermatitis,4513.0,MESH:D003872,18,0,cause
+barley,osteoporosis,4513.0,MESH:D010024,11,0,cause
+carrot,dermatitis,79200.0,MESH:D003872,4,0,cause
+chestnut,hypersensitivity,21019.0,MESH:D006967,6,0,cause
+chicken,obesity,9031.0,MESH:D009765,2,0,cause
+chicory,asthma,13427.0,MESH:D001249,4,0,cause
+cinnamon,dermatitis,13428.0,MESH:D003872,3,0,cause
+cinnamon,hepatitis,13428.0,MESH:D006521,4,0,cause
+cinnamon,hypersensitivity,13428.0,MESH:D006967,10,0,cause
+cinnamon,stomatitis,13428.0,MESH:D013280,19,0,cause
+cinnamon,telangiectasia,13428.0,MESH:D013684,3,0,cause
+coffee,acne,13442.0,MESH:D000152,33,0,cause
+corn,dermatitis,4577.0,MESH:D003872,11,0,cause
+corn,rhinitis,4577.0,MESH:D012220,3,0,cause
+garlic,dermatitis,4682.0,MESH:D003872,19,0,cause
+garlic,hemolytic anemia,4682.0,MESH:D000743,5,0,cause
+garlic,hypersensitivity,4682.0,MESH:D006967,10,0,cause
+garlic,rhinitis,4682.0,MESH:D012220,18,0,cause
+hordeum vulgare,asthma,4513.0,MESH:D001249,2,0,cause
+horseradish,hypersensitivity,3704.0,MESH:D006967,50,0,cause
+lemon,endophthalmitis,2708.0,MESH:D009877,3,0,cause
+lemon,hypersensitivity,2708.0,MESH:D006967,5,0,cause
+papaya,hypersensitivity,3649.0,MESH:D006967,2,0,cause
+peanut,atopic dermatitis,3818.0,MESH:D003876,3,0,cause
+phaseolus vulgaris,diarrhoea,3885.0,MESH:D004403,6,0,cause
+phaseolus vulgaris,gastroenteritis,3885.0,MESH:D005759,3,0,cause
+potato,asthma,4113.0,MESH:D001249,2,0,cause
+potato,dermatitis,4113.0,MESH:D003872,8,0,cause
+rabbit,atopic dermatitis,9979.0,MESH:D003876,3,0,cause
+rice,asthma,4530.0,MESH:D001249,6,0,cause
+rosemary,asthma,39367.0,MESH:D001249,3,0,cause
+rye,Celiac Disease,4550.0,MESH:D002446,6,0,cause
+rye,Celiac disease,4550.0,MESH:D002446,22,0,cause
+rye,celiac disease,4550.0,MESH:D002446,13,0,cause
+rye,coeliac disease,4550.0,MESH:D002446,6,0,cause
+rye,dermatitis,4550.0,MESH:D003872,7,0,cause
+tea,acne,4442.0,MESH:D000152,9,0,cause
+triticum aestivum,Celiac disease,4565.0,MESH:D002446,5,0,cause
+turkey,Gastric cancer,9103.0,MESH:D013274,7,0,cause
+turkey,Hypertension,9103.0,MESH:D006973,7,0,cause
+vanilla,telangiectasia,51238.0,MESH:D013684,3,0,cause
+wasabi,hypersensitivity,75806.0,MESH:D006967,10,0,cause
+wheat,Celiac Disease,4564.0,MESH:D002446,6,0,cause
+wheat,Celiac disease,4564.0,MESH:D002446,60,0,cause
+wheat,Coeliac disease,4564.0,MESH:D002446,6,0,cause
+wheat,asthma,4564.0,MESH:D001249,2,0,cause
+wheat,coeliac disease,4564.0,MESH:D002446,13,0,cause
+wheat,dermatitis,4564.0,MESH:D003872,11,0,cause
+wheat,eczema,4564.0,MESH:D003872,9,0,cause
+wheat,irritable bowel syndrome,4564.0,MESH:D043183,2,0,cause
+wheat,osteoporosis,4564.0,MESH:D010024,11,0,cause
